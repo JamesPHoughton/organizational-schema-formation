@@ -1,0 +1,132 @@
+{
+  "preregistrations": {
+    "total": 2,
+    "treatmentBreakdown": {
+      "nonschema": 2
+    },
+    "percentComplete": 100
+  },
+  "participants": {
+    "total": 12,
+    "completeIntroSteps": 5,
+    "enterLobby": 4,
+    "beginGame": 12,
+    "finishGame": 12,
+    "complete": 2,
+    "ipTimezoneBreakdown": {
+      "Asia/Jerusalem": 1,
+      "America/New_York": 6,
+      "undefined": 1,
+      "Europe/Belgrade": 1,
+      "Asia/Kolkata": 1,
+      "America/Chicago": 1,
+      "America/Phoenix": 1
+    },
+    "ipCountryBreakdown": {
+      "IL": 1,
+      "US": 8,
+      "undefined": 1,
+      "RS": 1,
+      "IN": 1
+    },
+    "possibleVPN": {
+      "false": 9,
+      "true": 3
+    },
+    "browserLanguageBreakdown": {
+      "en-US": 10,
+      "undefined": 1,
+      "en-GB": 1
+    },
+    "browserTimezoneBreakdown": {
+      "Asia/Jerusalem": 1,
+      "America/New_York": 6,
+      "undefined": 1,
+      "America/Los_Angeles": 2,
+      "America/Chicago": 1,
+      "America/Phoenix": 1
+    },
+    "knownVPN": {
+      "false": 11,
+      "undefined": 1
+    },
+    "reportingDiscussionProblems": 0,
+    "checkingIn": 0
+  },
+  "timings": {
+    "intro": {
+      "max": 198.582,
+      "min": 79.926,
+      "mean": 130.4758,
+      "median": 79.926
+    },
+    "countdown": {
+      "max": 5297.468,
+      "min": 2.058,
+      "mean": 2451.536,
+      "median": 4502.064
+    },
+    "lobby": {
+      "max": null,
+      "min": null,
+      "mean": null,
+      "median": null
+    },
+    "game": {
+      "max": null,
+      "min": null,
+      "mean": null,
+      "median": null
+    },
+    "exit": {
+      "max": null,
+      "min": null,
+      "mean": null,
+      "median": null
+    }
+  },
+  "connections": {
+    "min": 1,
+    "max": 3,
+    "mean": 1.75,
+    "median": 1
+  },
+  "QC": {
+    "participateAgain": {
+      "yes": 1
+    },
+    "adequateCompensation": {
+      "N/A": 0.5,
+      "fairly_paid": 0.5
+    },
+    "adequateTime": {
+      "too_much": 0.5,
+      "adequate": 0.5
+    },
+    "clearInstructions": {
+      "4": 0.5,
+      "5": 0.5
+    },
+    "videoQuality": {
+      "5": 1
+    },
+    "joiningProblems": {
+      "no": 1
+    },
+    "technicalProblems": {
+      "no": 1
+    },
+    "textExpansion": [
+      null,
+      null
+    ],
+    "technicalDetail": [
+      null,
+      null
+    ],
+    "joiningDetail": [
+      null,
+      null
+    ]
+  }
+}
