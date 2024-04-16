@@ -1,0 +1,150 @@
+{
+  "preregistrations": {
+    "total": 14,
+    "treatmentBreakdown": {
+      "nonschema": 8,
+      "schema": 6
+    },
+    "percentComplete": 100
+  },
+  "participants": {
+    "total": 14,
+    "completeIntroSteps": 14,
+    "enterLobby": 14,
+    "beginGame": 14,
+    "finishGame": 14,
+    "complete": 14,
+    "ipTimezoneBreakdown": {
+      "America/Chicago": 2,
+      "America/New_York": 12
+    },
+    "ipCountryBreakdown": {
+      "US": 14
+    },
+    "possibleVPN": {
+      "true": 2,
+      "false": 12
+    },
+    "browserLanguageBreakdown": {
+      "en-US": 13,
+      "ko-KR": 1
+    },
+    "browserTimezoneBreakdown": {
+      "America/New_York": 14
+    },
+    "knownVPN": {
+      "false": 14
+    },
+    "reportingDiscussionProblems": 0,
+    "checkingIn": 0
+  },
+  "timings": {
+    "intro": {
+      "max": 403.069,
+      "min": 70.599,
+      "mean": 165.09728571428568,
+      "median": 317.089
+    },
+    "countdown": {
+      "max": null,
+      "min": null,
+      "mean": null
+    },
+    "lobby": {
+      "max": null,
+      "min": null,
+      "mean": null,
+      "median": null
+    },
+    "game": {
+      "max": null,
+      "min": null,
+      "mean": null,
+      "median": null
+    },
+    "exit": {
+      "max": null,
+      "min": null,
+      "mean": null,
+      "median": null
+    }
+  },
+  "connections": {
+    "min": 1,
+    "max": 1,
+    "mean": 1,
+    "median": 1
+  },
+  "QC": {
+    "participateAgain": {
+      "maybe": 0.9166666666666666,
+      "yes": 0.08333333333333333
+    },
+    "adequateCompensation": {
+      "N/A": 0.8333333333333334,
+      "underpaid": 0.16666666666666666
+    },
+    "adequateTime": {
+      "adequate": 0.6666666666666666,
+      "too_much": 0.3333333333333333
+    },
+    "clearInstructions": {
+      "2": 0.08333333333333333,
+      "4": 0.5,
+      "5": 0.4166666666666667
+    },
+    "videoQuality": {
+      "3": 0.08333333333333333,
+      "4": 0.4166666666666667,
+      "5": 0.5
+    },
+    "joiningProblems": {
+      "no": 1
+    },
+    "technicalProblems": {
+      "no": 1
+    },
+    "textExpansion": [
+      null,
+      "When others joined, I did not have a chance to review the initial instructions. ",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "technicalDetail": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "joiningDetail": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}
