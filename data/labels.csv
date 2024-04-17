@@ -1,0 +1,43 @@
+treatment,,nonschema,nonschema,nonschema,nonschema,nonschema,schema,schema,schema,schema,schema,schema,schema
+game,,0,1,2,3,4,5,6,7,8,9,10,11
+round,image,,,,,,,,,,,,
+1,1,dog,eyeball,one eye,crab,circle,lrsw,red in,left-long-ballet,rightleft,hrrlw,redbluewhite,rlbwo
+1,2,t,octopus,t,t,t,lytb,yellow down right,left-short-straight,downright,hrylb,yellowblueblack,ylbgc
+1,3,tube,spiral,ring,skirt,spiral,lrsb,red right down,left-short-ballet,rightdown,hrrlg,redblueblack,rlbgo
+1,4,crab,wide,train,black squares,crab,lytw,yellow down,left-long-straight,downdown,hrylw,yellowbluewhite,ylbwc
+1,5,shorty,wall-e,wallee,smiley,sit,rytw,yellow left,right-long-straight,leftleft,hlylw,yellowpinkwhite,yrpwc
+1,6,board,square,sheet of paper,wall,square,rrsb,red down left,right-short-ballet,downleft,hlrlb,redpinkblack,rrpgo
+1,7,eye,uno,webcam,one eye,one eye,rytb,yellow left down,right-short-straight,leftdown,hlylb,yellowpinkblack,yrpgc
+1,8,big foot,robot,caterpillar,big shoes,big foot,rrsw,red right,right-long-ballet,rightright,hlrlw,redpinkwhite,rrpwo
+2,1,red right grey,bigfeet,red hat man,red beret,dancing,rrsb,red down left,no-body,downleft,hlrlb,redpinkblack,rrpgo
+2,2,red right white,wide,red train,gap,square,rrsw,red right,bathtub,rightright,hlrlw,redpinkwhite,wide
+2,3,red left white,hug,snow man,rooster,orange,lrsw,red in,skinny,rightleft,hrrlw,redbluewhite,tower
+2,4,yellow left white,square,frame man,big mouth,dog,lytw,yellow down,tv,downdown,hrylw,yellowbluewhite,square
+2,5,yellow right white,round,missile man,eggs,crab,rytw,yellow left,toilet,leftleft,hlylw,yellowpinkwhite,penguin
+2,6,yellow left grey,short,lego man,short,n,lytb,yellow down right,skinny-horizontal,downright,hrylb,yellowblueblack,t
+2,7,yellow right grey,robot,yellow box,yellow beret,hat,rytb,yellow left down,fat-horizontal,leftdown,hlylb,yellowpinkblack,fatt
+2,8,red left grey,widefeet,red box,spread feet,wink,lrsb,red right down,four-eyes,rightdown,hrrlb,redblueblack,n
+3,1,yellow left white,brown,yoda,yellow blue white,brown,lytw,yellow down,book,dd,hrylw,yellowbluewhite,a
+3,2,red left grey,santa,long legs,red blue navy,post,lrsb,red right down,stilts,rd,hrrlb,redblueblack,b
+3,3,red left white,pig,pink box,red blue white,pink square,lrsw,right in,hippo-nose,rl,hrrlw,redbluewhite,c
+3,4,yellow right grey,tilt,ring man,yellow purple navy,spiral,rytb,yellow left down,no-limbs,ld,hlylb,yellowpinkblack,d
+3,5,yellow left grey,neck,t,yellow blue navy,tall,lytb,yellow down right,skinny,dr,hrylb,yellowblueblack,e
+3,6,red right grey,black,black camera,red white navy,black,rrsb,red down left,clear-legs,dl,hlrlb,redpinkblack,f
+3,7,yellow right white,snowman,yellow hat,yellow purple white,seven,rytw,yellow left,toga,ll,hlylw,yellowpinkwhite,g
+3,8,red right white,pink,pink man,red purple white,pink circle,rrsw,red right,pink-body,rr,hlrlw,redpinkwhite,h
+4,1,lady,eyelash,eyelashes,purple,pink,microphone,pink close,sleepy-skinny,-d-u,hnecbplp,whitegraypink,aa
+4,2,crab,crab,red palace,crab,red,crabby,red right down,crab,rd,hneobrlw,redbluewhite,bb
+4,3,octopus,eyeballs,monster,octopus,three,sheepcloud,eyes,many-eyes,ddd,hneobwlw,whitewhite,cc
+4,4,police,legs,long legs,skeleton,tall,postman,purple right down,skinny-legs,rdtall,hyeobwlw,bluegraywhite,dd
+4,5,train,train,train,owl,blue,thomas,blue down,thomas,dd,hneobblw,graywhite,ee
+4,6,balloon,purple,clown,tongue,purple,toilet,purple down,blue-tongue,ld,hneobplw,whiteblackpurple,ff
+4,7,yellow,yellow,yellow sheet,fish,yellow,fishy,yellow down,yellow,ddtall,hneobylw,whiteyellowwhite,gg
+4,8,round,round,centrifuge,sleep,circle,sheepcloudtwo,grey close,sleepy-fat,-d-d,hnecbwlw,graywhitewhite,hh
+5,1,teach,straight,registrar,priest,info square,waiter,stand,tray,stand,hcaollo,leftfist,aaa
+5,2,slip,kick,dancing,kick,creature,backpacker,cape,rock-climbing,legfront,hraollt,leftfistkick,bbb
+5,3,hard,kneel,nun,wings,mountain,stomper,knight,warrior,three,hcatlo,rightthrust,ccc
+5,4,kneel,pray,communion,kneel,pray,seal,kneal,praying-tail,four,hcaorlot,rightlowthrust,ddd
+5,5,dance,stretch,karate,dance,slide,fuckup,split,long-dress,twoarmside,hlaorlt,rightlowkick,eee
+5,6,bend,sit,seating,sit,info triangle,pooper,squat,praying,six,hcaorlo,rightfist,fff
+5,7,fly,fall,yawning,arms,hold,goalie,fall,tripping,twoarmup,hlatlo,hallelujah,ggg
+5,8,glide,backleg,stretching,skate,ice skating,dancer,kick,ballet,legback,hlatlt,righthighkick,hhh
