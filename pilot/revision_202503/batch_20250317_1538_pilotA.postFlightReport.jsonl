@@ -1,0 +1,156 @@
+{
+  "preregistrations": {
+    "total": 16,
+    "treatmentBreakdown": {
+      "schema B": 8,
+      "schema A": 8
+    },
+    "percentComplete": 87.5
+  },
+  "participants": {
+    "total": 19,
+    "completeIntroSteps": 19,
+    "enterLobby": 19,
+    "beginGame": 19,
+    "finishGame": 19,
+    "complete": 14,
+    "ipTimezoneBreakdown": {
+      "America/New_York": 7,
+      "Europe/London": 9,
+      "America/Chicago": 2,
+      "America/Denver": 1
+    },
+    "ipCountryBreakdown": {
+      "US": 10,
+      "GB": 9
+    },
+    "possibleVPN": {
+      "false": 18,
+      "true": 1
+    },
+    "browserLanguageBreakdown": {
+      "en-US": 12,
+      "en-GB": 7
+    },
+    "browserTimezoneBreakdown": {
+      "America/New_York": 6,
+      "Europe/London": 9,
+      "America/Chicago": 2,
+      "America/Los_Angeles": 1,
+      "America/Denver": 1
+    },
+    "knownVPN": {
+      "false": 19
+    },
+    "reportingDiscussionProblems": 0,
+    "checkingIn": 0
+  },
+  "completedSampleIds": [
+    "6e6c4187-d8ef-45c1-a571-5b6f175427b9",
+    "8e7f18c6-e88f-4c66-aabc-0e687b4c55cf",
+    "32d2cfd4-1aab-4aa8-afe8-33b093022d3e",
+    "ffe752c2-6da7-4977-83c3-e211964c63db",
+    "7834c0b6-b57b-4a87-b200-4d59904bf556",
+    "3a3fbe55-b86f-4ee7-b663-f698bbebb264",
+    "529f13fa-cb14-4b23-b611-1e05c1c4ec70",
+    "d285be43-c5af-4fdd-a5fe-dfe105fb247d",
+    "eba62c88-83b5-409a-a560-d3a9769970c8",
+    "5132d95f-1e0b-4e32-87f2-5f6a1f8821ee",
+    "2ba9af60-4b78-4633-9f0f-954a84e92618",
+    "11823a22-bfb5-423f-ae19-b2892e7b9745",
+    "c917f82a-76a0-4954-b047-91b0b27d12c8",
+    "d025fef6-1296-4649-b588-66d96e1ad11a"
+  ],
+  "timings": {
+    "intro": {
+      "max": 674.912,
+      "min": 40.121,
+      "mean": 287.782,
+      "median": 308.75
+    },
+    "countdown": {
+      "max": null,
+      "min": null,
+      "mean": null
+    },
+    "lobby": {
+      "max": 434.853,
+      "min": 1.829,
+      "mean": 87.79306249999998,
+      "median": 2.355
+    },
+    "game": {
+      "max": 2539.411,
+      "min": 449.882,
+      "mean": 1380.6061249999998,
+      "median": 1619.713
+    },
+    "exit": {
+      "max": 322.859,
+      "min": 39.392,
+      "mean": 110.51707142857141,
+      "median": 60.825
+    },
+    "totalTime": {
+      "max": null,
+      "min": null,
+      "mean": null,
+      "median": null
+    },
+    "totalActiveTime": {
+      "max": 3972.0350000000003,
+      "min": 531.224,
+      "mean": 1866.6982589285712,
+      "median": 1991.643
+    }
+  },
+  "connections": {
+    "min": 1,
+    "max": 12,
+    "mean": 2.4210526315789473,
+    "median": 1
+  },
+  "QC": {
+    "participateAgain": {
+      "yes": 1
+    },
+    "adequateCompensation": {
+      "fairly_paid": 0.8333333333333334,
+      "underpaid": 0.08333333333333333,
+      "N/A": 0.08333333333333333
+    },
+    "adequateTime": {
+      "adequate": 1
+    },
+    "clearInstructions": {
+      "4": 0.4166666666666667,
+      "5": 0.5833333333333334
+    },
+    "videoQuality": {
+      "3": 0.08333333333333333,
+      "4": 0.08333333333333333,
+      "5": 0.8333333333333334
+    },
+    "joiningProblems": {
+      "no": 1
+    },
+    "technicalProblems": {
+      "no": 0.8333333333333334,
+      "undefined": 0.08333333333333333,
+      "yes": 0.08333333333333333
+    },
+    "textExpansion": [
+      "good fun",
+      "IM BLIND IN ONE EYE SO I HAD TO LOOK OFF TO SEE THE SCREEN CLEARLY",
+      "Nothing to add!"
+    ],
+    "technicalDetail": [
+      "Could not hear my partner, although we made it work as she could hear me"
+    ],
+    "joiningDetail": []
+  },
+  "finalPayoffs": [
+    1,
+    1
+  ]
+}
