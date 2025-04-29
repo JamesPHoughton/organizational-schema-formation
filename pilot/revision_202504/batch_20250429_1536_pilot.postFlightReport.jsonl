@@ -1,0 +1,166 @@
+{
+  "preregistrations": {
+    "total": 14,
+    "treatmentBreakdown": {
+      "schema_video": 12,
+      "schema_text": 2
+    },
+    "percentComplete": 92.85714285714286
+  },
+  "participants": {
+    "total": 20,
+    "completeIntroSteps": 20,
+    "enterLobby": 20,
+    "beginGame": 20,
+    "finishGame": 20,
+    "complete": 13,
+    "ipTimezoneBreakdown": {
+      "America/Chicago": 6,
+      "Europe/London": 2,
+      "America/New_York": 7,
+      "America/Phoenix": 1,
+      "America/Los_Angeles": 3,
+      "America/Denver": 1
+    },
+    "ipCountryBreakdown": {
+      "US": 18,
+      "GB": 2
+    },
+    "possibleVPN": {
+      "false": 15,
+      "true": 5
+    },
+    "browserLanguageBreakdown": {
+      "es-US": 1,
+      "en-GB": 4,
+      "en-US": 15
+    },
+    "browserTimezoneBreakdown": {
+      "America/Chicago": 7,
+      "Europe/London": 2,
+      "America/Phoenix": 1,
+      "America/New_York": 7,
+      "America/Los_Angeles": 2,
+      "Etc/GMT+6": 1
+    },
+    "knownVPN": {
+      "false": 20
+    },
+    "reportingDiscussionProblems": 1,
+    "checkingIn": 1
+  },
+  "completedSampleIds": [
+    "e0c7c760-7271-4c48-bd3e-d3e506e50a4b",
+    "636618ff-0335-45b6-bc12-771eb338a41b",
+    "f5805371-1cf9-4a64-95b5-ed8089dd8f09",
+    "b2733799-8c41-4305-98af-a31ba04068ee",
+    "ec23ad90-8463-4631-973e-29b1e786450a",
+    "18c7faec-e207-4c83-a652-34cb022f7141",
+    "31344d14-6b9c-4183-9543-5ce6c911ad11",
+    "a39684d9-cc57-498e-bddf-0c8fb0536a3e",
+    "3a081414-e00b-4d6f-a809-9cb6112d7242",
+    "070aab47-2cdc-4a5a-bb66-5d86e79c937d",
+    "ac62d80f-0b37-4218-843d-a183c9d5f631",
+    "57272685-e01d-4046-99b7-47a225595194",
+    "6567d5fd-f410-4259-a860-d3a5c031b9e2"
+  ],
+  "timings": {
+    "intro": {
+      "max": 595.813,
+      "min": 119.772,
+      "mean": 283.05400000000003,
+      "median": 235.548
+    },
+    "countdown": {
+      "max": null,
+      "min": null,
+      "mean": null
+    },
+    "lobby": {
+      "max": 177.73,
+      "min": 1.836,
+      "mean": 34.061,
+      "median": 11.704
+    },
+    "game": {
+      "max": 900.168,
+      "min": 125.45,
+      "mean": 684.0941428571429,
+      "median": 752.062
+    },
+    "exit": {
+      "max": 288.223,
+      "min": 118.954,
+      "mean": 201.2577692307692,
+      "median": 192.956
+    },
+    "totalTime": {
+      "max": null,
+      "min": null,
+      "mean": null,
+      "median": null
+    },
+    "totalActiveTime": {
+      "max": 1961.934,
+      "min": 366.012,
+      "mean": 1202.466912087912,
+      "median": 1192.27
+    }
+  },
+  "connections": {
+    "min": 1,
+    "max": 7,
+    "mean": 1.85,
+    "median": 1
+  },
+  "QC": {
+    "participateAgain": {
+      "yes": 1
+    },
+    "adequateCompensation": {
+      "fairly_paid": 0.9,
+      "underpaid": 0.1
+    },
+    "adequateTime": {
+      "too_little": 0.1,
+      "adequate": 0.9
+    },
+    "clearInstructions": {
+      "3": 0.1,
+      "4": 0.2,
+      "5": 0.7
+    },
+    "videoQuality": {
+      "2": 0.1,
+      "4": 0.2,
+      "5": 0.6,
+      "NA": 0.1
+    },
+    "joiningProblems": {
+      "yes": 0.2,
+      "no": 0.8
+    },
+    "technicalProblems": {
+      "yes": 0.3,
+      "no": 0.7
+    },
+    "textExpansion": [
+      "The counter only went to  about thirteen minutes or so.  and then went to the final questions.",
+      "For a study involving camera and interaction with a total stranger, the pay should have been higher. I almost didn't join the study because of the low pay but I ended up enjoying the game.",
+      "Great study!"
+    ],
+    "technicalDetail": [
+      "My participant quit during the study and did not describe the picture that she saw.  so I guessed.",
+      "The second and third little people from the end did not match up with the pictures/descriptions. ",
+      "I believe my partner was kind enough to click the report bugs button within the study and describe it in more detail...there were a couple of photos which did not match the options offered for her to select a correct response! "
+    ],
+    "joiningDetail": [
+      "I saw a particpant but she said hi  and then left the study.  I don't know why  she did not give me any clues on what she saw so I guessed.  Reported that she left an i got a widows saying that it was checking to see if the particpant would respond.  then it just quit the video and came to these questionsl",
+      "always told me that my camera connection is not good, even my camera and internet work very well together."
+    ]
+  },
+  "finalPayoffs": [
+    1,
+    1
+  ]
+}
