@@ -1,0 +1,165 @@
+{
+  "preregistrations": {
+    "total": 16,
+    "treatmentBreakdown": {
+      "nonschema": 8,
+      "schema": 8
+    },
+    "percentComplete": 100
+  },
+  "participants": {
+    "total": 37,
+    "completeIntroSteps": 37,
+    "enterLobby": 37,
+    "beginGame": 37,
+    "finishGame": 37,
+    "complete": 16,
+    "ipTimezoneBreakdown": {
+      "America/New_York": 29,
+      "America/Los_Angeles": 5,
+      "America/Chicago": 2,
+      "undefined": 1
+    },
+    "ipCountryBreakdown": {
+      "US": 36,
+      "undefined": 1
+    },
+    "possibleVPN": {
+      "false": 34,
+      "true": 3
+    },
+    "browserLanguageBreakdown": {
+      "en-US": 31,
+      "en": 6
+    },
+    "browserTimezoneBreakdown": {
+      "America/New_York": 29,
+      "America/Los_Angeles": 5,
+      "America/Chicago": 2,
+      "America/Denver": 1
+    },
+    "knownVPN": {
+      "false": 33,
+      "undefined": 4
+    },
+    "reportingDiscussionProblems": 0,
+    "checkingIn": 0
+  },
+  "completedSampleIds": [
+    "99c8d204-f649-4f66-8a97-1e945219a3de",
+    "f4ca40bc-fa0e-4185-8771-06191499bd81",
+    "efab68db-0440-4e07-89b8-bfa9d0799471",
+    "99da055a-37e5-4e78-81d2-7b997d5af3ad",
+    "ae712d8c-a904-4679-83ab-198031b3c666",
+    "3bcb9f3a-2de8-4605-a424-30e7d6eaefd4",
+    "a1e7ec28-fb26-41c5-bcfc-d4aa39fcb94a",
+    "0cd90ee3-3010-4dd8-bc97-6839688190d3",
+    "c5945742-38e0-4b32-99c4-9a18ae23c4e0",
+    "f23993e7-7dd8-4037-b202-ef490437583a",
+    "fd1d1266-9b28-4bac-b43d-4387d5925ddd",
+    "bbac56fa-816a-4c97-b828-ec91413ae158",
+    "de76a844-9742-45ed-8da3-308027aef599",
+    "8e8eb0b2-cea2-49dc-9799-d29b68be2bdb",
+    "1cde7089-3b01-4f2d-9b7c-53b813ca1329",
+    "f9111294-5aba-46f4-8ee6-0482372c8907"
+  ],
+  "timings": {
+    "intro": {
+      "max": 538.414,
+      "min": 110.891,
+      "mean": 218.81900000000002,
+      "median": 209.093
+    },
+    "countdown": {
+      "max": null,
+      "min": null,
+      "mean": null
+    },
+    "lobby": {
+      "max": 181.381,
+      "min": 1.824,
+      "mean": 39.299312500000006,
+      "median": 155.252
+    },
+    "game": {
+      "max": 1271.931,
+      "min": 848.521,
+      "mean": 1061.4777500000002,
+      "median": 1271.931
+    },
+    "exit": {
+      "max": 207.538,
+      "min": 56.084,
+      "mean": 116.49418750000001,
+      "median": 197.479
+    },
+    "totalTime": {
+      "max": null,
+      "min": null,
+      "mean": null,
+      "median": null
+    },
+    "totalActiveTime": {
+      "max": 2199.264,
+      "min": 1017.3199999999999,
+      "mean": 1436.0902500000002,
+      "median": 1833.755
+    }
+  },
+  "connections": {
+    "min": 1,
+    "max": 18,
+    "mean": 2.4324324324324325,
+    "median": 1
+  },
+  "QC": {
+    "participateAgain": {
+      "yes": 1
+    },
+    "adequateCompensation": {
+      "fairly_paid": 0.8666666666666667,
+      "underpaid": 0.13333333333333333
+    },
+    "adequateTime": {
+      "adequate": 0.8666666666666667,
+      "too_little": 0.13333333333333333
+    },
+    "clearInstructions": {
+      "3": 0.13333333333333333,
+      "4": 0.4666666666666667,
+      "5": 0.4
+    },
+    "videoQuality": {
+      "1": 0.06666666666666667,
+      "2": 0.06666666666666667,
+      "4": 0.26666666666666666,
+      "5": 0.6
+    },
+    "joiningProblems": {
+      "no": 0.9333333333333333,
+      "yes": 0.06666666666666667
+    },
+    "technicalProblems": {
+      "no": 0.8,
+      "yes": 0.2
+    },
+    "textExpansion": [
+      "It would have been helpful to know the pay ahead of the video study starting.",
+      "Thank you for the opportunity to participate",
+      "no not really",
+      "I had a lot of fun besides the technical issues"
+    ],
+    "technicalDetail": [
+      "couldn't connect on prolific",
+      "it kept going in and out and going to a white screen taking up a lot of the time with my partner",
+      "Video call was very buggy. This screen keeps returning to top and rids what I'm writing here also!!! Buggy study :((("
+    ],
+    "joiningDetail": [
+      "First links didn't work"
+    ]
+  },
+  "finalPayoffs": [
+    0.6561000000000001,
+    0.6561000000000001
+  ]
+}
