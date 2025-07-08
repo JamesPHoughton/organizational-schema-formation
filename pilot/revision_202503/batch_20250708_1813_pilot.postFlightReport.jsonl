@@ -1,0 +1,167 @@
+{
+  "preregistrations": {
+    "total": 16,
+    "treatmentBreakdown": {
+      "nonschema": 8,
+      "schema": 8
+    },
+    "percentComplete": 100
+  },
+  "participants": {
+    "total": 21,
+    "completeIntroSteps": 21,
+    "enterLobby": 21,
+    "beginGame": 21,
+    "finishGame": 21,
+    "complete": 16,
+    "ipTimezoneBreakdown": {
+      "America/Denver": 1,
+      "America/Chicago": 3,
+      "America/Los_Angeles": 7,
+      "America/New_York": 9,
+      "America/Indiana/Indianapolis": 1
+    },
+    "ipCountryBreakdown": {
+      "US": 21
+    },
+    "possibleVPN": {
+      "false": 17,
+      "true": 4
+    },
+    "browserLanguageBreakdown": {
+      "en-US": 21
+    },
+    "browserTimezoneBreakdown": {
+      "America/Denver": 1,
+      "America/Chicago": 3,
+      "America/Los_Angeles": 5,
+      "America/New_York": 9,
+      "America/Anchorage": 1,
+      "America/Detroit": 1,
+      "America/Indianapolis": 1
+    },
+    "knownVPN": {
+      "false": 21
+    },
+    "reportingDiscussionProblems": 0,
+    "checkingIn": 0
+  },
+  "completedSampleIds": [
+    "087efd5d-3ee3-4596-8a22-59602c18c147",
+    "013e3b98-ed2b-4252-b667-99b3c8485d46",
+    "5b03bd77-6780-4992-803d-506e9d259973",
+    "e15ca91b-fb9d-47e9-8b3d-dac0edca23bc",
+    "0ca54688-3799-4f1c-b1d6-b653b6e4848c",
+    "6dab382e-05d7-4cb9-a59b-fc31910b626f",
+    "ab4af56f-07d9-4922-a1db-3266a5620bdf",
+    "de472509-1712-4a4a-aae4-24ab34271e45",
+    "4440c2e4-e07f-4e6d-9d60-7d621c8d7ff1",
+    "28ebc5c4-c391-4693-bb04-747681a72942",
+    "2283a5eb-44d0-48f9-a4a0-c41467add458",
+    "51a0b195-9818-413d-9b50-29916fb7dfa6",
+    "065b5f87-4d92-428b-9d79-97ddfb14bb1a",
+    "b081659b-8a82-4537-a150-6a6428f6a33c",
+    "14f4bfeb-5d79-4317-9b01-546c78a4db90",
+    "3f161be4-de44-4308-876c-305ce1e82d7d"
+  ],
+  "timings": {
+    "intro": {
+      "max": 1278.87,
+      "min": 126.597,
+      "mean": 367.7995882352941,
+      "median": 318.912
+    },
+    "countdown": {
+      "max": null,
+      "min": null,
+      "mean": null
+    },
+    "lobby": {
+      "max": 304.724,
+      "min": 1.801,
+      "mean": 41.5028125,
+      "median": 1.953
+    },
+    "game": {
+      "max": 1349.782,
+      "min": 737.754,
+      "mean": 1044.5210000000002,
+      "median": 737.754
+    },
+    "exit": {
+      "max": 287.665,
+      "min": 50.721,
+      "mean": 122.92075,
+      "median": 210.765
+    },
+    "totalTime": {
+      "max": null,
+      "min": null,
+      "mean": null,
+      "median": null
+    },
+    "totalActiveTime": {
+      "max": 3221.0409999999997,
+      "min": 916.873,
+      "mean": 1576.7441507352944,
+      "median": 1269.384
+    }
+  },
+  "connections": {
+    "min": 1,
+    "max": 7,
+    "mean": 1.6666666666666667,
+    "median": 1
+  },
+  "QC": {
+    "participateAgain": {
+      "yes": 1
+    },
+    "adequateCompensation": {
+      "fairly_paid": 1
+    },
+    "adequateTime": {
+      "adequate": 0.6666666666666666,
+      "too_little": 0.3333333333333333
+    },
+    "clearInstructions": {
+      "3": 0.08333333333333333,
+      "4": 0.4166666666666667,
+      "5": 0.5
+    },
+    "videoQuality": {
+      "3": 0.08333333333333333,
+      "4": 0.25,
+      "5": 0.6666666666666666
+    },
+    "joiningProblems": {
+      "no": 0.8333333333333334,
+      "yes": 0.16666666666666666
+    },
+    "technicalProblems": {
+      "no": 0.9166666666666666,
+      "yes": 0.08333333333333333
+    },
+    "textExpansion": [
+      "n/a",
+      "I think the last one cut off sooner than it was supposed to. It told me I seemed 'idle', which was definitely not true. Funnily enough, we both came up with a similar name for the one we couldn't discuss, but it wasn't quite a match!",
+      "enjoyable",
+      "Thank you",
+      "It was fun",
+      "This was james, pairing up with someone who didnt get a partner. The partner was confused as to whether other people had to guess the names that we came up with, so probably didn't understand the recall phase of the study as being connected to the labeling phase.",
+      "In round 2, the images did NOT match the images we labelled, so we guessed. Was that intentional?",
+      "Great study! I enjoyed participating."
+    ],
+    "technicalDetail": [
+      "See above"
+    ],
+    "joiningDetail": [
+      "Initially said I failed connection test. I have 950 down/up so I doubt that. :)",
+      "During the systems check, I received a red X about \"websocket\"? I reported it with the Report Bug button. Then I refreshed the page and it then passed all the systems check."
+    ]
+  },
+  "finalPayoffs": [
+    0.6561000000000001,
+    0.6561000000000001
+  ]
+}
