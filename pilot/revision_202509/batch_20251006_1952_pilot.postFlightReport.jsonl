@@ -1,0 +1,181 @@
+{
+  "preregistrations": {
+    "total": 16,
+    "treatmentBreakdown": {
+      "nonschema_black_and_white": 8,
+      "nonschema_tangrams": 8
+    },
+    "percentComplete": 100
+  },
+  "participants": {
+    "total": 23,
+    "completeIntroSteps": 23,
+    "enterLobby": 23,
+    "beginGame": 23,
+    "finishGame": 23,
+    "complete": 16,
+    "ipTimezoneBreakdown": {
+      "Europe/London": 10,
+      "America/New_York": 3,
+      "America/Los_Angeles": 2,
+      "America/Toronto": 2,
+      "America/Denver": 1,
+      "America/Chicago": 3,
+      "undefined": 1,
+      "America/Vancouver": 1
+    },
+    "ipCountryBreakdown": {
+      "GB": 10,
+      "US": 9,
+      "CA": 3,
+      "undefined": 1
+    },
+    "possibleVPN": {
+      "false": 21,
+      "true": 2
+    },
+    "browserLanguageBreakdown": {
+      "en-GB": 8,
+      "en-US": 12,
+      "en-CA": 1,
+      "undefined": 1,
+      "zh-CN": 1
+    },
+    "browserTimezoneBreakdown": {
+      "Europe/London": 10,
+      "America/New_York": 4,
+      "America/Los_Angeles": 1,
+      "America/Denver": 1,
+      "America/Chicago": 3,
+      "America/Tijuana": 1,
+      "America/Toronto": 1,
+      "undefined": 1,
+      "America/Vancouver": 1
+    },
+    "knownVPN": {
+      "false": 22,
+      "undefined": 1
+    },
+    "reportingDiscussionProblems": 0,
+    "checkingIn": 0
+  },
+  "completedSampleIds": [
+    "48187bc9-80cc-4886-bc97-e79ff9325651",
+    "e3c28c73-cfcf-4a42-82f7-67c5d9c1cc9a",
+    "5ff10c36-2a47-4b76-947c-df8a15bd0f9e",
+    "ad162a02-88bd-4162-abb6-5d1def28ed90",
+    "eb127cec-2b0f-48b1-bf64-0079b0841f00",
+    "ab065315-4167-4d74-91bd-4c2eba1a2491",
+    "53c0b3fb-c730-4648-8142-0ea2d5e90b67",
+    "cfc36fde-1fb2-4e73-b6a4-01fa4779d712",
+    "910b1b95-bbbb-42ee-807f-fffd12076616",
+    "5798d3e4-4c38-41a9-ac63-b50c8feea8d1",
+    "2665343a-e6f8-466c-971e-0508c4b8e4ae",
+    "c7fc7a72-37c2-482f-8a87-15d70f924baa",
+    "3944a577-c1b0-4c8e-91a6-65a9b2b92c4b",
+    "0de9256f-ffe8-4ce4-97c6-c72f3b0162ce",
+    "0a110f31-e3c6-46f9-aa69-ff567eaf2f46",
+    "2e76230e-5f5e-4941-8411-af0032fee599"
+  ],
+  "timings": {
+    "intro": {
+      "max": 743.89,
+      "min": 183.186,
+      "mean": 359.24352941176477,
+      "median": 340.311
+    },
+    "countdown": {
+      "max": null,
+      "min": null,
+      "mean": null
+    },
+    "lobby": {
+      "max": 709.845,
+      "min": 1.905,
+      "mean": 175.32775,
+      "median": 304.809
+    },
+    "game": {
+      "max": 1500.014,
+      "min": 900.43,
+      "mean": 1300.2791249999998,
+      "median": 1452.171
+    },
+    "exit": {
+      "max": 296.593,
+      "min": 44.207,
+      "mean": 132.9396875,
+      "median": 296.593
+    },
+    "totalTime": {
+      "max": null,
+      "min": null,
+      "mean": null,
+      "median": null
+    },
+    "totalActiveTime": {
+      "max": 3250.3419999999996,
+      "min": 1129.728,
+      "mean": 1967.7900919117644,
+      "median": 2393.884
+    }
+  },
+  "connections": {
+    "min": 1,
+    "max": 5,
+    "mean": 1.434782608695652,
+    "median": 1
+  },
+  "QC": {
+    "participateAgain": {
+      "yes": 1
+    },
+    "adequateCompensation": {
+      "fairly_paid": 0.8666666666666667,
+      "N/A": 0.06666666666666667,
+      "underpaid": 0.06666666666666667
+    },
+    "adequateTime": {
+      "adequate": 1
+    },
+    "clearInstructions": {
+      "3": 0.06666666666666667,
+      "4": 0.3333333333333333,
+      "5": 0.6
+    },
+    "videoQuality": {
+      "3": 0.06666666666666667,
+      "4": 0.4666666666666667,
+      "5": 0.4666666666666667
+    },
+    "joiningProblems": {
+      "no": 1
+    },
+    "technicalProblems": {
+      "no": 0.6666666666666666,
+      "yes": 0.3333333333333333
+    },
+    "textExpansion": [
+      "That was fun",
+      "I was hoping the compensation would be higher for an interactive study like this but thanks for the opportunity. ",
+      "Audio quality of other person was hard to understand but I tried my best.",
+      "i had a great time.",
+      "Worked well",
+      "Accidentally put some responses in upper case, I apologize.",
+      "This was a lot of fun!",
+      "was fun...we cooperated well and I think did better than  either of us expected"
+    ],
+    "technicalDetail": [
+      "i couldnt see my partner briefly for one of the videos",
+      "I could not hear the other participant for some of the study.",
+      "it said my microphone didn't pass the test but we had no issues during the experiment....my partner had camera issues during part  of  it but we kept going and it fixed itself on the next round",
+      "on one of the practice rounds my webcam wasn't connected properly so i wasn't showing but it was only for that practice round ",
+      "I name the images well before moving onto the task, i have vivid memory but some were jammed, either technically or by my assigned partner, the host i believe. "
+    ],
+    "joiningDetail": []
+  },
+  "finalPayoffs": [
+    0.6561000000000001,
+    0.6561000000000001
+  ]
+}
