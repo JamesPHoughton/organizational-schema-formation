@@ -1,0 +1,118 @@
+{
+  "preregistrations": {
+    "total": 14,
+    "treatmentBreakdown": {
+      "schema_black_and_white": 6,
+      "schema_tangrams": 8
+    },
+    "percentComplete": 0
+  },
+  "participants": {
+    "total": 23,
+    "completeIntroSteps": 23,
+    "enterLobby": 23,
+    "beginGame": 23,
+    "finishGame": 23,
+    "complete": 0,
+    "ipTimezoneBreakdown": {
+      "Europe/London": 15,
+      "America/New_York": 3,
+      "America/Chicago": 2,
+      "undefined": 2,
+      "America/Edmonton": 1
+    },
+    "ipCountryBreakdown": {
+      "GB": 15,
+      "US": 5,
+      "undefined": 2,
+      "CA": 1
+    },
+    "possibleVPN": {
+      "false": 23
+    },
+    "browserLanguageBreakdown": {
+      "en-GB": 12,
+      "en": 1,
+      "en-US": 8,
+      "undefined": 2
+    },
+    "browserTimezoneBreakdown": {
+      "Europe/London": 15,
+      "America/New_York": 3,
+      "America/Chicago": 2,
+      "undefined": 2,
+      "America/Edmonton": 1
+    },
+    "knownVPN": {
+      "false": 21,
+      "undefined": 2
+    },
+    "reportingDiscussionProblems": 0,
+    "checkingIn": 0
+  },
+  "completedSampleIds": [],
+  "timings": {
+    "intro": {
+      "max": 619.672,
+      "min": 183.175,
+      "mean": 305.2868125,
+      "median": 308.931
+    },
+    "countdown": {
+      "max": null,
+      "min": null,
+      "mean": null
+    },
+    "lobby": {
+      "max": 72.895,
+      "min": 1.89,
+      "mean": 18.564357142857144,
+      "median": 2.167
+    },
+    "game": {
+      "max": 2662.208,
+      "min": 1154.202,
+      "mean": 1648.1952857142858,
+      "median": 1527.484
+    },
+    "exit": {
+      "max": null,
+      "min": null,
+      "mean": null
+    },
+    "totalTime": {
+      "max": null,
+      "min": null,
+      "mean": null,
+      "median": null
+    },
+    "totalActiveTime": {
+      "max": null,
+      "min": null,
+      "mean": null,
+      "median": null
+    }
+  },
+  "connections": {
+    "min": 1,
+    "max": 13,
+    "mean": 3.0434782608695654,
+    "median": 2
+  },
+  "QC": {
+    "participateAgain": {},
+    "adequateCompensation": {},
+    "adequateTime": {},
+    "clearInstructions": {},
+    "videoQuality": {},
+    "joiningProblems": {},
+    "technicalProblems": {},
+    "textExpansion": [],
+    "technicalDetail": [],
+    "joiningDetail": []
+  },
+  "finalPayoffs": [
+    0.6561000000000001,
+    0.7290000000000001
+  ]
+}
