@@ -1,0 +1,169 @@
+{
+  "preregistrations": {
+    "total": 14,
+    "treatmentBreakdown": {
+      "nonschema": 2,
+      "nonschema_black_and_white": 4,
+      "schema": 4,
+      "schema_black_and_white": 4
+    },
+    "percentComplete": 100
+  },
+  "participants": {
+    "total": 22,
+    "completeIntroSteps": 22,
+    "enterLobby": 22,
+    "beginGame": 22,
+    "finishGame": 22,
+    "complete": 14,
+    "ipTimezoneBreakdown": {
+      "America/Toronto": 4,
+      "America/Vancouver": 1,
+      "Europe/London": 9,
+      "America/Edmonton": 1,
+      "America/New_York": 5,
+      "America/Chicago": 1,
+      "Africa/Lagos": 1
+    },
+    "ipCountryBreakdown": {
+      "CA": 6,
+      "GB": 9,
+      "US": 6,
+      "NG": 1
+    },
+    "possibleVPN": {
+      "false": 20,
+      "true": 2
+    },
+    "browserLanguageBreakdown": {
+      "en-GB": 10,
+      "en-US": 12
+    },
+    "browserTimezoneBreakdown": {
+      "America/Toronto": 4,
+      "America/Vancouver": 1,
+      "Europe/London": 9,
+      "America/Edmonton": 1,
+      "America/Indianapolis": 1,
+      "America/New_York": 4,
+      "America/Chicago": 1,
+      "UTC": 1
+    },
+    "knownVPN": {
+      "false": 22
+    },
+    "reportingDiscussionProblems": 0,
+    "checkingIn": 0
+  },
+  "completedSampleIds": [
+    "94119b61-c8da-4663-a0c0-16f135d41e55",
+    "f569049c-2463-4d2e-8aea-0b0d9f80a7f1",
+    "e4068202-78f7-473f-bd6f-cead6d0b9db6",
+    "fae5a50e-df47-436c-8045-c271fe35ee83",
+    "bc9dcc60-0274-464f-b11e-c85573ee9ae5",
+    "ae5d66eb-bba8-4e18-a566-1a861ccc3c66",
+    "945afefc-63f9-4de5-b9af-59bdb7c402e8",
+    "3923ff41-807e-49c6-82a1-71aa33f4637f",
+    "00aa1548-4b43-4128-b9a0-d961add06d14",
+    "2c0d9bed-28bf-4717-ab0c-7cad0e4e1e3b",
+    "813e6ab3-347a-4a09-a967-2e9e9cde3807",
+    "1027dd25-1c23-48ab-9a23-61f6e89adec6",
+    "9be2be3a-a647-4e52-9488-7c9554bb0967",
+    "f3016227-d296-4a75-a400-55514701bd16"
+  ],
+  "timings": {
+    "intro": {
+      "max": 858.554,
+      "min": 167.705,
+      "mean": 357.08935294117646,
+      "median": 332.885
+    },
+    "countdown": {
+      "max": null,
+      "min": null,
+      "mean": null
+    },
+    "lobby": {
+      "max": 302.806,
+      "min": 1.849,
+      "mean": 33.717214285714284,
+      "median": 29.292
+    },
+    "game": {
+      "max": 1862.794,
+      "min": 1190.35,
+      "mean": 1372.1471428571429,
+      "median": 1310.122
+    },
+    "exit": {
+      "max": 754.929,
+      "min": 138.425,
+      "mean": 289.7092857142857,
+      "median": 233.272
+    },
+    "totalTime": {
+      "max": null,
+      "min": null,
+      "mean": null,
+      "median": null
+    },
+    "totalActiveTime": {
+      "max": 3779.083,
+      "min": 1498.329,
+      "mean": 2052.6629957983196,
+      "median": 1905.571
+    }
+  },
+  "connections": {
+    "min": 1,
+    "max": 12,
+    "mean": 1.9545454545454546,
+    "median": 1
+  },
+  "QC": {
+    "participateAgain": {
+      "yes": 1
+    },
+    "adequateCompensation": {
+      "fairly_paid": 0.75,
+      "underpaid": 0.25
+    },
+    "adequateTime": {
+      "adequate": 0.9166666666666666,
+      "too_much": 0.08333333333333333
+    },
+    "clearInstructions": {
+      "4": 0.5833333333333334,
+      "5": 0.4166666666666667
+    },
+    "videoQuality": {
+      "1": 0.08333333333333333,
+      "4": 0.16666666666666666,
+      "5": 0.75
+    },
+    "joiningProblems": {
+      "no": 1
+    },
+    "technicalProblems": {
+      "yes": 0.16666666666666666,
+      "no": 0.8333333333333334
+    },
+    "textExpansion": [
+      "Participating in this study was super fun!",
+      "Thanks for the opportunity to participate in this study!",
+      "no comment",
+      "my partner was very nice."
+    ],
+    "technicalDetail": [
+      "Video/Audio cut out",
+      "My microphone quit on the last couple of rounds but we typed to talk."
+    ],
+    "joiningDetail": []
+  },
+  "finalPayoffs": [
+    0.81,
+    0.81,
+    0.81,
+    0.9
+  ]
+}
