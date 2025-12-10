@@ -1,0 +1,179 @@
+{
+  "preregistrations": {
+    "total": 16,
+    "treatmentBreakdown": {
+      "nonschema": 4,
+      "schema_black_and_white": 4,
+      "nonschema_black_and_white": 4,
+      "schema": 4
+    },
+    "percentComplete": 100
+  },
+  "participants": {
+    "total": 26,
+    "completeIntroSteps": 26,
+    "enterLobby": 26,
+    "beginGame": 26,
+    "finishGame": 26,
+    "complete": 16,
+    "ipTimezoneBreakdown": {
+      "Europe/London": 14,
+      "America/Toronto": 2,
+      "America/Los_Angeles": 3,
+      "America/St_Johns": 1,
+      "America/Chicago": 2,
+      "America/New_York": 2,
+      "undefined": 2
+    },
+    "ipCountryBreakdown": {
+      "GB": 14,
+      "CA": 3,
+      "US": 7,
+      "undefined": 2
+    },
+    "possibleVPN": {
+      "false": 24,
+      "true": 2
+    },
+    "browserLanguageBreakdown": {
+      "en-GB": 10,
+      "en-US": 12,
+      "en-CA": 2,
+      "undefined": 2
+    },
+    "browserTimezoneBreakdown": {
+      "Europe/London": 14,
+      "America/Grand_Turk": 1,
+      "America/Los_Angeles": 3,
+      "America/Halifax": 1,
+      "America/Chicago": 2,
+      "America/New_York": 2,
+      "America/Toronto": 1,
+      "undefined": 2
+    },
+    "knownVPN": {
+      "false": 24,
+      "undefined": 2
+    },
+    "reportingDiscussionProblems": 0,
+    "checkingIn": 0
+  },
+  "completedSampleIds": [
+    "1ad158de-dae2-4a03-bba8-a565f4174e4f",
+    "8876120c-5637-4cea-acfc-7cb73e16296c",
+    "37837561-9529-477a-b8dd-f641f8765e4d",
+    "bd4e3570-652a-4e1f-8643-6719eb6a9c38",
+    "eb069e71-7f8d-4d6c-8f28-1a245587011f",
+    "9a16d3b9-7186-444e-bd84-961da952ed75",
+    "13091eb1-5ae6-459b-a367-505167185e17",
+    "fe2ad2a8-85a9-4c6f-b1a2-b33bf341a351",
+    "de28cd52-35d6-4057-a7d9-487a4af1cac6",
+    "4608e40d-e6a1-470a-9688-c09904e7eb66",
+    "16d82254-e549-48cd-833a-3a70756081c3",
+    "5997a83f-7719-459b-a060-1a191d3a84d1",
+    "6e7596fc-7090-4998-bfea-a08cc3b3ea52",
+    "2767b85d-9c75-42c5-9bb6-94df4a742990",
+    "556e960d-650e-4646-ad7d-42bdecdfcbc8",
+    "cca2ea18-5a2d-4386-bb35-ecdf0926ca64"
+  ],
+  "timings": {
+    "intro": {
+      "max": 841.17,
+      "min": 186.957,
+      "mean": 435.1134117647059,
+      "median": 358.827
+    },
+    "countdown": {
+      "max": null,
+      "min": null,
+      "mean": null
+    },
+    "lobby": {
+      "max": 3364.069,
+      "min": 1.772,
+      "mean": 265.1613125,
+      "median": 125.444
+    },
+    "game": {
+      "max": 2170.038,
+      "min": 1437.977,
+      "mean": 1812.6501250000003,
+      "median": 1836.435
+    },
+    "exit": {
+      "max": 802.161,
+      "min": 154.913,
+      "mean": 362.5326875,
+      "median": 343.622
+    },
+    "totalTime": {
+      "max": null,
+      "min": null,
+      "mean": null,
+      "median": null
+    },
+    "totalActiveTime": {
+      "max": 7177.438,
+      "min": 1781.6190000000001,
+      "mean": 2875.457536764706,
+      "median": 2664.328
+    }
+  },
+  "connections": {
+    "min": 1,
+    "max": 4,
+    "mean": 1.3461538461538463,
+    "median": 1
+  },
+  "QC": {
+    "participateAgain": {
+      "yes": 1
+    },
+    "adequateCompensation": {
+      "fairly_paid": 0.8125,
+      "underpaid": 0.1875
+    },
+    "adequateTime": {
+      "adequate": 0.875,
+      "too_much": 0.0625,
+      "too_little": 0.0625
+    },
+    "clearInstructions": {
+      "3": 0.1875,
+      "4": 0.4375,
+      "5": 0.375
+    },
+    "videoQuality": {
+      "2": 0.0625,
+      "4": 0.375,
+      "5": 0.5625
+    },
+    "joiningProblems": {
+      "no": 0.9375,
+      "yes": 0.0625
+    },
+    "technicalProblems": {
+      "no": 0.875,
+      "yes": 0.125
+    },
+    "textExpansion": [
+      "N/A",
+      "really enjoyable interesting study",
+      "no thank you",
+      "it was enjoyable",
+      "It was great fun!"
+    ],
+    "technicalDetail": [
+      "I just had a moment where the mark for my answer took much longer to load than it should after I posted my answer."
+    ],
+    "joiningDetail": [
+      "it was a very long wait, after 1/2 hour I returned the study but neglected to close the window. When I heard speaking I went back to it. I hope you can adjust the status to completed."
+    ]
+  },
+  "finalPayoffs": [
+    0.81,
+    0.81,
+    0.81,
+    0.81
+  ]
+}
