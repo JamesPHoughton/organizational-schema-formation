@@ -1,1 +1,3 @@
 recordings/
+.env
+node_modules

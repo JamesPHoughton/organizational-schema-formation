@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@daily-co/raw-tracks-tools": "github:daily-co/raw-tracks-tools"
+  },
+  "scripts": {
+    "analyze-track": "node ./node_modules/@daily-co/raw-tracks-tools/analyze-track.js"
+  }
+}
