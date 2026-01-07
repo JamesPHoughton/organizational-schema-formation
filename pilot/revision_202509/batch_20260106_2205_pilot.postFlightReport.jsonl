@@ -1,0 +1,229 @@
+{
+  "preregistrations": {
+    "total": 44,
+    "treatmentBreakdown": {
+      "schema": 22,
+      "nonschema": 22
+    },
+    "percentComplete": 90.9090909090909
+  },
+  "participants": {
+    "total": 76,
+    "completeIntroSteps": 76,
+    "enterLobby": 76,
+    "beginGame": 76,
+    "finishGame": 76,
+    "complete": 40,
+    "ipTimezoneBreakdown": {
+      "America/New_York": 17,
+      "America/Toronto": 9,
+      "Europe/London": 19,
+      "America/Chicago": 13,
+      "America/Vancouver": 2,
+      "America/Phoenix": 2,
+      "America/Regina": 1,
+      "America/Los_Angeles": 7,
+      "undefined": 3,
+      "America/Winnipeg": 1,
+      "America/Edmonton": 2
+    },
+    "ipCountryBreakdown": {
+      "US": 39,
+      "CA": 15,
+      "GB": 19,
+      "undefined": 3
+    },
+    "possibleVPN": {
+      "true": 9,
+      "false": 67
+    },
+    "browserLanguageBreakdown": {
+      "en-US": 51,
+      "en-GB": 16,
+      "en-NG": 1,
+      "en-IN": 1,
+      "en-CA": 1,
+      "en": 3,
+      "undefined": 3
+    },
+    "browserTimezoneBreakdown": {
+      "America/Chicago": 16,
+      "America/Halifax": 1,
+      "Europe/London": 19,
+      "America/New_York": 15,
+      "America/Toronto": 6,
+      "America/Vancouver": 1,
+      "America/Phoenix": 2,
+      "America/Regina": 1,
+      "America/Los_Angeles": 9,
+      "undefined": 3,
+      "America/Winnipeg": 1,
+      "America/Denver": 1,
+      "America/Edmonton": 1
+    },
+    "knownVPN": {
+      "false": 73,
+      "undefined": 3
+    },
+    "reportingDiscussionProblems": 3,
+    "checkingIn": 3
+  },
+  "completedSampleIds": [
+    "9c11532a-270d-453a-bf01-54996b269071",
+    "b6c542d3-e961-4ec7-ae88-465cb3e8ab1f",
+    "08d18631-d4d8-4f0d-b566-2cb573b3159f",
+    "bc2941ed-91a2-4a38-812b-87a5514a3e7a",
+    "8c30f06c-1194-4291-bc60-4117b04f7256",
+    "132c09f4-2002-4410-9bb7-49b688148c4c",
+    "e0b07ad1-2c95-49f8-baf2-3680bc81aaf1",
+    "42ffb7f2-e462-4ce6-83d1-9b7b32e6702e",
+    "3b367171-6add-4ac1-b1e7-86d4bb5623fa",
+    "f3d0d2a9-301d-41c7-a513-6663ad1646c5",
+    "2a635e23-ab9a-4e33-bb89-0c60f816497f",
+    "a6596155-56d4-41dd-857d-b3f12b841008",
+    "e13fb291-ca58-48bd-b1a0-8146de38dc31",
+    "2854f232-4ea1-4eea-9a5c-404bbb3102e9",
+    "9f738f00-cff6-410a-85d8-da36b5c4764f",
+    "35cb2f4e-0c74-4185-9826-d48743ba896f",
+    "bbd9f2de-8930-42c6-9f53-d38f9ab9b9b1",
+    "0cda679a-a1e5-450b-b388-29de6cb3d5d8",
+    "425b5301-0510-4df2-a452-737113bfcf04",
+    "56d02220-d416-45e4-a983-d115f46bf5b7",
+    "29d82a96-503c-497f-a047-0abaac9b3271",
+    "6c191ef6-5456-4b3d-9a08-12b27ef3b123",
+    "27e21a26-9535-414f-99a3-a245b88c8809",
+    "a3cd8567-3148-4cc2-b55e-73203f0d8c1d",
+    "d1d0c237-7c30-4d86-bddb-3b83d1c23879",
+    "2038a082-6f83-4f22-b54a-b36e98594a04",
+    "12d75116-7f09-4982-abb6-3c6ad9934e3f",
+    "9c65043d-ad4f-4189-a0c7-0086fec80922",
+    "aa4497b2-a98b-416e-8c1d-5d53fdc80914",
+    "81bb9106-7356-4aaa-8c0d-bf609feed939",
+    "67f3e778-42a4-4e59-bb5a-f0097df65bdf",
+    "b1d2fffe-fa95-4b4f-815e-a11c8f5ff99b",
+    "a7015cf4-6e3d-4e26-b4b6-0c40b1f53159",
+    "5f4bcd54-144e-488d-abb9-9116dc8d5745",
+    "54262051-0476-4c91-97c2-73e70554e4f9",
+    "1bc54e59-f192-407c-85a4-864318215a8a",
+    "0204802a-f5dd-4407-b84f-47eb858af386",
+    "588b9075-89b7-4e48-a950-716980a73141",
+    "c88d0313-17ed-46c1-b71a-497216a266d2",
+    "43bc610d-8a32-4d94-814a-767a03aaa55e"
+  ],
+  "timings": {
+    "intro": {
+      "max": 1215.685,
+      "min": 145.012,
+      "mean": 362.77394230769227,
+      "median": 308.919
+    },
+    "countdown": {
+      "max": null,
+      "min": null,
+      "mean": null
+    },
+    "lobby": {
+      "max": 583.398,
+      "min": 1.816,
+      "mean": 86.33006818181819,
+      "median": 189.823
+    },
+    "game": {
+      "max": 2239.375,
+      "min": 821.697,
+      "mean": 1428.552954545454,
+      "median": 1458.137
+    },
+    "exit": {
+      "max": 924.863,
+      "min": 147.7,
+      "mean": 392.67155,
+      "median": 332.315
+    },
+    "totalTime": {
+      "max": null,
+      "min": null,
+      "mean": null,
+      "median": null
+    },
+    "totalActiveTime": {
+      "max": 4963.321,
+      "min": 1116.225,
+      "mean": 2270.3285150349648,
+      "median": 2289.194
+    }
+  },
+  "connections": {
+    "min": 1,
+    "max": 4,
+    "mean": 1.263157894736842,
+    "median": 1
+  },
+  "QC": {
+    "participateAgain": {
+      "maybe": 0.06060606060606061,
+      "yes": 0.9393939393939394
+    },
+    "adequateCompensation": {
+      "fairly_paid": 0.7878787878787878,
+      "underpaid": 0.15151515151515152,
+      "N/A": 0.06060606060606061
+    },
+    "adequateTime": {
+      "adequate": 0.9090909090909091,
+      "too_much": 0.030303030303030304,
+      "too_little": 0.06060606060606061
+    },
+    "clearInstructions": {
+      "1": 0.030303030303030304,
+      "3": 0.06060606060606061,
+      "4": 0.36363636363636365,
+      "5": 0.5454545454545454
+    },
+    "videoQuality": {
+      "2": 0.030303030303030304,
+      "3": 0.15151515151515152,
+      "4": 0.2727272727272727,
+      "5": 0.5151515151515151,
+      "NA": 0.030303030303030304
+    },
+    "joiningProblems": {
+      "no": 0.9393939393939394,
+      "yes": 0.06060606060606061
+    },
+    "technicalProblems": {
+      "no": 0.9090909090909091,
+      "yes": 0.09090909090909091
+    },
+    "textExpansion": [
+      "I was the only doing this the person showed for a minute and never come back",
+      "I did not encounter technical problem during the experiment. ",
+      "I overthink things, so the instructions were probably easy, I just got hung up on the part about whether we allowed to reuse the same labels for different objects across rounds (I thought we could reuse them as long as it was not in the same round but thought it would be too confusing to use the same label for different objects, so we decided not to, or at least I said I preferred not to because I would likely confuse them.)",
+      "This was a lot of fun!",
+      "n/a",
+      "The research was very interesting, but it took much longer than expected.",
+      "No, thank you for letting me participate",
+      "My partner Nelson completely failed to engage and then eventually left his screen black",
+      "NA",
+      "n/a",
+      "Nope.",
+      "d zero option but to go with it. In later rounds, partner even turned off their lights off making it impossible to see them. ",
+      "all went well",
+      "It was a fun study.",
+      "I really enjoyed the game. It taught me or rather reinforced that I try to meet others where they are at.  It showed me that I am a team player.  I am willing for someone else to take the lead if it means we will be successful as a group."
+    ],
+    "technicalDetail": [
+      "I seen one person for a minute and they left and never come back",
+      "bugs deleting text",
+      "wrong answer wouldn't let me move forward"
+    ],
+    "joiningDetail": [
+      "I joined and the person I seen for a minute left never come back",
+      "The final question did not pop up until much later prior to joining the first session."
+    ]
+  },
+  "finalPayoffs": [
+    0.31381059609000017,
+    0.31381059609000017
+  ]
+}
