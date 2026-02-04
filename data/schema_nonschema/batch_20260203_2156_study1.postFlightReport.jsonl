@@ -1,0 +1,163 @@
+{
+  "preregistrations": {
+    "total": 10,
+    "treatmentBreakdown": {
+      "nonschema": 4,
+      "schema": 6
+    },
+    "percentComplete": 100
+  },
+  "participants": {
+    "total": 14,
+    "completeIntroSteps": 14,
+    "enterLobby": 14,
+    "beginGame": 14,
+    "finishGame": 14,
+    "complete": 10,
+    "ipTimezoneBreakdown": {
+      "America/Los_Angeles": 1,
+      "America/New_York": 4,
+      "Europe/London": 4,
+      "America/Toronto": 3,
+      "America/Edmonton": 1,
+      "undefined": 1
+    },
+    "ipCountryBreakdown": {
+      "US": 5,
+      "GB": 4,
+      "CA": 4,
+      "undefined": 1
+    },
+    "possibleVPN": {
+      "false": 13,
+      "true": 1
+    },
+    "browserLanguageBreakdown": {
+      "en-US": 8,
+      "en-GB": 4,
+      "fr-FR": 1,
+      "undefined": 1
+    },
+    "browserTimezoneBreakdown": {
+      "America/Los_Angeles": 1,
+      "America/New_York": 4,
+      "Europe/London": 4,
+      "America/Toronto": 3,
+      "America/Denver": 1,
+      "undefined": 1
+    },
+    "knownVPN": {
+      "false": 13,
+      "undefined": 1
+    },
+    "reportingDiscussionProblems": 0,
+    "checkingIn": 0
+  },
+  "completedSampleIds": [
+    "c6ba046b-6675-4357-b6f3-3d3a89b1ef39",
+    "a3f28974-cb42-4f72-a917-fc7ff3135ff8",
+    "e48ac503-161e-4165-ba4c-666004c01705",
+    "5c139f31-56c8-4cfa-8529-98fc50178462",
+    "c312aa0b-31cb-437f-bb53-9a3cca8582d4",
+    "94ea2373-69ec-4d3c-9d43-a666401e135a",
+    "064c3f74-9758-4bbb-9fb4-5c7fb51b21a9",
+    "6602c511-6e98-4305-b2e4-45c45c259c50",
+    "c162dedf-a1ad-41cc-a70c-e6eb592d05c8",
+    "bc6023ef-7cd9-44d5-97c6-aeb1bac46675"
+  ],
+  "timings": {
+    "intro": {
+      "max": 915.313,
+      "min": 171.482,
+      "mean": 392.13740000000007,
+      "median": 319.487
+    },
+    "countdown": {
+      "max": null,
+      "min": null,
+      "mean": null
+    },
+    "lobby": {
+      "max": 470.373,
+      "min": 1.716,
+      "mean": 81.8536,
+      "median": 2.373
+    },
+    "game": {
+      "max": 2336.198,
+      "min": 1120.181,
+      "mean": 1669.9296000000002,
+      "median": 1773.608
+    },
+    "exit": {
+      "max": 818.008,
+      "min": 151.509,
+      "mean": 365.8897,
+      "median": 275.919
+    },
+    "totalTime": {
+      "max": null,
+      "min": null,
+      "mean": null,
+      "median": null
+    },
+    "totalActiveTime": {
+      "max": 4539.892,
+      "min": 1444.8880000000001,
+      "mean": 2509.8103000000006,
+      "median": 2371.3869999999997
+    }
+  },
+  "connections": {
+    "min": 1,
+    "max": 7,
+    "mean": 1.5714285714285714,
+    "median": 1
+  },
+  "QC": {
+    "participateAgain": {
+      "yes": 1
+    },
+    "adequateCompensation": {
+      "fairly_paid": 0.8,
+      "underpaid": 0.1,
+      "N/A": 0.1
+    },
+    "adequateTime": {
+      "adequate": 0.9,
+      "too_much": 0.1
+    },
+    "clearInstructions": {
+      "3": 0.1,
+      "4": 0.5,
+      "5": 0.4
+    },
+    "videoQuality": {
+      "1": 0.1,
+      "2": 0.1,
+      "4": 0.2,
+      "5": 0.6
+    },
+    "joiningProblems": {
+      "no": 1
+    },
+    "technicalProblems": {
+      "no": 0.7,
+      "yes": 0.3
+    },
+    "textExpansion": [
+      "n/a",
+      "Partner only was audio not video. Some communication barrier with language with my partner."
+    ],
+    "technicalDetail": [
+      "There was a glitch each time I would answer it would tell me my answer wasnt a match and would show an answer I didnt write for a second or two and then would show my correct answer and tell me I had matched.",
+      "Video kept lagging",
+      "After instructions page did not forward I refreshed and was able to continue. This was reported in bugs and to researcher prior to the refresh! Also my partner was delayed and was not on camera and I was."
+    ],
+    "joiningDetail": []
+  },
+  "finalPayoffs": [
+    0.9025,
+    0.8573749999999999
+  ]
+}
