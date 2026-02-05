@@ -1,0 +1,177 @@
+{
+  "preregistrations": {
+    "total": 14,
+    "treatmentBreakdown": {
+      "nonschema": 6,
+      "schema": 8
+    },
+    "percentComplete": 92.85714285714286
+  },
+  "participants": {
+    "total": 23,
+    "completeIntroSteps": 23,
+    "enterLobby": 23,
+    "beginGame": 23,
+    "finishGame": 23,
+    "complete": 13,
+    "ipTimezoneBreakdown": {
+      "Europe/London": 8,
+      "America/Los_Angeles": 1,
+      "America/Toronto": 2,
+      "America/New_York": 6,
+      "America/Chicago": 2,
+      "America/Vancouver": 1,
+      "undefined": 1,
+      "America/Phoenix": 1,
+      "America/Denver": 1
+    },
+    "ipCountryBreakdown": {
+      "GB": 8,
+      "US": 11,
+      "CA": 3,
+      "undefined": 1
+    },
+    "possibleVPN": {
+      "false": 21,
+      "true": 2
+    },
+    "browserLanguageBreakdown": {
+      "en-US": 15,
+      "en-GB": 6,
+      "en-CA": 1,
+      "undefined": 1
+    },
+    "browserTimezoneBreakdown": {
+      "Europe/London": 8,
+      "America/Los_Angeles": 1,
+      "America/Toronto": 3,
+      "America/New_York": 6,
+      "America/Guatemala": 1,
+      "America/Vancouver": 1,
+      "undefined": 1,
+      "America/Phoenix": 1,
+      "America/Denver": 1
+    },
+    "knownVPN": {
+      "false": 21,
+      "undefined": 2
+    },
+    "reportingDiscussionProblems": 0,
+    "checkingIn": 0
+  },
+  "completedSampleIds": [
+    "e180de7f-c1bf-4128-a593-80be6649aa7e",
+    "34e25190-7e8a-444f-bd5c-bcc3b712bde8",
+    "52cef16d-19ce-4628-9a54-edc79c3d5e24",
+    "e57bb354-fea7-4efd-8b8d-2870e98ecdb5",
+    "103e66ac-209a-4182-89ea-ce64bcf7ee0b",
+    "dcd77f4a-8a88-4614-997e-7d0125aca302",
+    "4fb5a436-b8b8-4f29-95bd-bd502e706079",
+    "0176089f-1290-4015-b3f2-94cb7e76615a",
+    "37382f22-34c3-4a37-83ad-5ccc4bb4ee5b",
+    "a718f6ee-da4f-4619-8fca-3665278ca266",
+    "28351493-9b62-4d0d-bf75-8c4a9b1c1e8b",
+    "6954370a-0257-4b4d-9054-d604c6a3087c",
+    "067ab462-7f48-4eb4-ab4f-8beea15f4dc6"
+  ],
+  "timings": {
+    "intro": {
+      "max": 522.242,
+      "min": 155.411,
+      "mean": 294.01757142857144,
+      "median": 278.545
+    },
+    "countdown": {
+      "max": null,
+      "min": null,
+      "mean": null
+    },
+    "lobby": {
+      "max": 367.196,
+      "min": 1.971,
+      "mean": 66.667,
+      "median": 2.502
+    },
+    "game": {
+      "max": 1754.924,
+      "min": 652.211,
+      "mean": 1235.8268571428569,
+      "median": 1754.924
+    },
+    "exit": {
+      "max": 524.941,
+      "min": 127.741,
+      "mean": 272.5025384615385,
+      "median": 261.964
+    },
+    "totalTime": {
+      "max": null,
+      "min": null,
+      "mean": null,
+      "median": null
+    },
+    "totalActiveTime": {
+      "max": 3169.303,
+      "min": 937.3340000000001,
+      "mean": 1869.0139670329668,
+      "median": 2297.935
+    }
+  },
+  "connections": {
+    "min": 1,
+    "max": 3,
+    "mean": 1.3043478260869565,
+    "median": 1
+  },
+  "QC": {
+    "participateAgain": {
+      "yes": 0.9230769230769231,
+      "maybe": 0.07692307692307693
+    },
+    "adequateCompensation": {
+      "underpaid": 0.23076923076923078,
+      "N/A": 0.15384615384615385,
+      "fairly_paid": 0.6153846153846154
+    },
+    "adequateTime": {
+      "adequate": 0.9230769230769231,
+      "too_much": 0.07692307692307693
+    },
+    "clearInstructions": {
+      "3": 0.07692307692307693,
+      "4": 0.3076923076923077,
+      "5": 0.6153846153846154
+    },
+    "videoQuality": {
+      "3": 0.15384615384615385,
+      "4": 0.3076923076923077,
+      "5": 0.5384615384615384
+    },
+    "joiningProblems": {
+      "no": 1
+    },
+    "technicalProblems": {
+      "no": 0.6923076923076923,
+      "yes": 0.3076923076923077
+    },
+    "textExpansion": [
+      "n/a",
+      "Despite him not being able to hear me after the first round, we communicated well through gestures and facial expressions.",
+      "N/A",
+      "all good ",
+      "no all good thanks",
+      "Great study."
+    ],
+    "technicalDetail": [
+      "Even though my mic was working, the other player couldn't hear me.",
+      "The first trial was a little glitchy. Also in the page just before this one, I had issues typing in what year i was born and had to play around with it before I could continue ",
+      "when submitting a response in round 2 or 3, it erased half of my word",
+      "The game crashed when submitting in the final round"
+    ],
+    "joiningDetail": []
+  },
+  "finalPayoffs": [
+    0.8573749999999999,
+    0.8145062499999999
+  ]
+}
