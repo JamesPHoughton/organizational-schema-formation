@@ -1,0 +1,184 @@
+{
+  "preregistrations": {
+    "total": 26,
+    "treatmentBreakdown": {
+      "nonschema": 12,
+      "schema": 14
+    },
+    "percentComplete": 96.15384615384616
+  },
+  "participants": {
+    "total": 36,
+    "completeIntroSteps": 36,
+    "enterLobby": 36,
+    "beginGame": 36,
+    "finishGame": 36,
+    "complete": 25,
+    "ipTimezoneBreakdown": {
+      "America/New_York": 3,
+      "Europe/London": 21,
+      "America/Los_Angeles": 1,
+      "America/Chicago": 2,
+      "America/Toronto": 6,
+      "America/Indiana/Indianapolis": 1,
+      "undefined": 1,
+      "America/Puerto_Rico": 1
+    },
+    "ipCountryBreakdown": {
+      "US": 7,
+      "GB": 21,
+      "CA": 6,
+      "undefined": 1,
+      "PR": 1
+    },
+    "possibleVPN": {
+      "false": 32,
+      "true": 4
+    },
+    "browserLanguageBreakdown": {
+      "en-GB": 13,
+      "en-US": 21,
+      "zh-CN": 1,
+      "undefined": 1
+    },
+    "browserTimezoneBreakdown": {
+      "America/New_York": 5,
+      "Europe/London": 20,
+      "America/Los_Angeles": 1,
+      "Asia/Shanghai": 1,
+      "America/Chicago": 2,
+      "America/Toronto": 5,
+      "undefined": 1,
+      "America/La_Paz": 1
+    },
+    "knownVPN": {
+      "false": 35,
+      "undefined": 1
+    },
+    "reportingDiscussionProblems": 2,
+    "checkingIn": 3
+  },
+  "completedSampleIds": [
+    "c7edc7c7-ba40-4ea6-a4d1-088c09a3576b",
+    "c3d67230-e545-4064-848d-21795294e346",
+    "6c74f0c7-da11-400b-bf19-ce7f590906e7",
+    "7b92edd4-9907-4aba-9bfc-6ae8b4d6474c",
+    "1fddd949-922c-4edc-b9f6-4fd921d7c245",
+    "648306eb-7457-4605-9769-5e1b8de8cf68",
+    "87a25933-50f4-4a51-be56-3347d783e3ae",
+    "a3288d19-4c4a-41cd-a1d6-f2d5b468a2ea",
+    "9db45dc3-45c1-47b0-bb9d-11db81be39d9",
+    "0d9cb3ba-3f45-4b0e-ad3d-9ab0d373d60d",
+    "3a04b5be-766d-4377-bce2-a20620e3dfbf",
+    "86389228-309c-4705-a49a-591b7624dee5",
+    "3ac04d29-1352-4f0d-b2a3-e82de32439b6",
+    "54912a51-daab-4d76-bcda-baa68636c238",
+    "205e06d5-26db-4204-8bc6-5d79983260ad",
+    "5e23445d-4ef5-4996-a5cd-c938805a40d9",
+    "f29a603d-9254-45f5-9d38-fafcd19dfaae",
+    "ada3f668-e05b-4225-beb9-73c3a7883f62",
+    "9d33fd03-6ff3-42fe-a38d-a892b9954a75",
+    "d60a4658-874e-46bd-9acb-c377934d9491",
+    "130cc062-b69f-4dfa-9302-7f837356da32",
+    "67035696-2785-42ec-8c7d-80ffe8ab23a0",
+    "49c18a2b-9127-45cb-b490-2a7ba9d9bfa1",
+    "75019074-f987-47ca-b73e-0e1b9a36b2a4",
+    "eac300d1-6997-4903-84ff-9a37e057513e"
+  ],
+  "timings": {
+    "intro": {
+      "max": 1062.132,
+      "min": 142.291,
+      "mean": 327.4486785714286,
+      "median": 259.989
+    },
+    "countdown": {
+      "max": null,
+      "min": null,
+      "mean": null
+    },
+    "lobby": {
+      "max": 155.906,
+      "min": 1.74,
+      "mean": 28.99553846153846,
+      "median": 155.906
+    },
+    "game": {
+      "max": 2156.698,
+      "min": 784.71,
+      "mean": 1543.5621538461533,
+      "median": 1621.356
+    },
+    "exit": {
+      "max": 572.725,
+      "min": 129.245,
+      "mean": 290.88892000000004,
+      "median": 272.983
+    },
+    "totalTime": {
+      "max": null,
+      "min": null,
+      "mean": null,
+      "median": null
+    },
+    "totalActiveTime": {
+      "max": 3947.461,
+      "min": 1057.9859999999999,
+      "mean": 2190.8952908791202,
+      "median": 2310.234
+    }
+  },
+  "connections": {
+    "min": 1,
+    "max": 14,
+    "mean": 1.6666666666666667,
+    "median": 1
+  },
+  "QC": {
+    "participateAgain": {
+      "yes": 0.96,
+      "maybe": 0.04
+    },
+    "adequateCompensation": {
+      "fairly_paid": 0.8,
+      "underpaid": 0.2
+    },
+    "adequateTime": {
+      "adequate": 0.96,
+      "too_much": 0.04
+    },
+    "clearInstructions": {
+      "3": 0.04,
+      "4": 0.36,
+      "5": 0.6
+    },
+    "videoQuality": {
+      "3": 0.08,
+      "4": 0.12,
+      "5": 0.8
+    },
+    "joiningProblems": {
+      "no": 0.96,
+      "undefined": 0.04
+    },
+    "technicalProblems": {
+      "no": 0.96,
+      "undefined": 0.04
+    },
+    "textExpansion": [
+      "Good partner!",
+      "Really enjoyed taking part. Thank you!",
+      "thank you !",
+      "it was one of the best studies i have ever joind. thank you! ",
+      "thank you, it was fun",
+      "No I don't think so",
+      "It stinks to be punished when you partner doesn't participate."
+    ],
+    "technicalDetail": [],
+    "joiningDetail": []
+  },
+  "finalPayoffs": [
+    0.7350918906249998,
+    0.6983372960937497
+  ]
+}
