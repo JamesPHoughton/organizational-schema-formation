@@ -1,0 +1,191 @@
+{
+  "preregistrations": {
+    "total": 34,
+    "treatmentBreakdown": {
+      "schema": 16,
+      "nonschema": 18
+    },
+    "percentComplete": 94.11764705882352
+  },
+  "participants": {
+    "total": 45,
+    "completeIntroSteps": 45,
+    "enterLobby": 45,
+    "beginGame": 45,
+    "finishGame": 45,
+    "complete": 32,
+    "ipTimezoneBreakdown": {
+      "undefined": 45
+    },
+    "ipCountryBreakdown": {
+      "undefined": 45
+    },
+    "possibleVPN": {
+      "true": 44,
+      "false": 1
+    },
+    "browserLanguageBreakdown": {
+      "vi-VN": 1,
+      "en-GB": 9,
+      "en-US": 28,
+      "en": 2,
+      "en-CA": 3,
+      "es": 1,
+      "undefined": 1
+    },
+    "browserTimezoneBreakdown": {
+      "Europe/London": 13,
+      "America/New_York": 12,
+      "America/Los_Angeles": 7,
+      "America/Chicago": 5,
+      "America/Phoenix": 1,
+      "America/Denver": 2,
+      "America/Toronto": 2,
+      "undefined": 1,
+      "America/Detroit": 1,
+      "America/Winnipeg": 1
+    },
+    "knownVPN": {
+      "undefined": 45
+    },
+    "reportingDiscussionProblems": 2,
+    "checkingIn": 3
+  },
+  "completedSampleIds": [
+    "a502ccfc-bd8f-4e09-b570-47165482f8d1",
+    "ec6febcc-9b03-4b9e-b3e0-2eb0c91197e4",
+    "c9708758-e1ee-43fe-ac0f-a68e8c2840a8",
+    "d4719655-fd84-4b51-9542-8f0ce1099173",
+    "034ef656-87f1-43f2-9054-9761833fab35",
+    "edb1aeb0-2cd9-40a3-8da6-138b3dd70be9",
+    "f1861d48-9e17-4265-8965-0d4af313d852",
+    "0ec9869e-42a6-4f92-833d-7c90e28eec5e",
+    "3501f6cc-e91f-4189-aa5d-f747c42243dd",
+    "a8bafa6d-9c4f-4106-9c04-9c25295036e1",
+    "b75a11df-c9fa-40e0-88c8-1497cfc5191f",
+    "ec25b7c8-f8c0-48f2-b7ec-b0f820d2e3a7",
+    "33d7b7d6-e37c-4428-a33b-80aebe72daae",
+    "750f4c3d-ec1b-42a0-9c25-084521fbfa2f",
+    "5e1031a3-4b26-4039-8e65-47b5e5cd6633",
+    "0a54943c-3dc2-421c-a9db-aca3a9bc9bb8",
+    "3359c317-1997-44c0-8165-2aa85cea081d",
+    "ea4f3437-8b30-4004-91f4-912dec7dfd3c",
+    "2b686b67-d670-459c-b346-5332860c0cb4",
+    "06709cab-dd9b-4dd2-8768-9eab8acdfbe9",
+    "4f00b103-c01d-44a8-b095-dfc18d837ef8",
+    "96d2a495-6906-46aa-bc4b-f1499346326c",
+    "100e99d4-87d7-4de5-864b-be69df40444d",
+    "72398c57-94ef-4788-bc6b-db4ab98fe79a",
+    "77274be1-f251-4135-ab30-69c2fa7cdebe",
+    "9aea173a-5fc1-476f-8413-d82d560bc1c0",
+    "defbf648-a1a3-455a-b4cc-1d11418bc86f",
+    "5958ff2f-1438-4231-a3b3-248b55516b10",
+    "eeeb7b40-c5a5-4bb3-8227-3e11a6c6272b",
+    "b61ecea8-075e-4286-bf9f-95e094e6f908",
+    "2095007e-b074-45a3-ba7f-c5bfca7d4417",
+    "4e341e28-00b8-4bb4-9cd0-337d39ae687d"
+  ],
+  "timings": {
+    "intro": {
+      "max": 562.176,
+      "min": 164.778,
+      "mean": 300.19908108108115,
+      "median": 268.277
+    },
+    "countdown": {
+      "max": null,
+      "min": null,
+      "mean": null
+    },
+    "lobby": {
+      "max": 286.054,
+      "min": 0.75,
+      "mean": 23.16123529411765,
+      "median": 120.666
+    },
+    "game": {
+      "max": 2574.329,
+      "min": 1045.265,
+      "mean": 1598.1702941176475,
+      "median": 1552.896
+    },
+    "exit": {
+      "max": 675.334,
+      "min": 136.959,
+      "mean": 331.62043750000004,
+      "median": 291.338
+    },
+    "totalTime": {
+      "max": null,
+      "min": null,
+      "mean": null,
+      "median": null
+    },
+    "totalActiveTime": {
+      "max": 4097.893,
+      "min": 1347.7520000000002,
+      "mean": 2253.1510479928465,
+      "median": 2233.177
+    }
+  },
+  "connections": {
+    "min": 1,
+    "max": 27,
+    "mean": 2.1333333333333333,
+    "median": 1
+  },
+  "QC": {
+    "participateAgain": {
+      "yes": 0.9090909090909091,
+      "maybe": 0.09090909090909091
+    },
+    "adequateCompensation": {
+      "fairly_paid": 0.9545454545454546,
+      "underpaid": 0.045454545454545456
+    },
+    "adequateTime": {
+      "adequate": 0.8636363636363636,
+      "too_much": 0.09090909090909091,
+      "too_little": 0.045454545454545456
+    },
+    "clearInstructions": {
+      "3": 0.09090909090909091,
+      "4": 0.36363636363636365,
+      "5": 0.5454545454545454
+    },
+    "videoQuality": {
+      "1": 0.045454545454545456,
+      "2": 0.045454545454545456,
+      "4": 0.18181818181818182,
+      "5": 0.7272727272727273
+    },
+    "joiningProblems": {
+      "no": 0.9545454545454546,
+      "yes": 0.045454545454545456
+    },
+    "technicalProblems": {
+      "no": 0.9090909090909091,
+      "yes": 0.09090909090909091
+    },
+    "textExpansion": [
+      "That was something new and unique, and fun! Thanks!",
+      "The only time I played a similar version to this game was when my partners left so I could even finish the study so this still was like my first time.",
+      "study is interesting and the game is good to play.",
+      "Thank you.",
+      "thanks",
+      "so thankful for a great partner to work with ",
+      "Its an interesting game,just need to be modified to be more accessible and steady for both partners to play successfully"
+    ],
+    "technicalDetail": [
+      "video call going in and out",
+      "It kept taking me out,at the beginning,my partner had that issue,her audio wasnt working . Then it kept logging me out and by the time i am back into the game,it moves to another session"
+    ],
+    "joiningDetail": [
+      "bad video call"
+    ]
+  },
+  "finalPayoffs": [
+    0.38742048900000015,
+    0.43046721000000016
+  ]
+}
