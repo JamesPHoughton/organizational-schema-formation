@@ -1,0 +1,219 @@
+{
+  "preregistrations": {
+    "total": 46,
+    "treatmentBreakdown": {
+      "nonschema_tangrams": 24,
+      "schema_tangrams": 22
+    },
+    "percentComplete": 89.13043478260869
+  },
+  "participants": {
+    "total": 58,
+    "completeIntroSteps": 58,
+    "enterLobby": 58,
+    "beginGame": 58,
+    "finishGame": 58,
+    "complete": 41,
+    "ipTimezoneBreakdown": {
+      "undefined": 58
+    },
+    "ipCountryBreakdown": {
+      "undefined": 58
+    },
+    "possibleVPN": {
+      "true": 57,
+      "false": 1
+    },
+    "browserLanguageBreakdown": {
+      "en-GB": 10,
+      "en-CA": 5,
+      "zh-TW": 1,
+      "en-US": 37,
+      "zh-CN": 1,
+      "ko-KR": 1,
+      "fr-FR": 1,
+      "en-AU": 1,
+      "undefined": 1
+    },
+    "browserTimezoneBreakdown": {
+      "Europe/London": 11,
+      "America/Toronto": 9,
+      "America/Regina": 1,
+      "America/New_York": 15,
+      "America/Los_Angeles": 5,
+      "America/Chicago": 5,
+      "America/Denver": 4,
+      "America/Halifax": 2,
+      "America/St_Johns": 1,
+      "America/Vancouver": 1,
+      "America/Winnipeg": 1,
+      "undefined": 1,
+      "America/Edmonton": 1,
+      "America/Phoenix": 1
+    },
+    "knownVPN": {
+      "undefined": 58
+    },
+    "reportingDiscussionProblems": 4,
+    "checkingIn": 4
+  },
+  "completedSampleIds": [
+    "4441f0dd-6568-46ca-b733-e2bb5f0e9905",
+    "010cb111-bfd3-4335-8edc-29c6443a0550",
+    "b2f59851-164e-4766-a7e4-6d656f197e90",
+    "a1ed00af-4853-4e9d-9326-bf9ae14a6ac2",
+    "861e8a08-814e-424c-bdb1-733eee617bc7",
+    "3ddd3ef0-622f-4ffd-80ba-acca2d29b231",
+    "03b33355-1013-42cc-9002-399e99ae7ca5",
+    "768e9cb9-2737-424d-9cf6-7614174c8dbf",
+    "d8965ba3-e3df-4399-a022-6ab46bda66c7",
+    "debb28aa-c320-419b-9868-2595d47d3d4b",
+    "bf6f84cd-a902-45b1-a9f1-d7c463d22eec",
+    "a74cbd27-fc97-453f-8cd7-0f10e0764cb6",
+    "0fb37a3a-a0b0-4afe-a53d-8b0b5963a7be",
+    "cb31d834-6d3f-4411-801e-b9f0e9a525ae",
+    "ea3f0bbc-8615-4808-8ebb-14373d589c8e",
+    "97b75764-3e81-4c5d-b632-13a7db6cd6be",
+    "13a41a2b-b243-4e23-96e1-00ccc6c86269",
+    "e3ad2dbb-d06a-45e5-9683-41275203a842",
+    "1eeeda4f-d51a-4396-856d-096b1942de68",
+    "f9cfaa12-da56-4854-812d-72f4bf0da363",
+    "02ba5706-45dd-44fb-9bd9-ec4ddb598a91",
+    "8faa6473-fbd8-428f-a1d2-f674d3212d00",
+    "33f18043-c544-42ab-9a60-9158f8942e07",
+    "00106702-67de-4a37-8bfb-c3a8612d9c4c",
+    "0ab20a6c-ec5b-4b34-bef6-c7c910cc8ed7",
+    "2fbd9f50-e4d7-4054-a09d-029a475697f5",
+    "6b43ca42-e2f4-4d5f-b5d1-6c490a025974",
+    "2bff4a23-b3eb-4b26-8ce3-feca267cca45",
+    "4d12ef16-0fa0-41d0-8d29-e81ee59fd744",
+    "0352fa83-52d1-4047-99b5-d394eeeba750",
+    "855801c0-a4c9-4fa9-ab9b-ff3467ce5825",
+    "5644de94-b22f-402c-bd7c-03aa714888dd",
+    "a2bbcdf8-5c48-4969-9cfe-2ed23cd881de",
+    "eae402fe-e06a-4d41-b586-849f1ba7e8c4",
+    "dd41fe78-2c4a-4c7f-94d7-3bd9472d73c7",
+    "13abbedc-fecd-4286-afeb-9a5b572b4080",
+    "03835e95-1939-4c9d-a296-496766f2cf77",
+    "51de485a-7b5e-43ca-a45e-c3a675e4a2e4",
+    "f046d566-9fe4-4ad3-bac6-b2b71fa39346",
+    "e0dce404-e85a-4011-b7ae-0a3a01a97891",
+    "c802b5b9-fa2b-477a-b9cb-be5b389e6b6f"
+  ],
+  "timings": {
+    "intro": {
+      "max": 2443.677,
+      "min": 156.372,
+      "mean": 403.5217446808511,
+      "median": 287.661
+    },
+    "countdown": {
+      "max": null,
+      "min": null,
+      "mean": null
+    },
+    "lobby": {
+      "max": 592.486,
+      "min": 1.398,
+      "mean": 32.57741304347825,
+      "median": 16.932
+    },
+    "game": {
+      "max": 2726.049,
+      "min": 802.662,
+      "mean": 1557.7200869565218,
+      "median": 1522.873
+    },
+    "exit": {
+      "max": 764.258,
+      "min": 126.668,
+      "mean": 338.5258780487805,
+      "median": 315.235
+    },
+    "totalTime": {
+      "max": null,
+      "min": null,
+      "mean": null,
+      "median": null
+    },
+    "totalActiveTime": {
+      "max": 6526.469999999999,
+      "min": 1087.1,
+      "mean": 2332.345122729632,
+      "median": 2142.701
+    }
+  },
+  "connections": {
+    "min": 1,
+    "max": 3,
+    "mean": 1.2413793103448276,
+    "median": 1
+  },
+  "QC": {
+    "participateAgain": {
+      "yes": 0.9705882352941176,
+      "undefined": 0.029411764705882353
+    },
+    "adequateCompensation": {
+      "fairly_paid": 0.7941176470588235,
+      "N/A": 0.058823529411764705,
+      "underpaid": 0.11764705882352941,
+      "undefined": 0.029411764705882353
+    },
+    "adequateTime": {
+      "adequate": 0.8529411764705882,
+      "too_much": 0.058823529411764705,
+      "too_little": 0.058823529411764705,
+      "undefined": 0.029411764705882353
+    },
+    "clearInstructions": {
+      "3": 0.11764705882352941,
+      "4": 0.4411764705882353,
+      "5": 0.4117647058823529,
+      "undefined": 0.029411764705882353
+    },
+    "videoQuality": {
+      "1": 0.029411764705882353,
+      "2": 0.029411764705882353,
+      "3": 0.029411764705882353,
+      "4": 0.17647058823529413,
+      "5": 0.6764705882352942,
+      "NA": 0.029411764705882353,
+      "undefined": 0.029411764705882353
+    },
+    "joiningProblems": {
+      "no": 0.9705882352941176,
+      "undefined": 0.029411764705882353
+    },
+    "technicalProblems": {
+      "no": 0.9117647058823529,
+      "yes": 0.058823529411764705,
+      "undefined": 0.029411764705882353
+    },
+    "textExpansion": [
+      "I honestly enjoyed this survey. I would do this again if you conducted this in another way.",
+      "N/A",
+      "None in particular.",
+      "nope",
+      "i had no partner",
+      "not that i can think of",
+      "all good",
+      "The other participant left the discussion early.",
+      "somtimes when submitting the answer it would say incorrect before correcting itself to corrrect",
+      "N/A",
+      "No, thank you, and I look forward to this type of study again.",
+      "I enjoyed this task alot",
+      "Great study, really enjoyed it as it meant thinking on my feet",
+      "I enjoyed this. I am available for future tests!"
+    ],
+    "technicalDetail": [
+      "Sometimes, I was not heard by my playmate. I tried fixing the issue by changing mics and rejoining the call but it was not fixed. ",
+      "My partner had audio issues that affected our communication and participation"
+    ],
+    "joiningDetail": []
+  },
+  "finalPayoffs": [
+    0.28242953648100017,
+    0.31381059609000017
+  ]
+}
