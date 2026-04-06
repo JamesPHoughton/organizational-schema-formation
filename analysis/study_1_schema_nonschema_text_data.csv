@@ -1,0 +1,4364 @@
+gameId,treatment,position,labeling_1a,labeling_1b,labeling_1c,labeling_2,labeling_3,labeling_4,recall_1a_0,recall_1a_1,recall_1b_0,recall_1b_1,recall_1b_2,recall_1b_3,recall_1c_0,recall_1c_1,recall_1c_2,recall_1c_3,recall_1c_4,recall_1c_5,recall_1c_6,recall_1c_7,recall_2_0,recall_2_1,recall_2_2,recall_2_3,recall_2_4,recall_2_5,recall_2_6,recall_2_7,recall_3_0,recall_3_1,recall_3_2,recall_3_3,recall_3_4,recall_3_5,recall_3_6,recall_3_7,recall_4_0,recall_4_1,recall_4_2,recall_4_3,recall_4_4,recall_4_5,recall_4_6,recall_4_7
+0NJX16,nonschema,0,"Image 1:kada
+Image 2:kuda","Image 1:ele
+Image 2:elo
+Image 3:eli
+Image 4:ede","Image 1:aa
+Image 2:bb
+Image 3:cc
+Image 4:dd
+Image 5:ee
+Image 6:ff
+Image 7:gg
+Image 8:hh","Image 1:ch
+Image 2:cg
+Image 3:cc
+Image 4:cd
+Image 5:ca
+Image 6:ce
+Image 7:cb
+Image 8:cf","Image 1:df
+Image 2:db
+Image 3:dg
+Image 4:dh
+Image 5:dd
+Image 6:da
+Image 7:de
+Image 8:dc","Image 1:ed
+Image 2:ea
+Image 3:ef
+Image 4:eh
+Image 5:ec
+Image 6:eb
+Image 7:eg
+Image 8:ef",kuda,kada,elo,ede,ele,eli,ff,bb,dd,ee,dd,aa,cc,gg,,,,,,,,,,,,,,,,,,,,,,,,
+0NJX16,nonschema,1,"Image 1:kada
+Image 2:kuda","Image 1:ele
+Image 2:elo
+Image 3:eli
+Image 4:ede","Image 1:aa
+Image 2:bb
+Image 3:cc
+Image 4:dd
+Image 5:ee
+Image 6:ff
+Image 7:gg
+Image 8:hh","Image 1:ch
+Image 2:cg
+Image 3:cc
+Image 4:cd
+Image 5:ca
+Image 6:ce
+Image 7:cb
+Image 8:cf","Image 1:df
+Image 2:db
+Image 3:dg
+Image 4:dh
+Image 5:dd
+Image 6:da
+Image 7:de
+Image 8:dc","Image 1:ed
+Image 2:ea
+Image 3:ef
+Image 4:eh
+Image 5:ec
+Image 6:eb
+Image 7:eg
+Image 8:ef",kuda,kada,elo,ede,eli,eli,gg,cc,hh,ee,cc,aa,gg,hh,ch,c b,cd,ce,cc,ca,,ca,df,dc,db,dh,da,dd,df,da,eh,ea,ef,ed,ec,ea,ef,eg
+14RBNC,nonschema,0,"Image 1: owl 
+Image 2: cookie","Image 1: batman
+Image 2:waffle
+Image 3:et
+Image 4:train","Image 1:owl
+Image 2:scorpion
+Image 3:dog
+Image 4:train
+Image 5:cookie
+Image 6:crab
+Image 7:telephone
+Image 8:et","Image 1:rainbow
+Image 2:paper
+Image 3:waiter
+Image 4:tree
+Image 5:seesaw
+Image 6:clown
+Image 7:telescope
+Image 8:oven","Image 1:rainbow
+Image 2:waiter
+Image 3:trashcan
+Image 4:parrot
+Image 5:rotor
+Image 6:crab
+Image 7:spongebob
+Image 8:lobster","Image 1:grill
+Image 2:bee
+Image 3:cheese
+Image 4:milk man 
+Image 5:baby
+Image 6:sausage 
+Image 7:gum
+Image 8:chocolate",cookie,owl,waffle,train,batman,et,crab,scorpion,telephone,cookie,train,owl,dog,et,rainbow,telescope,oven,paper,tree,seesaw,clown,waiter,trashcan,rotor,lobster,parrot,crab,spongebob,rainbow,waiter,gum,bee,cheese,chocolate,grill,sausage,baby,milk man
+14RBNC,nonschema,1,"Image 1: owl 
+Image 2: cookie","Image 1: batman
+Image 2:waffle
+Image 3:et
+Image 4:train","Image 1:owl
+Image 2:scorpion
+Image 3:dog
+Image 4:train
+Image 5:cookie
+Image 6:crab
+Image 7:telephone
+Image 8:et","Image 1:rainbow
+Image 2:paper
+Image 3:waiter
+Image 4:tree
+Image 5:seesaw
+Image 6:clown
+Image 7:telescope
+Image 8:oven","Image 1:rainbow
+Image 2:waiter
+Image 3:trashcan
+Image 4:parrot
+Image 5:rotor
+Image 6:crab
+Image 7:spongebob
+Image 8:lobster","Image 1:grill
+Image 2:bee
+Image 3:cheese
+Image 4:milk man 
+Image 5:baby
+Image 6:sausage 
+Image 7:gum
+Image 8:chocolate",cookie,owl,waffle,train,batman,et,crab,scorpion,telephone,cookie,train,owl,dog,et,rainbow,telescope,oven,paper,tree,seesaw,clown,waiter,trash can,rodder,lobster,parrot,crab,spongebob,rainbow,waiter,gum,bee,cheese,chocolate,grill,sausage,baby,milkman
+3NZWFJ,nonschema,0,"Image 1: Bird
+Image 2: Biscuit","Image 1: bird
+Image 2: biscuit
+Image 3: binoculars
+Image 4: gascan","Image 1: bird
+Image 2: scorpion
+Image 3: pig
+Image 4: gascan
+Image 5: biscuit
+Image 6: mower
+Image 7: mushroom
+Image 8: binoculars","Image 1: peacock
+Image 2: tofu
+Image 3: foot
+Image 4: tree
+Image 5: binoculars
+Image 6: can
+Image 7: switch
+Image 8: yellow","Image 1: rainbow
+Image 2: binoculars
+Image 3: grey
+Image 4: bird
+Image 5: wheel
+Image 6: white
+Image 7: yellow
+Image 8: red","Image 1: blue
+Image 2: gum
+Image 3: yellow
+Image 4: white
+Image 5: cream
+Image 6: black
+Image 7: purple
+Image 8: brown",biscuit,bird,biscuit,gascan,bird,binoculars,mower,scorpion,mushroom,biscuit,gascan,bird,pig,binoculars,peacock,switch,yellow,tofu,tree,binoculars,can,foot,grey,wheel,red,bird,white,yellow,rainbow,binoculars,purple,gum,yellow,brown,blue,black,cream,white
+3NZWFJ,nonschema,1,"Image 1: Bird
+Image 2: Biscuit","Image 1: bird
+Image 2: biscuit
+Image 3: binoculars
+Image 4: gascan","Image 1: bird
+Image 2: scorpion
+Image 3: pig
+Image 4: gascan
+Image 5: biscuit
+Image 6: mower
+Image 7: mushroom
+Image 8: binoculars","Image 1: peacock
+Image 2: tofu
+Image 3: foot
+Image 4: tree
+Image 5: binoculars
+Image 6: can
+Image 7: switch
+Image 8: yellow","Image 1: rainbow
+Image 2: binoculars
+Image 3: grey
+Image 4: bird
+Image 5: wheel
+Image 6: white
+Image 7: yellow
+Image 8: red","Image 1: blue
+Image 2: gum
+Image 3: yellow
+Image 4: white
+Image 5: cream
+Image 6: black
+Image 7: purple
+Image 8: brown",biscuit,bird,biscuit,gascan,bird,binoculars,mower,scorpion,mushroom,biscuit,gascan,bird,pig,binoculars,peacock,switch,yellow,can,tree,binoculars,can,foot,grey,wheel,red,bird,white,yellow,rainbow,binoculars,purple,gum,yellow,brown,blue,black,cream,white
+3XTW7A,nonschema,0,"Image 1: owl
+Image 2: donut","Image 1: owl
+Image 2: donut
+Image 3: robot
+Image 4: bird","Image 1: owl
+Image 2: scorpion
+Image 3: dog
+Image 4: bird
+Image 5: donut
+Image 6: fish
+Image 7: girl
+Image 8: robot","Image 1: peacock
+Image 2: wall
+Image 3: toes
+Image 4: tree 
+Image 5: funny
+Image 6: present
+Image 7: monkey
+Image 8: banana","Image 1: colors
+Image 2: pig
+Image 3: gray
+Image 4: parrot
+Image 5: wheel
+Image 6: dice
+Image 7: cheese
+Image 8: fire","Image 1: tube
+Image 2: bug
+Image 3: block
+Image 4: guy
+Image 5: pig
+Image 6: coal
+Image 7: stripe
+Image 8: tall",donut,owl,donut,bird,owl,robot,fish,scorpion,girl,donut,bird,owl,dog,robot,peacock,monkey,banana,wall,tree,funny,present,toes,gray,wheel,fire,parrot,dice,cheese,colors,pig,stripe,bug,block,tall,tube,coal,pig,guy
+3XTW7A,nonschema,1,"Image 1: owl
+Image 2: donut","Image 1: owl
+Image 2: donut
+Image 3: robot
+Image 4: bird","Image 1: owl
+Image 2: scorpion
+Image 3: dog
+Image 4: bird
+Image 5: donut
+Image 6: fish
+Image 7: girl
+Image 8: robot","Image 1: peacock
+Image 2: wall
+Image 3: toes
+Image 4: tree 
+Image 5: funny
+Image 6: present
+Image 7: monkey
+Image 8: banana","Image 1: colors
+Image 2: pig
+Image 3: gray
+Image 4: parrot
+Image 5: wheel
+Image 6: dice
+Image 7: cheese
+Image 8: fire","Image 1: tube
+Image 2: bug
+Image 3: block
+Image 4: guy
+Image 5: pig
+Image 6: coal
+Image 7: stripe
+Image 8: tall",donut,owl,donut,bird,owl,robot,fish,scorpion,girl,donut,bird,owl,dog,robot,peacock,funny,bananas,wall,;tree,funny,,toes,,,,,,banana,,,,,,,,,,
+407XTD,nonschema,0,"Image 1: owl 
+Image 2: pancake","Image 1:owl
+Image 2:pancake
+Image 3:binoculars
+Image 4:robot","Image 1:owl
+Image 2:scorpion
+Image 3:dog
+Image 4:robot
+Image 5:pancake
+Image 6:shark
+Image 7:girl
+Image 8:binoculars","Image 1:peacock
+Image 2:tablet
+Image 3:foot
+Image 4:tree
+Image 5:robot
+Image 6:platypus
+Image 7:monkey
+Image 8:oven","Image 1:apple
+Image 2:robot
+Image 3:clippy
+Image 4:witch
+Image 5:wheel
+Image 6:cube
+Image 7:toaster
+Image 8:tomato","Image 1:phone
+Image 2:note
+Image 3:cheese
+Image 4:oreo
+Image 5:robot
+Image 6:licorice
+Image 7:taffy
+Image 8:rolo",owl,owl,pancake,robot,owl,binoculars,shark,scorpion,girl,pancake,robot,owl,dog,binoculars,peacock,monkey,oven,tablet,tree,robot,platypus,foot,clippy,wheel,tomato,witch,cube,toaster,apple,robot,taffy,note,cheese,rolo,phone,licorice,robot,oreo
+407XTD,nonschema,1,"Image 1: owl 
+Image 2: pancake","Image 1:owl
+Image 2:pancake
+Image 3:binoculars
+Image 4:robot","Image 1:owl
+Image 2:scorpion
+Image 3:dog
+Image 4:robot
+Image 5:pancake
+Image 6:shark
+Image 7:girl
+Image 8:binoculars","Image 1:peacock
+Image 2:tablet
+Image 3:foot
+Image 4:tree
+Image 5:robot
+Image 6:platypus
+Image 7:monkey
+Image 8:oven","Image 1:apple
+Image 2:robot
+Image 3:clippy
+Image 4:witch
+Image 5:wheel
+Image 6:cube
+Image 7:toaster
+Image 8:tomato","Image 1:phone
+Image 2:note
+Image 3:cheese
+Image 4:oreo
+Image 5:robot
+Image 6:licorice
+Image 7:taffy
+Image 8:rolo",pancake,pancake,pancake,robot,owl,binoculars,shark,scorpion,girl,pancake,robot,owl,dog,binoculars,peacock,monkey,oven,tablet,tree,robot,platypus,foot,clippy,wheel,tomato,witch,cube,toaster,apple,robot,taffy,note,cheese,rolo,phone,licorice,robot,oreo
+4GBFHG,nonschema,0,"Image 1:owl
+Image 2:clock","Image 1:owl
+Image 2:clock
+Image 3:no face
+Image 4:pig","Image 1:owl
+Image 2: scorpion
+Image 3: monkey
+Image 4:pig
+Image 5:clock
+Image 6:robot
+Image 7:girl
+Image 8:no face","Image 1: leave
+Image 2:rectangle
+Image 3:square
+Image 4:cactus
+Image 5:short
+Image 6:waiter
+Image 7:chocolate
+Image 8:yellow","Image 1:multi
+Image 2:robot
+Image 3:grey
+Image 4:bird
+Image 5:green
+Image 6:white
+Image 7:yellow
+Image 8:red","Image 1: blue circle
+Image 2:robot
+Image 3:square
+Image 4:rectangle
+Image 5:white
+Image 6:black
+Image 7:purple
+Image 8:chocolate",clock,owl,clock,pig,owl,no face,robot,scorpion,girl,clock,pig,owl,monkey,no face,leave,chocolate,yellow,rectangle,cactus,short,waiter,square,grey,green,red,bird,white,yellow,multi,robot,purple,robot,square,chocolate,blue circle,black,white,rectangle
+4GBFHG,nonschema,1,"Image 1:owl
+Image 2:clock","Image 1:owl
+Image 2:clock
+Image 3:no face
+Image 4:pig","Image 1:owl
+Image 2: scorpion
+Image 3: monkey
+Image 4:pig
+Image 5:clock
+Image 6:robot
+Image 7:girl
+Image 8:no face","Image 1: leave
+Image 2:rectangle
+Image 3:square
+Image 4:cactus
+Image 5:short
+Image 6:waiter
+Image 7:chocolate
+Image 8:yellow","Image 1:multi
+Image 2:robot
+Image 3:grey
+Image 4:bird
+Image 5:green
+Image 6:white
+Image 7:yellow
+Image 8:red","Image 1: blue circle
+Image 2:robot
+Image 3:square
+Image 4:rectangle
+Image 5:white
+Image 6:black
+Image 7:purple
+Image 8:chocolate",clock,owl,clock,pig,owl,no face,robot,scorpion,girl,clock,no face,owl,monkey,little,cactus,chocolate,yellow,rectangle,cactus,robot,square,square,grey,green,red,bird,white,yellow,multi,robot,purple,robot,square,chocolate,blue circle,black,white,rectangle
+57ZQA5,nonschema,0,"Image 1: Owl
+Image 2: Lifesaver","Image 1: Owl
+Image 2: Lifesaver
+Image 3: Wally
+Image 4: Droid","Image 1: Owl
+Image 2: Scorpion
+Image 3: Elephant
+Image 4: Droid
+Image 5: Lifesaver
+Image 6: Woody
+Image 7: Sofia
+Image 8: Wally","Image 1: Flower
+Image 2: Paper
+Image 3: Sink
+Image 4: Plant
+Image 5: Bench
+Image 6: Minion
+Image 7: Root
+Image 8: Burger","Image 1: rainbow
+Image 2: tea
+Image 3: chair
+Image 4: pole
+Image 5: steering wheel
+Image 6: cube
+Image 7: holder
+Image 8: hotdog","Image 1: seat
+Image 2: worm
+Image 3: butter
+Image 4: pencil
+Image 5: toilet paper
+Image 6: shoe
+Image 7: aubergine
+Image 8: stick",lifesaver,owl,lifesaver,droid,owl,wally,woody,scorpion,sofia,lifesaver,droid,owl,elephant,,flower,root,burger,sink,plant,bench,minion,sink,chair,steering wheel,hotdog,pole,cube,holder,rainbow,tea,aubergine,worm,butter,stick,seat,shoe,toilet paper,pencil
+57ZQA5,nonschema,1,"Image 1: Owl
+Image 2: Lifesaver","Image 1: Owl
+Image 2: Lifesaver
+Image 3: Wally
+Image 4: Droid","Image 1: Owl
+Image 2: Scorpion
+Image 3: Elephant
+Image 4: Droid
+Image 5: Lifesaver
+Image 6: Woody
+Image 7: Sofia
+Image 8: Wally","Image 1: Flower
+Image 2: Paper
+Image 3: Sink
+Image 4: Plant
+Image 5: Bench
+Image 6: Minion
+Image 7: Root
+Image 8: Burger","Image 1: rainbow
+Image 2: tea
+Image 3: chair
+Image 4: pole
+Image 5: steering wheel
+Image 6: cube
+Image 7: holder
+Image 8: hotdog","Image 1: seat
+Image 2: worm
+Image 3: butter
+Image 4: pencil
+Image 5: toilet paper
+Image 6: shoe
+Image 7: aubergine
+Image 8: stick",lifesaver,owl,lifesaver,droid,owl,wally,woody,scorpion,sofia,lifesaver,droid,owl,elephant,wally,flower,root,burger,paper,plant,sink,minion,bench,chair,steering wheel,hotdog,pole,cube,holder,rainbow,tea,aubergine,worm,butter,stick,seat,shoe,toilet paper,pencil
+868SK9,nonschema,0,"1:Owl
+Image 2:moon man","Image 1:owl
+Image 2:moon man
+Image 3: frog
+Image 4:comb over","Image 1: owl
+Image 2: sting
+Image 3: dog
+Image 4: comb over
+Image 5: moon man
+Image 6:fish
+Image 7: pigtails
+Image 8: frog","Image 1: flower
+Image 2: man
+Image 3:four feet
+Image 4:plant
+Image 5: alive
+Image 6: puppy
+Image 7: spider
+Image 8: van man","Image 1: colorful
+Image 2: boy
+Image 3:robot
+Image 4:bird
+Image 5:wheel
+Image 6: can
+Image 7:mouth
+Image 8: comb over","Image 1: woman
+Image 2:girl
+Image 3:yellow
+Image 4:white
+Image 5: small
+Image 6: squat
+Image 7:purple
+Image 8:legs",moon man,owl,moon man,comb over,owl,frog,fish,sting,pigtails,moon man,comb over,owl,dog,frog,flower,spider,van man,man,four feet,alive,puppy,four feet,robot,wheel,comb over,bird,can,mouth,colorful,boy,purple,girl,yellow,leggs,woman,squat,small,white
+868SK9,nonschema,1,"1:Owl
+Image 2:moon man","Image 1:owl
+Image 2:moon man
+Image 3: frog
+Image 4:comb over","Image 1: owl
+Image 2: sting
+Image 3: dog
+Image 4: comb over
+Image 5: moon man
+Image 6:fish
+Image 7: pigtails
+Image 8: frog","Image 1: flower
+Image 2: man
+Image 3:four feet
+Image 4:plant
+Image 5: alive
+Image 6: puppy
+Image 7: spider
+Image 8: van man","Image 1: colorful
+Image 2: boy
+Image 3:robot
+Image 4:bird
+Image 5:wheel
+Image 6: can
+Image 7:mouth
+Image 8: comb over","Image 1: woman
+Image 2:girl
+Image 3:yellow
+Image 4:white
+Image 5: small
+Image 6: squat
+Image 7:purple
+Image 8:legs",moon man,owl,moon man,comb over,owl,frog,fish,sting,pigtails,moon man,comb over,owl,dog,frog,flower,spider,van man,man,plant,alive,puppy,four feet,robot,wheel,comb over,bird,can,mouth,colorful,boy,purple,girl,yellow,legs,woman,squat,small,white
+987DM5,nonschema,0,"Image 1: owl
+Image 2: pizza","Image 1: owl
+Image 2: pizza
+Image 3: binoculars
+Image 4: robot","Image 1: owl
+Image 2: scorpion
+Image 3: dog
+Image 4: robot
+Image 5: pizza
+Image 6: fish
+Image 7: helmet
+Image 8: binoculars","Image 1: peacock
+Image 2: paper
+Image 3: piano
+Image 4: tree
+Image 5: binoculars
+Image 6: mailbox
+Image 7: legs
+Image 8: duck","Image 1: colours
+Image 2: skinny
+Image 3: robot
+Image 4: bird
+Image 5: ship
+Image 6: fish
+Image 7: mouth
+Image 8: anger","Image 1: circle
+Image 2: snail
+Image 3: cheese
+Image 4: awkward
+Image 5: boat
+Image 6: crab
+Image 7: fruit
+Image 8: tall",owl,owl,pizza,robot,owl,binocular,fish,scorpion,helmet,pizza,robot,owl,dog,binoculars,peacock,legs,duck,paper,tree,binoculars,mailbox,piano,robot,ship,anger,bird,fish,mouth,colours,skinny,fruit,snail,cheese,tall,circle,crab,boat,awkward
+987DM5,nonschema,1,"Image 1: owl
+Image 2: pizza","Image 1: owl
+Image 2: pizza
+Image 3: binoculars
+Image 4: robot","Image 1: owl
+Image 2: scorpion
+Image 3: dog
+Image 4: robot
+Image 5: pizza
+Image 6: fish
+Image 7: helmet
+Image 8: binoculars","Image 1: peacock
+Image 2: paper
+Image 3: piano
+Image 4: tree
+Image 5: binoculars
+Image 6: mailbox
+Image 7: legs
+Image 8: duck","Image 1: colours
+Image 2: skinny
+Image 3: robot
+Image 4: bird
+Image 5: ship
+Image 6: fish
+Image 7: mouth
+Image 8: anger","Image 1: circle
+Image 2: snail
+Image 3: cheese
+Image 4: awkward
+Image 5: boat
+Image 6: crab
+Image 7: fruit
+Image 8: tall",pizza,owl,pizza,robot,owl,binoculars,fish,scorpion,helmet,pizza,robot,owl,dog,binoculars,peacock,legs,duck,paper,tree,bin,mailbox,piano,robot,ship,anger,bird,fish,mouth,colours,skinny,fruit,snail,cheese,tall,circle,crab,boat,awkward
+9TJB6Q,nonschema,0,"Image 1:owl
+Image 2:Man hole cover","Image 1:owl
+Image 2:manhole cover
+Image 3:r2d2
+Image 4:bug","Image 1:owl
+Image 2:scorpion
+Image 3:dog
+Image 4:bug
+Image 5:manhole cover
+Image 6:sword
+Image 7:girl
+Image 8:r2d2","Image 1:leaves
+Image 2:robot
+Image 3:foot
+Image 4:bush
+eyes
+Image 6:monster
+Image 7:
+Image 8:","Image 1:colors
+Image 2:eyes
+Image 3:robot
+Image 4:
+Image 5:
+Image 6:
+Image 7:
+Image 8:","Image 1:toilet
+Image 2:bug
+Image 3:gold
+Image 4:pipe
+Image 5:soap
+Image 6:pot
+Image 7:red
+Image 8:thing",manhole cover,owl,manhole cover,bug,owl,r2d2,sward,scorpion,girl,manhole cover,bug,owl,dog,r2d2,leaves,monster,?,eyes,bush,eyes,monster,foot,,,eyes,nose,cube,,rainbow,leg,red,bug,gold,pipe,toilet,pot,soap,thing
+9TJB6Q,nonschema,1,"Image 1:owl
+Image 2:Man hole cover","Image 1:owl
+Image 2:manhole cover
+Image 3:r2d2
+Image 4:bug","Image 1:owl
+Image 2:scorpion
+Image 3:dog
+Image 4:bug
+Image 5:manhole cover
+Image 6:sword
+Image 7:girl
+Image 8:r2d2","Image 1:leaves
+Image 2:robot
+Image 3:foot
+Image 4:bush
+eyes
+Image 6:monster
+Image 7:
+Image 8:","Image 1:colors
+Image 2:eyes
+Image 3:robot
+Image 4:
+Image 5:
+Image 6:
+Image 7:
+Image 8:","Image 1:toilet
+Image 2:bug
+Image 3:gold
+Image 4:pipe
+Image 5:soap
+Image 6:pot
+Image 7:red
+Image 8:thing",man hole cover,owl,manhole cover,bug,owl,r2d2,sword,scorpion,girl,manhole cover,bug,owl,dog,r2d2,leaves,,,robot,bush,,monster,foot,,,,,,,,,,,,,,,,
+A5SQN4,nonschema,0,"Image 1:owl
+Image 2:toy","Image 1:owl
+Image 2:toy
+Image 3:eyes
+Image 4:policeman","Image 1:owl
+Image 2:crab
+Image 3:pregnant
+Image 4:policeman
+Image 5:toy
+Image 6:parrot
+Image 7:helmet
+Image 8:eyes","Image 1:floral
+Image 2:scared
+Image 3:fat
+Image 4:cactus
+Image 5:swing
+Image 6:dog
+Image 7:robot
+Image 8:duck","Image 1:rubic
+Image 2:child
+Image 3:knight
+Image 4:woodpecker
+Image 5:wheel
+Image 6:lighthouse
+Image 7:security
+Image 8:tnt","Image 1:chicken
+Image 2:file
+Image 3:worried
+Image 4:policeman
+Image 5:shampoo
+Image 6:cockroach
+Image 7:skinny
+Image 8:student",toy,owl,toy,policeman,owl,eyes,helmet,crab,helmet,,,owl,pregenat,eyes,floral,robot,duck,scared,cactus,swing,dog,cake,knight,wheel,tnt,woodpecker,lighthouse,security,rubic,child,skinny,,worried,cockroach,chicken,cockroach,shampoo,policeman
+A5SQN4,nonschema,1,"Image 1:owl
+Image 2:toy","Image 1:owl
+Image 2:toy
+Image 3:eyes
+Image 4:policeman","Image 1:owl
+Image 2:crab
+Image 3:pregnant
+Image 4:policeman
+Image 5:toy
+Image 6:parrot
+Image 7:helmet
+Image 8:eyes","Image 1:floral
+Image 2:scared
+Image 3:fat
+Image 4:cactus
+Image 5:swing
+Image 6:dog
+Image 7:robot
+Image 8:duck","Image 1:rubic
+Image 2:child
+Image 3:knight
+Image 4:woodpecker
+Image 5:wheel
+Image 6:lighthouse
+Image 7:security
+Image 8:tnt","Image 1:chicken
+Image 2:file
+Image 3:worried
+Image 4:policeman
+Image 5:shampoo
+Image 6:cockroach
+Image 7:skinny
+Image 8:student",toy,owl,toy,policeman,owl,eyes,parrot,crab,helmet,toy,policeman,owl,pregnant,eyes,floral,robot,duck,scared,cactus,swing,dog,fat,security,wheel,tnt,woodpecker,lighthouse,security,rubic,child,skinny,file,worried,student,chicken,cockroach,shampoo,policeman
+E8T5Z5,nonschema,0,"Image 1: owl
+Image 2: circle","Image 1: owl
+Image 2: circle
+Image 3: eyes
+Image 4: square","Image 1: owl
+Image 2: scorpion
+Image 3: dog
+Image 4: square
+Image 5: circle
+Image 6: shark
+Image 7: lady
+Image 8: eyes","Image 1: headdress
+Image 2: rectangle
+Image 3: four feet
+Image 4: cactus
+Image 5: spectacles
+Image 6: clown
+Image 7: orange quiff
+Image 8: chicken","Image 1: colours
+Image 2: red hands
+Image 3: grey guy
+Image 4: bird
+Image 5: web
+Image 6: cube
+Image 7: yellow
+Image 8: bee","Image 1: circle
+Image 2: pink & yellow
+Image 3: orange
+Image 4: red belly button
+Image 5: white
+Image 6: black
+Image 7: pink
+Image 8: brown",circle,owl,circle,square,owl,eyes,shark,scorpion,lady,circle,square,owl,dog,eyes,headdress,orange quiff,four feet,rectangle,cactus,spectacles,clown,four feet,grey guy,web,bee,bird,cube,yellow,colours,red hands,pink,pink & yellow,orange,brown,circle,black,white,red belly button
+E8T5Z5,nonschema,1,"Image 1: owl
+Image 2: circle","Image 1: owl
+Image 2: circle
+Image 3: eyes
+Image 4: square","Image 1: owl
+Image 2: scorpion
+Image 3: dog
+Image 4: square
+Image 5: circle
+Image 6: shark
+Image 7: lady
+Image 8: eyes","Image 1: headdress
+Image 2: rectangle
+Image 3: four feet
+Image 4: cactus
+Image 5: spectacles
+Image 6: clown
+Image 7: orange quiff
+Image 8: chicken","Image 1: colours
+Image 2: red hands
+Image 3: grey guy
+Image 4: bird
+Image 5: web
+Image 6: cube
+Image 7: yellow
+Image 8: bee","Image 1: circle
+Image 2: pink & yellow
+Image 3: orange
+Image 4: red belly button
+Image 5: white
+Image 6: black
+Image 7: pink
+Image 8: brown",circle,owl,circle,square,owl,eyes,shark,scorpion,lady,circle,square,owl,dog,eyes,headdress,orange quiff,chicken,rectangle,cactus,spectacles,clown,four feet,grey guy,web,bee,bird,cube,yellow,colours,red hands,pink,pink & yellow,orange,brown,circle,black,white,red belly button
+GQR2MR,nonschema,0,"Image 1: Standing owl
+Image 2: lego face","Image 1:standing owl
+Image 2:lego face
+Image 3:frog
+Image 4:crooked hat","Image 1:standing owl
+Image 2:scorpian
+Image 3:moose
+Image 4: crooked hat
+Image 5:lego face
+Image 6: fly
+Image 7:hair
+Image 8:frog","Image 1:peacock
+Image 2:alfalfa
+Image 3:yellow feet
+Image 4: greenhopper
+Image 5:orange ears
+Image 6:gray ears
+Image 7:crooked hat
+Image 8:yellow duck","Image 1:apple
+Image 2:tree
+Image 3:sunglasses 
+Image 4: Parrot
+Image 5:green face
+Image 6:square lego
+Image 7:yellow hamburger
+Image 8:crroked hat","Image 1: blue robot
+Image 2:backpack
+Image 3: cheese robot
+Image 4:big mouth
+Image 5:robot
+Image 6:little green man
+Image 7:red body
+Image 8: crooked hat",lego face,standing owl,lego face,crooked hat,standing owl,frog,fly,scorpian,hair,lego face,crooked hat,standing owl,moose,frog,peacock,crooked hat,yellow duck,alfalfa,greenhopper,orange ears,gray ears,yellow feet,sunglasses,green face,crooked hat,parrot,square lego,yellow hamburger,apple,tree,red body,backpack,cheese robot,robot,blue robot,little green man,robot,big mouth
+GQR2MR,nonschema,1,"Image 1: Standing owl
+Image 2: lego face","Image 1:standing owl
+Image 2:lego face
+Image 3:frog
+Image 4:crooked hat","Image 1:standing owl
+Image 2:scorpian
+Image 3:moose
+Image 4: crooked hat
+Image 5:lego face
+Image 6: fly
+Image 7:hair
+Image 8:frog","Image 1:peacock
+Image 2:alfalfa
+Image 3:yellow feet
+Image 4: greenhopper
+Image 5:orange ears
+Image 6:gray ears
+Image 7:crooked hat
+Image 8:yellow duck","Image 1:apple
+Image 2:tree
+Image 3:sunglasses 
+Image 4: Parrot
+Image 5:green face
+Image 6:square lego
+Image 7:yellow hamburger
+Image 8:crroked hat","Image 1: blue robot
+Image 2:backpack
+Image 3: cheese robot
+Image 4:big mouth
+Image 5:robot
+Image 6:little green man
+Image 7:red body
+Image 8: crooked hat",lego face,standing owl,lego face,crooked hat,standing owl,frog,fly,scorpian,hair,lego face,frog,standing owl,moose,frog,peacock,alfalfa,yellow duck,alfalfa,grasshopper,orange ears,gre,yellow feat,sunglasses,green face,crooked hat,parrot,square lego,yellow hamburger,apple,tree,red body,backpack,cheese robot,crooked hat,blue robot,little green man,robot,bog mouth
+GYV382,nonschema,0,"Image 1:owl
+Image 2:cookie","Image 1:
+Image 2:
+Image 3:
+Image 4:","Image 1:
+Image 2:
+Image 3:
+Image 4:
+Image 5:
+Image 6:
+Image 7:
+Image 8:","Image 1:
+Image 2:
+Image 3:
+Image 4:
+Image 5:
+Image 6:
+Image 7:
+Image 8:","Image 1:
+Image 2:
+Image 3:
+Image 4:
+Image 5:
+Image 6:
+Image 7:
+Image 8:","Image 1:
+Image 2:
+Image 3:
+Image 4:
+Image 5:
+Image 6:
+Image 7:
+Image 8:",cookie,owl,cookie,kid,owl,glasses,shark,scorpion,girl,cookie,kid,owl,dog,glasses,flower,kid,girl,snowman,tree,glasses,owl,octapuss,owl,cookie,kid,bird,dice,duck,flower,glasses,purple,dice,orange,brown,cookie,baby,kid,owl
+GYV382,nonschema,1,"Image 1:owl
+Image 2:cookie","Image 1:
+Image 2:
+Image 3:
+Image 4:","Image 1:
+Image 2:
+Image 3:
+Image 4:
+Image 5:
+Image 6:
+Image 7:
+Image 8:","Image 1:
+Image 2:
+Image 3:
+Image 4:
+Image 5:
+Image 6:
+Image 7:
+Image 8:","Image 1:
+Image 2:
+Image 3:
+Image 4:
+Image 5:
+Image 6:
+Image 7:
+Image 8:","Image 1:
+Image 2:
+Image 3:
+Image 4:
+Image 5:
+Image 6:
+Image 7:
+Image 8:",cookie,one,cookie,kid,owl,glasses,shark,scorpion,girl,cookie,kid,owl,dog,glasses,flowers,g,girl,snowman,tree,glasses,owl,octopous,owl,cookie,kid,bird,dice,duck,flower,glasses,purple,dice,orange,brown,cookie,baby,kid,owl
+HCMSNR,nonschema,0,"Image 1:owl
+Image 2:cookie","Image 1:owl 
+Image 2:COOKIE
+Image 3: TURTLE
+Image 4:FROG","Image 1:owl
+	Image 2:scorpion
+	Image 3:elephant
+Image 4:frog
+	Image 5:cookie
+Image 6:skunk
+Image 7:person
+Image 8:turtle","Image 1:flower
+Image 2:block
+Image 3:bartender
+Image 4:tree
+Image 5:eyebrow
+Image 6:present
+	Image 7:robot
+Image 8:Man","Image 1:artist
+Image 2:eyebrow
+Image 3:robot
+Image 4:bird
+Image 5:lid
+Image 6:square
+Image 7:box
+Image 8:child","Image 1:pizza
+	Image 2:file
+Image 3:fry
+Image 4:robot
+Image 5:hair
+Image 6:spider
+Image 7:candy
+Image 8:tLegs",cookie,owl,cookie,frog,owl,turtle,skunk,scorpion,person,cookie,frog,owl,elephant,turtle,flower,eyebrow,man,block,tree,eyebrow,present,cups,robot,lid,child,bird,square,box,artist,eyebrows,candy,file,hair,hair,pizza,spider,hair,robot
+HCMSNR,nonschema,1,"Image 1:owl
+Image 2:cookie","Image 1:owl 
+Image 2:COOKIE
+Image 3: TURTLE
+Image 4:FROG","Image 1:owl
+	Image 2:scorpion
+	Image 3:elephant
+Image 4:frog
+	Image 5:cookie
+Image 6:skunk
+Image 7:person
+Image 8:turtle","Image 1:flower
+Image 2:block
+Image 3:bartender
+Image 4:tree
+Image 5:eyebrow
+Image 6:present
+	Image 7:robot
+Image 8:Man","Image 1:artist
+Image 2:eyebrow
+Image 3:robot
+Image 4:bird
+Image 5:lid
+Image 6:square
+Image 7:box
+Image 8:child","Image 1:pizza
+	Image 2:file
+Image 3:fry
+Image 4:robot
+Image 5:hair
+Image 6:spider
+Image 7:candy
+Image 8:tLegs",,,cookie,frog,owl,turtle,skunk,scorpion,person,cookie,frog,owl,elephant,t,flower,ro,man,block,tree,eyebrow,present,barteneder,robot,lid,child,bird,square,box,artist,eye brow,candy,file,fry,tlegs,pizza,spider,hair,robot
+HQ8J1N,nonschema,0,"Image 1: owl
+Image 2: doughnut","Image 1: owl
+Image 2: doughut
+Image 3: frog
+Image 4: square","Image 1: owl
+Image 2: scorpian
+Image 3: cow
+Image 4: square
+Image 5: doughnut 
+Image 6: crab
+Image 7: hair
+Image 8: frog","Image 1: flower
+Image 2: penguin 
+Image 3: crab
+Image 4: tree
+Image 5: dog
+Image 6: meerkat
+Image 7: lemur 
+Image 8: alien","Image 1: cake
+Image 2: human
+Image 3: robot
+Image 4: bird
+Image 5: spider
+Image 6: square 
+Image 7: big bird
+Image 8: bee","Image 1: swim
+Image 2: dog
+Image 3: yellow
+Image 4: woman
+Image 5: white
+Image 6: spider
+Image 7: ski
+Image 8: man",doughnut,owl,doughnut,square,owl,frog,crab,scorpion,hair,doughnut,square,owl,cow,frog,flower,lemur,alien,penguin,tree,dog,meerkat,crab,robot,spider,bee,bird,square,big bird,cake,human,ski,dog,yellow,man,swim,spider,white,woman
+HQ8J1N,nonschema,1,"Image 1: owl
+Image 2: doughnut","Image 1: owl
+Image 2: doughut
+Image 3: frog
+Image 4: square","Image 1: owl
+Image 2: scorpian
+Image 3: cow
+Image 4: square
+Image 5: doughnut 
+Image 6: crab
+Image 7: hair
+Image 8: frog","Image 1: flower
+Image 2: penguin 
+Image 3: crab
+Image 4: tree
+Image 5: dog
+Image 6: meerkat
+Image 7: lemur 
+Image 8: alien","Image 1: cake
+Image 2: human
+Image 3: robot
+Image 4: bird
+Image 5: spider
+Image 6: square 
+Image 7: big bird
+Image 8: bee","Image 1: swim
+Image 2: dog
+Image 3: yellow
+Image 4: woman
+Image 5: white
+Image 6: spider
+Image 7: ski
+Image 8: man",doughnut,owl,doughnut,square,owl,frog,crab,scorpian,hair,doughnut,square,owl,cow,frog,flower,lemur,alien,penguin,tree,dog,meerkat,crab,robot,spider,bee,bird,square,bigbird,cake,human,ski,dog,yellow,man,swim,spider,white,woman
+KHQ8YT,nonschema,0,"Image 1:cat
+Image 2: donut","Image 1: cat
+Image 2: donut
+Image 3: bug
+Image 4: snap","Image 1: cat
+Image 2: scorpion
+Image 3: dog
+Image 4: snap
+Image 5: donut
+Image 6: grasshopper
+Image 7: girl
+Image 8: bug","Image 1: mardigras
+Image 2: paper
+Image 3: type
+Image 4: tree
+Image 5: radiator
+Image 6: puppy
+Image 7: spider
+Image 8: phone","Image 1: rubix
+Image 2: girl
+Image 3: gray
+Image 4: bird
+Image 5: wheel
+Image 6: robot
+Image 7: mail
+Image 8: burglar","Image 1: turkey
+Image 2: worm
+Image 3: banana
+Image 4: domino
+Image 5: r2d2
+Image 6: crab
+Image 7: board
+Image 8: chocolate",donut,cat,donut,snap,cat,bug,grasshopper,scorpion,girl,donut,snap,cat,dog,bug,mardigras,spider,phone,paper,tree,radiator,puppy,type,gray,wheel,burglar,bird,robot,mail,rubix,girl,board,worm,banana,chocolate,turkey,crab,r2d2,domino
+KHQ8YT,nonschema,1,"Image 1:cat
+Image 2: donut","Image 1: cat
+Image 2: donut
+Image 3: bug
+Image 4: snap","Image 1: cat
+Image 2: scorpion
+Image 3: dog
+Image 4: snap
+Image 5: donut
+Image 6: grasshopper
+Image 7: girl
+Image 8: bug","Image 1: mardigras
+Image 2: paper
+Image 3: type
+Image 4: tree
+Image 5: radiator
+Image 6: puppy
+Image 7: spider
+Image 8: phone","Image 1: rubix
+Image 2: girl
+Image 3: gray
+Image 4: bird
+Image 5: wheel
+Image 6: robot
+Image 7: mail
+Image 8: burglar","Image 1: turkey
+Image 2: worm
+Image 3: banana
+Image 4: domino
+Image 5: r2d2
+Image 6: crab
+Image 7: board
+Image 8: chocolate",donut,cat,donut,snap,cat,bug,grasshopper,scorpion,girl,donut,snap,cat,dog,bug,mardigras,spider,phone,paper,tree,radiator,puppy,type,gray,wheel,burglar,bird,robot,mail,rubix,girl,board,worm,banana,chocolate,donut,crab,r2d2,domino
+KPV70Z,nonschema,0,"Image 1:owl
+Image 2:donut","Image 1:owl
+Image 2:donut
+Image 3:frog
+Image 4:cartoon","Image 1:owl
+Image 2:scorpion
+Image 3:dog
+Image 4:cartoon
+Image 5:donut
+Image 6:fish
+Image 7:mushroom
+Image 8:frog","Image 1:peacock
+Image 2:bird
+Image 3:octopus
+Image 4:tree
+Image 5:arnold
+Image 6:lizard
+Image 7:spider
+Image 8:duck","Image 1:apple
+Image 2:eyes
+Image 3:trash can
+Image 4:tucan
+Image 5:wheel
+Image 6:bug
+Image 7:cheese
+Image 8:bee","Image 1:robot
+Image 2:catepillar
+Image 3:matchstick
+Image 4:worm
+Image 5:dove
+Image 6:beetle
+Image 7:gumby
+Image 8:branch",donut,owl,donut,cartoon,owl,frog,fish,scorpion,mushroom,donut,cartoon,owl,dog,frog,peacock,spider,duck,lizard,tree,arnold,lizard,octopus,trash can,wheel,bee,tucan,bug,cheese,apple,eyes,gumby,catepillar,matchstick,branch,robot,beetle,dove,worm
+KPV70Z,nonschema,1,"Image 1:owl
+Image 2:donut","Image 1:owl
+Image 2:donut
+Image 3:frog
+Image 4:cartoon","Image 1:owl
+Image 2:scorpion
+Image 3:dog
+Image 4:cartoon
+Image 5:donut
+Image 6:fish
+Image 7:mushroom
+Image 8:frog","Image 1:peacock
+Image 2:bird
+Image 3:octopus
+Image 4:tree
+Image 5:arnold
+Image 6:lizard
+Image 7:spider
+Image 8:duck","Image 1:apple
+Image 2:eyes
+Image 3:trash can
+Image 4:tucan
+Image 5:wheel
+Image 6:bug
+Image 7:cheese
+Image 8:bee","Image 1:robot
+Image 2:catepillar
+Image 3:matchstick
+Image 4:worm
+Image 5:dove
+Image 6:beetle
+Image 7:gumby
+Image 8:branch",donut,owl,donut,cartoon,owl,frog,fish,scorpion,mushroom,donut,cartoon,owl,dog,frog,peacock,spider,duck,bird,tree,arnold,bird,octopus,trashcan,wheel,bee,toucan,bug,cheese,apple,eyes,gumby,caterpillar,matchstick,stick,robot,beetle,dove,worm
+KX2FC8,nonschema,0,"1. owl
+2. circle","Image 1: owl
+Image 2: circle
+Image 3: frog
+Image 4: shoes","Image 1: owl
+Image 2: scorpion
+Image 3: dog
+Image 4: shoes
+Image 5: circle
+Image 6: fish
+Image 7: girl
+Image 8: frog","Image 1: peacock
+Image 2: refrigerator
+Image 3: cake
+Image 4: plant
+Image 5: glasses
+Image 6: monster
+Image 7: fire
+Image 8: duck","Image 1: rainbow
+Image 2: pig
+Image 3: chair
+Image 4: bird
+Image 5: wheel
+Image 6: white guy
+Image 7: yellow guy
+Image 8: red guy","Image 1: circle
+Image 2: caterpillar
+Image 3: yellow guy
+Image 4: wall clock
+Image 5: white guy
+Image 6: crab
+Image 7: purple guy
+Image 8: tall guy",circle,owl,circle,shoes,owl,frog,fish,scorpion,girl,circle,shoes,owl,dog,frog,peacock,glasses,duck,refridgerator,plant,glasses,monster,cake,chair,wheel,red guy,bird,white guy,yellow guy,rainbow,pig,purple guy,caterpillar,yellow guy,tall guy,circle,crab,white guy,wall clock
+KX2FC8,nonschema,1,"1. owl
+2. circle","Image 1: owl
+Image 2: circle
+Image 3: frog
+Image 4: shoes","Image 1: owl
+Image 2: scorpion
+Image 3: dog
+Image 4: shoes
+Image 5: circle
+Image 6: fish
+Image 7: girl
+Image 8: frog","Image 1: peacock
+Image 2: refrigerator
+Image 3: cake
+Image 4: plant
+Image 5: glasses
+Image 6: monster
+Image 7: fire
+Image 8: duck","Image 1: rainbow
+Image 2: pig
+Image 3: chair
+Image 4: bird
+Image 5: wheel
+Image 6: white guy
+Image 7: yellow guy
+Image 8: red guy","Image 1: circle
+Image 2: caterpillar
+Image 3: yellow guy
+Image 4: wall clock
+Image 5: white guy
+Image 6: crab
+Image 7: purple guy
+Image 8: tall guy",circle,owl,circle,shoes,owl,frog,fish,scorpion,girl,circle,,,,,,,,man,,,,,,,red guy,,,,rainbow,pig,purple guy,caterpillar,yellow guy,tall guy,circle,bug,white guy,wall clock
+MARST6,nonschema,0,"Image 1:owl
+Image 2:polo","Image 1:owl
+Image 2:polo
+Image 3:frog
+Image 4:bot","Image 1:owl
+Image 2:scorpion
+Image 3:dog
+Image 4:bot
+Image 5:polo
+Image 6:fish
+Image 7:girl
+Image 8:frog","Image 1:bird
+Image 2:lego
+Image 3:duck
+Image 4:tree
+Image 5:bot
+Image 6:dog
+Image 7:bug
+Image 8:fat","Image 1:rainbow
+Image 2:lamb
+Image 3:grey
+Image 4:parrot
+Image 5:wheel
+Image 6:fish
+Image 7:duck
+Image 8:bot","Image 1:polo
+Image 2:pink
+Image 3:lego
+Image 4:boy
+Image 5:white
+Image 6:spider
+Image 7:purple
+Image 8:brown",polo,owl,polo,bot,owl,frog,fish,scorpion,girl,polo,bot,owl,dog,frog,bird,bug,fat,lego,tree,bot,dog,duck,grey,wheel,bot,parrot,fish,duck,rainbow,lamb,purple,pink,lego,brown,polo,spider,white,boy
+MARST6,nonschema,1,"Image 1:owl
+Image 2:polo","Image 1:owl
+Image 2:polo
+Image 3:frog
+Image 4:bot","Image 1:owl
+Image 2:scorpion
+Image 3:dog
+Image 4:bot
+Image 5:polo
+Image 6:fish
+Image 7:girl
+Image 8:frog","Image 1:bird
+Image 2:lego
+Image 3:duck
+Image 4:tree
+Image 5:bot
+Image 6:dog
+Image 7:bug
+Image 8:fat","Image 1:rainbow
+Image 2:lamb
+Image 3:grey
+Image 4:parrot
+Image 5:wheel
+Image 6:fish
+Image 7:duck
+Image 8:bot","Image 1:polo
+Image 2:pink
+Image 3:lego
+Image 4:boy
+Image 5:white
+Image 6:spider
+Image 7:purple
+Image 8:brown",polo,owl,polo,bot,owl,frog,fish,scorpion,girl,polo,bot,owl,dog,frog,bird,bug,fat,lego,tree,bot,dog,duck,grey,wheel,bot,parrot,fish,duck,rainbow,lamb,purple,,lego,brown,polo,spider,white,boy
+MBQ84F,nonschema,0,"Image 1: owl
+Image 2: cookie","Image 1: bird
+Image 2: oreo
+Image 3: camera
+Image 4: frog","Image 1:olly
+Image 2:scorpion
+Image 3: sheep
+Image 4: soldier
+Image 5: round
+Image 6: fly 
+Image 7: girl
+Image 8: bug","Image 1: tree
+Image 2:clown
+Image 3: hen
+Image 4:christmas 
+Image 5: gismo
+Image 6: dog
+Image 7:mario
+Image 8: turkey","Image 1: clown
+Image 2: robot
+Image 3: police
+Image 4: parrot
+Image 5: wheel
+Image 6: square
+Image 7: car
+Image 8: elf","Image 1: hen
+Image 2: caterpillar
+Image 3: mailman
+Image 4: owl
+Image 5: robot
+Image 6:mouse
+Image 7: dolphin
+Image 8: bird",cookie,owl,oreo,frog,bird,camera,fly,scorpion,girl,round,soldier,olly,sheep,bug,tree,mario,turkey,clown,christmas,gismo,dog,hen,police,wheel,elf,parrot,square,car,clown,robot,dolphin,caterpillar,mailman,bird,hen,mouse,robot,owl
+MBQ84F,nonschema,1,"Image 1: owl
+Image 2: cookie","Image 1: bird
+Image 2: oreo
+Image 3: camera
+Image 4: frog","Image 1:olly
+Image 2:scorpion
+Image 3: sheep
+Image 4: soldier
+Image 5: round
+Image 6: fly 
+Image 7: girl
+Image 8: bug","Image 1: tree
+Image 2:clown
+Image 3: hen
+Image 4:christmas 
+Image 5: gismo
+Image 6: dog
+Image 7:mario
+Image 8: turkey","Image 1: clown
+Image 2: robot
+Image 3: police
+Image 4: parrot
+Image 5: wheel
+Image 6: square
+Image 7: car
+Image 8: elf","Image 1: hen
+Image 2: caterpillar
+Image 3: mailman
+Image 4: owl
+Image 5: robot
+Image 6:mouse
+Image 7: dolphin
+Image 8: bird",cookie,owl,oreo,frog,bird,camera,fly,scorpion,girl,,soldier,olly,sheep,bug,tree,mario,hen,clown,chri,gizmo,dog,turkey,police,wheel,elf,parrot,square,,clown,robot,dolphin,caterpillar,mailman,bird,hen,mouse,owl,owl
+MD8EBA,nonschema,0,"Image 1:owl
+Image 2: pizza","Image 1:owl
+Image 2:pizza
+Image 3:stepping
+Image 4:standing","Image 1:owl
+Image 2:scorpion
+Image 3:dog
+Image 4:standing
+Image 5:pizza
+Image 6:fish
+Image 7:helmet
+Image 8:stepping","Image 1:peacock
+Image 2:block
+Image 3:feet
+Image 4:plant
+Image 5:eyebrows
+Image 6:tongue
+Image 7:table
+Image 8:turtle","Image 1:rainbow
+Image 2:crane
+Image 3:soldier
+Image 4:parrot
+Image 5:wheel
+Image 6:nest
+Image 7:cheese
+Image 8:flame","Image 1:bib
+Image 2:caterpillar
+Image 3:orange
+Image 4:tower
+Image 5:ghost
+Image 6:bug
+Image 7:body
+Image 8:legs",pizza,owl,pizza,standing,owl,stepping,fish,scorpion,helmet,pizza,standing,owl,dog,stepping,peacock,table,turtle,block,plant,eyebrows,tongue,feet,soldier,wheel,flame,parrot,nest,cheese,rainbow,crane,body,caterpillar,orange,legs,bib,bug,ghost,tower
+MD8EBA,nonschema,1,"Image 1:owl
+Image 2: pizza","Image 1:owl
+Image 2:pizza
+Image 3:stepping
+Image 4:standing","Image 1:owl
+Image 2:scorpion
+Image 3:dog
+Image 4:standing
+Image 5:pizza
+Image 6:fish
+Image 7:helmet
+Image 8:stepping","Image 1:peacock
+Image 2:block
+Image 3:feet
+Image 4:plant
+Image 5:eyebrows
+Image 6:tongue
+Image 7:table
+Image 8:turtle","Image 1:rainbow
+Image 2:crane
+Image 3:soldier
+Image 4:parrot
+Image 5:wheel
+Image 6:nest
+Image 7:cheese
+Image 8:flame","Image 1:bib
+Image 2:caterpillar
+Image 3:orange
+Image 4:tower
+Image 5:ghost
+Image 6:bug
+Image 7:body
+Image 8:legs",pizza,owl,pizza,standing,owl,stepping,fish,scorpion,helmet,pizza,standing,owl,dog,stepping,peacock,table,turtle,block,plant,eyebrows,tongue,feet,soldier,wheel,flame,parrot,nest,cheese,rainbow,crane,body,caterpillar,orange,legs,bib,bug,ghost,tower
+NFEW6M,nonschema,0,"owl
+    
+    
+    
+waffle","Image 1:owl
+Image 2:waffle
+Image 3:bug
+Image 4:bob","Image 1:owl
+Image 2:scorpion
+Image 3:balloon
+Image 4:bob
+Image 5:waffle
+Image 6:fish
+Image 7:lego
+Image 8:bug","Image 1:peacock
+Image 2:slug
+Image 3:quad
+Image 4:green
+Image 5:alien
+Image 6:pink
+Image 7:google
+Image 8:chicken","Image 1: multi
+Image 2:google
+Image 3:robot
+Image 4:bird
+Image 5:disc
+Image 6:tiny
+Image 7:yellow
+Image 8:half","Image 1:chicken
+Image 2:ant
+Image 3:yellow
+Image 4:robot
+Image 5:feet
+Image 6:short
+Image 7:pink
+Image 8:legs",waffle,owl,waffle,bob,owl,bug,fish,scorpion,lego,waffle,bob,owl,balloon,bug,peacock,google,chicken,slug,green,alien,pink,,robot,disc,half,bird,tiny,yellow,multi,google,pink,short,yellow,legs,chicken,short,feet,robot
+NFEW6M,nonschema,1,"owl
+    
+    
+    
+waffle","Image 1:owl
+Image 2:waffle
+Image 3:bug
+Image 4:bob","Image 1:owl
+Image 2:scorpion
+Image 3:balloon
+Image 4:bob
+Image 5:waffle
+Image 6:fish
+Image 7:lego
+Image 8:bug","Image 1:peacock
+Image 2:slug
+Image 3:quad
+Image 4:green
+Image 5:alien
+Image 6:pink
+Image 7:google
+Image 8:chicken","Image 1: multi
+Image 2:google
+Image 3:robot
+Image 4:bird
+Image 5:disc
+Image 6:tiny
+Image 7:yellow
+Image 8:half","Image 1:chicken
+Image 2:ant
+Image 3:yellow
+Image 4:robot
+Image 5:feet
+Image 6:short
+Image 7:pink
+Image 8:legs",waffle,owl,waffle,bob,owl,bug,fish,scorpion,lego,waffle,bob,owl,balloon,bug,peacock,google,chicken,slug,green,alien,pink,quad,robot,disc,half,bird,cube,yellow,multi,google,pink,feet,yellow,legs,blue,short,feet,robot
+NPT449,nonschema,0,"Image 1: owl
+Image 2: cookie","Image 1: owl
+Image 2: cookie
+Image 3: bug
+Image 4: ant","Image 1: owl
+Image 2: scorpion
+Image 3: belly
+Image 4: ant
+Image 5: cookie
+Image 6: tail
+Image 7: hat
+Image 8: bug","Image 1: peacock
+Image 2: mechanic
+Image 3: cook
+Image 4: plant
+Image 5: bug
+Image 6: server
+Image 7: robot
+Image 8: chef","Image 1: fat
+Image 2: bartender
+Image 3: tall
+Image 4: bird
+Image 5: wheel
+Image 6: block
+Image 7 mail
+Image 8: red","Image 1: dish
+Image 2: small
+Image 3: orange
+Image 4: mouth
+Image 5: white
+Image 6: black
+Image 7:tall
+Image 8: long",cookie,owl,cookie,ant,owl,bug,tail,scorpion,hat,cookie,ant,owl,belly,bug,peacock,robot,chef,mechanic,plant,bug,server,cook,tall,wheel,red,bird,block,mail,fat,bartender,tall,small,orange,long,dish,black,white,mouth
+NPT449,nonschema,1,"Image 1: owl
+Image 2: cookie","Image 1: owl
+Image 2: cookie
+Image 3: bug
+Image 4: ant","Image 1: owl
+Image 2: scorpion
+Image 3: belly
+Image 4: ant
+Image 5: cookie
+Image 6: tail
+Image 7: hat
+Image 8: bug","Image 1: peacock
+Image 2: mechanic
+Image 3: cook
+Image 4: plant
+Image 5: bug
+Image 6: server
+Image 7: robot
+Image 8: chef","Image 1: fat
+Image 2: bartender
+Image 3: tall
+Image 4: bird
+Image 5: wheel
+Image 6: block
+Image 7 mail
+Image 8: red","Image 1: dish
+Image 2: small
+Image 3: orange
+Image 4: mouth
+Image 5: white
+Image 6: black
+Image 7:tall
+Image 8: long",cookie,owl,cookie,ant,owl,bug,tail,scorpion,hat,cookie,ant,owl,belly,bug,peacock,robot,chef,mechanic,plant,bug,server,cook,tall,wheel,red,bird,block,mail,fat,bartender,tall,small,orange,long,dish,black,white,mouth
+QE3M01,nonschema,0,"Image 1: owl
+Image 2: donut","Image 1: owl
+Image 2: donut
+Image 3: shell
+Image 4: elvis","Image 1: owl
+Image 2: scorpion
+Image 3: dog
+Image 4:elvis
+Image 5:donut
+Image 6: tadpole
+Image 7: minion
+Image 8:shell","Image 1: bouquet
+Image 2:brick
+Image 3:toes
+Image 4: tree
+Image 5: eyebrows
+Image 6: tongue
+Image 7: legs
+Image 8: macaroni","Image 1: ella
+Image 2: pig
+Image 3: microscope
+Image 4: bird
+Image 5: wheel
+Image 6: icecube
+Image 7: chomp
+Image 8: pepper","Image 1: pancake
+Image 2: notes
+Image 3: cheese
+Image 4: professor
+Image 5: student
+Image 6: cockroach
+Image 7: jerky
+Image 8: wood",donut,owl,donut,elvis,owl,shell,tadpole,scorpion,minion,donut,elvis,owl,dog,shell,bouquet,legs,macaroni,brick,tree,eyebrows,tongue,toes,mi,wheel,pepper,bird,icecube,chomp,ella,pig,jerky,notes,cheese,wood,pancake,cockroach,student,professor
+QE3M01,nonschema,1,"Image 1: owl
+Image 2: donut","Image 1: owl
+Image 2: donut
+Image 3: shell
+Image 4: elvis","Image 1: owl
+Image 2: scorpion
+Image 3: dog
+Image 4:elvis
+Image 5:donut
+Image 6: tadpole
+Image 7: minion
+Image 8:shell","Image 1: bouquet
+Image 2:brick
+Image 3:toes
+Image 4: tree
+Image 5: eyebrows
+Image 6: tongue
+Image 7: legs
+Image 8: macaroni","Image 1: ella
+Image 2: pig
+Image 3: microscope
+Image 4: bird
+Image 5: wheel
+Image 6: icecube
+Image 7: chomp
+Image 8: pepper","Image 1: pancake
+Image 2: notes
+Image 3: cheese
+Image 4: professor
+Image 5: student
+Image 6: cockroach
+Image 7: jerky
+Image 8: wood",donut,owl,donut,elvis,owl,shell,tadpole,scorpion,minion,donut,elvis,owl,dog,shell,bouquet,legs,macaroni,brick,tree,eyebrows,tongue,toes,microscope,wheel,pepper,bird,icecube,chomp,ella,pig,jerky,notes,cheese,wood,pancake,cockroach,student,professor
+QQKA1C,nonschema,0,"Image 1: owl
+Image 2: waffle","Image 1: owl
+Image 2:waffle
+Image 3:goggles
+Image 4:car","Image 1:owl
+Image 2:scorp
+Image 3:orangatan
+Image 4:car
+Image 5:waffle
+Image 6:mower
+Image 7:helm
+Image 8:goggles","Image 1:totem
+Image 2:fridge
+Image 3:butter
+Image 4:weed
+Image 5:seesaw
+Image 6:clown
+Image 7:bot
+Image 8:burger","Image 1:rainbow
+Image 2:split
+Image 3:darlec
+Image 4:chicken
+Image 5:wheel
+Image 6:rubix
+Image 7:taco
+Image 8:radical","Image 1:toilet
+Image 2:file
+Image 3:bar
+Image 4:domino
+Image 5:fosset
+Image 6:pebble
+Image 7:jerky
+Image 8:stilts",waffle,owl,waffle,car,owl,goggles,mower,scorp,helm,waffle,car,owl,orangatan,goggles,totem,bot,burger,fridge,weed,seesaw,clown,butter,darlec,wheel,radical,chicken,rubix,taco,rainbow,split,jerky,file,bar,stilts,toilet,pebble,fosset,bar
+QQKA1C,nonschema,1,"Image 1: owl
+Image 2: waffle","Image 1: owl
+Image 2:waffle
+Image 3:goggles
+Image 4:car","Image 1:owl
+Image 2:scorp
+Image 3:orangatan
+Image 4:car
+Image 5:waffle
+Image 6:mower
+Image 7:helm
+Image 8:goggles","Image 1:totem
+Image 2:fridge
+Image 3:butter
+Image 4:weed
+Image 5:seesaw
+Image 6:clown
+Image 7:bot
+Image 8:burger","Image 1:rainbow
+Image 2:split
+Image 3:darlec
+Image 4:chicken
+Image 5:wheel
+Image 6:rubix
+Image 7:taco
+Image 8:radical","Image 1:toilet
+Image 2:file
+Image 3:bar
+Image 4:domino
+Image 5:fosset
+Image 6:pebble
+Image 7:jerky
+Image 8:stilts",waffle,owl,waffle,car,owl,googles,mower,scorp,helm,waffle,car,owl,monkey,goggles,totem,robot,burger,fridge,weed,seesaw,clown,butter,darlec,wheel,radical,chicken,rubix,taco,rainbow,split,jerky,file,bar,stilts,toilet,pebble,fosset,domino
+R2C7TK,nonschema,0,"Image 1: Owl
+Image 2: Cookie","Image 1: Owl
+Image 2: Cookies
+Image 3: Binoculars
+Image 4: Robot","Image 1: Owl
+Image 2: Scorpion
+Image 3: Dog
+Image 4: Robot
+Image 5: Cookie
+Image 6: Fish
+Image 7: Edna
+Image 8: Binoculars","Image 1: Aztec
+Image 2: Paper
+Image 3: Cheese
+Image 4: Plant
+Image 5: Eyebrows
+Image 6: Goat
+Image 7: Spider
+Image 8: Burger","Image 1: Quilt
+Image 2: Crab
+Image 3: Robot
+Image 4: Bird
+Image 5: Wheel
+Image 6: Snowman
+Image 7: Postbox
+Image 8: Thing","Image 1: Toilet
+Image 2: Ice Cream
+Image 3: Chip
+Image 4: Tall Snowman
+Image 5:  Short Snowman
+Image 6: Crab
+Image 7: French
+Image 8: Legs",cookie,owl,cookie,robot,owl,binoculars,fish,scorpion,edna,cookie,robot,owl,dog,binoculars,aztec,spider,burger,paper,plant,eyebrows,goat,cheese,robot,wheel,thing,bird,snowman,postbox,quilt,crab,french,ice cream,chip,legs,toilet,crab,short snowman,tall snowman
+R2C7TK,nonschema,1,"Image 1: Owl
+Image 2: Cookie","Image 1: Owl
+Image 2: Cookies
+Image 3: Binoculars
+Image 4: Robot","Image 1: Owl
+Image 2: Scorpion
+Image 3: Dog
+Image 4: Robot
+Image 5: Cookie
+Image 6: Fish
+Image 7: Edna
+Image 8: Binoculars","Image 1: Aztec
+Image 2: Paper
+Image 3: Cheese
+Image 4: Plant
+Image 5: Eyebrows
+Image 6: Goat
+Image 7: Spider
+Image 8: Burger","Image 1: Quilt
+Image 2: Crab
+Image 3: Robot
+Image 4: Bird
+Image 5: Wheel
+Image 6: Snowman
+Image 7: Postbox
+Image 8: Thing","Image 1: Toilet
+Image 2: Ice Cream
+Image 3: Chip
+Image 4: Tall Snowman
+Image 5:  Short Snowman
+Image 6: Crab
+Image 7: French
+Image 8: Legs",cookie,owl,cookie,robot,owl,binoculars,fish,scorpion,edna,cookie,robot,owl,dog,binoculars,aztec,spider,burger,paper,plant,eyebrows,goat,cheese,robot,wheel,thing,bird,snowman,postbox,quilt,crab,french,icecream,chip,legs,toilet,crab,short snowman,tall snowman
+R54G96,nonschema,0,"Image 1: rectangle
+Image 2: circle","Image 1: rectangle
+Image 2: circle
+	Image 3: small
+Image 4: square","Image 1: rectangle
+Image 2: scorpion
+Image 3: fat
+Image 4: square
+Image 5: circle
+Image 6:  shark
+Image 7: hair
+Image 8: small","Image 1: headdress
+Image 2: white
+Image 3: feet
+Image 4: green
+Image 5: eyebrows
+Image 6: bib
+Image 7: quad
+Image 8: hole","Image 1: blocks
+Image 2:   small
+Image 3: soldier
+Image 4: wizard
+Image 5: octagon
+Image 6: cube
+Image 7: mouth
+Image 8: mushroom","Image 1: blue
+Image 2: small
+Image 3: yellow
+Image 4: tall
+Image 5: white
+Image 6: black
+Image 7: pink
+Image 8: legs",circle,rectangle,circle,square,rectangle,small,shark,scorpion,hair,circle,square,rectangle,fat,small,headdress,quad,hole,white,green,eyebrows,bib,feet,soldier,octagon,mushroom,wizard,cube,mouth,blocks,small,pink,small,yellow,legs,blue,black,white,tall
+R54G96,nonschema,1,"Image 1: rectangle
+Image 2: circle","Image 1: rectangle
+Image 2: circle
+	Image 3: small
+Image 4: square","Image 1: rectangle
+Image 2: scorpion
+Image 3: fat
+Image 4: square
+Image 5: circle
+Image 6:  shark
+Image 7: hair
+Image 8: small","Image 1: headdress
+Image 2: white
+Image 3: feet
+Image 4: green
+Image 5: eyebrows
+Image 6: bib
+Image 7: quad
+Image 8: hole","Image 1: blocks
+Image 2:   small
+Image 3: soldier
+Image 4: wizard
+Image 5: octagon
+Image 6: cube
+Image 7: mouth
+Image 8: mushroom","Image 1: blue
+Image 2: small
+Image 3: yellow
+Image 4: tall
+Image 5: white
+Image 6: black
+Image 7: pink
+Image 8: legs",circle,rectangle,circle,square,rectangle,small,shark,scorpion,hair,circle,square,rectangle,fat,small,headdress,quad,hole,white,green,eyebrows,bib,feet,soldier,octagon,mushroom,wizard,cube,mouth,blocks,small,pink,small,yellow,legs,blue,black,white,tall
+SJME17,nonschema,0,"Image 1:owl 
+Image 2: donut","Image 1:owl
+Image 2:donut
+Image 3: big
+Image 4:small","Image 1:owl
+Image 2:scorpion
+Image 3:monkey
+Image 4:small
+Image 5:donut
+Image 6:fly
+Image 7:hair
+Image 8:big","Image 1:leaf
+Image 2:white
+Image 3:yellow
+Image 4:green
+Image 5:eyes
+Image 6:waiter
+Image 7:brown
+Image 8:oven","Image 1:rainbow
+Image 2:purple
+Image 3:grey
+Image 4:green
+Image 5:donut
+Image 6:white
+Image 7:yellow
+Image 8:red","Image 1:blue
+Image 2:pink
+Image 3:yellow
+Image 4:long
+Image 5:short
+Image 6:black
+Image 7:purple
+Image 8:brown",donut,owl,donut,small,owl,big,fly,scorpion,hair,donut,small,owl,monkey,big,leaf,brown,oven,white,green,eyes,waiter,yellow,grey,donut,red,green,white,yellow,rainbow,purple,purple,pink,yellow,brown,blue,black,short,long
+SJME17,nonschema,1,"Image 1:owl 
+Image 2: donut","Image 1:owl
+Image 2:donut
+Image 3: big
+Image 4:small","Image 1:owl
+Image 2:scorpion
+Image 3:monkey
+Image 4:small
+Image 5:donut
+Image 6:fly
+Image 7:hair
+Image 8:big","Image 1:leaf
+Image 2:white
+Image 3:yellow
+Image 4:green
+Image 5:eyes
+Image 6:waiter
+Image 7:brown
+Image 8:oven","Image 1:rainbow
+Image 2:purple
+Image 3:grey
+Image 4:green
+Image 5:donut
+Image 6:white
+Image 7:yellow
+Image 8:red","Image 1:blue
+Image 2:pink
+Image 3:yellow
+Image 4:long
+Image 5:short
+Image 6:black
+Image 7:purple
+Image 8:brown",donut,owl,donut,small,owl,big,fly,scorpion,hair,donut,small,owl,monkey,big,leaf,brown,oven,white,green,eyes,waiter,yellow,grey,donut,red,green,white,yellow,rainbow,purple,purple,pink,yellow,brown,blue,black,short,long
+V85HRK,nonschema,0,"Image 1: Alex
+Image 2: Brian","Image 1: Alex
+Image 2: Brian
+Image 3: Chris
+Image 4: Dick","Image 1: alex
+Image 2: brian
+Image 3: chris
+Image 4: dick
+Image 5: erik
+Image 6: fran
+Image 7: gordon
+Image 8: helen","Image 1: alex
+Image 2: brian
+Image 3: chris
+Image 4: dick
+Image 5: eric
+Image 6: fran
+Image 7: gordon
+Image 8: helen","Image 1: Fat
+Image 2: Bridge
+Image 3:  Robot
+Image 4: Pinocio
+Image 5: Wheel
+Image 6: Box
+Image 7: POS
+Image 8: whistle","Image 1: wheel
+Image 2: filo
+Image 3: pez
+Image 4: tall
+Image 5: robot
+Image 6: crab
+Image 7: gum
+Image 8: legs",brian,alex,brian,dick,alex,chris,gordon,brian,gordon,erik,dick,alex,fran,helen,alex,chris,helen,dick,dick,eric,fran,chris,robot,wheel,whistle,pinocio,box,pos,fat,bridge,gum,filo,pez,legs,wheel,crab,robot,tall
+V85HRK,nonschema,1,"Image 1: Alex
+Image 2: Brian","Image 1: Alex
+Image 2: Brian
+Image 3: Chris
+Image 4: Dick","Image 1: alex
+Image 2: brian
+Image 3: chris
+Image 4: dick
+Image 5: erik
+Image 6: fran
+Image 7: gordon
+Image 8: helen","Image 1: alex
+Image 2: brian
+Image 3: chris
+Image 4: dick
+Image 5: eric
+Image 6: fran
+Image 7: gordon
+Image 8: helen","Image 1: Fat
+Image 2: Bridge
+Image 3:  Robot
+Image 4: Pinocio
+Image 5: Wheel
+Image 6: Box
+Image 7: POS
+Image 8: whistle","Image 1: wheel
+Image 2: filo
+Image 3: pez
+Image 4: tall
+Image 5: robot
+Image 6: crab
+Image 7: gum
+Image 8: legs",alex,alex,brian,dick,alex,chris,helen,brian,helen,eric,dick,alex,fr,helen,alex,gordon,helen,brian,dick,eric,fran,gordon,robot,wheel,whistle,pinocio,box,pos,fat,bridge,gum,filo,pez,legs,wheel,crab,robot,tall
+W8KCV6,nonschema,0,"Image 1: owly
+Image 2: patty","Image 1: owly
+Image 2: patty
+Image 3: doggy
+Image 4: boy","Image 1:owly
+Image 2:scorpion
+Image 3:donkey
+Image 4:boy
+Image 5:patty
+Image 6:hammer
+Image 7:wig
+Image 8:doggy","Image 1:flower
+Image 2:brick
+Image 3: cake
+Image 4: broccoli
+Image 5:car
+Image 6:tongue
+Image 7:squid
+Image 8:taxi","Image 1:brick
+Image 2:nothing
+Image 3:robot
+Image 4:parrot
+Image 5:wheel
+Image 6:dice
+Image 7:taxi
+Image 8:red","Image 1: patty
+Image 2:doggy
+Image 3:taxi
+Image 4:robot
+Image 5:silver
+Image 6:black
+Image 7:tongue
+Image 8:poo",patty,owly,patty,boy,owly,doggy,hammer,scorpion,wig,patty,boy,owly,dog,boy,flower,squid,taxi,brick,broccoli,car,tongue,cake,robot,wheel,red,parrot,dice,taxi,brick,nothing,tongue,doggy,taxi,poo,patty,black,silver,doggy
+W8KCV6,nonschema,1,"Image 1: owly
+Image 2: patty","Image 1: owly
+Image 2: patty
+Image 3: doggy
+Image 4: boy","Image 1:owly
+Image 2:scorpion
+Image 3:donkey
+Image 4:boy
+Image 5:patty
+Image 6:hammer
+Image 7:wig
+Image 8:doggy","Image 1:flower
+Image 2:brick
+Image 3: cake
+Image 4: broccoli
+Image 5:car
+Image 6:tongue
+Image 7:squid
+Image 8:taxi","Image 1:brick
+Image 2:nothing
+Image 3:robot
+Image 4:parrot
+Image 5:wheel
+Image 6:dice
+Image 7:taxi
+Image 8:red","Image 1: patty
+Image 2:doggy
+Image 3:taxi
+Image 4:robot
+Image 5:silver
+Image 6:black
+Image 7:tongue
+Image 8:poo",patty,owly,patty,boy,doggy,doggy,,scorpion,wig,patty,boy,owly,donkey,doggy,,squid,taxi,brick,broccoli,car,tongue,cake,robot,wheel,red,,,taxi,brick,nothing,tongue,doggy,taxi,poo,patty,black,silver,robot
+YSC5HR,nonschema,0,"Image 1: owl
+Image 2: moon","Image 1:owl
+Image 2: moon
+Image 3: alien
+Image 4: shoe","Image 1:owl
+Image 2: scorpion
+Image 3:sheep
+Image 4:shoe
+Image 5: moon
+Image 6: mop
+Image 7:girl
+Image 8: alien","Image 1: turkey
+Image 2: rabbit
+Image 3:sloth
+Image 4:frog
+Image 5:grasshoper
+Image 6:owl
+Image 7:bug
+Image 8: chicken","Image 1:tetris
+Image 2:alien
+Image 3:minion
+Image 4:parrot
+Image 5:wheel
+Image 6:cube
+Image 7:mailbox
+Image 8:hersey's kiss","Image 1: bowl
+Image 2:eraser
+Image 3:firehose
+Image 4:tower
+Image 5:tap
+Image 6:spider
+Image 7:woman
+Image 8:man",moon,owl,moon,shoe,owl,alien,mop,scorpion,girl,moon,girl,owl,sheep,shoe,turkey,bug,sloth,rabbit,frog,bug,rabbit,chicken,minion,wheel,hersey's kiss,parrot,cube,mailbox,tetris,sloth,tower,eraser,firehose,?,bowl,spider,frog,?
+YSC5HR,nonschema,1,"Image 1: owl
+Image 2: moon","Image 1:owl
+Image 2: moon
+Image 3: alien
+Image 4: shoe","Image 1:owl
+Image 2: scorpion
+Image 3:sheep
+Image 4:shoe
+Image 5: moon
+Image 6: mop
+Image 7:girl
+Image 8: alien","Image 1: turkey
+Image 2: rabbit
+Image 3:sloth
+Image 4:frog
+Image 5:grasshoper
+Image 6:owl
+Image 7:bug
+Image 8: chicken","Image 1:tetris
+Image 2:alien
+Image 3:minion
+Image 4:parrot
+Image 5:wheel
+Image 6:cube
+Image 7:mailbox
+Image 8:hersey's kiss","Image 1: bowl
+Image 2:eraser
+Image 3:firehose
+Image 4:tower
+Image 5:tap
+Image 6:spider
+Image 7:woman
+Image 8:man",moon,owl,moon,shoe,owl,alien,mop,scorpion,sheep,moon,shoe,owl,sheep,alien,tukey,alien,chicken,sloth,frog,bug,sloth,sloth,alien,wheel,hersey's kiss,parrot,cube,mailbox,tetris,alien,woman,eraser,firehose,man,disk,spider,bug,tower
+Z6FG46,nonschema,0,"Image 1: furby
+Image 2: donut","Image 1: furby
+Image 2: donut
+Image 3: pig
+Image 4: robot","Image 1: furby
+Image 2: scorpion
+Image 3: dog
+Image 4: robot
+Image 5: donut
+Image 6: shark
+Image 7: girl
+Image 8: pig","Image 1: peacock
+Image 2: bird
+Image 3: four
+Image 4: fern
+Image 5: eyebrow
+Image 6: waiter
+Image 7: octopus
+Image 8: duck","Image 1: rainbow
+Image 2: pole
+Image 3: robot
+Image 4: beak
+Image 5: wheel
+Image 6: cube
+Image 7: yellow
+Image 8: red","Image 1: ring
+Image 2: post
+Image 3: cheese
+Image 4: penguin
+Image 5: white
+Image 6: spider
+Image 7: purple
+Image 8: brown",donut,furby,donut,robot,furby,pig,shark,scorpion,girl,donut,robot,furby,dog,pig,peacock,octopus,duck,bird,fern,eyebrow,waiter,four,robot,wheel,red,beak,cube,yellow,rainbow,pole,purple,post,cheese,brown,ring,spider,white,penguin
+Z6FG46,nonschema,1,"Image 1: furby
+Image 2: donut","Image 1: furby
+Image 2: donut
+Image 3: pig
+Image 4: robot","Image 1: furby
+Image 2: scorpion
+Image 3: dog
+Image 4: robot
+Image 5: donut
+Image 6: shark
+Image 7: girl
+Image 8: pig","Image 1: peacock
+Image 2: bird
+Image 3: four
+Image 4: fern
+Image 5: eyebrow
+Image 6: waiter
+Image 7: octopus
+Image 8: duck","Image 1: rainbow
+Image 2: pole
+Image 3: robot
+Image 4: beak
+Image 5: wheel
+Image 6: cube
+Image 7: yellow
+Image 8: red","Image 1: ring
+Image 2: post
+Image 3: cheese
+Image 4: penguin
+Image 5: white
+Image 6: spider
+Image 7: purple
+Image 8: brown",donut,furby,donut,robot,furby,pig,shark,scorpion,girl,donut,robot,furby,dog,pig,peacock,octopus,duck,bird,fern,eyebrow,waiter,four,robot,wheel,red,beak,cube,yellow,rainbow,pole,purple,post,cheese,brown,ring,spider,white,penguin
+0HQTBM,schema,0,"Image 1:red hat
+Image 2:blue hat","Image 1:red right
+Image 2:blue right
+Image 3:red left
+Image 4:blue left","Image 1:orange black yellow
+Image 2:orange black brown
+Image 3:orange red brown
+Image 4:orange red yellow
+Image 5:blue black yellow
+Image 6:blue black brown
+Image 7:blue red brown
+Image 8:blue red yellow","Image 1:blue red brown
+Image 2:orange black brown
+Image 3:orange black yellow
+Image 4:blue black yellow
+Image 5:blue red yellow
+Image 6:blue black brown
+Image 7:orange red yellow
+Image 8:orange red brown","Image 1:blue black yellow
+Image 2:blue red brown
+Image 3:orange black yellow
+Image 4:blue red yellow
+Image 5:orange red brown
+Image 6:orange black brown
+Image 7:blue black brown
+Image 8:orange red yellow","Image 1:orange red brown tall
+Image 2:blue black yellow short
+Image 3:orange red brown tall
+Image 4:blue black yellow tall 
+Image 5:blue black yellow short
+Image 6:orange red brown short
+Image 7:blue black yellow tall
+Image 8:orange red brown tall",blue hat,red hat,blue right,red left,red right,blue right,blue black brown,orange black brown,blue red brown,blue black yellow,orange red yellow,orange black yellow,orange red brown,blue red yellow,blue red brown,orange red yellow,orange red brown,orange black brown,blue black yellow,blue red yellow,red black brown,orange black yellow,orange black yellow,orange red brown,orange red yellow,blue red yellow,orange black brown,blue black brown,blue black yellow,blue red brown,blue black yellow tall,blue black yellow short,orange red brown tall,orange red brown tall,orange red brown short,orange red brown short,blue black yellow tall,blue black yellow tall
+0HQTBM,schema,1,"Image 1:red hat
+Image 2:blue hat","Image 1:red right
+Image 2:blue right
+Image 3:red left
+Image 4:blue left","Image 1:orange black yellow
+Image 2:orange black brown
+Image 3:orange red brown
+Image 4:orange red yellow
+Image 5:blue black yellow
+Image 6:blue black brown
+Image 7:blue red brown
+Image 8:blue red yellow","Image 1:blue red brown
+Image 2:orange black brown
+Image 3:orange black yellow
+Image 4:blue black yellow
+Image 5:blue red yellow
+Image 6:blue black brown
+Image 7:orange red yellow
+Image 8:orange red brown","Image 1:blue black yellow
+Image 2:blue red brown
+Image 3:orange black yellow
+Image 4:blue red yellow
+Image 5:orange red brown
+Image 6:orange black brown
+Image 7:blue black brown
+Image 8:orange red yellow","Image 1:orange red brown tall
+Image 2:blue black yellow short
+Image 3:orange red brown tall
+Image 4:blue black yellow tall 
+Image 5:blue black yellow short
+Image 6:orange red brown short
+Image 7:blue black yellow tall
+Image 8:orange red brown tall",blue hat,red hat,blue right,red left,red right,blue left,blue black brown,orange black brown,blue red brown,blue black yellow,orange red yellow,orange black yellow,orange red brown,blue red yellow,blue red brown,orange red yellow,orange red brown,orange,blue black yellow,blue red yellow,blue black brown,orange black yellow,orange black yellow,orange red brown,orange red yellow,blue red yellow,orange black brown,blue black brown,blue black yellow,blue red brown,blue black yellow tall,blue black yellow short,orange red brown tall,orange red brown tall,orange red brown short,orange red brown short,blue black yellow short,blue black yellow tall
+1PHMY2,schema,0,"Image 1: Orange
+Image 2: Purple","Image 1: Orange 
+Image 2: Purple
+Image 3: Orange Left
+Image 4: Purple Left","Image 1:orange right yellow
+Image 2:orange right brown
+Image 3:orange left brown
+Image 4:orange left yellow
+Image 5:purple right yellow
+Image 6:purple right brown
+Image 7:purple left brown
+Image 8:purple left yellow","Image 1:purple left brown
+Image 2:orange right brown
+Image 3:orange right yellow
+Image 4:purple right yellow
+Image 5:purple left yellow
+Image 6:purple right brown
+Image 7:orange left yellow
+Image 8:orange left brown","Image 1:purple right yellow
+Image 2:purple left brown
+Image 3:orange right yellow
+Image 4:purple left yellow
+Image 5:orange left brown
+Image 6:orange right brown
+Image 7:purple right brown
+Image 8:orange left yellow","Image 1:orange left brown
+Image 2:purple right yellow
+Image 3:orange left brown long
+Image 4:purple left brown long
+Image 5:purple right yellow
+Image 6:orange left brown
+Image 7:purple right yellow long 
+Image 8:orange left brown long",purple,orange,purple,orange left,orange,purple left,purple right brown,orange right brown,purple left brown,purple right yellow,orange left yellow,orange right yellow,orange left brown,purple left yellow,purple left brown,orange left yellow,orange left brown,orange right brown,purple right yellow,purple left yellow,purple right brown,orange right yellow,orange right yellow,orange left brown,orange left yellow,purple left yellow,orange right brown,purple right brown,purple right yellow,purple left brown,purple right yellow long,purple right yellow,orange left brown long,orange left brown long,orange left brown,orange left brown,purple right yellow,purple right yellow long
+1PHMY2,schema,1,"Image 1: Orange
+Image 2: Purple","Image 1: Orange 
+Image 2: Purple
+Image 3: Orange Left
+Image 4: Purple Left","Image 1:orange right yellow
+Image 2:orange right brown
+Image 3:orange left brown
+Image 4:orange left yellow
+Image 5:purple right yellow
+Image 6:purple right brown
+Image 7:purple left brown
+Image 8:purple left yellow","Image 1:purple left brown
+Image 2:orange right brown
+Image 3:orange right yellow
+Image 4:purple right yellow
+Image 5:purple left yellow
+Image 6:purple right brown
+Image 7:orange left yellow
+Image 8:orange left brown","Image 1:purple right yellow
+Image 2:purple left brown
+Image 3:orange right yellow
+Image 4:purple left yellow
+Image 5:orange left brown
+Image 6:orange right brown
+Image 7:purple right brown
+Image 8:orange left yellow","Image 1:orange left brown
+Image 2:purple right yellow
+Image 3:orange left brown long
+Image 4:purple left brown long
+Image 5:purple right yellow
+Image 6:orange left brown
+Image 7:purple right yellow long 
+Image 8:orange left brown long",purple,orange,purple,orange left,orange,purple left,purple right brown,orange right brown,purple left brown,purple right yellow,orange left yellow,orange right yellow,orange left brown,purple left yellow,purple left brown,orange left yellow,orange left brown,orange right brown,purple right yellow,purple left yellow,purple right brown,orange right yellow,orange right yellow,orange left brown,orange left yellow,purple left yellow,orange right brown,purple right brown,purple right yellow,purple left brown,purple right yellow long,purple right yellow short,orange left brown long,orange left brown long,orange left brown,orange left brown,purple right yellow,purple right yellow long
+30BS7N,schema,0,"Image 1: orange
+Image 2: purple","Image 1: orange right
+Image 2: purple right
+Image 3: orange left
+Image 4: purple left","Image 1: orange right black yellow
+Image 2: orange right black brown
+Image 3: orange left red brown
+Image 4: orange left red yellow
+Image 5: purple right black yellow
+Image 6: purple right black brown
+Image 7: purple left red brown
+Image 8: purple left red yellow","Image 1: purple left red brown
+Image 2: orange right black brown
+Image 3: orange right black yellow
+Image 4: purple right black yellow
+Image 5: purple left red yellow
+Image 6: purple right black brown
+Image 7: orange left red yellow
+Image 8: orange left red brown","Image 1: purple right black yellow
+Image 2: purple left red brown
+Image 3: orange right black yellow
+Image 4: purple left red yellow
+Image 5: orange left red brown
+Image 6: orange right black brown
+Image 7: purple right black brown
+Image 8: orange left red yellow","Image 1: Orange left circle
+Image 2: purple right square
+Image 3: orange left square
+Image 4: purple right square
+Image 5: purple right square white
+Image 6: orange right square
+Image 7:purple right square magenta 
+Image 8:orange left square brown",purple,orange,purple right,orange left,orange right,purple left,purple right black brown,orange right black brown,purple left red brown,purple right black yellow,orange left red yellow,orange right black yellow,orange left red brown,purple left red yellow,purple left red brown,orange left red yellow,orange left red brown,orange right black brown,purple right black yellow,purple left red yellow,purple right black brown,orange right black yellow,orange right black yellow,orange left red brown,orange left red yellow,purple left red yellow,orange right black brown,purple right black brown,purple right black yellow,purple left red brown,purple right square magenta,purple right square,orange left square,orange left square brown,orange left circle,orange left square,purple right square white,purple right square
+30BS7N,schema,1,"Image 1: orange
+Image 2: purple","Image 1: orange right
+Image 2: purple right
+Image 3: orange left
+Image 4: purple left","Image 1: orange right black yellow
+Image 2: orange right black brown
+Image 3: orange left red brown
+Image 4: orange left red yellow
+Image 5: purple right black yellow
+Image 6: purple right black brown
+Image 7: purple left red brown
+Image 8: purple left red yellow","Image 1: purple left red brown
+Image 2: orange right black brown
+Image 3: orange right black yellow
+Image 4: purple right black yellow
+Image 5: purple left red yellow
+Image 6: purple right black brown
+Image 7: orange left red yellow
+Image 8: orange left red brown","Image 1: purple right black yellow
+Image 2: purple left red brown
+Image 3: orange right black yellow
+Image 4: purple left red yellow
+Image 5: orange left red brown
+Image 6: orange right black brown
+Image 7: purple right black brown
+Image 8: orange left red yellow","Image 1: Orange left circle
+Image 2: purple right square
+Image 3: orange left square
+Image 4: purple right square
+Image 5: purple right square white
+Image 6: orange right square
+Image 7:purple right square magenta 
+Image 8:orange left square brown",purple,orange,purple right,orange left,orange right,purple left,purple right black brown,orange right black brown,purple left red brown,purple right black yellow,orange left red yellow,orange right black yellow,orange left red brown,purple left red yellow,purple left red brown,orange left red yellow,orange left red brown,orange right black brown,purple right black yellow,purple left red yellow,purple right black brown,orange right black yellow,orange right black yellow,orange left red brown,orange left red yellow,purple left red yellow,orange right black brown,purple right black brown,purple right black yellow,purple left red brown,purple left square magenta,purple right square,orange left square,orange left square brown,orange left square,orange left square,purple right square white,purple right square
+31GC47,schema,0,"Image 1: Orange
+Image 2: Purple","Image 1: orange-black
+Image 2: purple-black
+Image 3: orange-red
+Image 4: purple-red","Image 1: orange-black-yellow
+Image 2: orange-black-brown
+Image 3: orange-red-brown
+Image 4: orange-red-yellow
+Image 5: purple-black-yellow
+Image 6: purple-black-brown
+Image 7: purple-red-brown
+Image 8: purple-red-yellow","Image 1: purple-red-brown
+Image 2: orange-black-brown
+Image 3: orange-black-yellow
+Image 4:  purple-black-yellow
+Image 5: purple-red-yellow
+Image 6: purple-black-brown
+Image 7: orange-red-yellow
+Image 8: orange-red-brown","Image 1: purple-black-yellow
+Image 2: purple-red-brown
+Image 3: orange-black-yellow
+Image 4: purple-red-yellow
+Image 5: orange-red-brown
+Image 6: orange-black-brown
+Image 7: purple-black-brown
+Image 8: orange-red-yellow","Image 1: orange-red-brown-blue
+Image 2: purple-black-yellow-pink
+Image 3: orange-red-brown-yellow
+Image 4: purple-black-yellow-red
+Image 5: purple-black-yellow-white
+Image 6: orange-red-brown-black
+Image 7: purple-black-yellow-purple
+Image 8: orange-red-brown-brown",purple,orange,purple-black,orange-red,orange-black,purple-red,purple-black-brown,orange-black-brown,purple-red-brown,purple-black-yellow,orange-red-yellow,orange-black-yellow,orange-red-brown,purple-red-yellow,purple-red-brown,orange-red-yellow,orange-red-brown,orange-black-brown,purple-black-yellow,purple-red-yellow,purple-black-brown,orange-black-yellow,orange-black-yellow,orange-red-brown,orange-red-yellow,purple-red-yellow,orange-black-brown,purple-black-brown,purple-black-yellow,purple-red-brown,purple-black-yellow-purple,purple-black-yellow-pink,orange-red-brown-yellow,orange-red-brown-brown,orange-red-brown-blue,purple-red-brown-black,purple-black-yellow-white,purple-black-yellow-red
+31GC47,schema,1,"Image 1: Orange
+Image 2: Purple","Image 1: orange-black
+Image 2: purple-black
+Image 3: orange-red
+Image 4: purple-red","Image 1: orange-black-yellow
+Image 2: orange-black-brown
+Image 3: orange-red-brown
+Image 4: orange-red-yellow
+Image 5: purple-black-yellow
+Image 6: purple-black-brown
+Image 7: purple-red-brown
+Image 8: purple-red-yellow","Image 1: purple-red-brown
+Image 2: orange-black-brown
+Image 3: orange-black-yellow
+Image 4:  purple-black-yellow
+Image 5: purple-red-yellow
+Image 6: purple-black-brown
+Image 7: orange-red-yellow
+Image 8: orange-red-brown","Image 1: purple-black-yellow
+Image 2: purple-red-brown
+Image 3: orange-black-yellow
+Image 4: purple-red-yellow
+Image 5: orange-red-brown
+Image 6: orange-black-brown
+Image 7: purple-black-brown
+Image 8: orange-red-yellow","Image 1: orange-red-brown-blue
+Image 2: purple-black-yellow-pink
+Image 3: orange-red-brown-yellow
+Image 4: purple-black-yellow-red
+Image 5: purple-black-yellow-white
+Image 6: orange-red-brown-black
+Image 7: purple-black-yellow-purple
+Image 8: orange-red-brown-brown",purple,orange,purple-black,orange-red,orange-black,purple-red,purple-black-brown,orange-black-brown,purple-red-brown,purple-black-yellow,orange-red-yellow,orange-black-yellow,orange-red-brown,purple-red-yellow,purple-red-brown,orange-red-yellow,orange-red-brown,orange-black-brown,purple-black-yellow,purple-red-yellow,purple-black-brown,orange-black-yellow,orange-black-yellow,orange-red-brown,orange-red-yellow,purple-red-yellow,orange-black-brown,purple-black-brown,purple-black-yellow,purple-red-brown,purple-black-yellow-purple,purple-black-yellow-pink,orange-red-brown-yellow,orange-red-brown-brown,orange-red-brown-blue,orange-red-brown-black,orange-black-yellow-white,purple-black-yellow-red
+3MTPC9,schema,0,"Image 1: red
+Image 2: purple","Image 1: red black
+Image 2: purple black
+Image 3: red red
+Image 4: purple red","Image 1:rby
+Image 2:rbb
+Image 3:rrb
+Image 4:rry
+Image 5:pby
+Image 6:pbb
+Image 7:prb
+Image 8:pry","Image 1:prb
+Image 2:rbb
+Image 3:rby
+Image 4:pby
+Image 5:pry
+Image 6:pbb
+Image 7:rry
+Image 8:rrb","Image 1:pby
+Image 2:prb
+Image 3:rby
+Image 4:pry
+Image 5:rrb
+Image 6:rbb
+Image 7:pbb
+Image 8:rry","Image 1: ryb
+Image 2: pyy
+Image 3: ryb
+Image 4:pgy
+Image 5: pwy
+Image 6: rbb
+Image 7: ppy
+Image 8: rrb",purple,red,purple black,red red,orange black,purple red,pbb,rbb,prb,pby,rry,rby,rrb,pry,prb,rry,rrb,rbb,pby,pry,pbb,rby,rby,rrb,rry,pry,rbb,pbb,pby,prb,ppy,pyy,ryb,rrb,ryb,rbb,pwy,pgy
+3MTPC9,schema,1,"Image 1: red
+Image 2: purple","Image 1: red black
+Image 2: purple black
+Image 3: red red
+Image 4: purple red","Image 1:rby
+Image 2:rbb
+Image 3:rrb
+Image 4:rry
+Image 5:pby
+Image 6:pbb
+Image 7:prb
+Image 8:pry","Image 1:prb
+Image 2:rbb
+Image 3:rby
+Image 4:pby
+Image 5:pry
+Image 6:pbb
+Image 7:rry
+Image 8:rrb","Image 1:pby
+Image 2:prb
+Image 3:rby
+Image 4:pry
+Image 5:rrb
+Image 6:rbb
+Image 7:pbb
+Image 8:rry","Image 1: ryb
+Image 2: pyy
+Image 3: ryb
+Image 4:pgy
+Image 5: pwy
+Image 6: rbb
+Image 7: ppy
+Image 8: rrb",purple,red,purple black,red red,red black,purple red,pbb,rbb,prb,pby,rry,rby,rrb,pry,prb,rry,rrb,rbb,pby,pry,pbb,rby,rby,rrb,rry,pry,rbb,pbb,pby,prb,ppy,pyy,ryb,rrb,ryb,rbb,pwy,pgy
+3TBNWP,schema,0,"Image 1:robot  with orange hat
+Image 2:robot with purple hat","Image 1:robot orange hat right
+Image 2:robot purple hat right
+Image 3:robot orange hat left
+Image 4:robot purple hat left","Image 1:orange hat right yellow black
+Image 2:orange hat right black hands brown boots
+Image 3:orange hat left red hands  brown boots
+Image 4:orange hat left red hands yellow boots
+Image 5:purple hat right yellow black boots
+Image 6:purple hat right brown black boots
+Image 7:purple hat left red hands brown boots
+Image 8:purple hat red left hands yellow boots","Image 1:purple red brown
+Image 2:orange black brown
+Image 3:orange black yellow
+Image 4:purple black yellow
+Image 5:purple red yellow
+Image 6:purple black brown
+Image 7:orange red yellow
+Image 8:orange red brown","Image 1:multi
+Image 2:purple red brown
+Image 3:orange black yellow
+Image 4:purple red yellow
+Image 5:orange red brown
+Image 6:orange black brown
+Image 7:purple black brown
+Image 8:orange red yellow","Image 1:orange red brown
+Image 2:purple black yellow
+Image 3:orange red brown
+Image 4:purple black yellow 
+Image 5:purple black yellow
+Image 6:orange red brown
+Image 7:purple black yellow
+Image 8:orange red brown",robot with purple hat,robot with orange hat,robot purple hat right,robot orange hat left,robot orange hat right,robot purple hat right,"purple hat, right black hands brown boots",orange hat right black hands brown boots,purple hat left red hands brown boots,purple hat right black hands yellow boots,orange hat left red hands yellow boots,orange hat right black hands yellow boots,orange hat left red hands brown boots,purple hat left red hands yellow boots,purple red brown,orange red yellow,orange red brown,orange black brown,purple black yellow,purple red yellow,purple black brown,orange black yellow,orange black yellow,orange red brown,orange red yellow,purple red yellow,orange black brown,purple black brown,multi,purple red brown,purple black yellow,purple black yellow,orange red brown,orange red brown,orange red brown,orange red brown,purple black yellow,purple black yellow
+3TBNWP,schema,1,"Image 1:robot  with orange hat
+Image 2:robot with purple hat","Image 1:robot orange hat right
+Image 2:robot purple hat right
+Image 3:robot orange hat left
+Image 4:robot purple hat left","Image 1:orange hat right yellow black
+Image 2:orange hat right black hands brown boots
+Image 3:orange hat left red hands  brown boots
+Image 4:orange hat left red hands yellow boots
+Image 5:purple hat right yellow black boots
+Image 6:purple hat right brown black boots
+Image 7:purple hat left red hands brown boots
+Image 8:purple hat red left hands yellow boots","Image 1:purple red brown
+Image 2:orange black brown
+Image 3:orange black yellow
+Image 4:purple black yellow
+Image 5:purple red yellow
+Image 6:purple black brown
+Image 7:orange red yellow
+Image 8:orange red brown","Image 1:multi
+Image 2:purple red brown
+Image 3:orange black yellow
+Image 4:purple red yellow
+Image 5:orange red brown
+Image 6:orange black brown
+Image 7:purple black brown
+Image 8:orange red yellow","Image 1:orange red brown
+Image 2:purple black yellow
+Image 3:orange red brown
+Image 4:purple black yellow 
+Image 5:purple black yellow
+Image 6:orange red brown
+Image 7:purple black yellow
+Image 8:orange red brown",robot with purple hat,robot with orange hat,robot orange hat right,robot orange hat left,robot orange hat right,robot purple hat left,purple hat righ black hands brown boots,orange hat right black hands brown boots,purple hat left red hands brown boots,purple hat right black hands yellow boots,orange hat left red hands yellow boots,orange hat right black hands yellow boots,orange hat left red hands brown boots,purple hat left red hands yellow boots,purple red brown,orange red yellow,orange red brown,orange black brown,purple black yellow,purple red yellow,purple black brown,orange black yellow,orange black yellow,orange red brown,orange red yellow,purple red yellow,orange black brown,purple black brown,multi,purple red brown,purple black yellow,purple black yellow,orange red brown,orange red brown,orange red brown,orange red brown,purple black yellow,purple black yellow
+4C45AQ,schema,0,"Image 1: orange lego bot
+Image 2: purple lego bot","Image 1: orange black lego bot
+Image 2: purple black lego bot
+Image 3: orange red lego bot
+Image 4: purple red lego bot","Image 1: orange black yellow
+Image 2: orange black brown
+Image 3: orange red brown
+Image 4: orange red yellow
+Image 5: purple black yellow
+Image 6: purple black brown
+Image 7: purple red brown
+Image 8: purple red yellow","Image 1: purple red brown
+Image 2: orange black brown
+Image 3: orange black yellow
+Image 4: purple black yellow
+Image 5: purple red yellow
+Image 6: purple black brown
+Image 7: orange red yellow
+Image 8: orange red brown","Image 1: purple black yellow
+Image 2: purple red brown
+Image 3: orange black yellow
+Image 4: purple red yellow
+Image 5: orange red brown
+Image 6: orange black brown
+Image 7: purple black brown
+Image 8: orange red yellow","Image 1: blue circle 
+Image 2: yellow rectangle 
+Image 3: orange rectangle
+Image 4: white rectangle
+Image 5: white square
+Image 6: black rectangle
+Image 7: pink rectangle
+Image 8: brown rectangle",purple lego bot,orange lego bot,purple black lego bot,orange red lego bot,orange black lego bot,purple red lego bot,purple black brown,orange black brown,purple red brown,purple black yellow,orange red yellow,orange black yellow,orange red brown,purple red yellow,purple red brown,orange red yellow,orange red brown,orange black brown,purple black yellow,purple red yellow,purple black brown,orange black yellow,orange black yellow,orange red brown,orange red yellow,purple red yellow,orange black brown,purple black brown,purple black yellow,purple red brown,pink rectangle,yellow rectangle,orange rectangle,brown square,blue circle,black rectangle,white square,white rectangle
+4C45AQ,schema,1,"Image 1: orange lego bot
+Image 2: purple lego bot","Image 1: orange black lego bot
+Image 2: purple black lego bot
+Image 3: orange red lego bot
+Image 4: purple red lego bot","Image 1: orange black yellow
+Image 2: orange black brown
+Image 3: orange red brown
+Image 4: orange red yellow
+Image 5: purple black yellow
+Image 6: purple black brown
+Image 7: purple red brown
+Image 8: purple red yellow","Image 1: purple red brown
+Image 2: orange black brown
+Image 3: orange black yellow
+Image 4: purple black yellow
+Image 5: purple red yellow
+Image 6: purple black brown
+Image 7: orange red yellow
+Image 8: orange red brown","Image 1: purple black yellow
+Image 2: purple red brown
+Image 3: orange black yellow
+Image 4: purple red yellow
+Image 5: orange red brown
+Image 6: orange black brown
+Image 7: purple black brown
+Image 8: orange red yellow","Image 1: blue circle 
+Image 2: yellow rectangle 
+Image 3: orange rectangle
+Image 4: white rectangle
+Image 5: white square
+Image 6: black rectangle
+Image 7: pink rectangle
+Image 8: brown rectangle",purple lego bot,orange lego bot,purple black lego bot,orange red lego bot,orange black lego bot,purple red lego bot,purple black brown,orange black brown,purple red brown,purple black yellow,orange red yellow,orange black yellow,orange red brown,purple red yellow,purple red brown,orange red yellow,orange red brown,orange black brown,purple black yellow,purple red yellow,purple black brown,orange black yellow,orange black yellow,orange red brown,orange red yellow,purple red yellow,orange black brown,purple black brown,purple black yellow,purple red brown,pink rectangle,yellow rectangle,orange rectangle,brown rectangle,blue circle,black rectangle,white square,white rectangle
+6NJQAK,schema,0,"Image 1: Orange Top
+Image 2: Purple Top","Image 1: Orange Top
+Image 2: Purple Top
+Image 3: Orange Top Red Hands
+Image 4: Purple Top Red Hands","Image 1: Orange Black Yellow 
+Image 2: Orange Black Brown
+Image 3: orange red brown
+Image 4: orange red yellow
+Image 5: purple black yellow
+Image 6: purple black brown
+Image 7: purple red brown
+Image 8: purple red yellow","Image 1: Purple red brown
+Image 2: orange black brown
+Image 3: orange black yellow
+Image 4: purple black yellow
+Image 5: purple red yellow
+Image 6: purple black brown
+Image 7: orange red yellow
+Image 8: orange red brown","Image 1: purple black yellow
+Image 2: purple red brown
+Image 3: orange black yellow
+Image 4: purple red yellow
+Image 5: orange red brown
+Image 6: orange black brown
+Image 7: purple black brown
+Image 8: orange red yellow","Image 1: orange red brown
+Image 2: purple black yellow
+Image 3: orange red brown
+Image 4: purple black yellow
+Image 5: orange black yellow
+Image 6: orange red brown
+Image 7: purple black yellow
+Image 8: orange red brown",purple top,orange top,purple top,orange top red hands,orange top,purple top red hands,purple black brown,orange black brown,purple orange brown,purple black yellow,orange red yellow,orange black yellow,orange red brown,purple red yellow,purple red brown,orange red yellow,orange red brown,orange black brown,purple black yellow,purple red yellow,purple black brown,orange black yellow,orange black yellow,orange red brown,orange red yellow,purple red yellow,orange black brown,purple black brown,purple black yellow,yellow red brown,purple black yellow,purple black yellow,orange red purple,orange red brown,orange red brown,orange red brown,purple black yellow,purple black yellow
+6NJQAK,schema,1,"Image 1: Orange Top
+Image 2: Purple Top","Image 1: Orange Top
+Image 2: Purple Top
+Image 3: Orange Top Red Hands
+Image 4: Purple Top Red Hands","Image 1: Orange Black Yellow 
+Image 2: Orange Black Brown
+Image 3: orange red brown
+Image 4: orange red yellow
+Image 5: purple black yellow
+Image 6: purple black brown
+Image 7: purple red brown
+Image 8: purple red yellow","Image 1: Purple red brown
+Image 2: orange black brown
+Image 3: orange black yellow
+Image 4: purple black yellow
+Image 5: purple red yellow
+Image 6: purple black brown
+Image 7: orange red yellow
+Image 8: orange red brown","Image 1: purple black yellow
+Image 2: purple red brown
+Image 3: orange black yellow
+Image 4: purple red yellow
+Image 5: orange red brown
+Image 6: orange black brown
+Image 7: purple black brown
+Image 8: orange red yellow","Image 1: orange red brown
+Image 2: purple black yellow
+Image 3: orange red brown
+Image 4: purple black yellow
+Image 5: orange black yellow
+Image 6: orange red brown
+Image 7: purple black yellow
+Image 8: orange red brown",purple top,orange top,purple top,orange top red hands,orange top,purple top red hands,purple black brown,orange black brown,purple red brown,purple black yellow,orange red yellow,orange black yellow,orange red brown,purple red yellow,purple red brown,orange red yellow,orange red brown,orange black brown,purple black yellow,purple red yellow,purple black brown,orange black yellow,orange black yellow,orange red brown,orange red yellow,purple red yellow,orange black brown,purple black orange,purple black yellow,purple,purple black yellow,purple black yellow,orange red brown,orange red brown,orange red brown,orange red brown,purple black yellow,purple black yellow
+6Y1ZWP,schema,0,"Image 1: orange
+Image 2: purple","Image 1: orangeb
+Image 2: orangeb
+Image 3: oranger
+Image 4: orangep","Image 1:
+Image 2:
+Image 3:
+Image 4:
+Image 5:
+Image 6:
+Image 7:
+Image 8:","Image 1:
+Image 2:
+Image 3:
+Image 4:
+Image 5:
+Image 6:
+Image 7:
+Image 8:","Image 1:
+Image 2:
+Image 3:
+Image 4:
+Image 5:
+Image 6:
+Image 7:
+Image 8:","Image 1:
+Image 2:
+Image 3:
+Image 4:
+Image 5:
+Image 6:
+Image 7:
+Image 8:",purple,orange,purpleb,oranger,orangep,purpler,purpleb,orangebb,purplerb,purpleby,orangery,orangeby,orangerb,purplery,purplerb,orangery,orangerb,orangebb,purpleby,purplery,purplebb,orangeby,orangeby,orangerb,orangery,purplery,orangebb,purplebb,purpleby,purplerb,purpleby,purpleby,orangerb,orangerb,orangerb,orangerb,purpleby,purpleby
+6Y1ZWP,schema,1,"Image 1: orange
+Image 2: purple","Image 1: orangeb
+Image 2: orangeb
+Image 3: oranger
+Image 4: orangep","Image 1:
+Image 2:
+Image 3:
+Image 4:
+Image 5:
+Image 6:
+Image 7:
+Image 8:","Image 1:
+Image 2:
+Image 3:
+Image 4:
+Image 5:
+Image 6:
+Image 7:
+Image 8:","Image 1:
+Image 2:
+Image 3:
+Image 4:
+Image 5:
+Image 6:
+Image 7:
+Image 8:","Image 1:
+Image 2:
+Image 3:
+Image 4:
+Image 5:
+Image 6:
+Image 7:
+Image 8:",purple,orange,purpleb,oranger,orangeb,purpler,purpleb,orangebb,purplerb,purpleby,orangery,orangeby,orangerb,purplery,purplerb,orangery,orangerb,orangebb,purple,purplery,purplebb,orangeby,orangeby,orangerb,orangery,purplery,orangebb,purplebb,purpleby,purplerb,purpleby,purpleby,orangerb,orangerb,orangerb,orangerb,purpleby,purpleby
+7123Y2,schema,0,"Image 1:Orange
+Image 2:Purple","Image 1:ol
+Image 2:pl
+Image 3:or
+Image 4:pr","Image 1:oly
+Image 2:olb
+Image 3:orb
+Image 4:ory
+Image 5:ply
+Image 6:plb
+Image 7:prb
+Image 8:pry","Image 1:prb
+Image 2:olb
+Image 3:oly
+Image 4:ply
+Image 5:pry
+Image 6:plb
+Image 7:ory
+Image 8:orb","Image 1:ply
+Image 2:prb
+Image 3:oly
+Image 4:pry
+Image 5:orb
+Image 6:olb
+Image 7:plb
+Image 8:ory","Image 1:orb
+Image 2:ply0
+Image 3:
+Image 4:
+Image 5:
+Image 6:
+Image 7:
+Image 8:",purple,orange,pl,or,ol,pr,plb,olb,prb,ply,ory,oly,orb,pry,prb,ory,orb,olb,ply,pry,plb,oly,oly,orb,ory,pry,olb,plb,ply,prb,ply0,ply2,orb6,orb0,orb7,orb,ply2,ply4
+7123Y2,schema,1,"Image 1:Orange
+Image 2:Purple","Image 1:ol
+Image 2:pl
+Image 3:or
+Image 4:pr","Image 1:oly
+Image 2:olb
+Image 3:orb
+Image 4:ory
+Image 5:ply
+Image 6:plb
+Image 7:prb
+Image 8:pry","Image 1:prb
+Image 2:olb
+Image 3:oly
+Image 4:ply
+Image 5:pry
+Image 6:plb
+Image 7:ory
+Image 8:orb","Image 1:ply
+Image 2:prb
+Image 3:oly
+Image 4:pry
+Image 5:orb
+Image 6:olb
+Image 7:plb
+Image 8:ory","Image 1:orb
+Image 2:ply0
+Image 3:
+Image 4:
+Image 5:
+Image 6:
+Image 7:
+Image 8:",purple,orange,pl,or,ol,pr,plb,olb,prb,ply,ory,oly,orb,pry,prb,ory,orb,olb,ply,pry,plb,oly,oly,orb,ory,pry,olb,plb,ply,prb,plyp,ply0,orb,orb,orb,orb4,ply2,ply1
+7XZ4VH,schema,0,"Image 1:orange robot orange robot
+Image 2:purple robot purple robot","Image 1:orange black
+Image 2:purple black
+Image 3: orange red
+Image 4: purple red","Image 1:orange black yellow
+Image 2:orange black brown
+Image 3:orange red brown
+Image 4:orange red yellow
+Image 5: purple black yellow
+Image 6: purple black brown
+Image 7: purple red brown
+Image 8: purple red yellow","Image 1:prb
+Image 2:obb
+Image 3:oby
+Image 4:pby
+Image 5: pry
+Image 6: pbb
+Image 7:ory
+Image 8: orb","Image 1:pby 
+Image 2:prb
+Image 3:oby
+Image 4:pry
+Image 5: orb
+Image 6: obb
+Image 7: pbb
+Image 8: ory","Image 1:orbc 
+Image 2: pbysmall
+Image 3:orbr 
+Image 4:pbybig
+Image 5: pbymed
+Image 6:orbsmall rect
+Image 7: pbyred
+Image 8:orbbig",purple robot,orange robot,purple black,orange red,orange black,purple red,purple black brown,orange black brown,purple red brown,purple black yellow,orange red yellow,orange black yellow,orange red brown,purple red yellow,prb,ory,orb,obb,pby,pry,pbb,oby,oby,orb,ory,pry,obb,pbb,pby,prb,pbyred,pbysmall,orbr,orbsmall,orbc,orbr,pbymedium,pbytall
+7XZ4VH,schema,1,"Image 1:orange robot orange robot
+Image 2:purple robot purple robot","Image 1:orange black
+Image 2:purple black
+Image 3: orange red
+Image 4: purple red","Image 1:orange black yellow
+Image 2:orange black brown
+Image 3:orange red brown
+Image 4:orange red yellow
+Image 5: purple black yellow
+Image 6: purple black brown
+Image 7: purple red brown
+Image 8: purple red yellow","Image 1:prb
+Image 2:obb
+Image 3:oby
+Image 4:pby
+Image 5: pry
+Image 6: pbb
+Image 7:ory
+Image 8: orb","Image 1:pby 
+Image 2:prb
+Image 3:oby
+Image 4:pry
+Image 5: orb
+Image 6: obb
+Image 7: pbb
+Image 8: ory","Image 1:orbc 
+Image 2: pbysmall
+Image 3:orbr 
+Image 4:pbybig
+Image 5: pbymed
+Image 6:orbsmall rect
+Image 7: pbyred
+Image 8:orbbig",purple robot,orange robot,purple black,orange red,orange black,purple red,purple black brown,orange black brown,purple red brown,purple black yellow,orange red yellow,orange blac,orange red brown,purple red yellow,prb,ory,orb,obb,pby,pry,pbb,oby,oby,orb,ory,p,obb,pbb,pby,prb,pbytall,pbysmall,orbrect,orb,orbb,orbsmall,pby,pbytall
+82WGW1,schema,0,"Image 1: Orange Hat
+Image 2: Purple Hat","Image 1: Right Orange Hat
+Image 2: Right Purple Hat
+Image 3: Left Orange Hat
+Image 4: Left Purple Hat","Image 1: orange black yellow
+Image 2: orange black brown
+Image 3: orange red brown
+Image 4: orange red yellow
+Image 5: purple black yellow
+Image 6: purple black brown
+Image 7: purple red brown
+Image 8: purple red yellow","Image 1: purple red brown
+Image 2: orange black brown
+Image 3: orange black yellow
+Image 4: purple black yellow
+Image 5: purple red yellow
+Image 6: purple black brown
+Image 7: orange red yellow
+Image 8: orange red brown","Image 1: purple black yellow
+Image 2: purple red brown 
+Image 3: orange black yellow
+Image 4: purple red yellow
+Image 5: orange red brown
+Image 6: orange black brown 
+Image 7: purple black brown
+Image 8: orange red yellow","Image 1: orange red brown gray
+Image 2: purple black yellow yellow
+Image 3: orange red brown orange
+Image 4: purple black yellow gray
+Image 5: purple black yellow white
+Image 6: orange red brown black
+Image 7: purple black yellow red
+Image 8: orange red brown brown",purple hat,orange hat,right purple hat,left orange hat,right orange hat,left purple hat,purple black brown,orange black brown,purple red brown,purple black yellow,orange red yellow,orange black yellow,orange red brown,purple red yellow,purple red brown,orange red yellow,orange red brown,orange black brown,purple black yellow,purple red yellow,purple black brown,orange black yellow,orange black yellow,orange red brown,orange red yellow,purple red yellow,orange black brown,purple black brown,purple black yellow,purple red brown,purple black yellow red,purple black yellow yellow,orange red brown orange,orange red brown brown,orange red brown gray,orange red brown black,purple black yellow white,purple black yellow gray
+82WGW1,schema,1,"Image 1: Orange Hat
+Image 2: Purple Hat","Image 1: Right Orange Hat
+Image 2: Right Purple Hat
+Image 3: Left Orange Hat
+Image 4: Left Purple Hat","Image 1: orange black yellow
+Image 2: orange black brown
+Image 3: orange red brown
+Image 4: orange red yellow
+Image 5: purple black yellow
+Image 6: purple black brown
+Image 7: purple red brown
+Image 8: purple red yellow","Image 1: purple red brown
+Image 2: orange black brown
+Image 3: orange black yellow
+Image 4: purple black yellow
+Image 5: purple red yellow
+Image 6: purple black brown
+Image 7: orange red yellow
+Image 8: orange red brown","Image 1: purple black yellow
+Image 2: purple red brown 
+Image 3: orange black yellow
+Image 4: purple red yellow
+Image 5: orange red brown
+Image 6: orange black brown 
+Image 7: purple black brown
+Image 8: orange red yellow","Image 1: orange red brown gray
+Image 2: purple black yellow yellow
+Image 3: orange red brown orange
+Image 4: purple black yellow gray
+Image 5: purple black yellow white
+Image 6: orange red brown black
+Image 7: purple black yellow red
+Image 8: orange red brown brown",purple hat,orange hat,right purple hat,left orange hat,right orange hat,left purple hat,purple black brown,orange black brown,purple red brown,purple black yellow,orange red yellow,orange black yellow,orange red brown,purple red yellow,purple red brown,orange red yellow,orange red brown,orange black brown,purple black yellow,purple red yellow,purple black brown,orange black yellow,orange black yellow,orange red brown,orange red yellow,purple red yellow,orange black brown,purple black brown,purple black yellow,purple red brown,purple black yellow red,purple black yellow yellow,orange red brown orange,orange red brown brown,orange red brown gray,orange red brown black,purple black yellow white,purple black yellow gray
+9NVFJX,schema,0,"Image 1: Orange Lego 
+Image 2: Purple Lego","Image 1: Black hand orange hair lego
+Image 2: Black hand purple hair lego
+Image 3: Red hand orange hair lego
+Image 4: Red hand purple hair lego","Image 1:Orange Black Yellow
+Image 2:Orange Black Brown
+Image 3:Orange Red Brown
+Image 4:Orange Red Yellow
+Image 5:Purple Black Yellow
+Image 6:Purple Black Brown
+Image 7:Purple Red Brown
+Image 8:Purple Red Yellow","Image 1:Purple Red Brown
+Image 2:Orange Black Brown
+Image 3:Orange Black Yellow
+Image 4:Purple Black Yellow
+Image 5:Purple Red Yellow
+Image 6:Purple Black Brown
+Image 7:Orange Red Yellow
+Image 8:Orange Red Brown","Image 1:purple red
+Image 2:purple white
+Image 3:orange grey
+Image 4:purple green
+Image 5:Orange Green
+Image 6:Orange White
+Image 7:Purple Yellow
+Image 8:Orange red","Image 1:Medium Blue
+Image 2:Small Yellow
+Image 3:Tall Orange
+Image 4:Tall White
+Image 5:Medium White
+Image 6:Small Black
+Image 7:Tall Pink
+Image 8:Tall Brown",purple lego,orange lego,black hand purple hair lego,red hands orange hair lego,black hand orange hair lego,red hand purple hair lego,purple black brown,orange black brown,purple red brown,purple black yellow,orange red yellow,orange black yellow,orange red brown,purple red yellow,purple,orange red yellow,orange red brown,orange black brown,purple black yellow,purple red yellow,purple black brown,orange black yellow,orange grey,orange green,orange red,purple green,orange white,purple yellow,purple red,purple orange,tall pink,small yellow,tall yellow,tall brown,medium blue,small black,medium white,tall white
+9NVFJX,schema,1,"Image 1: Orange Lego 
+Image 2: Purple Lego","Image 1: Black hand orange hair lego
+Image 2: Black hand purple hair lego
+Image 3: Red hand orange hair lego
+Image 4: Red hand purple hair lego","Image 1:Orange Black Yellow
+Image 2:Orange Black Brown
+Image 3:Orange Red Brown
+Image 4:Orange Red Yellow
+Image 5:Purple Black Yellow
+Image 6:Purple Black Brown
+Image 7:Purple Red Brown
+Image 8:Purple Red Yellow","Image 1:Purple Red Brown
+Image 2:Orange Black Brown
+Image 3:Orange Black Yellow
+Image 4:Purple Black Yellow
+Image 5:Purple Red Yellow
+Image 6:Purple Black Brown
+Image 7:Orange Red Yellow
+Image 8:Orange Red Brown","Image 1:purple red
+Image 2:purple white
+Image 3:orange grey
+Image 4:purple green
+Image 5:Orange Green
+Image 6:Orange White
+Image 7:Purple Yellow
+Image 8:Orange red","Image 1:Medium Blue
+Image 2:Small Yellow
+Image 3:Tall Orange
+Image 4:Tall White
+Image 5:Medium White
+Image 6:Small Black
+Image 7:Tall Pink
+Image 8:Tall Brown",purple lego,orange lego,black hands purple hair lego,red hand orange hair lego,black hand orange hair lego,red hands purple hair lego,purple black brown,orange black brown,purple red brown,purple black yellow,orange red yellow,orange black yellow,orange red brown,purple red yellow,purple red brown,orange red yellow,orange red brown,orange black brown,purple black yellow,purple red yellow,purple black brown,orange black yellow,orange grey,orange green,orange red,purple green,orange white,purple yellow,purple yellow,purple yellow,tall pink,small yellow,tall orange,tall brown,medium blue,small black,medium white,tall white
+C16QEP,schema,0,"Image 1:Orange
+Image 2:Purple","Image 1: orange right
+Image 2: purple right
+Image 3: orange left
+Image 4: purple left","Image 1: orange black yellow
+Image 2: orange black brown
+Image 3:orange red brown
+Image 4: orange red yellow
+Image 5: purple black yellow
+Image 6: purple black brown
+Image 7: purple red brown
+Image 8: purple red yellow","Image 1:purple red brown
+Image 2:orange black brown
+Image 3: orange black yellow
+Image 4: purple black yellow
+Image 5: purple red yellow
+Image 6: purple black brown
+Image 7: orange red yellow
+Image 8: orange red brown","Image 1:purple black yellow
+Image 2:purple red brown
+Image 3:orange black yellow
+Image 4:purple red yellow
+Image 5: orange red brown
+Image 6: orange black brown
+Image 7: purple black brown
+Image 8: orange red yellow","Image 1: blue brown
+Image 2: yellow yellow
+Image 3: yellow brown
+Image 4: grey yellow
+Image 5: white yellow
+Image 6: black brown
+Image 7: pink yellow
+Image 8: brown brown",purple,orange,purple right,orange left,orange right,purple left,purple black brown,orange black brown,purple red brown,purple black yellow,orange red yellow,orange black yellow,orange red brown,purple red yellow,purple red brown,orange red yellow,orange red brown,orange black brown,purple black yellow,purple red yellow,purple black brown,orange black yellow,orange black yellow,orange red brown,orange red yellow,purple red yellow,orange black brown,purple black brown,purple black yellow,purple red brown,pink yellow,yellow yellow,yellow brown,brown brown,blue brown,black brown,white yellow,grey yellow
+C16QEP,schema,1,"Image 1:Orange
+Image 2:Purple","Image 1: orange right
+Image 2: purple right
+Image 3: orange left
+Image 4: purple left","Image 1: orange black yellow
+Image 2: orange black brown
+Image 3:orange red brown
+Image 4: orange red yellow
+Image 5: purple black yellow
+Image 6: purple black brown
+Image 7: purple red brown
+Image 8: purple red yellow","Image 1:purple red brown
+Image 2:orange black brown
+Image 3: orange black yellow
+Image 4: purple black yellow
+Image 5: purple red yellow
+Image 6: purple black brown
+Image 7: orange red yellow
+Image 8: orange red brown","Image 1:purple black yellow
+Image 2:purple red brown
+Image 3:orange black yellow
+Image 4:purple red yellow
+Image 5: orange red brown
+Image 6: orange black brown
+Image 7: purple black brown
+Image 8: orange red yellow","Image 1: blue brown
+Image 2: yellow yellow
+Image 3: yellow brown
+Image 4: grey yellow
+Image 5: white yellow
+Image 6: black brown
+Image 7: pink yellow
+Image 8: brown brown",purple,orange,purple right,orange left,orange right,purple left,purple black brown,orange black brown,purple red brown,purple black yellow,orange red yellow,orange black yellow,orange red brown,purple red yellow,purple red brown,orange red right,orange red brown,orange black brown,purple black yellow,purple red yellow,purple black brown,orange black yellow,orange black yellow,orange red brown,orange red yellow,purple red yellow,orange black brown,purple black brown,purple black yellow,purple red brown,pink yellow,yellow yellow,yellow brown,brown brown,blue brown,black brown,purple yellow,grey yellow
+CA1VF5,schema,0,"Image 1: orange hat
+Image 2: purple hat","Image 1: orange hat
+Image 2: purple hat
+Image 3: orange red hands
+Image 4: purple red hands","Image 1:orange hat
+Image 2:Rudi
+Image 3:Ruby
+Image 4:orange red hands
+Image 5:purple hat
+Image 6:Mini
+Image 7:Maxi
+Image 8:purple red hands","Image 1:hinge body
+Image 2:Small head
+Image 3:old
+Image 4:owl
+Image 5:long legs
+Image 6:round belly
+Image 7:shorty
+Image 8:tube legs","Image 1:rainbow
+Image 2:shorty
+Image 3:robot
+Image 4:nose
+Image 5:wheel
+Image 6:cube
+Image 7:big mouth
+Image 8:red","Image 1:cycle
+Image 2:post it
+Image 3:Lego
+Image 4:transformer
+Image 5:train
+Image 6:crab
+Image 7:egg plant
+Image 8:poo",purple hat,orange hat,purple hat,orange red hands,orange hat,purple red hands,mini,rudi,maxi,ruby,orange red hands,orange hat,ruby,purple red hands,hinge body,shorty,tube legs,small head,owl,long legs,round belly,old,robot,wheel,red,nose,cube,big mouth,rainbow,shorty,egg plant,post it,lego,poo,cycle,crab,train,transformer
+CA1VF5,schema,1,"Image 1: orange hat
+Image 2: purple hat","Image 1: orange hat
+Image 2: purple hat
+Image 3: orange red hands
+Image 4: purple red hands","Image 1:orange hat
+Image 2:Rudi
+Image 3:Ruby
+Image 4:orange red hands
+Image 5:purple hat
+Image 6:Mini
+Image 7:Maxi
+Image 8:purple red hands","Image 1:hinge body
+Image 2:Small head
+Image 3:old
+Image 4:owl
+Image 5:long legs
+Image 6:round belly
+Image 7:shorty
+Image 8:tube legs","Image 1:rainbow
+Image 2:shorty
+Image 3:robot
+Image 4:nose
+Image 5:wheel
+Image 6:cube
+Image 7:big mouth
+Image 8:red","Image 1:cycle
+Image 2:post it
+Image 3:Lego
+Image 4:transformer
+Image 5:train
+Image 6:crab
+Image 7:egg plant
+Image 8:poo",purple hat,orange hat,purple hat,orange red hands,orange hat,purple red hands,mini,ruddy,maxi,purple hat,rubby,rudi,rubi,maxi,hinge body,shorty,tube leg,small head,long legs,owl,small head,old,robot,wheel,red,nose,cube,big mouth,rainbow,shorty,egg plant,post,lego,poo,cycle,crab,train,transformer
+E22RRE,schema,0,"Image 1: orange
+Image 2: purple","Image 1: orange black
+Image 2: purple black
+Image 3: orange red
+Image 4: purple red","Image 1: orange black yellow
+Image 2: orange black brown
+Image 3: orange red brown
+Image 4: orange red yellow
+Image 5: purple black yellow
+Image 6:purple black brown
+Image 7:purple red brown
+Image 8:purple red yellow","Image 1: purple red brown
+Image 2: orange black brown
+Image 3: orange black yellow
+Image 4: purple black yellow
+Image 5: purple red yellow
+Image 6:purple black brown
+Image 7:orange red yellow
+Image 8:orange red brown","Image 1: rainbow
+Image 2: purple red brown
+Image 3: orange black yellow
+Image 4: purple red yellow
+Image 5: orange red brown
+Image 6:orange black brown
+Image 7:purple black brown
+Image 8:orange red yellow","Image 1: blue
+Image 2: small
+Image 3: orange lego
+Image 4: white tall
+Image 5: white short
+Image 6: small black
+Image 7: burgundy
+Image 8: long legs",purple,orange,purple black,orange red,orange black,purple red,purple black brown,orange black brown,purple red brown,"purple, black yellow",orange red yellow,orange black yellow,orange red brown,purple red yellow,purple red brown,orange red yellow,orange red brown,orange black brown,purple black yellow,purple red yellow,purple black brown,orange black yellow,orange black yellow,orange red brown,orange red yellow,purple red yellow,orange black brown,purple black,rainbow,purple red brown,burgundy,small,orange lego,long legs,blue,small black,small white,tall white
+E22RRE,schema,1,"Image 1: orange
+Image 2: purple","Image 1: orange black
+Image 2: purple black
+Image 3: orange red
+Image 4: purple red","Image 1: orange black yellow
+Image 2: orange black brown
+Image 3: orange red brown
+Image 4: orange red yellow
+Image 5: purple black yellow
+Image 6:purple black brown
+Image 7:purple red brown
+Image 8:purple red yellow","Image 1: purple red brown
+Image 2: orange black brown
+Image 3: orange black yellow
+Image 4: purple black yellow
+Image 5: purple red yellow
+Image 6:purple black brown
+Image 7:orange red yellow
+Image 8:orange red brown","Image 1: rainbow
+Image 2: purple red brown
+Image 3: orange black yellow
+Image 4: purple red yellow
+Image 5: orange red brown
+Image 6:orange black brown
+Image 7:purple black brown
+Image 8:orange red yellow","Image 1: blue
+Image 2: small
+Image 3: orange lego
+Image 4: white tall
+Image 5: white short
+Image 6: small black
+Image 7: burgundy
+Image 8: long legs",purple,orange,purple black,orange red,orange black,purple red,purple black brown,orange black brown,purple red brown,purple black yellow,orange red yellow,orange black yellow,orange red brown,purple red yellow,purple red brown,orange red yellow,orange red brown,orange black brown,purple black yellow,purple red yellow,purple black brown,orange black yellow,orange black yellow,orange red brown,orange red yellow,purple red yellow,orange black brown,purple black brown,rainbow,purple red brown,burgundy,small,orange lego,long legs,blue,small black,short white,tall white
+F5TT2F,schema,0,"Image 1: red hat
+Image 2: purple hat","Image 1: orange hat
+Image 2: purple hat
+Image 3: orange red
+Image 4: purple red","Image 1: orange black one
+Image 2: orange black two
+Image 3: orange red two
+Image 4: orange red one
+Image 5: purple black one
+Image 6: purple black two
+Image 7: purple red two
+Image 8: purple red one","Image 1: purple red brown
+Image 2: orange black brown
+Image 3: orange black yellow
+Image 4: purple black yellow
+Image 5: purple red yellow
+Image 6: purple black brown
+Image 7: orange red yellow
+Image 8:orange red brown","Image 1: purple black yellow
+Image 2: purple red brown
+Image 3: orange black yellow
+Image 4: purple red yellow
+Image 5: orange red brown
+Image 6: orange black brown
+Image 7: purple black brown
+Image 8: orange red yellow","Image 1: orange blue brown
+Image 2: purple yellow yellow
+Image 3: orange orange brown
+Image 4: purple red yellow
+Image 5: purple white yellow
+Image 6: orange black brown
+Image 7:purple pink yellow
+Image 8: orange brown brown",purple hat,red hat,purple hat,orange red,orange hat,purple red,purple black two,orange black two,purple red two,purple black one,orange red two,orange black one,orange red two,purple red one,purple red brown,orange red yellow,orange red brown,orange black brown,purple black yellow,purple red yellow,purple black brown,orange black yellow,orange black yellow,orange red brown,orange red yellow,purple red yellow,orange black brown,purple black brown,purple black yellow,purple red brown,purple pink yellow,purple yellow yellow,orange orange brown,orange brown brown,orange blue brown,orange black brown,purple white yellow,purple red yellow
+F5TT2F,schema,1,"Image 1: red hat
+Image 2: purple hat","Image 1: orange hat
+Image 2: purple hat
+Image 3: orange red
+Image 4: purple red","Image 1: orange black one
+Image 2: orange black two
+Image 3: orange red two
+Image 4: orange red one
+Image 5: purple black one
+Image 6: purple black two
+Image 7: purple red two
+Image 8: purple red one","Image 1: purple red brown
+Image 2: orange black brown
+Image 3: orange black yellow
+Image 4: purple black yellow
+Image 5: purple red yellow
+Image 6: purple black brown
+Image 7: orange red yellow
+Image 8:orange red brown","Image 1: purple black yellow
+Image 2: purple red brown
+Image 3: orange black yellow
+Image 4: purple red yellow
+Image 5: orange red brown
+Image 6: orange black brown
+Image 7: purple black brown
+Image 8: orange red yellow","Image 1: orange blue brown
+Image 2: purple yellow yellow
+Image 3: orange orange brown
+Image 4: purple red yellow
+Image 5: purple white yellow
+Image 6: orange black brown
+Image 7:purple pink yellow
+Image 8: orange brown brown",purple hat,red hat,purple hat,orange red,orange hat,purple red,purple black two,orange black two,purple red two,purple black one,orange red one,orange black one,orange red two,purple red one,purple red brown,orange red yellow,orange red brown,orange black brown,purple black yellow,purple red yellow,purple black brown,orange black yellow,orange black yellow,orange red brown,orange red yellow,purple red yellow,orange black brown,purple black brown,purple black yellow,purple red brown,purple pink yellow,purple yellow yellow,orange orange brown,orange brown brown,orange blue brown,orange black brown,purple white yellow,purple red yellow
+GQK8HG,schema,0,"orange head
+purple head","image 1: orange black head
+image 2: purple black head
+Image 3: orange red head
+Image 4: purple red head","Image 1: oby
+Image 2: obbr
+Image 3: orbr
+Image 4:ory
+Image 5:pby
+Image 6:pbbr
+Image 7:prbr
+Image 8:pry","Image 1: prbr
+Image 2: obbr
+Image 3: oby
+Image 4: pby
+Image 5:pry
+Image 6:pbbr
+Image 7:ory
+Image 8: orbr","Image 1: pby
+Image 2: prbr
+Image 3:oby
+Image 4: pry
+Image 5:orbr
+Image 6:obbr
+Image 7:pbbr
+Image 8: ory","Image 1: orbrbluecircle
+Image 2:pbypinksquare
+Image 3:orbrrectangle
+Image 4:pbyrectagle
+Image 5:pbyt
+Image 6:orbrblackrectangle
+Image 7:pbypurplerectangle
+Image 8:orbrbrownrectangle",purple head,orange head,purple black head,orange red head,orange black head,purple red head,pbbr,obbr,prbr,pby,ory,oby,orbr,pry,prbr,ory,orbr,rbbr,pby,pry,pbbr,oby,oby,orbr,ory,pry,obbr,pbbr,pby,prbr,pbypinkrectangle,pbypinksquare,orbrrectangle,orbrrectangle,orbrbluecircle,orbrblackrectangle,pbyt,pbywhiterectangle
+GQK8HG,schema,1,"orange head
+purple head","image 1: orange black head
+image 2: purple black head
+Image 3: orange red head
+Image 4: purple red head","Image 1: oby
+Image 2: obbr
+Image 3: orbr
+Image 4:ory
+Image 5:pby
+Image 6:pbbr
+Image 7:prbr
+Image 8:pry","Image 1: prbr
+Image 2: obbr
+Image 3: oby
+Image 4: pby
+Image 5:pry
+Image 6:pbbr
+Image 7:ory
+Image 8: orbr","Image 1: pby
+Image 2: prbr
+Image 3:oby
+Image 4: pry
+Image 5:orbr
+Image 6:obbr
+Image 7:pbbr
+Image 8: ory","Image 1: orbrbluecircle
+Image 2:pbypinksquare
+Image 3:orbrrectangle
+Image 4:pbyrectagle
+Image 5:pbyt
+Image 6:orbrblackrectangle
+Image 7:pbypurplerectangle
+Image 8:orbrbrownrectangle",purple head,orange head,purple black head,orange red head,orange black head,purple red head,pbbr,obbr,prbr,pby,ory,oby,orbr,pry,prbr,ory,orbr,obbr,pby,pry,pbbr,oby,oby,orbr,ory,pry,obbr,pbbr,pby,prbr,pbypurplerectangle,pbypinksquare,orbryellowrectangle,orbrbrownrectangle,orbrbl uecircle,,,
+GSRN5T,schema,0,"Image 1:orange man 
+
+Image 2:purple man","Image 1: orange man
+Image 2:purple man
+Image 3:rorange man
+Image 4:rpurple man","Image 1:oby
+Image 2:obb
+Image 3:orb
+Image 4:ory
+Image 5:pby
+Image 6:pbb
+Image 7:prb
+Image 8:pry","Image 1:prb
+Image 2:obb
+Image 3:oby
+Image 4:pby
+Image 5:pry
+Image 6:pbb
+Image 7:ory
+Image 8:orb","Image 1:pby
+Image 2:prb
+Image 3:oby
+Image 4:pry
+Image 5:orb
+Image 6:obb
+Image 7:pbb
+Image 8:ory","Image 1:obrb
+Image 2:pyby
+Image 3:oyrb
+Image 4:pwby
+Image 5:pwbys
+Image 6:obrb
+Image 7:prby
+Image 8:obrbb",purple man,orange man,purple man,rorange man,orange man,rpurple man,pbb,obb,prb,pby,ory,oby,orb,pry,prb,ory,orb,obb,pby,pry,pbb,oby,oby,orb,ory,pry,obb,pbb,pby,prb,prby,pyby,oyrb,obrbt,obrb,obrbs,pwbys,pwby
+GSRN5T,schema,1,"Image 1:orange man 
+
+Image 2:purple man","Image 1: orange man
+Image 2:purple man
+Image 3:rorange man
+Image 4:rpurple man","Image 1:oby
+Image 2:obb
+Image 3:orb
+Image 4:ory
+Image 5:pby
+Image 6:pbb
+Image 7:prb
+Image 8:pry","Image 1:prb
+Image 2:obb
+Image 3:oby
+Image 4:pby
+Image 5:pry
+Image 6:pbb
+Image 7:ory
+Image 8:orb","Image 1:pby
+Image 2:prb
+Image 3:oby
+Image 4:pry
+Image 5:orb
+Image 6:obb
+Image 7:pbb
+Image 8:ory","Image 1:obrb
+Image 2:pyby
+Image 3:oyrb
+Image 4:pwby
+Image 5:pwbys
+Image 6:obrb
+Image 7:prby
+Image 8:obrbb",purple man,orange man,purple man,rorange man,orange man,rpurple man,pbb,obb,prb,pby,ory,oby,orb,pry,prb,ory,orb,obb,pby,pry,pbb,oby,oby,orb,ory,pry,obb,pbb,pby,prb,prby,pyby,oyrb,obrbb,obrb,obrb,pwbys,pwby
+K1JA24,schema,0,"Image 1: Orange
+Image 2:  Grey","Image 1: orange B
+Image 2: grey B
+Image 3: orange R
+Image 4: grey R","Image 1: o b y
+Image 2: o b b
+Image 3: o r b
+Image 4: o r y
+Image 5: g b y
+Image 6: g b b
+Image 7: g r b
+Image 8: g r y","Image 1: gl r b
+Image 2: or b b
+Image 3: or b y
+Image 4: gr b y
+Image 5: gl r y
+Image 6: gr b b
+Image 7: ol r y
+Image 8: ol r b","Image 1: br b y
+Image 2: gl r b
+Image 3: or b y
+Image 4: gl r y
+Image 5: ol r b
+Image 6: or b b
+Image 7: gr b b
+Image 8: ol r y","Image 1: ol r b
+Image 2: gr b y s
+Image 3: ol r b
+Image 4: gr b y
+Image 5: gr b y s
+Image 6: ol r b s
+Image 7: gr b y r
+Image 8: ol r b l",grey,orange,grey b,orange r,orange b,grey r,g b b,o b b,g r b,g b y,o r y,o b y,o r b,g r y,gl r b,ol r y,ol r b,or b b,gr b y,gl r y,gr b b,or b y,or b y,ol r b,ol r y,gl r y,or b b,gr b b,gr b y,gl r b,gr b y r,gr b y s,ol r b,ol r b l,ol r b s,ol r b s,gr b y,gr b y
+K1JA24,schema,1,"Image 1: Orange
+Image 2:  Grey","Image 1: orange B
+Image 2: grey B
+Image 3: orange R
+Image 4: grey R","Image 1: o b y
+Image 2: o b b
+Image 3: o r b
+Image 4: o r y
+Image 5: g b y
+Image 6: g b b
+Image 7: g r b
+Image 8: g r y","Image 1: gl r b
+Image 2: or b b
+Image 3: or b y
+Image 4: gr b y
+Image 5: gl r y
+Image 6: gr b b
+Image 7: ol r y
+Image 8: ol r b","Image 1: br b y
+Image 2: gl r b
+Image 3: or b y
+Image 4: gl r y
+Image 5: ol r b
+Image 6: or b b
+Image 7: gr b b
+Image 8: ol r y","Image 1: ol r b
+Image 2: gr b y s
+Image 3: ol r b
+Image 4: gr b y
+Image 5: gr b y s
+Image 6: ol r b s
+Image 7: gr b y r
+Image 8: ol r b l",grey,orange,grey b,orange r,orange b,grey r,g b b,o b b,g r b,g b y,o r y,o b y,o r b,g r y,gl r b,ol r y,ol r b,or b b,gr b y,gl r y,gr b b,or b y,or b y,ol r b,ol r y,gl r y,or b b,gr b b,gr b y,gl r b,gr b y r,gr b y s,ol r b,ol r b l,ol r b,ol r b s,gr b y s,gl b y
+KHZJM5,schema,0,"Image 1: orange
+Image 2: purple","Image 1: orange black
+Image 2: purple black
+Image 3: orange red
+Image 4: purple red","Image 1: orange black yellow
+Image 2: orange black brown
+Image 3: orange red brown
+Image 4: orange red yellow
+Image 5: purple black yellow
+Image 6: purple black brown
+Image 7: purple red brown
+Image 8: purple red yellow","Image 1: purple red brown
+Image 2: orange black brown
+Image 3: orange black yellow
+Image 4: purple black yellow
+Image 5: purple red yellow
+Image 6: purple black brown
+Image 7: orange red yellow
+Image 8: orange red brown","Image 1: purple black yellow
+Image 2: purple red brown
+Image 3: orange black yellow
+Image 4: purple red yellow
+Image 5: orange red brown
+Image 6: orange black brown
+Image 7: purple black brown
+Image 8: orange red yellow","Image 1: orange red brown blue
+Image 2: purple black yellow yellow
+Image 3: orange red brown yellow
+Image 4: purple black yellow brown
+Image 5: purple black yellow white
+Image 6: orange red brown black
+Image 7: purple black yellow pink
+Image 8: orange red brown brown",purple,orange,purple black,orange red,orange black,purple red,purple black brown,orange black brown,purple red brown,purple black yellow,orange red yellow,orange black yellow,orange red brown,purple red yellow,purple red brown,orange red yellow,orange red brown,orange black brown,purple black yellow,purple red yellow,purple black brown,orange black yellow,orange black yellow,orange red brown,orange red yellow,purple red yellow,orange black brown,purple black brown,purple black yellow,purple red brown,purple black yellow pink,purple black yellow yellow,orange red brown yellow,orange red brown brown,orange red brown blue,orange red brown black,purple black yellow white,purple black yellow brown
+KHZJM5,schema,1,"Image 1: orange
+Image 2: purple","Image 1: orange black
+Image 2: purple black
+Image 3: orange red
+Image 4: purple red","Image 1: orange black yellow
+Image 2: orange black brown
+Image 3: orange red brown
+Image 4: orange red yellow
+Image 5: purple black yellow
+Image 6: purple black brown
+Image 7: purple red brown
+Image 8: purple red yellow","Image 1: purple red brown
+Image 2: orange black brown
+Image 3: orange black yellow
+Image 4: purple black yellow
+Image 5: purple red yellow
+Image 6: purple black brown
+Image 7: orange red yellow
+Image 8: orange red brown","Image 1: purple black yellow
+Image 2: purple red brown
+Image 3: orange black yellow
+Image 4: purple red yellow
+Image 5: orange red brown
+Image 6: orange black brown
+Image 7: purple black brown
+Image 8: orange red yellow","Image 1: orange red brown blue
+Image 2: purple black yellow yellow
+Image 3: orange red brown yellow
+Image 4: purple black yellow brown
+Image 5: purple black yellow white
+Image 6: orange red brown black
+Image 7: purple black yellow pink
+Image 8: orange red brown brown",purple,orange,purple black,orange red,orange black,purple red,purple black brown,orange black brown,purple red brown,purple black yellow,orange red yellow,orange black yellow,orange red brown,purple red yellow,purple red brown,orange red yellow,orange red brown,orange black brown,purple black yellow,purple red yellow,purple black brown,orange black yellow,orange black yellow,orange red brown,orange red yellow,purple red yellow,orange black brown,purple black brown,purple black yellow,purple red brown,purple black yellow pink,purple black yellow yellow,orange red brown yellow,orange red brown brown,orange red brown blue,orange red brown black,purple black yellow white,purple black yellow brown
+PP2GEH,schema,0,"Orange 
+Purple","Image 2:
+Image 3:
+Image 4:","Image 1:
+Image 2:
+Image 3:
+Image 4:
+Image 5:
+Image 6:
+Image 7:
+Image 8:","Image 1:
+Image 2:
+Image 3:
+Image 4:
+Image 5:
+Image 6:
+Image 7:
+Image 8:","Image 1:
+Image 2:
+Image 3:
+Image 4:
+Image 5:
+Image 6:
+Image 7:
+Image 8:","Image 1:
+Image 2:
+Image 3:
+Image 4:
+Image 5:
+Image 6:
+Image 7:
+Image 8:",purple,orange,rpurple,lorange,rorange,lpurple,rpurpleb,rorangeb,lpurpleb,rpurpley,lorangey,rorangey,lorangeb,lpurpley,lpurpleb,lorangey,lorangeb,rorangeb,rpurpley,lpurpley,rpurpleb,rorangey,rorangey,lorangeb,lorangey,lpurpley,rorangeb,rpurpleb,rpurpley,lpurpleb,rpurpleyi,rpurpleyi,lorangebo,lorangebo,lorangebo,lorangebo,rpurpleyi,rpurpleyi
+PP2GEH,schema,1,"Orange 
+Purple","Image 2:
+Image 3:
+Image 4:","Image 1:
+Image 2:
+Image 3:
+Image 4:
+Image 5:
+Image 6:
+Image 7:
+Image 8:","Image 1:
+Image 2:
+Image 3:
+Image 4:
+Image 5:
+Image 6:
+Image 7:
+Image 8:","Image 1:
+Image 2:
+Image 3:
+Image 4:
+Image 5:
+Image 6:
+Image 7:
+Image 8:","Image 1:
+Image 2:
+Image 3:
+Image 4:
+Image 5:
+Image 6:
+Image 7:
+Image 8:",purple,orange,rpurple,lorange,rorange,lpurple,rpurpleb,rorangeb,lpurpleb,rpurpley,lorangey,rorangey,lorangeb,lpurpley,lpurpleb,lorangey,lorangeb,rorangeb,rpurpley,lpurpley,rpurpleb,rorangey,rorangey,lorangeb,lorangey,lpurpley,rorangeb,rpurpleb,rpurpley,lpurpleb,lpurpleyi,rpurpleyi,lorangebo,lorangebo,lorangebo,lorangebo,rpurpleyi,rpurpleyi
+PYZZRG,schema,0,"Image 1: Orange Lego
+Image 2: Purple Lego","Image 1: Right facing orange hat
+Image 2: Right facing purple hat
+Image 3: Left facing orange hat
+Image 4: Left facing purple hat","Image 1: Right facing orange hat yellow feet
+Image 2: Right facing orange hat brown feet
+Image 3: Left facing orange hat brown feet
+Image 4: Left facing orange hat yellow feet
+Image 5: Right facing purple hat yellow feet
+Image 6: Right facing purple hat brown feet
+Image 7: Left facing purple hat brown feet
+Image 8: Left facing purple hat yellow feet","Image 1: Right facing orange hat yellow feet
+Image 2: Right facing orange hat brown feet
+Image 3: Left facing orange hat brown feet
+Image 4: Left facing orange hat yellow feet
+Image 5: Right facing purple hat yellow feet
+Image 6: Right facing purple hat brown feet
+
+Image 1: Left facing purple hat brown feet
+Image 8: Left facing purple hat yellow feet","Image 1:
+Image 2:
+Image 3:
+Image 4:
+Image 5:
+Image 6: right facing orange hat brown feet
+Image 7:
+Image 8:","Image 1: left facing orange hat 4 brown feet
+Image 2: right facing purple hat long yellow feet 
+Image 3: left facing orange hat 2 brown feet
+Image 4: right facing purple hat tall body
+Image 5: right facing purple hat flat yellow feet
+Image 6: left facing orange hat flat wide body
+Image 7: right facing purple hat lean yellow feet
+Image 8: left facing orange hat long brown feet",purple lego,orange lego,right facing purple hat,left facing orange hat,right facing orange hat,left facing purple hat,right facing purple hat brown feet,right facing orange hat brown feet,left facing purple hat brown feet,right facing purple hat yellow feet,left facing orange hat yellow feet,right facing orange hat yellow feet,left facing orange hat brown feet,left facing purple hat yellow feet,left facing purple hat brown feet,left facing orange hat yellow feet,left facing orange hat brown feet,right facing orange hat brown feet,right facing purple hat yellow feet,left facing purple hat yellow feet,right facing purple hat brown feet,right facing orange hat yellow feet,right facing orange hat yellow feet,left facing orange hat brown feet,left facing orange hat yellow feet,left facing purple hat yellow feet,right facing orange hat brown feet,right facing purple hat brown feet,right facing purple hat yellow feet,left facing purple hat brown feet,right facing purple hat lean yellow feet,right facing purple hat long yellow feet,left facing orange hat 2 brown feet,left facing orange hat long brown legs,left facing orange hat 4 brown feet,left facing orange hat flat wide body,right facing purple hat yellow feet,right facing purple hat tall body
+PYZZRG,schema,1,"Image 1: Orange Lego
+Image 2: Purple Lego","Image 1: Right facing orange hat
+Image 2: Right facing purple hat
+Image 3: Left facing orange hat
+Image 4: Left facing purple hat","Image 1: Right facing orange hat yellow feet
+Image 2: Right facing orange hat brown feet
+Image 3: Left facing orange hat brown feet
+Image 4: Left facing orange hat yellow feet
+Image 5: Right facing purple hat yellow feet
+Image 6: Right facing purple hat brown feet
+Image 7: Left facing purple hat brown feet
+Image 8: Left facing purple hat yellow feet","Image 1: Right facing orange hat yellow feet
+Image 2: Right facing orange hat brown feet
+Image 3: Left facing orange hat brown feet
+Image 4: Left facing orange hat yellow feet
+Image 5: Right facing purple hat yellow feet
+Image 6: Right facing purple hat brown feet
+
+Image 1: Left facing purple hat brown feet
+Image 8: Left facing purple hat yellow feet","Image 1:
+Image 2:
+Image 3:
+Image 4:
+Image 5:
+Image 6: right facing orange hat brown feet
+Image 7:
+Image 8:","Image 1: left facing orange hat 4 brown feet
+Image 2: right facing purple hat long yellow feet 
+Image 3: left facing orange hat 2 brown feet
+Image 4: right facing purple hat tall body
+Image 5: right facing purple hat flat yellow feet
+Image 6: left facing orange hat flat wide body
+Image 7: right facing purple hat lean yellow feet
+Image 8: left facing orange hat long brown feet",purple lego,orange lego,right facing purple hat,left facing orange hat,right facing orange hat,left facing purple hat,right facing purple hat brown feet,right facing orange hat brown feet,left facing purple hat brown feet,right facing purple hat yellow feet,left facing orange hat yellow feet,right facing orange hat yellow feet,left facing orange hat brown feet,left facing purple hat yellow feet,left facing purple hat brown feet,left facing orange hat yellow feet,left facing orange hat brown feet,right facing orange hat brown feet,right facing purple hat yellow feet,left facing purple hat yellow feet,right facing purple hat brown feet,right facing orange hat yellow feet,right facing orange hat yellow feet,left facing orange hat brown feet,left facing orange hat yellow feet,left facing purple hat yellow feet,right facing orange hat brown feet,right facing purple hat brown feet,right facing purple hat yellow feet,left facing purple hat brown feet,right facing purple hat slim yellow feet,right facing purple hat long yellow feet,left facing orange hat 2 brown feet,left facing orange hat long brown feet,left facing orange hat 4 brown feet,left facing orange hat wide brown feet,right facing purple hat flat yellow feet,right facing purple hat tall yellow feet
+Q15A59,schema,0,"Image 1:eyes out  
+Image 2:eyes in","Image 1:eyes out 
+Image 2:eyes in 
+Image 3:eyes left 
+Image 4:eyes down","Image 1:eyes out 
+Image 2:eyes right 
+Image 3:red hands 
+Image 4:eyes left 
+Image 5:eyes in 
+Image 6:purple hat 
+Image 7:brown shoes 
+Image 8:eyes down","Image 1:PRB 
+Image 2:OBB
+Image 3:
+Image 4:
+Image 5:
+Image 6:
+Image 7:
+Image 8:","Image 1:pby 
+Image 2:prb
+Image 3:oby
+Image 4:pry
+Image 5:orb
+Image 6:obb
+Image 7:pbb
+Image 8:ory","Image 1:orbc 
+Image 2:pbys
+Image 3:orbr
+Image 4:pbyr
+Image 5:pbyt
+Image 6:orbs
+Image 7:pby
+Image 8:",eyes in,eyes out,eyes in,eyes left,eyes in,eyes down,purple hat,eyes right,brown shoes,eyes in,eyes left,eyes out,red hands,eyes down,prb,ory,orb,obb,pby,pry,pbb,oby,oby,orb,ory,pry,obb,pbb,pby,prb,pbyp,pbys,orbr,orb,orbc,orbb,pbyt,pbyr
+Q15A59,schema,1,"Image 1:eyes out  
+Image 2:eyes in","Image 1:eyes out 
+Image 2:eyes in 
+Image 3:eyes left 
+Image 4:eyes down","Image 1:eyes out 
+Image 2:eyes right 
+Image 3:red hands 
+Image 4:eyes left 
+Image 5:eyes in 
+Image 6:purple hat 
+Image 7:brown shoes 
+Image 8:eyes down","Image 1:PRB 
+Image 2:OBB
+Image 3:
+Image 4:
+Image 5:
+Image 6:
+Image 7:
+Image 8:","Image 1:pby 
+Image 2:prb
+Image 3:oby
+Image 4:pry
+Image 5:orb
+Image 6:obb
+Image 7:pbb
+Image 8:ory","Image 1:orbc 
+Image 2:pbys
+Image 3:orbr
+Image 4:pbyr
+Image 5:pbyt
+Image 6:orbs
+Image 7:pby
+Image 8:",eys in,eyes out,eyes in,eyes left,eyes out,eyes down,purple hat,brown shoes,red hands,eyes in,eyes left,eyes out,red hands,eyes down,prb,ory,orb,obb,pby,pry,pbb,oby,oby,orb,ory,pry,obb,pbb,pby,prb,pbyt,pbys,orbr,orbt,orbc,orbs,pbyt,pbyr
+QHTZ3N,schema,0,"Orange hair
+Purple hair","orange
+purple:
+orange2:
+purple2","orangeblackyellow
+orangeblackbrown
+orangeredbrown
+orangeredyellow
+purpleblackyellow
+purpleblackbrown
+purpleredbrown
+purpleredyellow","purpleredspacebrown:
+orangeblackbrown
+orangeblackyellow
+purpleblackyellow
+purpleredyellow
+purpleblackbrown
+OrangeRedYellow
+OrangeRedBrown:","purplemulti
+purpleredbrown
+orangegreyyellow
+purplegreennose
+anchor
+Cube
+purpleyellowmain
+RedYellowOrange","Orangecircle
+purpleyellowback
+orangebody
+purplewhiterectangle
+white
+black
+pink
+brown",purple,orange,purple,orange 2,orange,purple 2,orangeblackbrown,orangeblackbrown,purpleorangebrown,purpleblackyellow,orangeredyellow,orangeblackyellow,orangeredbrown,purple,purpleredspacebrown,orangeredyellow,orangeredbrown,orangeblackbrown,purpleblackyellow,purpleredyellow,purpleblackbrown,orangeblackyellow,orangegreyyellow,anchor,orangeredyellow,purplegreennose,orangecube,purpleyellow,purplemulti,purpleredbrown,red,purpleyellowback,orangebody,brown,circlebody,black,white,purplewhitebody
+QHTZ3N,schema,1,"Orange hair
+Purple hair","orange
+purple:
+orange2:
+purple2","orangeblackyellow
+orangeblackbrown
+orangeredbrown
+orangeredyellow
+purpleblackyellow
+purpleblackbrown
+purpleredbrown
+purpleredyellow","purpleredspacebrown:
+orangeblackbrown
+orangeblackyellow
+purpleblackyellow
+purpleredyellow
+purpleblackbrown
+OrangeRedYellow
+OrangeRedBrown:","purplemulti
+purpleredbrown
+orangegreyyellow
+purplegreennose
+anchor
+Cube
+purpleyellowmain
+RedYellowOrange","Orangecircle
+purpleyellowback
+orangebody
+purplewhiterectangle
+white
+black
+pink
+brown",purple,orange,purple,orange,orange,purple2,purpleblackbrown,orangeblackbrown,purpleredbrown,purpleblackyellow,orangeredyellow,orangeblackyellow,orangeredbrown,purpleredyellow,purpleredbrown,orangeredyellow,orangeredbrown,orangeblackbrown,purpleblackyellow,purpleredyellow,purpleblackbrown,orangeblackyellow,grey,anchor,orangeredyellow,purplegreennose,cube,purpleyellowmain,purplemulti,purple,,,orangebody,brown,orangecircle,black,white,purplewhite
+QVB21B,schema,0,"Image 1:orange
+Image 2:purple","Image 1: right orange
+Image 2: right purple
+Image 3: left orange
+Image 4: left purple","Image 1: roy
+Image 2: rob
+Image 3: lob
+Image 4: loy
+Image 5: rpy
+Image 6: rpb
+Image 7: lpb
+Image 8: lpy","Image 1: lprb
+Image 2: robb
+Image 3: roby
+Image 4: rpby
+Image 5: lpry
+Image 6: rpbb
+Image 7: lory
+Image 8: lorb","Image 1: rpby
+Image 2: lprb
+Image 3: roby
+Image 4: lpry
+Image 5: lorb
+Image 6: robb
+Image 7: rpbb
+Image 8: lory","Image 1: lobrwb
+Image 2: rpyby
+Image 3: loyrb
+Image 4: rpwbry
+Image 5: rpwby
+Image 6: lobrb
+Image 7: rppby
+Image 8: lobrb",purple,orange,right purple,left orange,right orange,left purple,rpb,rob,lpb,rpy,loy,roy,lob,lpy,lprb,lory,lorb,robb,rpby,lpry,rpbb,roby,roby,lorb,lory,lpry,robb,rpbb,rpby,lprb,rppby,rpyby,loyrb,lobrb,lobrwb,lobrb,rpwby,rpwbry
+QVB21B,schema,1,"Image 1:orange
+Image 2:purple","Image 1: right orange
+Image 2: right purple
+Image 3: left orange
+Image 4: left purple","Image 1: roy
+Image 2: rob
+Image 3: lob
+Image 4: loy
+Image 5: rpy
+Image 6: rpb
+Image 7: lpb
+Image 8: lpy","Image 1: lprb
+Image 2: robb
+Image 3: roby
+Image 4: rpby
+Image 5: lpry
+Image 6: rpbb
+Image 7: lory
+Image 8: lorb","Image 1: rpby
+Image 2: lprb
+Image 3: roby
+Image 4: lpry
+Image 5: lorb
+Image 6: robb
+Image 7: rpbb
+Image 8: lory","Image 1: lobrwb
+Image 2: rpyby
+Image 3: loyrb
+Image 4: rpwbry
+Image 5: rpwby
+Image 6: lobrb
+Image 7: rppby
+Image 8: lobrb",purple,orange,right purple,left orange,right orange,left purple,rpb,rob,lpb,rpy,loy,roy,lob,lpy,lprb,lory,lorb,robb,rpby,lpry,rpbb,roby,roby,lorb,lory,lpry,robb,rpbb,rpby,lprb,rppby,rpyby,loyrb,lobrb,lobrwb,lobrb,rpwby,rpwbry
+SFQ0P4,schema,0,"Image 1:orange
+Image 2:purple","Image 1:orange right
+Image 2:purple right
+Image 3:orange left
+Image 4:purple left","Image 1:orange black yellow
+Image 2:orange black brown
+Image 3:orange red brown
+Image 4:orange red yellow
+Image 5:purple black yellow
+Image 6:purple black brown
+Image 7:purple red brown
+Image 8:purple red yellow","Image 1:purple red brown
+Image 2:orange black brown
+Image 3:orange black yellow
+Image 4:purple black yellow
+Image 5:purple red yellow
+Image 6:purple black brown
+Image 7:orange red yellow
+Image 8:orange red brown","Image 1:multi
+Image 2:four
+Image 3:three
+Image 4:five
+Image 5:octagon
+Image 6:cube
+Image 7:yellow
+Image 8:red","Image 1:multi
+Image 2:purple small
+Image 3:yellow
+Image 4:white big
+Image 5:white small
+Image 6:black
+Image 7:purple big
+Image 8:brown",purple,orange,purple right,orange left,orange right,purple left,purple black brown,orange black brown,purple red brown,purple black yellow,orange red yellow,orange black yellow,orange red brown,purple red yellow,purple red brown,orange red yellow,orange red brown,orange black brown,purple black yellow,purple red yellow,purple black brown,orange black yellow,three,octogon,red,four,cube,yellow,multi,four,purple big,purple small,yellow,brown,multi,black,white small,white big
+SFQ0P4,schema,1,"Image 1:orange
+Image 2:purple","Image 1:orange right
+Image 2:purple right
+Image 3:orange left
+Image 4:purple left","Image 1:orange black yellow
+Image 2:orange black brown
+Image 3:orange red brown
+Image 4:orange red yellow
+Image 5:purple black yellow
+Image 6:purple black brown
+Image 7:purple red brown
+Image 8:purple red yellow","Image 1:purple red brown
+Image 2:orange black brown
+Image 3:orange black yellow
+Image 4:purple black yellow
+Image 5:purple red yellow
+Image 6:purple black brown
+Image 7:orange red yellow
+Image 8:orange red brown","Image 1:multi
+Image 2:four
+Image 3:three
+Image 4:five
+Image 5:octagon
+Image 6:cube
+Image 7:yellow
+Image 8:red","Image 1:multi
+Image 2:purple small
+Image 3:yellow
+Image 4:white big
+Image 5:white small
+Image 6:black
+Image 7:purple big
+Image 8:brown",purple,orange,purple right,orange left,orange,purple left,purple black brown,orange black brown,purple red brown,purple black yellow,orange red yellow,orange black yellow,orange red brown,purple red yellow,purple red brown,orange red yellow,orange red brown,orange black brown,purple black yellow,purple red yellow,purple black brown,orange black yellow,four,octagon,red,five,cube,yellow,multi,four,purple big,purple small,yellow,brown,multi,black,white small,white big
+TBM35H,schema,0,"Image 1: red 
+Image 2: gray","reImage 2:
+Image 3:
+Image 4:","Image 1:
+Image 2:
+Image 3:
+Image 4:
+Image 5:
+Image 6:
+Image 7:
+Image 8:","Image 1:
+Image 2:
+Image 3:
+Image 4:
+Image 5:
+Image 6:
+Image 7:
+Image 8:","Image 1:
+Image 2:
+Image 3:
+Image 4:
+Image 5:
+Image 6:
+Image 7:
+Image 8:","Image 1:
+Image 2:
+Image 3:
+Image 4:
+Image 5:
+Image 6:
+Image 7:
+Image 8:",gray,red hair,grey right,red left,red right,gray left,grey right black brown,red right black brown,grey left red brown,grey right black yellow,red left red yellow,red right black yellow,red left red brown,grey left red yellow,grey left red brown,red left red yellow,red right red brown,red right black brown,grey right black yellow,grey left red yellow,grey right black brown,red right black yellow,red right black yellow,red left red brown,red left red yellow,grey left red yellow,red right black brown,grey right black brown,grey right black yellow,grey left red brown,grey right pink yellow,grey right yellow yellow,red left yellow brown,red left brown brown,red left blue brown,red left black brown,grey right white yellow,grey right white red yellow
+TBM35H,schema,1,"Image 1: red 
+Image 2: gray","reImage 2:
+Image 3:
+Image 4:","Image 1:
+Image 2:
+Image 3:
+Image 4:
+Image 5:
+Image 6:
+Image 7:
+Image 8:","Image 1:
+Image 2:
+Image 3:
+Image 4:
+Image 5:
+Image 6:
+Image 7:
+Image 8:","Image 1:
+Image 2:
+Image 3:
+Image 4:
+Image 5:
+Image 6:
+Image 7:
+Image 8:","Image 1:
+Image 2:
+Image 3:
+Image 4:
+Image 5:
+Image 6:
+Image 7:
+Image 8:",gray hair,red hair,gray right,red left,red right,gery left,grey right black brown,red right black brown,grey left red brown,grey right black yallow,red left red yellow,red right black yellow,red left red brown,grey left red yellow,grey left red brown,red right red yellow,red left red brown,red right black brown,grey right black yellow,grey left red yellow,grey right black brown,red right black yellow,red right black yellow,red left red brown,red left red yellow,grey left red yellow,red right black brown,grey right black brown,grey right black,grey left red brown,grey right red yellow,grey right yellow yellow,red left yellow brown,red left brown brown,red left blue brown,red left black brown,grey right white yellow,grey right white red yellow
+TY9XBR,schema,0,"Orangina
+Purplicious","Image 1: Black Orangina
+Image 2: Black Purplicious
+Image 3: Red Orangina
+Image 4: Red Purplicious","Image 1: Black Orangina Y
+Image 2: Black Orangina B
+Image 3: Red Orangina B
+Image 4: Red Orangina Y
+Image 5: Black Purplicious Y
+Image 6: Black Purplicious B
+Image 7: Red Purplcious B
+Image 8: Red Purplicous Y","Image 1:
+Image 2:
+Image 3:
+Image 4: Black Purplicious Y 
+Image 5:
+Image 6: black orangina b
+Image 7: Spider
+Image 8: Red orangina b","Image 1: Rainbow
+Image 2: Short Purplicious
+Image 3: Tall Orangina
+Image 4: Buggy
+Image 5: Circle
+Image 6: Square
+Image 7: Cheeseburger
+Image 8: Santa Claus","Image 1: Waiter
+Image 2: Post-it
+Image 3: Orange Juice
+Image 4: Robot Purplicious
+Image 5: Waffle
+Image 6: Furbaby
+Image 7: Purple
+Image 8: Businessman",purplicious,orangina,black purplicious,red orangina,black orangina,red purplicious,black purplicious b,black orangina b,red purplicious b,black purplicious y,red orangina y,black orangina y,red orangina b,red purplicious y,red purplicious b,red orangina y,red orangina b,black orangina b,black purplicious y,red purplicious y,black purplicious b,black orangina y,tall orangina,circle,santa claus,buggy,square,cheeseburger,rainbow,short purplicious,purple,post-it,orange juice,businessman,waiter,furbaby,waffle,robot purplicious
+TY9XBR,schema,1,"Orangina
+Purplicious","Image 1: Black Orangina
+Image 2: Black Purplicious
+Image 3: Red Orangina
+Image 4: Red Purplicious","Image 1: Black Orangina Y
+Image 2: Black Orangina B
+Image 3: Red Orangina B
+Image 4: Red Orangina Y
+Image 5: Black Purplicious Y
+Image 6: Black Purplicious B
+Image 7: Red Purplcious B
+Image 8: Red Purplicous Y","Image 1:
+Image 2:
+Image 3:
+Image 4: Black Purplicious Y 
+Image 5:
+Image 6: black orangina b
+Image 7: Spider
+Image 8: Red orangina b","Image 1: Rainbow
+Image 2: Short Purplicious
+Image 3: Tall Orangina
+Image 4: Buggy
+Image 5: Circle
+Image 6: Square
+Image 7: Cheeseburger
+Image 8: Santa Claus","Image 1: Waiter
+Image 2: Post-it
+Image 3: Orange Juice
+Image 4: Robot Purplicious
+Image 5: Waffle
+Image 6: Furbaby
+Image 7: Purple
+Image 8: Businessman",purplicious,orangina,black purplicious,red orangina,black orangina,red purplicious,black purplious b,black orangina b,,black purplicious y,red orangina y,black orangina y,red orangina b,red purplicious y,red purplicious b,red orangina y,red orangina b,black orangina b,black purplicious y,red purplicious y,black purplicious b,black orangina y,tall orangina,circle,santa clause,buggy,shorty,chesseburger,rainbow,shorty,purple,post-it,orange juice,robot businessman,waiter,furbaby,waffle,tall purplicious
+VF2XR4,schema,0,"Image 1: Orange hat
+Image 2: Purple hat","Image 1:orange hat right
+Image 2:purple hat right
+Image 3: orange hat left
+Image 4: purple hat left","Image 1: orange hat right black yellow
+Image 2:orange hat right black brown
+Image 3:orange hat left red brown
+Image 4:orange hat left red yellow
+Image 5: pruple hat right black yellow
+Image 6: purple hat right black brown
+Image 7: purple hat left red brown 
+Image 8: purple hat left red yellow","Image 1: purple hat left red brown
+Image 2: orange hat right black brown
+Image 3: orange hat right black yellow
+Image 4:purple hat right black yellow
+Image 5: purple hat left red yellow
+Image 6: purple hat right black brown
+Image 7: orange hat left red yellow
+Image 8: orange hat left red brown","Image 1: purple hat right black yellow
+Image 2:purple hat left red brown
+Image 3:orange hat right black yellow
+Image 4:purple hat left red yellow
+Image 5: orange hat left red brown
+Image 6: orange hat right black brown
+Image 7: purple hat right black brown
+Image 8: orange hat left red yellow","Image 1: orange toilet 
+Image 2: purple short
+Image 3: orange lego 
+Image 4: purple tall 
+Image 5: purple medium
+Image 6: orange short
+Image 7: purple pink
+Image 8: orange long legs",purple hat,orange hat,purple hat right,orange hat left,orange hat right,purple hat left,purple hat right black brown,orange hat right black brown,purple hat left red brown,purple hat right black yellow,orange hat left red yellow,orange hat right black yellow,orange hat left red brown,purple hat left red yellow,purple hat left red brown,orange hat left red yellow,orange hat left red brown,orange hat right black brown,purple hat right black yellow,purple hat left red yellow,purple hat right black brown,orange hat right black yellow,orange hat right black yellow,orange hat left red brown,orange hat left red yellow,purple hat left red yellow,orange hat right black brown,purple hat right black brown,purple hat right black yellow,purple hat left red brown,purple pink,purple short,orange lego,orange long legs,orange toilet,orange short,purple medium,purple tall
+VF2XR4,schema,1,"Image 1: Orange hat
+Image 2: Purple hat","Image 1:orange hat right
+Image 2:purple hat right
+Image 3: orange hat left
+Image 4: purple hat left","Image 1: orange hat right black yellow
+Image 2:orange hat right black brown
+Image 3:orange hat left red brown
+Image 4:orange hat left red yellow
+Image 5: pruple hat right black yellow
+Image 6: purple hat right black brown
+Image 7: purple hat left red brown 
+Image 8: purple hat left red yellow","Image 1: purple hat left red brown
+Image 2: orange hat right black brown
+Image 3: orange hat right black yellow
+Image 4:purple hat right black yellow
+Image 5: purple hat left red yellow
+Image 6: purple hat right black brown
+Image 7: orange hat left red yellow
+Image 8: orange hat left red brown","Image 1: purple hat right black yellow
+Image 2:purple hat left red brown
+Image 3:orange hat right black yellow
+Image 4:purple hat left red yellow
+Image 5: orange hat left red brown
+Image 6: orange hat right black brown
+Image 7: purple hat right black brown
+Image 8: orange hat left red yellow","Image 1: orange toilet 
+Image 2: purple short
+Image 3: orange lego 
+Image 4: purple tall 
+Image 5: purple medium
+Image 6: orange short
+Image 7: purple pink
+Image 8: orange long legs",purple hat,orange hat,purple hat right,orange hat left,orange hat right,purple hat left,purple hat right black brown,orange hat right black brown,purple hat left red brown,purple hat right black yellow,orange hat left red yellow,orange hat right black yellow,orange hat left red brown,purple hair left red yellow,purple hat left red brown,orange hat left red yellow,orange hat left red brown,orange hat right black brown,purple hat right black yellow,purple hat left red yellow,purple hat right black brown,orange hat right black yellow,orange hat right black yellow,orange hat left red brown,orange hat left red yellow,purple hat left red yellow,orange hat right black brown,purple hat right black brown,purple hat right black yellow,purple hat left red brown,purple pink,purple short,orange lego,orange long legs,orange toilet,orange short,purple medium,purple tall
+VT5G2M,schema,0,"Image 1: orange
+Image 2: purple","Image 1: orange with black hands
+Image 2:purple with black hands
+Image 3: orange with red hands
+Image 4: purple with red hands","Image 1: orange with black hands, yellow feet
+Image 2:orange with black hands, brown feet
+Image 3:orange with red hands, brown feet
+Image 4:orange with red hands, yellow feet
+Image 5:purple with black hands, yellow feet
+Image 6: purple with black hands, brown feet
+Image 7:purple with red hands, brown feet
+Image 8:purple with red hands, yellow feet","Image 1: purple hair, red arms, brown feet
+Image 2:orange hair, black arms, brown feet
+Image 3:orange hair, black arms, brown feet
+Image 4:purple hair, black arms, yellow feet
+Image 5:purple hair, red arms, yelllow feet
+Image 6: purple feet, black arms, brown feet
+Image 7:orange hair, red arms, yellow feet
+Image 8:orange hair, red arms, brown feet","Image 1:purple hair, colorful body
+Image 2:purple hair, red arms, brown feet
+Image 3: orange hair, chair, yellow feet
+Image 4:purple hair, lime body, yellow feet
+Image 5:orange hair, red arms, brown feet
+Image 6: orange hair, black arms, brown feet
+Image 7:purple hair, black arms, brown feet
+Image 8:orange hair, red arms, yellow feet","Image 1:orange hair, red arms, brown feet
+Image 2:purple hair, black arms, yellow feet
+Image 3:orange hair, red arms, brown feet, yellow body
+Image 4:purple hair, black arms, red and yellow feet
+Image 5:purple hair, black arms, yellow feet, white body
+Image 6:orange hair, red arms, brown feet, black body
+Image 7:purple hair, black arms, yellow feet, pink body
+Image 8:orange hair, red arms, brown legs and feet",purple,orange,purple with black hands,orange with red hands,orange with black hands,purple with red hands,"purple with black hands, brown feet","orange with black hands, brown feet","purple with red hands, brown fee","purple with black hands, yellow feet","orange with red hands,
+ yellow feet","orange with black hands, yellow feet","orange with red hands, brown feet","purple with red hands, yellow feet","purple hair, red arms, brown feet","orange hair, red arms, yellow feet","orange hair, red arms, brown feet","orange hair, black arms, brown feet","purple hair, black arms, yellow feet","purple hair, red arms, yellow feet","purple hair, black arms,  brown feet","orange hair, black arms, yellow feet","orange hair, chair, yellow feet","orange hair, red arms, brown feet","orange hair, red arms, yellow feet","purple hair, red arms, yellow feet","orange hair, black arms, brown feet","purple hair, black arms, brown feet","colored body, black arms, yellow feet","purple hair, red arms, brown feet","purple hair, black arms, yellow feet, pink body","purple hair, black arms, yellow feet","orange hair, red arms, brown feet, yellow body","orange hair, red a, brown legs and feet","orange hair, red arms, brown feet","orange hair, red arms, brown feet, black body","purple hair, black arms, yellow feet","purple hair, black arms, red and yellow feet"
+VT5G2M,schema,1,"Image 1: orange
+Image 2: purple","Image 1: orange with black hands
+Image 2:purple with black hands
+Image 3: orange with red hands
+Image 4: purple with red hands","Image 1: orange with black hands, yellow feet
+Image 2:orange with black hands, brown feet
+Image 3:orange with red hands, brown feet
+Image 4:orange with red hands, yellow feet
+Image 5:purple with black hands, yellow feet
+Image 6: purple with black hands, brown feet
+Image 7:purple with red hands, brown feet
+Image 8:purple with red hands, yellow feet","Image 1: purple hair, red arms, brown feet
+Image 2:orange hair, black arms, brown feet
+Image 3:orange hair, black arms, brown feet
+Image 4:purple hair, black arms, yellow feet
+Image 5:purple hair, red arms, yelllow feet
+Image 6: purple feet, black arms, brown feet
+Image 7:orange hair, red arms, yellow feet
+Image 8:orange hair, red arms, brown feet","Image 1:purple hair, colorful body
+Image 2:purple hair, red arms, brown feet
+Image 3: orange hair, chair, yellow feet
+Image 4:purple hair, lime body, yellow feet
+Image 5:orange hair, red arms, brown feet
+Image 6: orange hair, black arms, brown feet
+Image 7:purple hair, black arms, brown feet
+Image 8:orange hair, red arms, yellow feet","Image 1:orange hair, red arms, brown feet
+Image 2:purple hair, black arms, yellow feet
+Image 3:orange hair, red arms, brown feet, yellow body
+Image 4:purple hair, black arms, red and yellow feet
+Image 5:purple hair, black arms, yellow feet, white body
+Image 6:orange hair, red arms, brown feet, black body
+Image 7:purple hair, black arms, yellow feet, pink body
+Image 8:orange hair, red arms, brown legs and feet",purple,orange,purple with black hands,orange with red hands,orange with black hands,purple with red hands,"purple with black hands, brown feet","orange with black hands, brown feet","purple with red hands, brown feet","purple with black hands, yellow feet","orange with red hands, yellow feet","orange with black hands, yellow feet","orange with red hands, brown feet","purple with red hands, yellow feet","purple hair, red arms, brown feet","orange hair, red arms, yellow feet","orange hair, red arms, brown feet","orange hair, black arms, brown feet","purple hair, black arms, yellow feet","purple hair, red arms, yellow feet","purple hair, black arms, brown feet","orange hair, black arms, yellow feet","orange hair, chair, yellow feet","orange hair, red arms, brown feet","orange hair, red arms, yellow feet","purple hair, lime body, yellow feet","orange hair, black arms, brown feet","purple hair, black arms, brown feet","purple hair, colorful body","purple hair, red arms, brown feet","purple hair, black arms, yellow feet, pink body","purple hair, black arms, yellow feet","orange hair, red arms, brown feet, yellow body","orange hair, red arms, brown feet, brown body","orange hair, red arm, brown feet","orange hair, red arms, brown feet","purple hair, black arms, yellow feet, white body","purple hair, black arms, red and yellow feet"
+YTYFXS,schema,0,"Image 1: red 
+Image 2:purple","Image 1: red
+Image 2: purple
+Image 3: redred
+Image 4: purplered","Image 1:rby
+Image 2:rbb
+Image 3:rrb
+Image 4:rry
+Image 5:pby
+Image 6:pbb
+Image 7:prb
+Image 8:pry","Image 1: prb
+Image 2: rbb
+Image 3: rby
+Image 4: pby
+Image 5: pry
+Image 6: pbb
+Image 7: rry
+Image 8: rrb","Image 1:multi
+Image 2:prb
+Image 3:rby
+Image 4:pry
+Image 5:rrb
+Image 6:rbb
+Image 7:pbb
+Image 8:rry","Image 1:trb
+Image 2:yby
+Image 3:yrb
+Image 4:bby
+Image 5:wby
+Image 6:brb
+Image 7:fby
+Image 8:brown",purple,red,purple,redred,red,purplered,pbb,rbb,prb,pby,rry,rby,rrb,pry,prb,rry,rrb,rbb,pby,pry,pbb,rby,rby,rrb,rry,pry,rbb,pbb,multi,prb,fby,yby,yrb,brown,trb,brb,wby,bby
+YTYFXS,schema,1,"Image 1: red 
+Image 2:purple","Image 1: red
+Image 2: purple
+Image 3: redred
+Image 4: purplered","Image 1:rby
+Image 2:rbb
+Image 3:rrb
+Image 4:rry
+Image 5:pby
+Image 6:pbb
+Image 7:prb
+Image 8:pry","Image 1: prb
+Image 2: rbb
+Image 3: rby
+Image 4: pby
+Image 5: pry
+Image 6: pbb
+Image 7: rry
+Image 8: rrb","Image 1:multi
+Image 2:prb
+Image 3:rby
+Image 4:pry
+Image 5:rrb
+Image 6:rbb
+Image 7:pbb
+Image 8:rry","Image 1:trb
+Image 2:yby
+Image 3:yrb
+Image 4:bby
+Image 5:wby
+Image 6:brb
+Image 7:fby
+Image 8:brown",purple,red,purple,redred,red,purplered,pbb,rbb,prb,pby,rry,rby,rrb,pry,prb,rry,rrb,rbb,pby,pry,pbb,rby,rby,rrb,rry,pry,rbb,pbb,multi,prb,fby,yby,yrb,brown,trb,brb,wby,bby
+ZD373X,schema,0,"Image 1: Orange
+Image 2: Purple","Image 1: orange black
+Image 2: purple black
+Image 3: orange red
+Image 4: purple red","Image 1: orange black yellow
+Image 2: orange black brown
+Image 3: orange red brown
+Image 4: orange red yellow
+Image 5: purple black yellow
+Image 6: purple black brown
+Image 7: purple red brown
+Image 8: purple red yellow","Image 1: purple red
+Image 2:
+Image 3:
+Image 4:
+Image 5:
+Image 6:
+Image 7:
+Image 8:","Image 1:
+Image 2:
+Image 3:
+Image 4:
+Image 5:
+Image 6:
+Image 7:
+Image 8:","Image 1:
+Image 2:
+Image 3:
+Image 4:
+Image 5:
+Image 6:
+Image 7:
+Image 8:",purple,orange,purple black,orange red,orange black,purple red,purple black brown,orange black brown,purple red brown,purple black yellow,orange red yellow,orange black yellow,orange red brown,purple red yellow,purple red brown,orange red yellow,orange red brown,orange black brown,purple black yellow,purple red yellow,purple black brown,orange black yellow,orange black yellow,orange red brown,orange red yellow,purple red yellow,orange black brown,purple black brown,purple black yellow,purple red brown,purple black yellow,yellow black yellow,orange orange brown,orange brown brown,orange red brown,orange red brown,purple black yellow,purple black yellow
+ZD373X,schema,1,"Image 1: Orange
+Image 2: Purple","Image 1: orange black
+Image 2: purple black
+Image 3: orange red
+Image 4: purple red","Image 1: orange black yellow
+Image 2: orange black brown
+Image 3: orange red brown
+Image 4: orange red yellow
+Image 5: purple black yellow
+Image 6: purple black brown
+Image 7: purple red brown
+Image 8: purple red yellow","Image 1: purple red
+Image 2:
+Image 3:
+Image 4:
+Image 5:
+Image 6:
+Image 7:
+Image 8:","Image 1:
+Image 2:
+Image 3:
+Image 4:
+Image 5:
+Image 6:
+Image 7:
+Image 8:","Image 1:
+Image 2:
+Image 3:
+Image 4:
+Image 5:
+Image 6:
+Image 7:
+Image 8:",purple,orange,purple black,orange red,orange black,purple red,purple black brown,orange black brown,purple red brown,purple black yellow,orange red yellow,orange black yellow,orange red brown,purple red yellow,purple red brown,orange red yellow,orange red brown,orange black brown,purple black yellow,purple red yellow,purple black brown,orange black yellow,orange black yellow,orange red brown,orange red yellow,purple red yellow,orange black brown,purple black brown,purple black yellow,purple red brown,purple black yellow,yellow black yellow,orange orange brown,orange brown brown,orange red brown,orange black brown,purple black yellow,purple black yellow
