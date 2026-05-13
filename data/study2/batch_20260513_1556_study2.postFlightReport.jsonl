@@ -1,0 +1,175 @@
+{
+  "preregistrations": {
+    "total": 22,
+    "treatmentBreakdown": {
+      "nonschema_tangrams": 6,
+      "schema": 6,
+      "nonschema": 4,
+      "schema_tangrams": 6
+    },
+    "percentComplete": 95.45454545454545
+  },
+  "participants": {
+    "total": 27,
+    "completeIntroSteps": 27,
+    "enterLobby": 27,
+    "beginGame": 27,
+    "finishGame": 27,
+    "complete": 21,
+    "ipTimezoneBreakdown": {
+      "undefined": 27
+    },
+    "ipCountryBreakdown": {
+      "undefined": 27
+    },
+    "possibleVPN": {
+      "true": 26,
+      "false": 1
+    },
+    "browserLanguageBreakdown": {
+      "en-US": 14,
+      "en-GB": 8,
+      "en-CA": 2,
+      "pl": 1,
+      "en": 1,
+      "undefined": 1
+    },
+    "browserTimezoneBreakdown": {
+      "Europe/London": 11,
+      "America/New_York": 5,
+      "America/Toronto": 8,
+      "America/Los_Angeles": 1,
+      "America/Edmonton": 1,
+      "undefined": 1
+    },
+    "knownVPN": {
+      "undefined": 27
+    },
+    "reportingDiscussionProblems": 1,
+    "checkingIn": 1
+  },
+  "completedSampleIds": [
+    "6ec62639-a60f-4355-a12f-4984eebe49a4",
+    "2352aff2-3b3c-4820-970f-a85f5fa6043c",
+    "bd63e33c-876e-4dfb-8ae3-4c0bd5c61c78",
+    "a982d789-b9c9-4d87-a3fd-679506eb9819",
+    "207ddf21-c7bf-4b51-bdec-1f9b359def98",
+    "52403859-949f-45e1-86cc-37d6d7f20914",
+    "b0499060-c22f-4aa6-89dc-2e4f1027deaf",
+    "54d4204b-9bc8-4d6d-89c3-82390a8f0f93",
+    "f6e39178-2a39-4bb0-8e51-9263a671ae95",
+    "6c417a1f-4db1-4bbe-b7cc-797991e57ee0",
+    "2bf1ea18-a11a-4e95-80fc-1b934a28c444",
+    "9ce6a4a6-dbeb-4e57-848b-f65c97908f24",
+    "60785f90-e0ae-44eb-bfa3-d1cfc388e9d7",
+    "ed289239-11ea-427f-98da-2081ba12baec",
+    "9eb45263-0948-4cbc-9291-cfc4a8d3d6c0",
+    "407f9cf4-204f-46b0-967e-6c62879245b0",
+    "eb8f46fb-42c3-4a3c-9a07-9ec41f8f5cef",
+    "03de6dcf-0017-4e00-9140-9d0733f1e512",
+    "2d5a75d4-314b-40ab-9642-d966bb490292",
+    "0d2efa97-f087-4286-9072-da8b420a1ed9",
+    "fe7d539c-acb2-4125-97da-61c923b3d3ca"
+  ],
+  "timings": {
+    "intro": {
+      "max": 539.43,
+      "min": 135.248,
+      "mean": 326.0142608695652,
+      "median": 305.38
+    },
+    "countdown": {
+      "max": null,
+      "min": null,
+      "mean": null
+    },
+    "lobby": {
+      "max": 76.321,
+      "min": 1.949,
+      "mean": 13.1675,
+      "median": 2.415
+    },
+    "game": {
+      "max": 2338.45,
+      "min": 908.7,
+      "mean": 1445.9540000000004,
+      "median": 1423.182
+    },
+    "exit": {
+      "max": 612.814,
+      "min": 121.146,
+      "mean": 332.2781428571429,
+      "median": 272.871
+    },
+    "totalTime": {
+      "max": null,
+      "min": null,
+      "mean": null,
+      "median": null
+    },
+    "totalActiveTime": {
+      "max": 3567.015,
+      "min": 1167.043,
+      "mean": 2117.4139037267087,
+      "median": 2003.848
+    }
+  },
+  "connections": {
+    "min": 1,
+    "max": 5,
+    "mean": 1.8518518518518519,
+    "median": 2
+  },
+  "QC": {
+    "participateAgain": {
+      "yes": 0.9411764705882353,
+      "maybe": 0.058823529411764705
+    },
+    "adequateCompensation": {
+      "fairly_paid": 0.8235294117647058,
+      "underpaid": 0.11764705882352941,
+      "N/A": 0.058823529411764705
+    },
+    "adequateTime": {
+      "too_much": 0.11764705882352941,
+      "adequate": 0.7647058823529411,
+      "too_little": 0.11764705882352941
+    },
+    "clearInstructions": {
+      "2": 0.058823529411764705,
+      "3": 0.11764705882352941,
+      "4": 0.35294117647058826,
+      "5": 0.47058823529411764
+    },
+    "videoQuality": {
+      "1": 0.058823529411764705,
+      "3": 0.058823529411764705,
+      "4": 0.35294117647058826,
+      "5": 0.5294117647058824
+    },
+    "joiningProblems": {
+      "no": 1
+    },
+    "technicalProblems": {
+      "no": 1
+    },
+    "textExpansion": [
+      "it was marginally concerning the first time it popped up the \"oops there was a mistake\" communication, I quickly learned that every time it said this i just had to wait a little for the other answer to be recorded, so after awhile it didn't bug me but. Maybe don't automatically pop up the Oops, maybe a waiting for answers message instead.",
+      "When a participant is unable to reconnect to the study, perhaps the study should be terminated.. I did the entire study without a partner and am unsure if my submission is valid because of that",
+      "There was often a little delay in the answers getting submitted so it would show as a mistake but then correct itself to show we were correct. ",
+      "No I enjoyed it.",
+      "THANK YOU FOR YOUR SURVEY",
+      "NA",
+      "The study said to use unique labels for each image but for the last stage we had some dupliacate labels for some images and we were still counted as correct, we both thought we needed  a distinct name per image so we werent sure if we misunderstood the intstructions or it was actually allowed ",
+      "my headphones disconnected in the last round of the study and the audio automatically went to my speakers , but i could hear the other participant well from my laptops speakers."
+    ],
+    "technicalDetail": [],
+    "joiningDetail": []
+  },
+  "finalPayoffs": [
+    0.9801,
+    0.9702989999999999,
+    0.9702989999999999,
+    0.9702989999999999
+  ]
+}
