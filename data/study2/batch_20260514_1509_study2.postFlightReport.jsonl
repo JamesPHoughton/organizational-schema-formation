@@ -1,0 +1,234 @@
+{
+  "preregistrations": {
+    "total": 52,
+    "treatmentBreakdown": {
+      "schema": 14,
+      "schema_tangrams": 12,
+      "nonschema_tangrams": 12,
+      "nonschema": 14
+    },
+    "percentComplete": 96.15384615384616
+  },
+  "participants": {
+    "total": 69,
+    "completeIntroSteps": 69,
+    "enterLobby": 69,
+    "beginGame": 69,
+    "finishGame": 69,
+    "complete": 50,
+    "ipTimezoneBreakdown": {
+      "undefined": 69
+    },
+    "ipCountryBreakdown": {
+      "undefined": 69
+    },
+    "possibleVPN": {
+      "true": 68,
+      "false": 1
+    },
+    "browserLanguageBreakdown": {
+      "en-GB": 26,
+      "en-US": 36,
+      "en-CA": 4,
+      "en": 2,
+      "undefined": 1
+    },
+    "browserTimezoneBreakdown": {
+      "Europe/London": 34,
+      "America/New_York": 10,
+      "America/St_Johns": 1,
+      "America/Halifax": 3,
+      "America/Toronto": 11,
+      "America/Vancouver": 2,
+      "America/Regina": 1,
+      "America/Chicago": 4,
+      "America/Winnipeg": 1,
+      "Africa/Lagos": 1,
+      "undefined": 1
+    },
+    "knownVPN": {
+      "undefined": 69
+    },
+    "reportingDiscussionProblems": 3,
+    "checkingIn": 4
+  },
+  "completedSampleIds": [
+    "4309ced6-92f6-4a9d-abcb-69afde277bd9",
+    "1aaf198d-de14-4f1f-a9e9-3fd5a1f792f3",
+    "fe2af754-cf09-4ece-9edb-11da231acf60",
+    "f8dc57d1-1537-43a9-84fe-2ef4d67080b6",
+    "8725982b-319e-4393-ae1e-a86d8c3afb83",
+    "31c888cb-1ddf-4874-a10f-76f1980d79fb",
+    "8d745e4c-9960-46f3-939b-cb61118782fa",
+    "366cf597-0aed-450a-8919-31c547f25976",
+    "3c1b9f71-5f08-4884-8666-ffe7b0df8e96",
+    "4ee4c6c7-85e3-4132-a8e7-c4f45013e253",
+    "5bf76d6a-d5c3-4085-ac2e-8d48d3edc99b",
+    "7ca6c4da-8d7a-4939-abbc-fb96393026a3",
+    "b4ee669a-7259-4d14-8d76-53f87b93643b",
+    "436f7b18-7916-4b31-aeeb-76ac90eeb23d",
+    "4dd77bf3-5527-470e-9d75-8d88515488f9",
+    "204e34ba-e163-4a5c-871d-f680c8f5383c",
+    "ce869aab-89ad-4296-9eb1-04f1a2a8d254",
+    "770dedb4-b03b-4871-b5a1-d435163c908c",
+    "7ab67cef-a655-40b9-944f-19f1a1956dda",
+    "9410212e-eb74-4201-86a7-83a747b4f23d",
+    "b61b4a6e-b73f-48b7-8e64-2ee9bacd9104",
+    "95490cde-3a37-4777-8a37-230f54a87713",
+    "4ff072d6-5cd8-4267-a9bd-98bd87bbd57e",
+    "44c8bdbf-8cf9-40ea-b171-6b2ae1638bef",
+    "580d7536-cc0a-42ac-abc3-08cc6f016474",
+    "c37be2fd-a5dd-4987-a8c6-44e843ed1aa8",
+    "99d88568-bb33-4c66-bece-ec4bf288f7c7",
+    "cc403651-07b1-4b96-bd22-f1f64f99033c",
+    "c0063810-7643-40ae-a055-f1cf6cd9ea55",
+    "e8c1797d-5b6c-4a73-b3f8-e7e8dd0d64bb",
+    "43853f84-198c-4690-9a6f-88218dcd1aa8",
+    "92d92851-34b9-4c35-a97f-907feac6c890",
+    "a19a3434-ec0f-4d80-bcba-3bfb1b4c2887",
+    "96b4e98d-d50b-4703-8dee-ee7530766e5e",
+    "bab0fb0d-5c5f-445b-a120-f0268b87098f",
+    "fcdfdd8b-ad43-41de-8346-30ca30b322bc",
+    "b46af252-3502-4311-8b83-64632426c2c0",
+    "67f4ba78-9434-4dc7-b657-f90d30277b95",
+    "ba9b20ea-2f41-483b-9360-0ea51fcbc42d",
+    "763fffa8-304b-4c82-ae94-1fbe3982a565",
+    "fc1c8a54-294c-4956-af86-94e53a096333",
+    "8a2238a6-3561-442f-a45b-5213c7ddce6b",
+    "99b47726-369b-4df4-a6f9-e16534bef2ab",
+    "d5fa1791-720f-4be2-adba-b3a1870b0130",
+    "a4815cdb-2af9-4a64-bcff-35b95db51a61",
+    "61c86a94-7c7b-4839-b08d-439e9560840d",
+    "af369c5c-afb9-47a7-ab16-6cc51cae939e",
+    "37789e8b-86db-4f1c-84a7-71a798be0a3f",
+    "3d6bfb00-90f4-4185-b3b8-8533a2515eaa",
+    "6f2dd12d-0fd3-4ce0-b4a5-12296cff9554"
+  ],
+  "timings": {
+    "intro": {
+      "max": 1811.309,
+      "min": 124.623,
+      "mean": 411.8211320754718,
+      "median": 327.164
+    },
+    "countdown": {
+      "max": null,
+      "min": null,
+      "mean": null
+    },
+    "lobby": {
+      "max": 62.696,
+      "min": 0.957,
+      "mean": 11.558961538461537,
+      "median": 2.798
+    },
+    "game": {
+      "max": 4045.9,
+      "min": 1655.174,
+      "mean": 2283.4017307692307,
+      "median": 2208.733
+    },
+    "exit": {
+      "max": 925.037,
+      "min": 167.483,
+      "mean": 396.39108000000016,
+      "median": 369.81
+    },
+    "totalTime": {
+      "max": null,
+      "min": null,
+      "mean": null,
+      "median": null
+    },
+    "totalActiveTime": {
+      "max": 6844.942,
+      "min": 1948.2369999999999,
+      "mean": 3103.172904383164,
+      "median": 2908.505
+    }
+  },
+  "connections": {
+    "min": 1,
+    "max": 17,
+    "mean": 4.420289855072464,
+    "median": 4
+  },
+  "QC": {
+    "participateAgain": {
+      "yes": 0.9148936170212766,
+      "maybe": 0.06382978723404255,
+      "no": 0.02127659574468085
+    },
+    "adequateCompensation": {
+      "underpaid": 0.2765957446808511,
+      "fairly_paid": 0.7021276595744681,
+      "N/A": 0.02127659574468085
+    },
+    "adequateTime": {
+      "adequate": 0.9361702127659575,
+      "too_much": 0.0425531914893617,
+      "too_little": 0.02127659574468085
+    },
+    "clearInstructions": {
+      "2": 0.02127659574468085,
+      "3": 0.02127659574468085,
+      "4": 0.48936170212765956,
+      "5": 0.46808510638297873
+    },
+    "videoQuality": {
+      "3": 0.02127659574468085,
+      "4": 0.2978723404255319,
+      "5": 0.6595744680851063,
+      "undefined": 0.02127659574468085
+    },
+    "joiningProblems": {
+      "no": 1
+    },
+    "technicalProblems": {
+      "yes": 0.2765957446808511,
+      "no": 0.723404255319149
+    },
+    "textExpansion": [
+      "very slow loading",
+      "n/a",
+      "n/a, thank you so much for the opportunity to take part and complete your study",
+      "Not as such",
+      "I had a really nice time while playing and doing the study! It was a really nice experience that I would love to repeat another time!",
+      "not typing during the video call made it become idle, but it reconnected",
+      "it's good. thank you.",
+      "nope",
+      "nothing from me ",
+      "I just really enjoyed the game and enjoyed Brit, my partner.  It was really fun.",
+      "Really fun!",
+      "I thoroughly enjoyed the exercise and would be happy to participate again in the future.",
+      "I thought my mic cut out at some point during the first round but it looks like it was accidentally disconnected by me instead. This did not appear to affect our ability to name the creatures",
+      "I enjoyed that - Thank you!",
+      "Good job!",
+      "No, it all worked well. ",
+      "no comment",
+      "I think that the caps on certain letters but the word being the same shouldn't result in a deduction of points "
+    ],
+    "technicalDetail": [
+      "glitches - deleted some of my answer on one occasion, kept saying I had it wrong until my partner had answered then changed to correct",
+      "other person disconnected twice",
+      "oftentimes between questions it would take a long time to load the next page which was quite frustrating, meaning it probably took longer than it was advertised.",
+      "during the count down it goes blank. i thought i had internet connection issue but it's not.",
+      "glitch typing in wrods deleted the final word",
+      "The study at one point told me I was idle when I had submitted my answer and was waiting for my partner. And after almost all answers it said 'oops' before changing to 'correct 10 points'",
+      "For the first two rounds. my webcam was black. It fixed itself in the 3rd and 4th rounds.",
+      "The video didn't come right on and it went off and came on again.",
+      "My partner could not hear me during round 1b",
+      "slight delays with it saying its wrong, then refreshing and saying its right. Also it didn't allow me to test my microphone and put me to the next page, thankfully it was working.",
+      "One time it said we didnt get any points but we both put in the correct answer",
+      "Camera issues",
+      "Words were disappearing from the text box as I typed, sometimes the words would come back on their own and other times they wouldn't"
+    ],
+    "joiningDetail": []
+  },
+  "finalPayoffs": [
+    0.9320653479069899,
+    0.9320653479069899,
+    0.9414801494009999,
+    0.9414801494009999
+  ]
+}
