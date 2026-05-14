@@ -1,0 +1,222 @@
+{
+  "preregistrations": {
+    "total": 56,
+    "treatmentBreakdown": {
+      "nonschema_tangrams": 14,
+      "nonschema": 14,
+      "schema_tangrams": 14,
+      "schema": 14
+    },
+    "percentComplete": 87.5
+  },
+  "participants": {
+    "total": 72,
+    "completeIntroSteps": 72,
+    "enterLobby": 72,
+    "beginGame": 72,
+    "finishGame": 72,
+    "complete": 49,
+    "ipTimezoneBreakdown": {
+      "undefined": 72
+    },
+    "ipCountryBreakdown": {
+      "undefined": 72
+    },
+    "possibleVPN": {
+      "true": 71,
+      "false": 1
+    },
+    "browserLanguageBreakdown": {
+      "en-US": 45,
+      "en-CA": 1,
+      "en-GB": 21,
+      "en": 1,
+      "zh-CN": 2,
+      "undefined": 1,
+      "id-ID": 1
+    },
+    "browserTimezoneBreakdown": {
+      "America/Detroit": 1,
+      "America/Toronto": 6,
+      "Europe/London": 33,
+      "America/Chicago": 5,
+      "America/Los_Angeles": 5,
+      "America/New_York": 13,
+      "America/Vancouver": 1,
+      "America/Halifax": 1,
+      "America/Edmonton": 1,
+      "America/Denver": 3,
+      "America/Phoenix": 1,
+      "undefined": 1,
+      "Etc/GMT+7": 1
+    },
+    "knownVPN": {
+      "undefined": 72
+    },
+    "reportingDiscussionProblems": 2,
+    "checkingIn": 2
+  },
+  "completedSampleIds": [
+    "2f3b99b3-11ed-46e0-8625-5f84016cbf88",
+    "570ea188-dba9-4826-80ce-5cab5fb86cf3",
+    "b5001265-93c2-41ae-8dc5-196dcb3d7bef",
+    "36710450-b6a9-4ae9-af7e-b0e4acf6cb6d",
+    "a111d64f-2342-4d3a-a92c-4d8c45079880",
+    "dc8b59e4-cf16-4d18-bfc5-c9b870f148f1",
+    "82ecd94f-e06a-4242-b780-9e2b14b72e09",
+    "35d2c94c-01cf-409d-8ee0-81840f538809",
+    "0157d102-6631-4360-84d0-10395e49ce40",
+    "7939ffc1-81ca-40cc-9bf4-ac11b9b339ed",
+    "1ebc6275-a8ed-4285-99db-7e480ba07694",
+    "d1b68e27-b58b-4da4-9bc7-3af8c7473463",
+    "f79c065d-0595-4f9b-9275-704aae60d741",
+    "04834632-dbd3-4887-bd2b-832a14a7ed33",
+    "5f58a505-54c1-4b4e-baae-c6dd74a7ca2c",
+    "821a6163-cf52-455d-ab2f-1f660b3df0f8",
+    "905acc14-7673-4fa9-93da-d93a5a220d0a",
+    "88947d66-d191-4931-97ed-c780734e21f0",
+    "78f1f609-2800-4e1f-9ccf-95afd53120cf",
+    "9311fb8d-127a-4bbf-91ef-4a3d05937ff6",
+    "57c2e0ea-6d1d-4f8f-95f8-cd0823e0016a",
+    "cc2c54a3-ef9e-4bd8-832b-edfaa1f8a35b",
+    "bc9b4256-a9fd-4e0f-9221-638537bf7934",
+    "2c0aa3b5-f0be-4f0c-b318-f207db800956",
+    "2dfcc749-8d3c-4ce5-b714-307098b0aff7",
+    "f4887cc3-8933-45d5-825b-9a8fa81f53e8",
+    "1b8a9c68-1f2d-4d22-9552-b812bf01f76f",
+    "3682d39e-3c48-4205-970a-d98714a89a60",
+    "fc6babeb-c92d-4d83-9dcc-6339df623ba1",
+    "02941b17-012a-4b60-81c2-4551c8c3e15e",
+    "8f19a31b-60fc-40ce-a6bb-d5fb72dc3065",
+    "dadcb4a5-b3e2-407b-bb99-d547b2f1e325",
+    "7508ba01-5816-4f6b-8a19-02e6597a177c",
+    "ca76481d-7f8a-40b6-b2f8-5d638c37a640",
+    "5c0d1a31-30d4-47d2-b493-aa9a99fcd104",
+    "815bb4e2-87cb-4040-830f-119e24db709c",
+    "6e453006-a43d-4e8b-a85f-d09dbcd40ddf",
+    "317a9625-9407-4ee4-a67f-cb8118d4ff19",
+    "07c86fe3-3f63-4003-bbb5-f07535f311eb",
+    "e6da3a41-f03b-4134-915c-f36c5ffa17d6",
+    "397bf903-e78c-47a0-a6a8-397ce0e06bac",
+    "19d9dfc6-c0f7-4bf6-83d4-69dd0f4111cb",
+    "a08e3baf-c390-4321-8663-45bd9bd1fc5d",
+    "8114f38e-5b05-4942-8d3e-4c643a59b1e2",
+    "5753f555-7a0c-43b1-88da-452bcb0dea41",
+    "f6505216-3171-45a6-b123-970fc0c5f4c6",
+    "076bd0ca-9ffc-4c9d-927e-56f1b125ec5d",
+    "02b67c4d-f100-47df-93b2-3a3f306ee790",
+    "65d229d2-9861-4a35-9ee5-1520792955b2"
+  ],
+  "timings": {
+    "intro": {
+      "max": 665.599,
+      "min": 138.813,
+      "mean": 312.43889655172416,
+      "median": 295.478
+    },
+    "countdown": {
+      "max": null,
+      "min": null,
+      "mean": null
+    },
+    "lobby": {
+      "max": 118.679,
+      "min": 1.372,
+      "mean": 16.302071428571427,
+      "median": 2.074
+    },
+    "game": {
+      "max": 1937.156,
+      "min": 825.628,
+      "mean": 1429.9319999999998,
+      "median": 1575.461
+    },
+    "exit": {
+      "max": 961.358,
+      "min": 105.043,
+      "mean": 348.6319795918367,
+      "median": 291.179
+    },
+    "totalTime": {
+      "max": null,
+      "min": null,
+      "mean": null,
+      "median": null
+    },
+    "totalActiveTime": {
+      "max": 3682.7920000000004,
+      "min": 1070.8560000000002,
+      "mean": 2107.3049475721323,
+      "median": 2164.192
+    }
+  },
+  "connections": {
+    "min": 1,
+    "max": 5,
+    "mean": 1.6388888888888888,
+    "median": 1
+  },
+  "QC": {
+    "participateAgain": {
+      "yes": 0.9782608695652174,
+      "maybe": 0.021739130434782608
+    },
+    "adequateCompensation": {
+      "fairly_paid": 0.6521739130434783,
+      "N/A": 0.043478260869565216,
+      "underpaid": 0.30434782608695654
+    },
+    "adequateTime": {
+      "adequate": 0.9130434782608695,
+      "too_much": 0.06521739130434782,
+      "too_little": 0.021739130434782608
+    },
+    "clearInstructions": {
+      "3": 0.17391304347826086,
+      "4": 0.391304347826087,
+      "5": 0.43478260869565216
+    },
+    "videoQuality": {
+      "3": 0.08695652173913043,
+      "4": 0.30434782608695654,
+      "5": 0.6086956521739131
+    },
+    "joiningProblems": {
+      "no": 1
+    },
+    "technicalProblems": {
+      "no": 0.8695652173913043,
+      "yes": 0.13043478260869565
+    },
+    "textExpansion": [
+      "Nothing at all.",
+      "my partner left",
+      "It was fun.  I would play again with others!",
+      "This is a very interesting study and I enjoyed it! ",
+      "It was a fun game.",
+      "i enjoyed the study",
+      "I am a big fan of these memorization based trials. They train my brain substantially, I feel.",
+      "nope",
+      "I accidentally had my sound muted for the first minute the first time I connected with the other person.",
+      "This was fun lol",
+      "Please take on board that my partner disconnected at the beginning. Therefore, I worked as hard and long as possible, speaking out loud, as if he was there and it worked in practice.",
+      "I feel the pay was okay but could be better, to encourage people to participate. Thank you.",
+      "It went well, this would make a fun game, I like playing the game 'timeguessr' as a pair, this game shares some similarities with timeguessr."
+    ],
+    "technicalDetail": [
+      "My camera seemed to cut out once or twice and i had to fix it between rounds.",
+      "There was timer telling me to wait for my aprnter. But then I got a screen saying I have inactive",
+      "i couldnt hear the other person ",
+      "connection error happens for sound and mic due to driver update but able to communicate in writing",
+      "The images became pixelated for me on the last round but my partner helped",
+      "entered some answers and then typed text would disappear and I would have to reenter - sometimes the text then reappeared and duplicated "
+    ],
+    "joiningDetail": []
+  },
+  "finalPayoffs": [
+    0.9320653479069899,
+    0.9320653479069899,
+    0.9320653479069899,
+    0.9320653479069899
+  ]
+}
