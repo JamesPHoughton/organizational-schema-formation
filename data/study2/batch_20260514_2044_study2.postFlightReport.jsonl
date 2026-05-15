@@ -1,0 +1,214 @@
+{
+  "preregistrations": {
+    "total": 50,
+    "treatmentBreakdown": {
+      "nonschema_tangrams": 16,
+      "schema_tangrams": 16,
+      "nonschema": 12,
+      "schema": 6
+    },
+    "percentComplete": 90
+  },
+  "participants": {
+    "total": 63,
+    "completeIntroSteps": 63,
+    "enterLobby": 63,
+    "beginGame": 63,
+    "finishGame": 63,
+    "complete": 45,
+    "ipTimezoneBreakdown": {
+      "undefined": 63
+    },
+    "ipCountryBreakdown": {
+      "undefined": 63
+    },
+    "possibleVPN": {
+      "true": 62,
+      "false": 1
+    },
+    "browserLanguageBreakdown": {
+      "en-US": 37,
+      "en-GB": 16,
+      "en-CA": 7,
+      "en": 1,
+      "zh-TW": 1,
+      "undefined": 1
+    },
+    "browserTimezoneBreakdown": {
+      "Europe/London": 22,
+      "America/Toronto": 14,
+      "America/Halifax": 1,
+      "America/New_York": 12,
+      "America/Winnipeg": 1,
+      "America/Edmonton": 5,
+      "America/Vancouver": 1,
+      "America/Regina": 1,
+      "America/Chicago": 4,
+      "America/Los_Angeles": 1,
+      "undefined": 1
+    },
+    "knownVPN": {
+      "undefined": 63
+    },
+    "reportingDiscussionProblems": 5,
+    "checkingIn": 5
+  },
+  "completedSampleIds": [
+    "d5465d0a-878d-4549-88e8-548392f83b04",
+    "a75e6e87-a687-4719-bfb7-4d1559560a49",
+    "35de9ceb-f32b-44bb-8785-07a11e8537be",
+    "6e8ff081-d40d-490d-b777-d48c6a11c1a0",
+    "58acde3e-1e43-46bb-aa8f-e9c28f75e028",
+    "b5c25277-e5ce-43f2-aea7-e20f0ea905fb",
+    "23ae30cf-e138-4a33-b897-0283ce639a5c",
+    "681e75cf-a828-4b41-a350-5d9bd4c232b3",
+    "078cf544-46c8-4b66-9c81-a7a59364bba6",
+    "92957985-1b38-47ef-bfbd-aab6738d9ed8",
+    "0b9cb098-7463-4e4a-8850-4f06ad077a2c",
+    "e3d19b8e-5be8-420c-af3d-6eab18233fe6",
+    "88ca7cb3-94fa-438d-82c1-9846ce7d5f1a",
+    "3cc4b0ca-6cb3-460d-9083-56220c0c5205",
+    "c9ac8fdb-3985-4fbb-a412-818bf5e1232e",
+    "2e3893cf-8f50-48ae-8055-1b3c8a7829c2",
+    "f0666f31-ac69-4914-b107-3cc3455545cb",
+    "1022315b-59e0-4765-bd31-c7ef7c7f2f7b",
+    "1462f862-0535-420d-9a80-f497845b6736",
+    "078b412d-ccd2-4b2b-8c33-42b272f68571",
+    "aeced02f-3787-4387-a817-d6c94f92b4a5",
+    "b1ca2aa2-a857-4c58-9b45-be38fcf4446c",
+    "6f5bc6aa-7ea4-4cd0-be78-cd99014e9bd5",
+    "c438ae6c-25c4-4f53-b7d9-e55c37be0be1",
+    "03368a0a-ca16-4196-8f66-1e4cf764fd14",
+    "9a11b10f-7168-4fd8-8dfe-34eb16436f76",
+    "5287d739-4b86-4414-ba98-da0be9503230",
+    "ef0f1310-91c0-428e-b05d-16cb869b4e61",
+    "4aa1f0e9-3b59-4672-ae14-8afa279b67ff",
+    "7d6ff772-bb40-4a38-88f3-d2f7508f9ccf",
+    "aaecd6b3-6ec2-46fc-918d-2a0c4fc066f3",
+    "498ed2ce-4ed1-4ba3-83d6-1a5c1b217380",
+    "a28e437d-a56c-4a15-9f33-1e2cb6ed7d8c",
+    "593ce2a5-fb02-4f35-9b6d-0dde3310bdc5",
+    "c98c6b94-08ec-4cce-a222-4085d2dfeb6a",
+    "77d8b4fc-db43-4acb-baae-fa09d5fdeefb",
+    "9507c625-d4f5-4aad-ad9a-bd5abb159de9",
+    "c8df9fe4-72f5-4471-8546-fee681da5040",
+    "22a358da-82de-45e5-b7e6-fe6a472b8a6b",
+    "ae478646-fade-421e-8d06-766d0cb134cb",
+    "87c8d1ef-2341-4218-996e-925b299369fb",
+    "652146ee-7d98-4cbb-b105-b5f54363d3be",
+    "8dcb76f4-016b-422a-8a51-3bd6060d27b6",
+    "61da40a9-82e6-47f0-80c9-62a054c7774f",
+    "c6d88b14-c162-437a-bb6d-ded2363aeaa4"
+  ],
+  "timings": {
+    "intro": {
+      "max": 1291.151,
+      "min": 181.516,
+      "mean": 368.44825490196075,
+      "median": 315.489
+    },
+    "countdown": {
+      "max": null,
+      "min": null,
+      "mean": null
+    },
+    "lobby": {
+      "max": 158.326,
+      "min": 0.905,
+      "mean": 11.932779999999998,
+      "median": 16.42
+    },
+    "game": {
+      "max": 3165.527,
+      "min": 1062.465,
+      "mean": 1622.3069199999995,
+      "median": 1597.016
+    },
+    "exit": {
+      "max": 911.013,
+      "min": 140.301,
+      "mean": 353.80906666666664,
+      "median": 320.242
+    },
+    "totalTime": {
+      "max": null,
+      "min": null,
+      "mean": null,
+      "median": null
+    },
+    "totalActiveTime": {
+      "max": 5526.017,
+      "min": 1385.187,
+      "mean": 2356.4970215686267,
+      "median": 2249.1670000000004
+    }
+  },
+  "connections": {
+    "min": 1,
+    "max": 7,
+    "mean": 1.5396825396825398,
+    "median": 1
+  },
+  "QC": {
+    "participateAgain": {
+      "yes": 0.9459459459459459,
+      "undefined": 0.02702702702702703,
+      "maybe": 0.02702702702702703
+    },
+    "adequateCompensation": {
+      "fairly_paid": 0.5945945945945946,
+      "N/A": 0.1891891891891892,
+      "underpaid": 0.1891891891891892,
+      "overpaid": 0.02702702702702703
+    },
+    "adequateTime": {
+      "adequate": 0.9459459459459459,
+      "too_much": 0.02702702702702703,
+      "too_little": 0.02702702702702703
+    },
+    "clearInstructions": {
+      "2": 0.02702702702702703,
+      "3": 0.05405405405405406,
+      "4": 0.43243243243243246,
+      "5": 0.4864864864864865
+    },
+    "videoQuality": {
+      "3": 0.10810810810810811,
+      "4": 0.2972972972972973,
+      "5": 0.5945945945945946
+    },
+    "joiningProblems": {
+      "no": 1
+    },
+    "technicalProblems": {
+      "no": 0.8648648648648649,
+      "yes": 0.08108108108108109,
+      "undefined": 0.05405405405405406
+    },
+    "textExpansion": [
+      "You should give us opportunity to know the study is ending or you were at the last test.  I wanted to tell them thanks and good bye. ",
+      "nobody joined the call",
+      "Really fun.",
+      "Nothing additional, thank you.",
+      "It was a fun study! would do it again :)",
+      "Team mate left middle of round 2, but I continued on my own. When answering in the quiz after team mate left, my answers were not showing up but I did answer and complete full study.",
+      "Nothing. It was fun. Thank you!",
+      "This was a fun study!",
+      "No other than it was great and I really enjoyed it!",
+      "nope",
+      "a good mental exercise"
+    ],
+    "technicalDetail": [
+      "Some minor issues where the quiz would at first say we got the wrong answer then sort out after.",
+      "nobody else joined the call",
+      "when my partner would submit their name of image, it would 1st show half the name and say they were wrong, then it would fully show the name and say we were correct"
+    ],
+    "joiningDetail": []
+  },
+  "finalPayoffs": [
+    0.603258661368384,
+    0.6033040719999999,
+    0.6031909830104859,
+    0.5912803006943408
+  ]
+}
