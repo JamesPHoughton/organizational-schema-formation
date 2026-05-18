@@ -1,0 +1,204 @@
+{
+  "preregistrations": {
+    "total": 44,
+    "treatmentBreakdown": {
+      "nonschema_tangrams": 10,
+      "schema_tangrams": 12,
+      "schema": 12,
+      "nonschema": 10
+    },
+    "percentComplete": 88.63636363636364
+  },
+  "participants": {
+    "total": 57,
+    "completeIntroSteps": 57,
+    "enterLobby": 57,
+    "beginGame": 57,
+    "finishGame": 57,
+    "complete": 39,
+    "ipTimezoneBreakdown": {
+      "undefined": 57
+    },
+    "ipCountryBreakdown": {
+      "undefined": 57
+    },
+    "possibleVPN": {
+      "true": 54,
+      "false": 3
+    },
+    "browserLanguageBreakdown": {
+      "en-US": 31,
+      "en-GB": 19,
+      "zh-TW": 1,
+      "en-CA": 2,
+      "undefined": 3,
+      "el-GR": 1
+    },
+    "browserTimezoneBreakdown": {
+      "America/Chicago": 4,
+      "Europe/London": 21,
+      "America/Los_Angeles": 3,
+      "America/New_York": 8,
+      "America/Vancouver": 4,
+      "America/Toronto": 9,
+      "America/Indianapolis": 1,
+      "America/Winnipeg": 1,
+      "undefined": 3,
+      "America/Edmonton": 2,
+      "America/Phoenix": 1
+    },
+    "knownVPN": {
+      "undefined": 57
+    },
+    "reportingDiscussionProblems": 6,
+    "checkingIn": 6
+  },
+  "completedSampleIds": [
+    "446cfc77-d311-444c-b1c3-40a40f63b117",
+    "e674bd7b-31a6-449b-80d8-8f28bc8ff4a4",
+    "a1a9c678-a3bf-4396-9b29-a046715bbbd8",
+    "7e2e4937-e271-47a5-8f81-ce9bf5a5afb3",
+    "81192d5b-66d6-4392-9f90-d0b3bab6972c",
+    "ec01375f-a790-4b7f-a323-87c520ca7467",
+    "ebd07ebe-48e0-4754-8841-a8fb2352c089",
+    "d4f1955a-f6a2-498b-9259-fd3bfb9a6cb5",
+    "19a3a074-6fbf-463c-acef-9254d43f5daf",
+    "b43fbc0f-838d-4cf3-90e6-a4dc308071e5",
+    "78ee2b57-2a9e-4b9c-b80a-8dd7187df782",
+    "489b6fda-9975-45cc-83e9-558900414661",
+    "83c157c4-a6d5-4042-afe3-6747b043daca",
+    "cd3d70a9-fe05-4e48-b589-a4f13077c6df",
+    "cc6b10b7-cf0d-410d-bb80-4d930327ea03",
+    "27b3cf2f-71e4-4544-8512-32a352b23641",
+    "3f3ec725-96c6-4348-a8a1-44cdb1234199",
+    "8a2d61ed-f2cd-44b3-bb62-e47c961dc7a5",
+    "3fbff965-fdc9-4370-8f2d-ae6d7979949c",
+    "4244585b-6ef5-4b5f-bbb8-81d6dfb8b0f9",
+    "852171b9-57b9-4b84-92c2-e8f556dfb719",
+    "6f6b61a3-d731-41af-ada8-2aa72b1fa552",
+    "40a7344f-45ac-4083-bf0a-7587d8fa2a1f",
+    "04f1fcf1-69f2-4133-8159-db93b1b52842",
+    "7cd831fc-34f3-4f4f-91d9-84dfadb01dcc",
+    "767040bf-0193-4feb-9129-c2d5588ba28e",
+    "5e8ef462-c5bf-4300-aa83-4c8875e637cd",
+    "47f56cc1-cf73-4568-a4f0-dc8b42cdfe21",
+    "b29c653b-fd59-4dc1-99ca-a595ae66c5ff",
+    "025b78c8-e4f3-4afa-beeb-e384102ebfa7",
+    "a3de7430-8370-48ad-b08d-3c8c29bbf7b3",
+    "7b71850d-283d-41eb-bc04-43d6907517c2",
+    "868cea19-4c87-4a26-819b-9819971a7232",
+    "bb682cf2-bd6c-4772-b0b7-1d2dad0599a9",
+    "29e366b7-5bda-48b9-8f34-2eb8ba1bf042",
+    "1cfb826a-8527-4325-a064-485d49246df3",
+    "59b5df9d-b6af-4e0d-b0b7-a16333b4f8d8",
+    "16dd1427-0d0a-4f08-8ff7-9a16e53b7549",
+    "ef88d4fa-dbc2-41fe-ae7a-7381fc2fd053"
+  ],
+  "timings": {
+    "intro": {
+      "max": 770.289,
+      "min": 142.728,
+      "mean": 367.59552272727285,
+      "median": 326.656
+    },
+    "countdown": {
+      "max": null,
+      "min": null,
+      "mean": null
+    },
+    "lobby": {
+      "max": 66.331,
+      "min": 1.761,
+      "mean": 8.618568181818183,
+      "median": 2.074
+    },
+    "game": {
+      "max": 2254.606,
+      "min": 756.565,
+      "mean": 1542.1915454545453,
+      "median": 1879.981
+    },
+    "exit": {
+      "max": 700.885,
+      "min": 125.276,
+      "mean": 327.98984615384614,
+      "median": 277.961
+    },
+    "totalTime": {
+      "max": null,
+      "min": null,
+      "mean": null,
+      "median": null
+    },
+    "totalActiveTime": {
+      "max": 3792.111,
+      "min": 1026.3300000000002,
+      "mean": 2246.3954825174824,
+      "median": 2486.6720000000005
+    }
+  },
+  "connections": {
+    "min": 1,
+    "max": 8,
+    "mean": 1.7894736842105263,
+    "median": 1
+  },
+  "QC": {
+    "participateAgain": {
+      "yes": 0.9705882352941176,
+      "maybe": 0.029411764705882353
+    },
+    "adequateCompensation": {
+      "fairly_paid": 0.7647058823529411,
+      "underpaid": 0.20588235294117646,
+      "N/A": 0.029411764705882353
+    },
+    "adequateTime": {
+      "adequate": 0.7647058823529411,
+      "too_much": 0.11764705882352941,
+      "too_little": 0.11764705882352941
+    },
+    "clearInstructions": {
+      "3": 0.11764705882352941,
+      "4": 0.4411764705882353,
+      "5": 0.4411764705882353
+    },
+    "videoQuality": {
+      "3": 0.058823529411764705,
+      "4": 0.3235294117647059,
+      "5": 0.5882352941176471,
+      "NA": 0.029411764705882353
+    },
+    "joiningProblems": {
+      "no": 0.9705882352941176,
+      "yes": 0.029411764705882353
+    },
+    "technicalProblems": {
+      "no": 0.8823529411764706,
+      "yes": 0.11764705882352941
+    },
+    "textExpansion": [
+      "I couldn't partcipate properly but I would like the chance to participate again properly.",
+      "N/A",
+      "thank you :)",
+      "No.",
+      "N/A",
+      "i enjoyed the study and the game"
+    ],
+    "technicalDetail": [
+      "audio was not working sometimes with the other participant but they wrote what they wanted to say instead",
+      "other participant didn;t connect",
+      "I only had a problem with the question that didn't give me time to answer it. ",
+      "No participant join the call"
+    ],
+    "joiningDetail": [
+      "no one joined the call with me i completed alone"
+    ]
+  },
+  "finalPayoffs": [
+    0.9509900498999999,
+    0.9414801494009999,
+    0.9509900498999999,
+    0.9414801494009999
+  ]
+}
