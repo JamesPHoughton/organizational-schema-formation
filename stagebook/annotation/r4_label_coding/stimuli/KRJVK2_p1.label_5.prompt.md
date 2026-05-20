@@ -1,0 +1,7 @@
+---
+type: noResponse
+---
+
+### Label 5
+
+> orange red brown blue

@@ -1,0 +1,107 @@
+introSequences:
+  - name: default
+    introSteps:
+      - name: instructions
+        elements:
+          - type: prompt
+            file: intro/instructions.prompt.md
+          - type: submitButton
+
+treatments:
+  - name: r4_label_coding
+    playerCount: 1
+    gameStages:
+      - name: r4_label_coding
+        duration: 1800
+        elements:
+          - type: prompt
+            file: task/coding_criteria.prompt.md
+
+          - type: separator
+            style: thick
+          # ===== Context: this participant's history =====
+          - type: prompt
+            file: ${contextFile}
+
+          - type: separator
+            style: thick
+          # ===== Label 1 =====
+          - type: prompt
+            file: ${labelFile1}
+          - type: prompt
+            file: task/classify_question.prompt.md
+            name: label_1_category
+
+          # ===== Label 2 =====
+          - type: prompt
+            file: ${labelFile2}
+          - type: prompt
+            file: task/classify_question.prompt.md
+            name: label_2_category
+
+          # ===== Label 3 =====
+          - type: prompt
+            file: ${labelFile3}
+          - type: prompt
+            file: task/classify_question.prompt.md
+            name: label_3_category
+
+          # ===== Label 4 =====
+          - type: prompt
+            file: ${labelFile4}
+          - type: prompt
+            file: task/classify_question.prompt.md
+            name: label_4_category
+
+          # ===== Label 5 =====
+          - type: prompt
+            file: ${labelFile5}
+          - type: prompt
+            file: task/classify_question.prompt.md
+            name: label_5_category
+
+          # ===== Label 6 =====
+          - type: prompt
+            file: ${labelFile6}
+          - type: prompt
+            file: task/classify_question.prompt.md
+            name: label_6_category
+
+          # ===== Label 7 =====
+          - type: prompt
+            file: ${labelFile7}
+          - type: prompt
+            file: task/classify_question.prompt.md
+            name: label_7_category
+
+          # ===== Label 8 =====
+          - type: prompt
+            file: ${labelFile8}
+          - type: prompt
+            file: task/classify_question.prompt.md
+            name: label_8_category
+
+          - type: separator
+            style: thick
+          - type: prompt
+            file: task/notes.prompt.md
+            name: coding_notes
+
+          - type: submitButton
+            conditions:
+              - reference: self.prompt.label_1_category
+                comparator: exists
+              - reference: self.prompt.label_2_category
+                comparator: exists
+              - reference: self.prompt.label_3_category
+                comparator: exists
+              - reference: self.prompt.label_4_category
+                comparator: exists
+              - reference: self.prompt.label_5_category
+                comparator: exists
+              - reference: self.prompt.label_6_category
+                comparator: exists
+              - reference: self.prompt.label_7_category
+                comparator: exists
+              - reference: self.prompt.label_8_category
+                comparator: exists

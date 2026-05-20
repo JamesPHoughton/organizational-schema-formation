@@ -1,0 +1,7 @@
+---
+type: noResponse
+---
+
+### Label 8
+
+> ninja kneel

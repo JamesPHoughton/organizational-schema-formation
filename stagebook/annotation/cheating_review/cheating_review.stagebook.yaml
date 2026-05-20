@@ -1,0 +1,125 @@
+introSequences:
+  - name: default
+    introSteps:
+      - name: instructions
+        elements:
+          - type: prompt
+            file: intro/instructions.prompt.md
+          - type: submitButton
+
+treatments:
+  - name: cheating_review
+    playerCount: 1
+    gameStages:
+      - name: cheating_review
+        duration: 3600
+        elements:
+          - type: prompt
+            file: task/task_instructions.prompt.md
+          - type: prompt
+            file: task/cheating_criteria.prompt.md
+
+          - type: separator
+            style: thick
+          # ===== Round 1a =====
+          - type: prompt
+            file: task/round_1a_header.prompt.md
+          - type: mediaPlayer
+            file: ${round1aFilepath}
+            name: round1a
+            playback: manual
+            controls:
+              playPause: true
+              seek: true
+              step: true
+              speed: true
+
+          - type: separator
+            style: thick
+          # ===== Round 1b =====
+          - type: prompt
+            file: task/round_1b_header.prompt.md
+          - type: mediaPlayer
+            file: ${round1bFilepath}
+            name: round1b
+            playback: manual
+            controls:
+              playPause: true
+              seek: true
+              step: true
+              speed: true
+
+          - type: separator
+            style: thick
+          # ===== Round 1c =====
+          - type: prompt
+            file: task/round_1c_header.prompt.md
+          - type: mediaPlayer
+            file: ${round1cFilepath}
+            name: round1c
+            playback: manual
+            controls:
+              playPause: true
+              seek: true
+              step: true
+              speed: true
+
+          - type: separator
+            style: thick
+          # ===== Round 2 =====
+          - type: prompt
+            file: task/round_2_header.prompt.md
+          - type: mediaPlayer
+            file: ${round2Filepath}
+            name: round2
+            playback: manual
+            controls:
+              playPause: true
+              seek: true
+              step: true
+              speed: true
+
+          - type: separator
+            style: thick
+          # ===== Round 3 =====
+          - type: prompt
+            file: task/round_3_header.prompt.md
+          - type: mediaPlayer
+            file: ${round3Filepath}
+            name: round3
+            playback: manual
+            controls:
+              playPause: true
+              seek: true
+              step: true
+              speed: true
+
+          - type: separator
+            style: thick
+          # ===== Round 4 =====
+          - type: prompt
+            file: task/round_4_header.prompt.md
+          - type: mediaPlayer
+            file: ${round4Filepath}
+            name: round4
+            playback: manual
+            controls:
+              playPause: true
+              seek: true
+              step: true
+              speed: true
+
+          - type: separator
+            style: thick
+          # ===== Judgment =====
+          - type: prompt
+            file: task/cheating_question.prompt.md
+            name: cheating_judgment
+          - type: prompt
+            file: task/cheating_notes.prompt.md
+            name: cheating_notes
+
+          - type: submitButton
+            conditions:
+              - reference: self.prompt.cheating_judgment
+                comparator: exists
