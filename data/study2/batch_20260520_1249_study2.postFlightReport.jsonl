@@ -1,0 +1,185 @@
+{
+  "preregistrations": {
+    "total": 22,
+    "treatmentBreakdown": {
+      "schema": 10,
+      "nonschema": 6,
+      "schema_tangrams": 4,
+      "nonschema_tangrams": 2
+    },
+    "percentComplete": 95.45454545454545
+  },
+  "participants": {
+    "total": 29,
+    "completeIntroSteps": 29,
+    "enterLobby": 29,
+    "beginGame": 29,
+    "finishGame": 29,
+    "complete": 21,
+    "ipTimezoneBreakdown": {
+      "undefined": 29
+    },
+    "ipCountryBreakdown": {
+      "undefined": 29
+    },
+    "possibleVPN": {
+      "true": 28,
+      "false": 1
+    },
+    "browserLanguageBreakdown": {
+      "en-GB": 13,
+      "en-US": 11,
+      "en-CA": 1,
+      "undefined": 1,
+      "en": 1,
+      "en-PA": 1,
+      "it-IT": 1
+    },
+    "browserTimezoneBreakdown": {
+      "Europe/London": 17,
+      "America/St_Johns": 1,
+      "America/New_York": 2,
+      "America/Toronto": 3,
+      "America/Winnipeg": 1,
+      "America/Chicago": 3,
+      "America/Halifax": 1,
+      "undefined": 1
+    },
+    "knownVPN": {
+      "undefined": 29
+    },
+    "reportingDiscussionProblems": 2,
+    "checkingIn": 2
+  },
+  "completedSampleIds": [
+    "bd8e725c-6d90-4ba1-b025-8e447a6b5760",
+    "cc8ddf81-7ad1-4185-8100-8b9956a4113d",
+    "46c2f3bb-a1cd-42a5-aec5-2178aed2dab8",
+    "3a0a92f4-a869-418a-acc6-965528e0ee6d",
+    "0cf5b434-4dbb-405e-84f6-6829b1dd908a",
+    "c153da80-b166-482e-a24a-9057f256e1b3",
+    "ee8a5359-69e0-429a-8072-9d999c21b0cd",
+    "8880b21a-09af-4d27-bcaf-53de904331c8",
+    "a0d6ba47-a7b1-4224-a522-e93d672a55d2",
+    "f721b5c5-51f5-478a-a255-0337cdd8e05f",
+    "467da856-e17c-446b-aa8d-2dd96ee587d8",
+    "8dd11641-6dc9-466a-a79b-d605e475c12d",
+    "e6bf6b05-1705-4d45-a6ab-77c21e388562",
+    "5d608443-f9ad-4729-8d3b-bf622a8c05a3",
+    "d38286ee-5590-4aef-ab50-e5207a6e9e89",
+    "07a64e45-40b5-464a-8c35-885c8d7043ca",
+    "c7aa5e54-5c2e-44b7-9ee4-375188090dbc",
+    "3add7226-8e58-4492-b3d5-1e71c9f92a60",
+    "09171807-d307-4308-b00b-23606e1cde34",
+    "ba88bfe9-ed8a-4119-b395-0570a34b6114",
+    "66ff5b05-0ce8-488d-92ce-1945b3905bb2"
+  ],
+  "timings": {
+    "intro": {
+      "max": 1577.357,
+      "min": 208.511,
+      "mean": 417.7523913043478,
+      "median": 334.824
+    },
+    "countdown": {
+      "max": null,
+      "min": null,
+      "mean": null
+    },
+    "lobby": {
+      "max": 538.308,
+      "min": 1.758,
+      "mean": 52.903999999999996,
+      "median": 23.382
+    },
+    "game": {
+      "max": 2260.96,
+      "min": 873.061,
+      "mean": 1598.3824545454547,
+      "median": 1794.697
+    },
+    "exit": {
+      "max": 1103.302,
+      "min": 187.241,
+      "mean": 366.995,
+      "median": 251.091
+    },
+    "totalTime": {
+      "max": null,
+      "min": null,
+      "mean": null,
+      "median": null
+    },
+    "totalActiveTime": {
+      "max": 5479.927,
+      "min": 1270.571,
+      "mean": 2436.033845849802,
+      "median": 2403.9939999999997
+    }
+  },
+  "connections": {
+    "min": 1,
+    "max": 4,
+    "mean": 1.4827586206896552,
+    "median": 1
+  },
+  "QC": {
+    "participateAgain": {
+      "yes": 0.9444444444444444,
+      "no": 0.05555555555555555
+    },
+    "adequateCompensation": {
+      "fairly_paid": 0.8888888888888888,
+      "underpaid": 0.05555555555555555,
+      "undefined": 0.05555555555555555
+    },
+    "adequateTime": {
+      "adequate": 0.8888888888888888,
+      "too_little": 0.05555555555555555,
+      "too_much": 0.05555555555555555
+    },
+    "clearInstructions": {
+      "2": 0.05555555555555555,
+      "3": 0.2222222222222222,
+      "4": 0.2777777777777778,
+      "5": 0.4444444444444444
+    },
+    "videoQuality": {
+      "3": 0.05555555555555555,
+      "4": 0.3333333333333333,
+      "5": 0.6111111111111112
+    },
+    "joiningProblems": {
+      "no": 0.9444444444444444,
+      "yes": 0.05555555555555555
+    },
+    "technicalProblems": {
+      "yes": 0.16666666666666666,
+      "no": 0.8333333333333334
+    },
+    "textExpansion": [
+      "fun!",
+      "No, everything was fine",
+      "Thank you, that was fun!",
+      "nope",
+      "this was interesting ",
+      "like there was noise and bit of mic problem",
+      "no one joined my group so did solo",
+      "very - pleasant and interacting ... Thank You"
+    ],
+    "technicalDetail": [
+      "Sometimes there was glitches when typing in the names, it would often cut some of what i had typed",
+      "my sound kept going out but we still made it work",
+      "no one joined"
+    ],
+    "joiningDetail": [
+      "no one joined"
+    ]
+  },
+  "finalPayoffs": [
+    0.4930904888,
+    0.4832360579692799,
+    0.493038,
+    0.4930693599999999
+  ]
+}
