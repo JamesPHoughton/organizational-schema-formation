@@ -2,19 +2,10 @@
 type: noResponse
 ---
 
-### Classify labels from this participant's **round 4** using the above categories.
+### All labels
 
-Each round uses a different image set, and labels may vary across rounds.
+| 1. flying | 2. ∅ | 3. kneeling | 4. yoga |
+| --- | --- | --- | --- |
+| **5. standing** | **6. sitting** | **7. sliding** | **8. half kneeling** |
 
 ∅ = no response.
-
-| #   | Round 1 | Round 2 | Round 3 | **Round 4** |
-| --- | ------- | ------- | ------- | ----------- |
-| 1   | dog | carnival | robot | **flying** |
-| 2   | spider | stool | monster | **∅** |
-| 3   | lawyer | parrot | superhero | **kneeling** |
-| 4   | pizza | paper | parrot | **yoga** |
-| 5   | gnome | tree | white | **standing** |
-| 6   | owl | eyebrow | burger | **sitting** |
-| 7   | dog | beard | chessboard | **sliding** |
-| 8   | camera | yellow | purple hat | **half kneeling** |

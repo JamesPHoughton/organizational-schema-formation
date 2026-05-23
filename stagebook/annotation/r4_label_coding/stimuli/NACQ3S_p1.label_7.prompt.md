@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 7
 
-> white man
+How would you classify this label?
+
+> **white man**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 4
 
-> stick
+How would you classify this label?
+
+> **stick**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

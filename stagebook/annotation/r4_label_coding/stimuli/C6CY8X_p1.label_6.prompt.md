@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 6
 
-> rock
+How would you classify this label?
+
+> **rock**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 7
 
-> split
+How would you classify this label?
+
+> **split**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

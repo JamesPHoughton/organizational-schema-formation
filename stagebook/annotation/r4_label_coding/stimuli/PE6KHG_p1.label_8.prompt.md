@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 8
 
-> little praying
+How would you classify this label?
+
+> **little praying**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

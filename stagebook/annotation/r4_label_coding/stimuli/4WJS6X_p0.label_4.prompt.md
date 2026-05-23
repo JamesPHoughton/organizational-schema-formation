@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 4
 
-> bark
+How would you classify this label?
+
+> **bark**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

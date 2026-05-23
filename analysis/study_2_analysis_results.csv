@@ -1,0 +1,6 @@
+Hypothesis,Test,Statistic,p (one-tailed),Effect,Status
+H1 (PREREG),Fisher exact (one-tailed),pending,—,awaiting human coding,preregistered
+H1 acc-interaction (exploratory),Restricted permutation,contrast = -0.462,0.2441,"Cliffs δ amb=-0.44, inc=-0.22",exploratory
+H2a R4 acc (exploratory),MWU (perm),U = 508.0,0.8537,"HL = +0.00 [-2.00,+0.00]; δ=-0.15",exploratory
+H2b Δacc (exploratory),MWU (perm),U = 737.5,0.9590,"HL = +1.00 [+0.00,+2.00]; δ=+0.24",exploratory
+Replication amb (exploratory),MWU (perm),U = 343.0,0.0007,HL = -1.00; δ=-0.44,exploratory

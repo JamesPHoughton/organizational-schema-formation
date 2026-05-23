@@ -2,19 +2,10 @@
 type: noResponse
 ---
 
-### Classify labels from this participant's **round 4** using the above categories.
+### All labels
 
-Each round uses a different image set, and labels may vary across rounds.
+| 1. leap | 2. bird | 3. angel | 4. balance |
+| --- | --- | --- | --- |
+| **5. priest** | **6. monk** | **7. dancer** | **8. statue** |
 
 ∅ = no response.
-
-| #   | Round 1 | Round 2 | Round 3 | **Round 4** |
-| --- | ------- | ------- | ------- | ----------- |
-| 1   | shark | festival | grey | **leap** |
-| 2   | scorpion | spider | wheel | **bird** |
-| 3   | girl | yellow | red | **angel** |
-| 4   | circular | paper | bird | **balance** |
-| 5   | cheese | plant | cube | **priest** |
-| 6   | owl | binoculars | yellow | **monk** |
-| 7   | dog | pinky | rainbow | **dancer** |
-| 8   | binoculars | cheese | binoculars | **statue** |

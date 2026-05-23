@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 1
 
-> cute
+How would you classify this label?
+
+> **cute**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 1
 
-> pink man
+How would you classify this label?
+
+> **pink man**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

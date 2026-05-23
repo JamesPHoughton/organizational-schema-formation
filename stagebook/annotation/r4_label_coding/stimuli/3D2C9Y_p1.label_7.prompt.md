@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 7
 
-> falling
+How would you classify this label?
+
+> **falling**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

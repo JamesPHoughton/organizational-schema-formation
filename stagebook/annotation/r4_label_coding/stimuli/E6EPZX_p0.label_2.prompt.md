@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 2
 
-> monster
+How would you classify this label?
+
+> **monster**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

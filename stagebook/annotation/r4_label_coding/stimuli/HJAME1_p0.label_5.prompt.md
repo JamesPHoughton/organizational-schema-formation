@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 5
 
-> bishop
+How would you classify this label?
+
+> **bishop**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

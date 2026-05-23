@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 4
 
-> clown
+How would you classify this label?
+
+> **clown**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

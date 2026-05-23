@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 6
 
-> small black
+How would you classify this label?
+
+> **small black**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

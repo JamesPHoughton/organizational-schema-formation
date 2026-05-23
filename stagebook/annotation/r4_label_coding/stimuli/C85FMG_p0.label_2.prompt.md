@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 2
 
-> crab
+How would you classify this label?
+
+> **crab**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 7
 
-> ship
+How would you classify this label?
+
+> **ship**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

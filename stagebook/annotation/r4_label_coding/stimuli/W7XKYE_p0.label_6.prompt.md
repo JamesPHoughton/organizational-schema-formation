@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 6
 
-> toliet
+How would you classify this label?
+
+> **toliet**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

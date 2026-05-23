@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 7
 
-> chicken
+How would you classify this label?
+
+> **chicken**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

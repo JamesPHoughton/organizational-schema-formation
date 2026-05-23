@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 5
 
-> box
+How would you classify this label?
+
+> **box**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

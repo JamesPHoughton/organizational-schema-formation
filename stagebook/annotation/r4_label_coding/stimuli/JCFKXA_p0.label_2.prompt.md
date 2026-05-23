@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 2
 
-> worm
+How would you classify this label?
+
+> **worm**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 6
 
-> shortie
+How would you classify this label?
+
+> **shortie**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

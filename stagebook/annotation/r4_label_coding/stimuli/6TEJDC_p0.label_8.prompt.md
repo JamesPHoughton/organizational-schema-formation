@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 8
 
-> purple right black yellow white brown
+How would you classify this label?
+
+> **purple right black yellow white brown**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

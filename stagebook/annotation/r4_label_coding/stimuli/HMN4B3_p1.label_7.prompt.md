@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 7
 
-> fu
+How would you classify this label?
+
+> **fu**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

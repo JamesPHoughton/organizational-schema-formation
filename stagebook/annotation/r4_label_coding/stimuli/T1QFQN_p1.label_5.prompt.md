@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 5
 
-> toy
+How would you classify this label?
+
+> **toy**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

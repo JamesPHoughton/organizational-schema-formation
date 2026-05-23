@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 2
 
-> smallest
+How would you classify this label?
+
+> **smallest**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

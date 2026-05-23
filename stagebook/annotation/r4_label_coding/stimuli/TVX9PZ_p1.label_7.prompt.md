@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 7
 
-> dancing
+How would you classify this label?
+
+> **dancing**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

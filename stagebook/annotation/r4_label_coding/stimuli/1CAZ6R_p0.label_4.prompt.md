@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 4
 
-> gymnastyc
+How would you classify this label?
+
+> **gymnastyc**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

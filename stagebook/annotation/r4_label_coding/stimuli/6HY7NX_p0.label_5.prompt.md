@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 5
 
-> graduate
+How would you classify this label?
+
+> **graduate**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

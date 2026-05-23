@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 4
 
-> robot
+How would you classify this label?
+
+> **robot**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

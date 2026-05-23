@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 3
 
-> kung fu
+How would you classify this label?
+
+> **kung fu**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

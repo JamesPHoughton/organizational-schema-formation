@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 6
 
-> begger
+How would you classify this label?
+
+> **begger**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

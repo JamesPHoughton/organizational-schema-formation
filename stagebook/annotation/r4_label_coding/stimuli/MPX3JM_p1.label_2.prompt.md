@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 2
 
-> files
+How would you classify this label?
+
+> **files**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

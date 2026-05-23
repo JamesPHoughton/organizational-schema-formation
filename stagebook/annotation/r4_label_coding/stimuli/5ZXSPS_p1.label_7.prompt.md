@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 7
 
-> spilt
+How would you classify this label?
+
+> **spilt**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

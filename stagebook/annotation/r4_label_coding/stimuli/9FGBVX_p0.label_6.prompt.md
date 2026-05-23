@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 6
 
-> squat
+How would you classify this label?
+
+> **squat**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

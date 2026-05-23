@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 3
 
-> fighting
+How would you classify this label?
+
+> **fighting**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

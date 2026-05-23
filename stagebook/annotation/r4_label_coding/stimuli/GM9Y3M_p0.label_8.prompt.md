@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 8
 
-> bpsyw
+How would you classify this label?
+
+> **bpsyw**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

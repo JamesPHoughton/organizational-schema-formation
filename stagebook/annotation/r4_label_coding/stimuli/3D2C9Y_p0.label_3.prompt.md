@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 3
 
-> running
+How would you classify this label?
+
+> **running**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

@@ -2,19 +2,10 @@
 type: noResponse
 ---
 
-### Classify labels from this participant's **round 4** using the above categories.
+### All labels
 
-Each round uses a different image set, and labels may vary across rounds.
+| 1. pray | 2. step | 3. tail | 4. skate |
+| --- | --- | --- | --- |
+| **5. priest** | **6. fin** | **7. c** | **8. fin** |
 
 ∅ = no response.
-
-| #   | Round 1 | Round 2 | Round 3 | **Round 4** |
-| --- | ------- | ------- | ------- | ----------- |
-| 1   | fish | leaf | army | **pray** |
-| 2   | scorpion | brown | wheel | **step** |
-| 3   | girl | gold | baby | **tail** |
-| 4   | yoda | fish | bird | **skate** |
-| 5   | baby | grape | cube | **priest** |
-| 6   | owl | frog | gold | **fin** |
-| 7   | chimp | dog | rainbow | **c** |
-| 8   | frog | four | boy | **fin** |

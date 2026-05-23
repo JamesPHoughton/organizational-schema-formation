@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 5
 
-> prist
+How would you classify this label?
+
+> **prist**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

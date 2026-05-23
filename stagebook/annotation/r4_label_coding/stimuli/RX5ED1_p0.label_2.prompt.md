@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 2
 
-> bug
+How would you classify this label?
+
+> **bug**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

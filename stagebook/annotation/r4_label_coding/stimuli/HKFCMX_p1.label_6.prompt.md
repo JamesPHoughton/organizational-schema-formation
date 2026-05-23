@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 6
 
-> kneel four
+How would you classify this label?
+
+> **kneel four**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

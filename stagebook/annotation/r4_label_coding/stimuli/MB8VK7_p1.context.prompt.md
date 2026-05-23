@@ -2,19 +2,10 @@
 type: noResponse
 ---
 
-### Classify labels from this participant's **round 4** using the above categories.
+### All labels
 
-Each round uses a different image set, and labels may vary across rounds.
+| 1. ppurple | 2. pyellow | 3. oyellow | 4. obrown |
+| --- | --- | --- | --- |
+| **5. oblue** | **6. oblack** | **7. pwhite** | **8. pbrown** |
 
 ∅ = no response.
-
-| #   | Round 1 | Round 2 | Round 3 | **Round 4** |
-| --- | ------- | ------- | ------- | ----------- |
-| 1   | pbb | prb | oby | **ppurple** |
-| 2   | obb | ory | orb | **pyellow** |
-| 3   | prb | orb | ory | **oyellow** |
-| 4   | pby | obb | pry | **obrown** |
-| 5   | ory | pby | obb | **oblue** |
-| 6   | oby | pry | pbb | **oblack** |
-| 7   | orb | pbb | pby | **pwhite** |
-| 8   | pry | oby | prb | **pbrown** |

@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 3
 
-> ninja sit
+How would you classify this label?
+
+> **ninja sit**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

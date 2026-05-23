@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 4
 
-> ninja two hand
+How would you classify this label?
+
+> **ninja two hand**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

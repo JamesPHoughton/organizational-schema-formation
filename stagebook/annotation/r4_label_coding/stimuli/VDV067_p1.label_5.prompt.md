@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 5
 
-> point
+How would you classify this label?
+
+> **point**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

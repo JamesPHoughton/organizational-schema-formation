@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 3
 
-> rectangle
+How would you classify this label?
+
+> **rectangle**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

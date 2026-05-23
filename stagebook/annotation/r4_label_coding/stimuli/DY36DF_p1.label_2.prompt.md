@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 2
 
-> brucelee
+How would you classify this label?
+
+> **brucelee**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

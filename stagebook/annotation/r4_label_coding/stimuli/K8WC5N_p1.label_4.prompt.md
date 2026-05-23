@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 4
 
-> oneleg
+How would you classify this label?
+
+> **oneleg**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

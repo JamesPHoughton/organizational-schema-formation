@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 6
 
-> praying bending
+How would you classify this label?
+
+> **praying bending**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

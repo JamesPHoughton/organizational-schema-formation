@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 2
 
-> kick up
+How would you classify this label?
+
+> **kick up**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

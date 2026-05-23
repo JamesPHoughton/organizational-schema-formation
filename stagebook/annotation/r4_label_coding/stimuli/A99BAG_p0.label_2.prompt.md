@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 2
 
-> baby
+How would you classify this label?
+
+> **baby**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

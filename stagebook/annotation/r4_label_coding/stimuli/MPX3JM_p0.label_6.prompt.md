@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 6
 
-> black short guy
+How would you classify this label?
+
+> **black short guy**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 2
 
-> elephant
+How would you classify this label?
+
+> **elephant**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

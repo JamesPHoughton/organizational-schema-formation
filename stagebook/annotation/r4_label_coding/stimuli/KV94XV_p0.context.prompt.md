@@ -2,19 +2,10 @@
 type: noResponse
 ---
 
-### Classify labels from this participant's **round 4** using the above categories.
+### All labels
 
-Each round uses a different image set, and labels may vary across rounds.
+| 1. falling | 2. posing | 3. dancing | 4. balancing |
+| --- | --- | --- | --- |
+| **5. giving** | **6. kneeling** | **7. falling** | **8. kneeling** |
 
 ∅ = no response.
-
-| #   | Round 1 | Round 2 | Round 3 | **Round 4** |
-| --- | ------- | ------- | ------- | ----------- |
-| 1   | clyde | tv | tin man | **falling** |
-| 2   | scratch | lawnmower | wheel | **posing** |
-| 3   | leggo | trashbin | ladybug | **dancing** |
-| 4   | chocolate | robot | goblin | **balancing** |
-| 5   | black | firehydrant | cube | **giving** |
-| 6   | leggo | android | not sure | **kneeling** |
-| 7   | chocolate | robot | rubixcube | **falling** |
-| 8   | p | firehydrant | pig | **kneeling** |

@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 1
 
-> raver
+How would you classify this label?
+
+> **raver**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

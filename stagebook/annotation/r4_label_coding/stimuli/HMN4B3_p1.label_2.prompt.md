@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 2
 
-> fb
+How would you classify this label?
+
+> **fb**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

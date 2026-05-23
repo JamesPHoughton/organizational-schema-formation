@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 6
 
-> elbow
+How would you classify this label?
+
+> **elbow**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

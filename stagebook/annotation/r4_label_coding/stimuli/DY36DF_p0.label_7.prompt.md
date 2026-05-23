@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 7
 
-> leep
+How would you classify this label?
+
+> **leep**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

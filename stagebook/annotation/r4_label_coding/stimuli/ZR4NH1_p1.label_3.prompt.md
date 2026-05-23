@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 3
 
-> center head, center arms
+How would you classify this label?
+
+> **center head, center arms**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

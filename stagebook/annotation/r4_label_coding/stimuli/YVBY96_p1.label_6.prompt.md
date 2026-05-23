@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 6
 
-> prba
+How would you classify this label?
+
+> **prba**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

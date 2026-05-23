@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 1
 
-> angel
+How would you classify this label?
+
+> **angel**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

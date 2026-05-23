@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 1
 
-> arm sup
+How would you classify this label?
+
+> **arm sup**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

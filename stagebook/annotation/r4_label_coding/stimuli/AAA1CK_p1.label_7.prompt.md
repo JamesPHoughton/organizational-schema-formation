@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 7
 
-> ninja fight
+How would you classify this label?
+
+> **ninja fight**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

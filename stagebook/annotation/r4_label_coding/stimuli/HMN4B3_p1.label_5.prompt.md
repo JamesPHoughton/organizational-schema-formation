@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 5
 
-> fl
+How would you classify this label?
+
+> **fl**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

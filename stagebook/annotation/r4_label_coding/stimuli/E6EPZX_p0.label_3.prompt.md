@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 3
 
-> ladygaga
+How would you classify this label?
+
+> **ladygaga**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 1
 
-> fly
+How would you classify this label?
+
+> **fly**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

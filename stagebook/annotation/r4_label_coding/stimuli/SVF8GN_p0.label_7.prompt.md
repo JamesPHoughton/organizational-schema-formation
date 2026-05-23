@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 7
 
-> alien
+How would you classify this label?
+
+> **alien**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

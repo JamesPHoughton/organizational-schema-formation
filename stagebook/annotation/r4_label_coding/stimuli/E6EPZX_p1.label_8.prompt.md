@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 8
 
-> prayinggirl
+How would you classify this label?
+
+> **prayinggirl**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

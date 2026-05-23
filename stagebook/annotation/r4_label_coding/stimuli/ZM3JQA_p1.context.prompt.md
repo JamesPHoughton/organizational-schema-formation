@@ -2,19 +2,10 @@
 type: noResponse
 ---
 
-### Classify labels from this participant's **round 4** using the above categories.
+### All labels
 
-Each round uses a different image set, and labels may vary across rounds.
+| 1. flying | 2. one leg | 3. sitting | 4. elbow |
+| --- | --- | --- | --- |
+| **5. standing** | **6. hopping** | **7. yoga** | **8. elbow** |
 
 ∅ = no response.
-
-| #   | Round 1 | Round 2 | Round 3 | **Round 4** |
-| --- | ------- | ------- | ------- | ----------- |
-| 1   | bird | turkey | pigeon | **flying** |
-| 2   | scorpion | monkey | octagon | **one leg** |
-| 3   | monkey | duck | fire | **sitting** |
-| 4   | circle | marshmallow | parrot | **elbow** |
-| 5   | square | grapes | square | **standing** |
-| 6   | owl | bug | bee | **hopping** |
-| 7   | dog | cow | rainbow | **yoga** |
-| 8   | frog | frog | monkey | **elbow** |

@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 4
 
-> l2l
+How would you classify this label?
+
+> **l2l**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

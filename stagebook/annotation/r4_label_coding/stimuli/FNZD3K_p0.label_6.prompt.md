@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 6
 
-> hands in the air
+How would you classify this label?
+
+> **hands in the air**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

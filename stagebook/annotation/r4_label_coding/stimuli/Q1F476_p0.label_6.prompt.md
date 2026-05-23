@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 6
 
-> spider
+How would you classify this label?
+
+> **spider**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 8
 
-> white brown
+How would you classify this label?
+
+> **white brown**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

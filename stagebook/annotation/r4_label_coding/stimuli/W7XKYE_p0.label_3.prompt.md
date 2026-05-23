@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 3
 
-> hug
+How would you classify this label?
+
+> **hug**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

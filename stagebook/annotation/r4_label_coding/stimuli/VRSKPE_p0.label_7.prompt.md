@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 7
 
-> triangle
+How would you classify this label?
+
+> **triangle**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

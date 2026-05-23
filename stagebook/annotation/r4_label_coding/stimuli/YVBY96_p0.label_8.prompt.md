@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 8
 
-> pryt
+How would you classify this label?
+
+> **pryt**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

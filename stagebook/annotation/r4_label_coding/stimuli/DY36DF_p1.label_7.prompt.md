@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 7
 
-> leap
+How would you classify this label?
+
+> **leap**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

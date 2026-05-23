@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 1
 
-> flat
+How would you classify this label?
+
+> **flat**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

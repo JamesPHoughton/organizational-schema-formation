@@ -2,19 +2,10 @@
 type: noResponse
 ---
 
-### Classify labels from this participant's **round 4** using the above categories.
+### All labels
 
-Each round uses a different image set, and labels may vary across rounds.
+| 1. wave | 2. zombie | 3. punch | 4. kick |
+| --- | --- | --- | --- |
+| **5. hold** | **6. sit** | **7. split** | **8. lecture** |
 
 ∅ = no response.
-
-| #   | Round 1 | Round 2 | Round 3 | **Round 4** |
-| --- | ------- | ------- | ------- | ----------- |
-| 1   | pbb | prb | oby | **wave** |
-| 2   | obb | ory | orb | **zombie** |
-| 3   | prb | orb | ory | **punch** |
-| 4   | pby | obb | pry | **kick** |
-| 5   | ory | pby | obb | **hold** |
-| 6   | oby | pry | pbb | **sit** |
-| 7   | orb | pbb | pby | **split** |
-| 8   | pry | oby | prb | **lecture** |

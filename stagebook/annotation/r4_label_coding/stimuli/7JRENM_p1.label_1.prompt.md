@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 1
 
-> licorice
+How would you classify this label?
+
+> **licorice**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

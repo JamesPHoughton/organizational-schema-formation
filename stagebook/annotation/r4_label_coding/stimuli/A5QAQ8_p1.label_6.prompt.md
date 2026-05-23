@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 6
 
-> read
+How would you classify this label?
+
+> **read**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

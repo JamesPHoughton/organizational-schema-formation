@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 7
 
-> seal
+How would you classify this label?
+
+> **seal**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

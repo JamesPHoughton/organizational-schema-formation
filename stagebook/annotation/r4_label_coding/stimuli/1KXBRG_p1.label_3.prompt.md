@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 3
 
-> flame
+How would you classify this label?
+
+> **flame**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

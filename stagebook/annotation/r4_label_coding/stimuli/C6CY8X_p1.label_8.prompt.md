@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 8
 
-> tower
+How would you classify this label?
+
+> **tower**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

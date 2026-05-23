@@ -2,19 +2,10 @@
 type: noResponse
 ---
 
-### Classify labels from this participant's **round 4** using the above categories.
+### All labels
 
-Each round uses a different image set, and labels may vary across rounds.
+| 1. flying | 2. balancing | 3. kneeling | 4. balancing |
+| --- | --- | --- | --- |
+| **5. giving** | **6. kneeling** | **7. posing** | **8. posing** |
 
 ∅ = no response.
-
-| #   | Round 1 | Round 2 | Round 3 | **Round 4** |
-| --- | ------- | ------- | ------- | ----------- |
-| 1   | clyde | tv | tin man | **flying** |
-| 2   | banana | lawnmower | wheel | **balancing** |
-| 3   | banana | desk | ladybug | **kneeling** |
-| 4   | banana | robot | goblin | **balancing** |
-| 5   | orblack | android | cube | **giving** |
-| 6   | yelow | table | pacman | **kneeling** |
-| 7   | orblack | toilet | rubix cube | **posing** |
-| 8   | leggo | android | pig | **posing** |

@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 6
 
-> crouching
+How would you classify this label?
+
+> **crouching**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

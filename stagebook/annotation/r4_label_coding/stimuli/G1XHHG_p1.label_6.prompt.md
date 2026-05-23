@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 6
 
-> bean
+How would you classify this label?
+
+> **bean**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

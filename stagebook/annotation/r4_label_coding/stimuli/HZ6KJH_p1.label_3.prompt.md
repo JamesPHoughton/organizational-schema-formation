@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 3
 
-> ruler
+How would you classify this label?
+
+> **ruler**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

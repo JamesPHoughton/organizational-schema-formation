@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 8
 
-> tall man
+How would you classify this label?
+
+> **tall man**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

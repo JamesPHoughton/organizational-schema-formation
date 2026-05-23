@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 8
 
-> pointing
+How would you classify this label?
+
+> **pointing**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

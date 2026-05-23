@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 7
 
-> tea
+How would you classify this label?
+
+> **tea**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

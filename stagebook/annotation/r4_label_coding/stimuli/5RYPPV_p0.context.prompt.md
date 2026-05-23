@@ -2,19 +2,10 @@
 type: noResponse
 ---
 
-### Classify labels from this participant's **round 4** using the above categories.
+### All labels
 
-Each round uses a different image set, and labels may vary across rounds.
+| 1. purplepinkyellow | 2. purpleblackyellow | 3. orangeyellowbrown | 4. orangebrown |
+| --- | --- | --- | --- |
+| **5. orangebluebrown** | **6. orangeblackbrown** | **7. purplewhiteyellow** | **8. purplewhitered** |
 
 ∅ = no response.
-
-| #   | Round 1 | Round 2 | Round 3 | **Round 4** |
-| --- | ------- | ------- | ------- | ----------- |
-| 1   | purpleblackbrown | purpleredbrown | orangegreyyellow | **purplepinkyellow** |
-| 2   | orangeblackbrown | orangeredyellow | orangegreenbrown | **purpleblackyellow** |
-| 3   | purpleredbrown | orangeredbrown | orangeredyellow | **orangeyellowbrown** |
-| 4   | purpleblackyellow | orangeblackbrown | purplegreenyellow | **orangebrown** |
-| 5   | orangeredyellow | purpleblackyellow | orangeblackbrown | **orangebluebrown** |
-| 6   | orangeblackyellow | purpleredyellow | purpleyellowbrown | **orangeblackbrown** |
-| 7   | orangeredbrown | purpleblackbrown | purpleorangeyellow | **purplewhiteyellow** |
-| 8   | purpleredyellow | orangeblackyellow | purplewhitebrown | **purplewhitered** |

@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 8
 
-> water fountain
+How would you classify this label?
+
+> **water fountain**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

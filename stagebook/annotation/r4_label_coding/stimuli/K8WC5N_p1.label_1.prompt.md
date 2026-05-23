@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 1
 
-> hand
+How would you classify this label?
+
+> **hand**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

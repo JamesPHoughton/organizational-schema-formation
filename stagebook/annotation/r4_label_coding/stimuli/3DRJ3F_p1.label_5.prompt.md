@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 5
 
-> blue
+How would you classify this label?
+
+> **blue**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

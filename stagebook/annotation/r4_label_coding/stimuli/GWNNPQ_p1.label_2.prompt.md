@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 2
 
-> pby
+How would you classify this label?
+
+> **pby**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

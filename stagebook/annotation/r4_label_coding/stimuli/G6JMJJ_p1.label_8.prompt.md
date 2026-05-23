@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 8
 
-> scientist
+How would you classify this label?
+
+> **scientist**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

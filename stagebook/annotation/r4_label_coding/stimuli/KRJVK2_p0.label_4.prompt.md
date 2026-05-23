@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 4
 
-> orange red brown brown
+How would you classify this label?
+
+> **orange red brown brown**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

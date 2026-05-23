@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 1
 
-> ninja fall
+How would you classify this label?
+
+> **ninja fall**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

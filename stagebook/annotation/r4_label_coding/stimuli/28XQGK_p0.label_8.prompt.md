@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 8
 
-> penguin
+How would you classify this label?
+
+> **penguin**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

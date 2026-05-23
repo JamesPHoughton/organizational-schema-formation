@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 8
 
-> tall white
+How would you classify this label?
+
+> **tall white**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

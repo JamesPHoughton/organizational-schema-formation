@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 6
 
-> dead
+How would you classify this label?
+
+> **dead**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

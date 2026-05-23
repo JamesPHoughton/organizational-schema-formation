@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 2
 
-> sweet
+How would you classify this label?
+
+> **sweet**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

@@ -2,19 +2,10 @@
 type: noResponse
 ---
 
-### Classify labels from this participant's **round 4** using the above categories.
+### All labels
 
-Each round uses a different image set, and labels may vary across rounds.
+| 1. cute | 2. post | 3. cheese | 4. chicken |
+| --- | --- | --- | --- |
+| **5. float** | **6. rock** | **7. inverted** | **8. tower** |
 
 ∅ = no response.
-
-| #   | Round 1 | Round 2 | Round 3 | **Round 4** |
-| --- | ------- | ------- | ------- | ----------- |
-| 1   | fish | flower | chair | **cute** |
-| 2   | scorpion | hammer | wheel | **post** |
-| 3   | pokemon | cheese | cute | **cheese** |
-| 4   | pizza | paper | bird | **chicken** |
-| 5   | kid | leaf | fish | **float** |
-| 6   | owl | frog | clamp | **rock** |
-| 7   | dog | pokemon | color | **inverted** |
-| 8   | frog | dj | nose | **tower** |

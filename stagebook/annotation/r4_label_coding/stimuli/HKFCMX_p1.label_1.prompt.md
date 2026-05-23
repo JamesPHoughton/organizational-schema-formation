@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 1
 
-> stand six
+How would you classify this label?
+
+> **stand six**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

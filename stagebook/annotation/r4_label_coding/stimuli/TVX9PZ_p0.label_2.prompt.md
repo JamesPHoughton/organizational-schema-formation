@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 2
 
-> jumping
+How would you classify this label?
+
+> **jumping**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 7
 
-> vanilla
+How would you classify this label?
+
+> **vanilla**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

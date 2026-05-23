@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 8
 
-> tail
+How would you classify this label?
+
+> **tail**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

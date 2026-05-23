@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 2
 
-> caterpillar
+How would you classify this label?
+
+> **caterpillar**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

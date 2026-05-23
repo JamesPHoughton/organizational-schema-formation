@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 6
 
-> waiter
+How would you classify this label?
+
+> **waiter**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

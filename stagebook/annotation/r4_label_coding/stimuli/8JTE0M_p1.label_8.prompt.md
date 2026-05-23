@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 8
 
-> pbr
+How would you classify this label?
+
+> **pbr**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

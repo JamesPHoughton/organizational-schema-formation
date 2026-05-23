@@ -2,19 +2,10 @@
 type: noResponse
 ---
 
-### Classify labels from this participant's **round 4** using the above categories.
+### All labels
 
-Each round uses a different image set, and labels may vary across rounds.
+| 1. flying | 2. kicking | 3. titanic | 4. skating |
+| --- | --- | --- | --- |
+| **5. reading** | **6. praying** | **7. dancing** | **8. praying** |
 
 ∅ = no response.
-
-| #   | Round 1 | Round 2 | Round 3 | **Round 4** |
-| --- | ------- | ------- | ------- | ----------- |
-| 1   | spike | peacock | grey | **flying** |
-| 2   | scorpion | cone | wheel | **kicking** |
-| 3   | helmet | duck | red | **titanic** |
-| 4   | chick | rectangle | table | **skating** |
-| 5   | square | tree | dice | **reading** |
-| 6   | owl | frog | yellow | **praying** |
-| 7   | cow | spongebob | blocks | **dancing** |
-| 8   | frog | bar | t | **praying** |

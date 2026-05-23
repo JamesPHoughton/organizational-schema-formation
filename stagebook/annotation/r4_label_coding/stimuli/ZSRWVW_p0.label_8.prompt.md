@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 8
 
-> one step
+How would you classify this label?
+
+> **one step**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

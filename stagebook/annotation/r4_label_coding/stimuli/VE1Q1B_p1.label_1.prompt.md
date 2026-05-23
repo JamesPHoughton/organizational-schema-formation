@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 1
 
-> happy
+How would you classify this label?
+
+> **happy**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

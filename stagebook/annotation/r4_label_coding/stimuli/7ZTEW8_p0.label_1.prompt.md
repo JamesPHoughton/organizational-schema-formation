@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 1
 
-> lpy
+How would you classify this label?
+
+> **lpy**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 8
 
-> fr
+How would you classify this label?
+
+> **fr**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

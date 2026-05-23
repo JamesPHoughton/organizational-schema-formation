@@ -2,19 +2,10 @@
 type: noResponse
 ---
 
-### Classify labels from this participant's **round 4** using the above categories.
+### All labels
 
-Each round uses a different image set, and labels may vary across rounds.
+| 1. penguin | 2. robot | 3. cheese | 4. tree |
+| --- | --- | --- | --- |
+| **5. blue** | **6. chocolate** | **7. vanilla** | **8. french** |
 
 ∅ = no response.
-
-| #   | Round 1 | Round 2 | Round 3 | **Round 4** |
-| --- | ------- | ------- | ------- | ----------- |
-| 1   | bird | peacock | guitar | **penguin** |
-| 2   | scorpion | tree | spider | **robot** |
-| 3   | bear | chicken | robot | **cheese** |
-| 4   | dog | penguin | bird | **tree** |
-| 5   | koala | cactus | box | **blue** |
-| 6   | owl | robot | mouth | **chocolate** |
-| 7   | poodle | dog | colour | **vanilla** |
-| 8   | frog | box | tree | **french** |

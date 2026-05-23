@@ -2,19 +2,10 @@
 type: noResponse
 ---
 
-### Classify labels from this participant's **round 4** using the above categories.
+### All labels
 
-Each round uses a different image set, and labels may vary across rounds.
+| 1. owl | 2. sticky | 3. stapler | 4. brownie |
+| --- | --- | --- | --- |
+| **5. blue** | **6. bean** | **7. surprise** | **8. duck** |
 
 ∅ = no response.
-
-| #   | Round 1 | Round 2 | Round 3 | **Round 4** |
-| --- | ------- | ------- | ------- | ----------- |
-| 1   | tail | clown | cop | **owl** |
-| 2   | scorpion | carrot | pentagon | **sticky** |
-| 3   | hair | chicken | red | **stapler** |
-| 4   | ghost | brick | ant | **brownie** |
-| 5   | spy | leaf | hex | **blue** |
-| 6   | detective | bug | smile | **bean** |
-| 7   | belly | pink | disco | **surprise** |
-| 8   | spy | duck | 007 | **duck** |

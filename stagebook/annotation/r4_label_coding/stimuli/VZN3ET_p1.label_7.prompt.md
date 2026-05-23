@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 7
 
-> cream
+How would you classify this label?
+
+> **cream**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

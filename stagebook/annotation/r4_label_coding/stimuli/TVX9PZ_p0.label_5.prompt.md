@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 5
 
-> gown
+How would you classify this label?
+
+> **gown**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

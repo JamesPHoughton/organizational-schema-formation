@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 6
 
-> almostkneel
+How would you classify this label?
+
+> **almostkneel**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

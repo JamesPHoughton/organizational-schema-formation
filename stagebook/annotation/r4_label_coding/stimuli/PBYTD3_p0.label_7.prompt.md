@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 7
 
-> blue black yellow square
+How would you classify this label?
+
+> **blue black yellow square**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

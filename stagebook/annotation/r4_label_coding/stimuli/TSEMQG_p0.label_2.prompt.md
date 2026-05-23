@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 2
 
-> priest
+How would you classify this label?
+
+> **priest**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

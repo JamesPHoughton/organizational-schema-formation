@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 8
 
-> pastle
+How would you classify this label?
+
+> **pastle**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

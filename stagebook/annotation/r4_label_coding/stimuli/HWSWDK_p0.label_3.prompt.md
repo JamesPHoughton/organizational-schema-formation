@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 3
 
-> tai chi
+How would you classify this label?
+
+> **tai chi**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

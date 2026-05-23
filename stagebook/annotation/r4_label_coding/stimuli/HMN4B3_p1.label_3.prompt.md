@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 3
 
-> frb
+How would you classify this label?
+
+> **frb**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

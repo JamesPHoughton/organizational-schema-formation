@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 3
 
-> clueless
+How would you classify this label?
+
+> **clueless**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

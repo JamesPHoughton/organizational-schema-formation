@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 2
 
-> truck
+How would you classify this label?
+
+> **truck**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

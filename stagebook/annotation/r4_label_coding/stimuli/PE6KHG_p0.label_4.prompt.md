@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 4
 
-> ice skating
+How would you classify this label?
+
+> **ice skating**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 2
 
-> gray black yellow
+How would you classify this label?
+
+> **gray black yellow**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

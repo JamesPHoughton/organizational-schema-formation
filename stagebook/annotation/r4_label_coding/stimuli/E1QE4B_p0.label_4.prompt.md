@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 4
 
-> orange cap left brown brown
+How would you classify this label?
+
+> **orange cap left brown brown**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

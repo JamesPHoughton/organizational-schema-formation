@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 6
 
-> minion
+How would you classify this label?
+
+> **minion**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

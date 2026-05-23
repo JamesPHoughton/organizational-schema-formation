@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 1
 
-> tall
+How would you classify this label?
+
+> **tall**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 7
 
-> samurai
+How would you classify this label?
+
+> **samurai**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

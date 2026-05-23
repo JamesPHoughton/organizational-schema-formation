@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 3
 
-> strike
+How would you classify this label?
+
+> **strike**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 2
 
-> cube
+How would you classify this label?
+
+> **cube**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

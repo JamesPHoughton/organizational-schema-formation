@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 6
 
-> sru
+How would you classify this label?
+
+> **sru**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

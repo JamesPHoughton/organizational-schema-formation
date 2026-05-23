@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 1
 
-> pinks
+How would you classify this label?
+
+> **pinks**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

@@ -2,19 +2,10 @@
 type: noResponse
 ---
 
-### Classify labels from this participant's **round 4** using the above categories.
+### All labels
 
-Each round uses a different image set, and labels may vary across rounds.
+| 1. why | 2. dinosaur | 3. ta | 4. ice skating |
+| --- | --- | --- | --- |
+| **5. man** | **6. sit** | **7. tango** | **8. right angle** |
 
 ∅ = no response.
-
-| #   | Round 1 | Round 2 | Round 3 | **Round 4** |
-| --- | ------- | ------- | ------- | ----------- |
-| 1   | wing | peacock | tin | **why** |
-| 2   | bug | hammer | wheel | **dinosaur** |
-| 3   | helmet | yellow | crab | **ta** |
-| 4   | cookie | rectangle | bird | **ice skating** |
-| 5   | square | plant | cube | **man** |
-| 6   | owl | eyebrows | yellow | **sit** |
-| 7   | dog | pink | colors | **tango** |
-| 8   | robot | piano | eyeballs | **right angle** |

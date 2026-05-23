@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 8
 
-> kneel eight
+How would you classify this label?
+
+> **kneel eight**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

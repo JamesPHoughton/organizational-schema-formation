@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 4
 
-> long le
+How would you classify this label?
+
+> **long le**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

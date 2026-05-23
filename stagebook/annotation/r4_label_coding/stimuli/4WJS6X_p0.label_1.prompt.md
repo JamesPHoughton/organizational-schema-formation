@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 1
 
-> gum
+How would you classify this label?
+
+> **gum**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

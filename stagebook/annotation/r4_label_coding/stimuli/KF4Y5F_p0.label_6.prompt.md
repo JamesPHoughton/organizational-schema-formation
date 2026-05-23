@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 6
 
-> monk
+How would you classify this label?
+
+> **monk**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

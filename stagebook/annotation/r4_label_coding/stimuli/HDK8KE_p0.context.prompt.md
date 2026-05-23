@@ -2,19 +2,10 @@
 type: noResponse
 ---
 
-### Classify labels from this participant's **round 4** using the above categories.
+### All labels
 
-Each round uses a different image set, and labels may vary across rounds.
+| 1. celebrating | 2. kicking | 3. yoga | 4. gymnastics |
+| --- | --- | --- | --- |
+| **5. standing** | **6. praying** | **7. yoga** | **8. praying** |
 
 ∅ = no response.
-
-| #   | Round 1 | Round 2 | Round 3 | **Round 4** |
-| --- | ------- | ------- | ------- | ----------- |
-| 1   | purple hat brown shoes | purple hat brown shoes | orange hat yellow shoes | **celebrating** |
-| 2   | orange hat brown shoes | orange hat yellow shoes | orange hat red hands | **kicking** |
-| 3   | purple hat red hands | orange hat brown shoes | orange hat yellow shoes | **yoga** |
-| 4   | purple hat | orange hat brown shoes | purple hat red hands | **gymnastics** |
-| 5   | orange hat red hands | purple hat yellow shoes | orange hat brown shoes | **standing** |
-| 6   | orange hat black hands | purple hat yellow shoes | purple hat brown shoes | **praying** |
-| 7   | orange hat red hands | purple hat brown shoes | purple hat yellow shoes | **yoga** |
-| 8   | purple hat red hands | orange hat yellow shoes | purple hat brown shoes | **praying** |

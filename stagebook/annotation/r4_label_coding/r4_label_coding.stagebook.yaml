@@ -5,7 +5,30 @@ introSequences:
         elements:
           - type: prompt
             file: intro/instructions.prompt.md
+
+          - type: prompt
+            file: intro/practice_1.prompt.md
+            name: practice_1
+          - type: prompt
+            file: intro/practice_2.prompt.md
+            name: practice_2
+            conditions:
+              - reference: self.prompt.practice_1
+                comparator: equals
+                value: "One-off label"
+          - type: prompt
+            file: intro/practice_3.prompt.md
+            name: practice_3
+            conditions:
+              - reference: self.prompt.practice_2
+                comparator: equals
+                value: "Systematic label"
           - type: submitButton
+            buttonText: "Start the task"
+            conditions:
+              - reference: self.prompt.practice_3
+                comparator: equals
+                value: "One-off label"
 
 treatments:
   - name: r4_label_coding
@@ -19,66 +42,48 @@ treatments:
 
           - type: separator
             style: thick
-          # ===== Context: this participant's history =====
+          # ===== Context: this participant's R4 labels =====
           - type: prompt
             file: ${contextFile}
 
-          - type: separator
-            style: thick
           # ===== Label 1 =====
           - type: prompt
             file: ${labelFile1}
-          - type: prompt
-            file: task/classify_question.prompt.md
             name: label_1_category
 
           # ===== Label 2 =====
           - type: prompt
             file: ${labelFile2}
-          - type: prompt
-            file: task/classify_question.prompt.md
             name: label_2_category
 
           # ===== Label 3 =====
           - type: prompt
             file: ${labelFile3}
-          - type: prompt
-            file: task/classify_question.prompt.md
             name: label_3_category
 
           # ===== Label 4 =====
           - type: prompt
             file: ${labelFile4}
-          - type: prompt
-            file: task/classify_question.prompt.md
             name: label_4_category
 
           # ===== Label 5 =====
           - type: prompt
             file: ${labelFile5}
-          - type: prompt
-            file: task/classify_question.prompt.md
             name: label_5_category
 
           # ===== Label 6 =====
           - type: prompt
             file: ${labelFile6}
-          - type: prompt
-            file: task/classify_question.prompt.md
             name: label_6_category
 
           # ===== Label 7 =====
           - type: prompt
             file: ${labelFile7}
-          - type: prompt
-            file: task/classify_question.prompt.md
             name: label_7_category
 
           # ===== Label 8 =====
           - type: prompt
             file: ${labelFile8}
-          - type: prompt
-            file: task/classify_question.prompt.md
             name: label_8_category
 
           - type: separator

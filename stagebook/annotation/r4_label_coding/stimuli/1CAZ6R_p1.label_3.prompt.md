@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 3
 
-> singer
+How would you classify this label?
+
+> **singer**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

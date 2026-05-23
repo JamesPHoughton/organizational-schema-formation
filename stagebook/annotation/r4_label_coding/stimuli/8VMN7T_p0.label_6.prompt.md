@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 6
 
-> fin
+How would you classify this label?
+
+> **fin**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 7
 
-> whiteboard
+How would you classify this label?
+
+> **whiteboard**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

@@ -2,19 +2,10 @@
 type: noResponse
 ---
 
-### Classify labels from this participant's **round 4** using the above categories.
+### All labels
 
-Each round uses a different image set, and labels may vary across rounds.
+| 1. licorice | 2. dog | 3. corn | 4. clown |
+| --- | --- | --- | --- |
+| **5. genie** | **6. crab** | **7. cloud** | **8. snowman** |
 
 ∅ = no response.
-
-| #   | Round 1 | Round 2 | Round 3 | **Round 4** |
-| --- | ------- | ------- | ------- | ----------- |
-| 1   | fish | flower | robot | **licorice** |
-| 2   | scorpion | candle | wheel | **dog** |
-| 3   | girl | duck | pepper | **corn** |
-| 4   | donut | shirt | owl | **clown** |
-| 5   | smuf | tree | cube | **genie** |
-| 6   | cat | owl | frog | **crab** |
-| 7   | cow | doctor | ship | **cloud** |
-| 8   | dog | duck | ∅ | **snowman** |

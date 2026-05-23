@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 8
 
-> gray
+How would you classify this label?
+
+> **gray**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

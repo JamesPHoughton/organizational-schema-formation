@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 2
 
-> zombie
+How would you classify this label?
+
+> **zombie**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

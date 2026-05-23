@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 6
 
-> orbb
+How would you classify this label?
+
+> **orbb**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

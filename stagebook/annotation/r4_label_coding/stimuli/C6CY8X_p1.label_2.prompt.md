@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 2
 
-> post
+How would you classify this label?
+
+> **post**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

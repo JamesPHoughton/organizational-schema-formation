@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 2
 
-> pyellow
+How would you classify this label?
+
+> **pyellow**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

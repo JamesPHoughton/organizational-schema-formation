@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 2
 
-> climb
+How would you classify this label?
+
+> **climb**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

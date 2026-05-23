@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 8
 
-> 2 diamonds
+How would you classify this label?
+
+> **2 diamonds**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

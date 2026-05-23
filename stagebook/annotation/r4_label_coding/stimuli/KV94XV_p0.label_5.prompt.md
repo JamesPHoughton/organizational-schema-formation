@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 5
 
-> giving
+How would you classify this label?
+
+> **giving**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

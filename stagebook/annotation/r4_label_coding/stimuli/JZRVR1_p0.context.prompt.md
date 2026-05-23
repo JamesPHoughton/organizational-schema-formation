@@ -2,19 +2,10 @@
 type: noResponse
 ---
 
-### Classify labels from this participant's **round 4** using the above categories.
+### All labels
 
-Each round uses a different image set, and labels may vary across rounds.
+| 1. fly | 2. lookback | 3. runback | 4. yoga |
+| --- | --- | --- | --- |
+| **5. pastor** | **6. beg** | **7. happy** | **8. goback** |
 
 ∅ = no response.
-
-| #   | Round 1 | Round 2 | Round 3 | **Round 4** |
-| --- | ------- | ------- | ------- | ----------- |
-| 1   | purplerb | purplerrbrown | orangergyellow | **fly** |
-| 2   | orangerb | orangelyellow | orangelbrown | **lookback** |
-| 3   | purplelb | orangelrbrown | orangelryellow | **runback** |
-| 4   | purplery | orangerbbrown | purplelgyellow | **yoga** |
-| 5   | orangely | purplerbyellow | orangerwbrown | **pastor** |
-| 6   | orangely | purplelryellow | purplerybrown | **beg** |
-| 7   | orangelb | purplerbbrown | purplermyellow | **happy** |
-| 8   | purplely | orangerbyellow | purplelwbrown | **goback** |

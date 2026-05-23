@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 8
 
-> bird
+How would you classify this label?
+
+> **bird**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

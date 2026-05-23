@@ -2,19 +2,10 @@
 type: noResponse
 ---
 
-### Classify labels from this participant's **round 4** using the above categories.
+### All labels
 
-Each round uses a different image set, and labels may vary across rounds.
+| 1. fly | 2. goback | 3. dance | 4. goback |
+| --- | --- | --- | --- |
+| **5. dance** | **6. run** | **7. lookback** | **8. pastle** |
 
 ∅ = no response.
-
-| #   | Round 1 | Round 2 | Round 3 | **Round 4** |
-| --- | ------- | ------- | ------- | ----------- |
-| 1   | purplerb | purplelrbrown | orangelgyellow | **fly** |
-| 2   | orangerb | organgelryellow | orangelgbrown | **goback** |
-| 3   | purplelb | organelrbrown | orangelryellow | **dance** |
-| 4   | purplery | organelbbrown | purplelgyellow | **goback** |
-| 5   | purplely | purplerbyellow | orangerwbrown | **dance** |
-| 6   | orangely | purplelryellow | purplerybrown | **run** |
-| 7   | orangelb | purplerbbrown | purplermyellow | **lookback** |
-| 8   | purplely | organerbyellow | purplelwbrown | **pastle** |

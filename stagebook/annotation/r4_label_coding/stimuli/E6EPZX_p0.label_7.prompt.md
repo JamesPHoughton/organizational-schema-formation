@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 7
 
-> confused
+How would you classify this label?
+
+> **confused**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

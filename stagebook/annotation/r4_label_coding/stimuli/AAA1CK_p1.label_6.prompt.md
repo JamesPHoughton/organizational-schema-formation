@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 6
 
-> ninja bend le
+How would you classify this label?
+
+> **ninja bend le**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

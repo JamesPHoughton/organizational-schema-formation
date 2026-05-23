@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 8
 
-> owl
+How would you classify this label?
+
+> **owl**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

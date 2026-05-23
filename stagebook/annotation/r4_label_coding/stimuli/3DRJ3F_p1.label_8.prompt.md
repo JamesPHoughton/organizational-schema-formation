@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 8
 
-> glasses
+How would you classify this label?
+
+> **glasses**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

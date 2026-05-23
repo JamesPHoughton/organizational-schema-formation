@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 4
 
-> leg square left
+How would you classify this label?
+
+> **leg square left**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

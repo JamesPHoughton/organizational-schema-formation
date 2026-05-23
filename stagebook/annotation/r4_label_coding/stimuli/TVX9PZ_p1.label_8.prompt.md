@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 8
 
-> praying standing
+How would you classify this label?
+
+> **praying standing**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

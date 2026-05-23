@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 8
 
-> right angle
+How would you classify this label?
+
+> **right angle**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

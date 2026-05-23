@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 2
 
-> ninja dance
+How would you classify this label?
+
+> **ninja dance**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

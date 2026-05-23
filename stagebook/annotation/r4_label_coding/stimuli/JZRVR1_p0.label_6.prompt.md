@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 6
 
-> beg
+How would you classify this label?
+
+> **beg**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

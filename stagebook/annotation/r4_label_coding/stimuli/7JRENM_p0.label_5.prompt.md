@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 5
 
-> genie
+How would you classify this label?
+
+> **genie**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 4
 
-> picture 8
+How would you classify this label?
+
+> **picture 8**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

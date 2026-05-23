@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 8
 
-> duck
+How would you classify this label?
+
+> **duck**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

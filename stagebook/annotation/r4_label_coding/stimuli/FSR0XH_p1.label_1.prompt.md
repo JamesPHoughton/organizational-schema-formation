@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 1
 
-> purple purple yellow
+How would you classify this label?
+
+> **purple purple yellow**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

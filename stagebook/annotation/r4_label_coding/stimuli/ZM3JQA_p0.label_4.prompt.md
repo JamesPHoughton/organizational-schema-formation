@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 4
 
-> bent
+How would you classify this label?
+
+> **bent**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

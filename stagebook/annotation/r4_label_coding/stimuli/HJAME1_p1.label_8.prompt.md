@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 8
 
-> swan
+How would you classify this label?
+
+> **swan**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

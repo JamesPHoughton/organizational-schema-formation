@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 2
 
-> walking
+How would you classify this label?
+
+> **walking**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

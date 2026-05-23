@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 2
 
-> sticky
+How would you classify this label?
+
+> **sticky**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

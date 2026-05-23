@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 1
 
-> blue brown yellow rectangle
+How would you classify this label?
+
+> **blue brown yellow rectangle**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

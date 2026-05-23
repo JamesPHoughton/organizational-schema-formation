@@ -2,19 +2,10 @@
 type: noResponse
 ---
 
-### Classify labels from this participant's **round 4** using the above categories.
+### All labels
 
-Each round uses a different image set, and labels may vary across rounds.
+| 1. falling | 2. monster | 3. ladygaga | 4. skating |
+| --- | --- | --- | --- |
+| **5. giving** | **6. prayingman** | **7. confusing** | **8. prayinggirl** |
 
 ∅ = no response.
-
-| #   | Round 1 | Round 2 | Round 3 | **Round 4** |
-| --- | ------- | ------- | ------- | ----------- |
-| 1   | purpleblackbrown | purpleredbrown | orangeblackyellow | **falling** |
-| 2   | orangeblackbrown | orangeredyellow | orangeredbrown | **monster** |
-| 3   | purpleredbrown | orangeredbrown | orangeredyellow | **ladygaga** |
-| 4   | purpleblackyellow | orangeblackbrown | purpleredyellow | **skating** |
-| 5   | orangeredyellow | purpleblackyellow | orangeblackbrown | **giving** |
-| 6   | orangeblackyellow | purpleredyellow | purpleblackbrown | **prayingman** |
-| 7   | orangeredbrown | purpleblackbrown | rainbow | **confusing** |
-| 8   | purpleredyellow | orangeblackyellow | purpleredbrown | **prayinggirl** |

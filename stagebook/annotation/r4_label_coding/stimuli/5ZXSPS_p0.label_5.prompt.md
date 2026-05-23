@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 5
 
-> hold
+How would you classify this label?
+
+> **hold**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

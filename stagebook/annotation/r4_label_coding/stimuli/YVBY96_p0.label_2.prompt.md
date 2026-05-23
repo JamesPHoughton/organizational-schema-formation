@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 2
 
-> pry
+How would you classify this label?
+
+> **pry**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

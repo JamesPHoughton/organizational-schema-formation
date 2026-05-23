@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 7
 
-> cart
+How would you classify this label?
+
+> **cart**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

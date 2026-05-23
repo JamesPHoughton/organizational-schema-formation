@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 8
 
-> sitting
+How would you classify this label?
+
+> **sitting**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

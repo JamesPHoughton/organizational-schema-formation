@@ -2,19 +2,10 @@
 type: noResponse
 ---
 
-### Classify labels from this participant's **round 4** using the above categories.
+### All labels
 
-Each round uses a different image set, and labels may vary across rounds.
+| 1. arm sup | 2. elephant | 3. water fountain | 4. dance |
+| --- | --- | --- | --- |
+| **5. pray** | **6. water fountain** | **7. dance** | **8. water fountain** |
 
 ∅ = no response.
-
-| #   | Round 1 | Round 2 | Round 3 | **Round 4** |
-| --- | ------- | ------- | ------- | ----------- |
-| 1   | pbb | prb | oby | **arm sup** |
-| 2   | obb | ory | orb | **elephant** |
-| 3   | prb | orb | ory | **water fountain** |
-| 4   | pby | obb | pry | **dance** |
-| 5   | ory | pby | obb | **pray** |
-| 6   | oby | pry | pbb | **water fountain** |
-| 7   | orb | pbb | pby | **dance** |
-| 8   | pry | oby | prb | **water fountain** |

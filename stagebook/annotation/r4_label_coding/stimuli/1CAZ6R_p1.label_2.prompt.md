@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 2
 
-> ghost
+How would you classify this label?
+
+> **ghost**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

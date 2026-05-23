@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 3
 
-> stapler
+How would you classify this label?
+
+> **stapler**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

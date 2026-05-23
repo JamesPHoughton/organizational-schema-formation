@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 6
 
-> himpraying
+How would you classify this label?
+
+> **himpraying**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

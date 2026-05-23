@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 8
 
-> eraser
+How would you classify this label?
+
+> **eraser**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

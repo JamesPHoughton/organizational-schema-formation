@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 7
 
-> orangewhiteyellow
+How would you classify this label?
+
+> **orangewhiteyellow**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

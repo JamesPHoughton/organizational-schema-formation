@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 8
 
-> button
+How would you classify this label?
+
+> **button**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

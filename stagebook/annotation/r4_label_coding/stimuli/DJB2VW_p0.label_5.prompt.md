@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 5
 
-> slu
+How would you classify this label?
+
+> **slu**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 4
 
-> pose
+How would you classify this label?
+
+> **pose**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

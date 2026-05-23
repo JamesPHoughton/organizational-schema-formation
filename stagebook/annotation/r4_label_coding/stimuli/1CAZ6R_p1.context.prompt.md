@@ -2,19 +2,10 @@
 type: noResponse
 ---
 
-### Classify labels from this participant's **round 4** using the above categories.
+### All labels
 
-Each round uses a different image set, and labels may vary across rounds.
+| 1. player | 2. ghost | 3. singer | 4. gymnast |
+| --- | --- | --- | --- |
+| **5. priest** | **6. begger** | **7. dancer** | **8. prayer** |
 
 ∅ = no response.
-
-| #   | Round 1 | Round 2 | Round 3 | **Round 4** |
-| --- | ------- | ------- | ------- | ----------- |
-| 1   | squirrel | rose | cat | **player** |
-| 2   | scorpion | car | mask | **ghost** |
-| 3   | cat | bird | spider | **singer** |
-| 4   | clock | penguin | rabit | **gymnast** |
-| 5   | spark plug | grape | cake | **priest** |
-| 6   | owl | car | face | **begger** |
-| 7   | dog | plane | machine | **dancer** |
-| 8   | microscope | crab | ∅ | **prayer** |

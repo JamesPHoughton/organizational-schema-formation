@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 2
 
-> sld
+How would you classify this label?
+
+> **sld**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

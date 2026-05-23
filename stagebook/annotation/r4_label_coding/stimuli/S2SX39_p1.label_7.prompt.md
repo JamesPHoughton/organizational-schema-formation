@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 7
 
-> stretch
+How would you classify this label?
+
+> **stretch**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

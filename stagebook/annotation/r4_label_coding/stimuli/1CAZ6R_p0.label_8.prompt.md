@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 8
 
-> prayer
+How would you classify this label?
+
+> **prayer**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

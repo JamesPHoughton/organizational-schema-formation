@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 8
 
-> bigrobot
+How would you classify this label?
+
+> **bigrobot**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither

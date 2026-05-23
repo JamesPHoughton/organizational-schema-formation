@@ -1,7 +1,15 @@
 ---
-type: noResponse
+type: multipleChoice
 ---
 
 ### Label 4
 
-> standing on one foot
+How would you classify this label?
+
+> **standing on one foot**
+
+---
+
+- One-off label
+- Systematic label
+- Can't tell / Neither
