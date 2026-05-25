@@ -4,7 +4,7 @@ type: noResponse
 
 # Label Classification Task
 
-In another study, we asked people to label sets of images like the one below:
+In a recent study, we asked participants to label sets of images like the one below:
 
 ![Example image set](intro/round_3_panel.jpg)
 
