@@ -6,7 +6,7 @@ type: multipleChoice
 
 How would you classify this label?
 
-> **∅ (no response)**
+> **(no response)**
 
 ---
 

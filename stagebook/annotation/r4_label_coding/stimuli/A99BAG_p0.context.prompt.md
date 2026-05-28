@@ -2,10 +2,8 @@
 type: noResponse
 ---
 
-### All labels
+### Round 4 labels
 
 | 1. girl | 2. baby | 3. yellow | 4. legs |
 | --- | --- | --- | --- |
-| **5. clock** | **6. glasses** | **7. white** | **8. owl** |
-
-∅ = no response.
+| 5. clock | 6. glasses | 7. white | 8. owl |

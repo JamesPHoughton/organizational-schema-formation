@@ -2,10 +2,8 @@
 type: noResponse
 ---
 
-### All labels
+### Round 4 labels
 
 | 1. angel | 2. fall | 3. spread | 4. dance |
 | --- | --- | --- | --- |
-| **5. pray** | **6. kneel** | **7. faint** | **8. kneel** |
-
-∅ = no response.
+| 5. pray | 6. kneel | 7. faint | 8. kneel |

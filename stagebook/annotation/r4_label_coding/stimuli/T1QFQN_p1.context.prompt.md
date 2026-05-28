@@ -2,10 +2,8 @@
 type: noResponse
 ---
 
-### All labels
+### Round 4 labels
 
 | 1. flat | 2. lorry | 3. bin | 4. robot |
 | --- | --- | --- | --- |
-| **5. toy** | **6. jet** | **7. cart** | **8. icecream** |
-
-∅ = no response.
+| 5. toy | 6. jet | 7. cart | 8. icecream |
