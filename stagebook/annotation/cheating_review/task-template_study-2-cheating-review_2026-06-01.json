@@ -1,0 +1,132 @@
+[
+  {
+    "treatment": "cheating_review",
+    "fields": {
+      "round1aFilepath": "asset://group_recordings/20260513_1556_study22TH981/2TH981_room0_game_1_Discussion_1a.mp4",
+      "round1bFilepath": "asset://group_recordings/20260513_1556_study22TH981/2TH981_room0_game_8_Discussion_1b.mp4",
+      "round1cFilepath": "asset://group_recordings/20260513_1556_study22TH981/2TH981_room0_game_19_Discussion_1c.mp4",
+      "round2Filepath": "asset://group_recordings/20260513_1556_study22TH981/2TH981_room0_game_38_Discussion_2.mp4",
+      "round3Filepath": "asset://group_recordings/20260513_1556_study22TH981/2TH981_room0_game_57_Discussion_3.mp4",
+      "round4Filepath": "asset://group_recordings/20260513_1556_study22TH981/2TH981_room0_game_76_Discussion_4.mp4"
+    },
+    "exportPath": "2TH981",
+    "targetReplications": 1
+  },
+  {
+    "treatment": "cheating_review",
+    "fields": {
+      "round1aFilepath": "asset://group_recordings/20260513_1556_study25ZXSPS/5ZXSPS_room0_game_1_Discussion_1a.mp4",
+      "round1bFilepath": "asset://group_recordings/20260513_1556_study25ZXSPS/5ZXSPS_room0_game_8_Discussion_1b.mp4",
+      "round1cFilepath": "asset://group_recordings/20260513_1556_study25ZXSPS/5ZXSPS_room0_game_19_Discussion_1c.mp4",
+      "round2Filepath": "asset://group_recordings/20260513_1556_study25ZXSPS/5ZXSPS_room0_game_38_Discussion_2.mp4",
+      "round3Filepath": "asset://group_recordings/20260513_1556_study25ZXSPS/5ZXSPS_room0_game_57_Discussion_3.mp4",
+      "round4Filepath": "asset://group_recordings/20260513_1556_study25ZXSPS/5ZXSPS_room0_game_76_Discussion_4.mp4"
+    },
+    "exportPath": "5ZXSPS",
+    "targetReplications": 1
+  },
+  {
+    "treatment": "cheating_review",
+    "fields": {
+      "round1aFilepath": "asset://group_recordings/20260513_1556_study27TP0DW/7TP0DW_room0_game_1_Discussion_1a.mp4",
+      "round1bFilepath": "asset://group_recordings/20260513_1556_study27TP0DW/7TP0DW_room0_game_8_Discussion_1b.mp4",
+      "round1cFilepath": "asset://group_recordings/20260513_1556_study27TP0DW/7TP0DW_room0_game_19_Discussion_1c.mp4",
+      "round2Filepath": "asset://group_recordings/20260513_1556_study27TP0DW/7TP0DW_room0_game_38_Discussion_2.mp4",
+      "round3Filepath": "asset://group_recordings/20260513_1556_study27TP0DW/7TP0DW_room0_game_57_Discussion_3.mp4",
+      "round4Filepath": "asset://group_recordings/20260513_1556_study27TP0DW/7TP0DW_room0_game_76_Discussion_4.mp4"
+    },
+    "exportPath": "7TP0DW",
+    "targetReplications": 1
+  },
+  {
+    "treatment": "cheating_review",
+    "fields": {
+      "round1aFilepath": "asset://group_recordings/20260513_1556_study28JTE0M/8JTE0M_room0_game_1_Discussion_1a.mp4",
+      "round1bFilepath": "asset://group_recordings/20260513_1556_study28JTE0M/8JTE0M_room0_game_8_Discussion_1b.mp4",
+      "round1cFilepath": "asset://group_recordings/20260513_1556_study28JTE0M/8JTE0M_room0_game_19_Discussion_1c.mp4",
+      "round2Filepath": "asset://group_recordings/20260513_1556_study28JTE0M/8JTE0M_room0_game_38_Discussion_2.mp4",
+      "round3Filepath": "asset://group_recordings/20260513_1556_study28JTE0M/8JTE0M_room0_game_57_Discussion_3.mp4",
+      "round4Filepath": "asset://group_recordings/20260513_1556_study28JTE0M/8JTE0M_room0_game_76_Discussion_4.mp4"
+    },
+    "exportPath": "8JTE0M",
+    "targetReplications": 1
+  },
+  {
+    "treatment": "cheating_review",
+    "fields": {
+      "round1aFilepath": "asset://group_recordings/20260513_1556_study2DJB2VW/DJB2VW_room0_game_1_Discussion_1a.mp4",
+      "round1bFilepath": "asset://group_recordings/20260513_1556_study2DJB2VW/DJB2VW_room0_game_8_Discussion_1b.mp4",
+      "round1cFilepath": "asset://group_recordings/20260513_1556_study2DJB2VW/DJB2VW_room0_game_19_Discussion_1c.mp4",
+      "round2Filepath": "asset://group_recordings/20260513_1556_study2DJB2VW/DJB2VW_room0_game_38_Discussion_2.mp4",
+      "round3Filepath": "asset://group_recordings/20260513_1556_study2DJB2VW/DJB2VW_room0_game_57_Discussion_3.mp4",
+      "round4Filepath": "asset://group_recordings/20260513_1556_study2DJB2VW/DJB2VW_room0_game_76_Discussion_4.mp4"
+    },
+    "exportPath": "DJB2VW",
+    "targetReplications": 1
+  },
+  {
+    "treatment": "cheating_review",
+    "fields": {
+      "round1aFilepath": "asset://group_recordings/20260513_1556_study2GM9Y3M/GM9Y3M_room0_game_1_Discussion_1a.mp4",
+      "round1bFilepath": "asset://group_recordings/20260513_1556_study2GM9Y3M/GM9Y3M_room0_game_8_Discussion_1b.mp4",
+      "round1cFilepath": "asset://group_recordings/20260513_1556_study2GM9Y3M/GM9Y3M_room0_game_19_Discussion_1c.mp4",
+      "round2Filepath": "asset://group_recordings/20260513_1556_study2GM9Y3M/GM9Y3M_room0_game_38_Discussion_2.mp4",
+      "round3Filepath": "asset://group_recordings/20260513_1556_study2GM9Y3M/GM9Y3M_room0_game_57_Discussion_3.mp4",
+      "round4Filepath": "asset://group_recordings/20260513_1556_study2GM9Y3M/GM9Y3M_room0_game_76_Discussion_4.mp4"
+    },
+    "exportPath": "GM9Y3M",
+    "targetReplications": 1
+  },
+  {
+    "treatment": "cheating_review",
+    "fields": {
+      "round1aFilepath": "asset://group_recordings/20260513_1556_study2KV94XV/KV94XV_room0_game_1_Discussion_1a.mp4",
+      "round1bFilepath": "asset://group_recordings/20260513_1556_study2KV94XV/KV94XV_room0_game_8_Discussion_1b.mp4",
+      "round1cFilepath": "asset://group_recordings/20260513_1556_study2KV94XV/KV94XV_room0_game_19_Discussion_1c.mp4",
+      "round2Filepath": "asset://group_recordings/20260513_1556_study2KV94XV/KV94XV_room0_game_38_Discussion_2.mp4",
+      "round3Filepath": "asset://group_recordings/20260513_1556_study2KV94XV/KV94XV_room0_game_57_Discussion_3.mp4",
+      "round4Filepath": "asset://group_recordings/20260513_1556_study2KV94XV/KV94XV_room0_game_76_Discussion_4.mp4"
+    },
+    "exportPath": "KV94XV",
+    "targetReplications": 1
+  },
+  {
+    "treatment": "cheating_review",
+    "fields": {
+      "round1aFilepath": "asset://group_recordings/20260513_1556_study2P22NYY/P22NYY_room0_game_1_Discussion_1a.mp4",
+      "round1bFilepath": "asset://group_recordings/20260513_1556_study2P22NYY/P22NYY_room0_game_8_Discussion_1b.mp4",
+      "round1cFilepath": "asset://group_recordings/20260513_1556_study2P22NYY/P22NYY_room0_game_19_Discussion_1c.mp4",
+      "round2Filepath": "asset://group_recordings/20260513_1556_study2P22NYY/P22NYY_room0_game_38_Discussion_2.mp4",
+      "round3Filepath": "asset://group_recordings/20260513_1556_study2P22NYY/P22NYY_room0_game_57_Discussion_3.mp4",
+      "round4Filepath": "asset://group_recordings/20260513_1556_study2P22NYY/P22NYY_room0_game_76_Discussion_4.mp4"
+    },
+    "exportPath": "P22NYY",
+    "targetReplications": 1
+  },
+  {
+    "treatment": "cheating_review",
+    "fields": {
+      "round1aFilepath": "asset://group_recordings/20260513_1556_study2VRSKPE/VRSKPE_room0_game_1_Discussion_1a.mp4",
+      "round1bFilepath": "asset://group_recordings/20260513_1556_study2VRSKPE/VRSKPE_room0_game_8_Discussion_1b.mp4",
+      "round1cFilepath": "asset://group_recordings/20260513_1556_study2VRSKPE/VRSKPE_room0_game_19_Discussion_1c.mp4",
+      "round2Filepath": "asset://group_recordings/20260513_1556_study2VRSKPE/VRSKPE_room0_game_38_Discussion_2.mp4",
+      "round3Filepath": "asset://group_recordings/20260513_1556_study2VRSKPE/VRSKPE_room0_game_57_Discussion_3.mp4",
+      "round4Filepath": "asset://group_recordings/20260513_1556_study2VRSKPE/VRSKPE_room0_game_76_Discussion_4.mp4"
+    },
+    "exportPath": "VRSKPE",
+    "targetReplications": 1
+  },
+  {
+    "treatment": "cheating_review",
+    "fields": {
+      "round1aFilepath": "asset://group_recordings/20260513_1556_study2ZSRWVW/ZSRWVW_room0_game_1_Discussion_1a.mp4",
+      "round1bFilepath": "asset://group_recordings/20260513_1556_study2ZSRWVW/ZSRWVW_room0_game_8_Discussion_1b.mp4",
+      "round1cFilepath": "asset://group_recordings/20260513_1556_study2ZSRWVW/ZSRWVW_room0_game_19_Discussion_1c.mp4",
+      "round2Filepath": "asset://group_recordings/20260513_1556_study2ZSRWVW/ZSRWVW_room0_game_38_Discussion_2.mp4",
+      "round3Filepath": "asset://group_recordings/20260513_1556_study2ZSRWVW/ZSRWVW_room0_game_57_Discussion_3.mp4",
+      "round4Filepath": "asset://group_recordings/20260513_1556_study2ZSRWVW/ZSRWVW_room0_game_76_Discussion_4.mp4"
+    },
+    "exportPath": "ZSRWVW",
+    "targetReplications": 1
+  }
+]

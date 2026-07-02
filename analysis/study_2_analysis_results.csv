@@ -1,5 +1,5 @@
-Hypothesis,Test,Statistic,p (one-tailed),Effect,Status
-H1 (PREREG),Fisher exact (one-tailed),OR = 17.49,0.0000,non-obv: 22/35 schema; obv: 3/34 schema,preregistered
-H1 acc-interaction (exploratory),Restricted permutation,contrast = -0.462,0.2441,"Cliffs δ amb=-0.44, inc=-0.22",exploratory
-R4 tangrams S vs NS (exploratory),MWU (perm),U = 463.0,0.0543,"HL = -1.00 [-2.00,+0.00]; δ=-0.22",exploratory
-Replication amb (exploratory),MWU (perm),U = 343.0,0.0008,HL = -1.00; δ=-0.44,exploratory
+Hypothesis,Test,Statistic,p (one-tailed),Effect
+H1,Fisher exact (one-tailed),OR = 17.49,< .001,non-obv: 22/35 schema; obv: 1/32 schema
+H1 acc-interaction,Restricted permutation,contrast = -0.462,0.244,"Cliffs δ amb=-0.44, inc=-0.22"
+R4 tangrams S vs NS,MWU (perm),U = 463.0,0.054,"HL = -1.00 [-2.00,+0.00]; δ=-0.22"
+Replication amb,MWU (perm),U = 343.0,< .001,HL = -1.00; δ=-0.44

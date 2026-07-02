@@ -1,0 +1,194 @@
+[
+  {
+    "treatment": "r4_label_coding",
+    "fields": {
+      "contextFile": "stimuli/1KXBRG_p0.context.prompt.md",
+      "labelFile1": "stimuli/1KXBRG_p0.label_1.prompt.md",
+      "labelFile2": "stimuli/1KXBRG_p0.label_2.prompt.md",
+      "labelFile3": "stimuli/1KXBRG_p0.label_3.prompt.md",
+      "labelFile4": "stimuli/1KXBRG_p0.label_4.prompt.md",
+      "labelFile5": "stimuli/1KXBRG_p0.label_5.prompt.md",
+      "labelFile6": "stimuli/1KXBRG_p0.label_6.prompt.md",
+      "labelFile7": "stimuli/1KXBRG_p0.label_7.prompt.md",
+      "labelFile8": "stimuli/1KXBRG_p0.label_8.prompt.md"
+    },
+    "exportPath": "1KXBRG_p0",
+    "targetReplications": 4
+  },
+  {
+    "treatment": "r4_label_coding",
+    "fields": {
+      "contextFile": "stimuli/7ZTEW8_p0.context.prompt.md",
+      "labelFile1": "stimuli/7ZTEW8_p0.label_1.prompt.md",
+      "labelFile2": "stimuli/7ZTEW8_p0.label_2.prompt.md",
+      "labelFile3": "stimuli/7ZTEW8_p0.label_3.prompt.md",
+      "labelFile4": "stimuli/7ZTEW8_p0.label_4.prompt.md",
+      "labelFile5": "stimuli/7ZTEW8_p0.label_5.prompt.md",
+      "labelFile6": "stimuli/7ZTEW8_p0.label_6.prompt.md",
+      "labelFile7": "stimuli/7ZTEW8_p0.label_7.prompt.md",
+      "labelFile8": "stimuli/7ZTEW8_p0.label_8.prompt.md"
+    },
+    "exportPath": "7ZTEW8_p0",
+    "targetReplications": 4
+  },
+  {
+    "treatment": "r4_label_coding",
+    "fields": {
+      "contextFile": "stimuli/7ZTEW8_p1.context.prompt.md",
+      "labelFile1": "stimuli/7ZTEW8_p1.label_1.prompt.md",
+      "labelFile2": "stimuli/7ZTEW8_p1.label_2.prompt.md",
+      "labelFile3": "stimuli/7ZTEW8_p1.label_3.prompt.md",
+      "labelFile4": "stimuli/7ZTEW8_p1.label_4.prompt.md",
+      "labelFile5": "stimuli/7ZTEW8_p1.label_5.prompt.md",
+      "labelFile6": "stimuli/7ZTEW8_p1.label_6.prompt.md",
+      "labelFile7": "stimuli/7ZTEW8_p1.label_7.prompt.md",
+      "labelFile8": "stimuli/7ZTEW8_p1.label_8.prompt.md"
+    },
+    "exportPath": "7ZTEW8_p1",
+    "targetReplications": 4
+  },
+  {
+    "treatment": "r4_label_coding",
+    "fields": {
+      "contextFile": "stimuli/BF7TZW_p1.context.prompt.md",
+      "labelFile1": "stimuli/BF7TZW_p1.label_1.prompt.md",
+      "labelFile2": "stimuli/BF7TZW_p1.label_2.prompt.md",
+      "labelFile3": "stimuli/BF7TZW_p1.label_3.prompt.md",
+      "labelFile4": "stimuli/BF7TZW_p1.label_4.prompt.md",
+      "labelFile5": "stimuli/BF7TZW_p1.label_5.prompt.md",
+      "labelFile6": "stimuli/BF7TZW_p1.label_6.prompt.md",
+      "labelFile7": "stimuli/BF7TZW_p1.label_7.prompt.md",
+      "labelFile8": "stimuli/BF7TZW_p1.label_8.prompt.md"
+    },
+    "exportPath": "BF7TZW_p1",
+    "targetReplications": 4
+  },
+  {
+    "treatment": "r4_label_coding",
+    "fields": {
+      "contextFile": "stimuli/C6CY8X_p0.context.prompt.md",
+      "labelFile1": "stimuli/C6CY8X_p0.label_1.prompt.md",
+      "labelFile2": "stimuli/C6CY8X_p0.label_2.prompt.md",
+      "labelFile3": "stimuli/C6CY8X_p0.label_3.prompt.md",
+      "labelFile4": "stimuli/C6CY8X_p0.label_4.prompt.md",
+      "labelFile5": "stimuli/C6CY8X_p0.label_5.prompt.md",
+      "labelFile6": "stimuli/C6CY8X_p0.label_6.prompt.md",
+      "labelFile7": "stimuli/C6CY8X_p0.label_7.prompt.md",
+      "labelFile8": "stimuli/C6CY8X_p0.label_8.prompt.md"
+    },
+    "exportPath": "C6CY8X_p0",
+    "targetReplications": 4
+  },
+  {
+    "treatment": "r4_label_coding",
+    "fields": {
+      "contextFile": "stimuli/DJB2VW_p0.context.prompt.md",
+      "labelFile1": "stimuli/DJB2VW_p0.label_1.prompt.md",
+      "labelFile2": "stimuli/DJB2VW_p0.label_2.prompt.md",
+      "labelFile3": "stimuli/DJB2VW_p0.label_3.prompt.md",
+      "labelFile4": "stimuli/DJB2VW_p0.label_4.prompt.md",
+      "labelFile5": "stimuli/DJB2VW_p0.label_5.prompt.md",
+      "labelFile6": "stimuli/DJB2VW_p0.label_6.prompt.md",
+      "labelFile7": "stimuli/DJB2VW_p0.label_7.prompt.md",
+      "labelFile8": "stimuli/DJB2VW_p0.label_8.prompt.md"
+    },
+    "exportPath": "DJB2VW_p0",
+    "targetReplications": 4
+  },
+  {
+    "treatment": "r4_label_coding",
+    "fields": {
+      "contextFile": "stimuli/GM9Y3M_p0.context.prompt.md",
+      "labelFile1": "stimuli/GM9Y3M_p0.label_1.prompt.md",
+      "labelFile2": "stimuli/GM9Y3M_p0.label_2.prompt.md",
+      "labelFile3": "stimuli/GM9Y3M_p0.label_3.prompt.md",
+      "labelFile4": "stimuli/GM9Y3M_p0.label_4.prompt.md",
+      "labelFile5": "stimuli/GM9Y3M_p0.label_5.prompt.md",
+      "labelFile6": "stimuli/GM9Y3M_p0.label_6.prompt.md",
+      "labelFile7": "stimuli/GM9Y3M_p0.label_7.prompt.md",
+      "labelFile8": "stimuli/GM9Y3M_p0.label_8.prompt.md"
+    },
+    "exportPath": "GM9Y3M_p0",
+    "targetReplications": 4
+  },
+  {
+    "treatment": "r4_label_coding",
+    "fields": {
+      "contextFile": "stimuli/GM9Y3M_p1.context.prompt.md",
+      "labelFile1": "stimuli/GM9Y3M_p1.label_1.prompt.md",
+      "labelFile2": "stimuli/GM9Y3M_p1.label_2.prompt.md",
+      "labelFile3": "stimuli/GM9Y3M_p1.label_3.prompt.md",
+      "labelFile4": "stimuli/GM9Y3M_p1.label_4.prompt.md",
+      "labelFile5": "stimuli/GM9Y3M_p1.label_5.prompt.md",
+      "labelFile6": "stimuli/GM9Y3M_p1.label_6.prompt.md",
+      "labelFile7": "stimuli/GM9Y3M_p1.label_7.prompt.md",
+      "labelFile8": "stimuli/GM9Y3M_p1.label_8.prompt.md"
+    },
+    "exportPath": "GM9Y3M_p1",
+    "targetReplications": 4
+  },
+  {
+    "treatment": "r4_label_coding",
+    "fields": {
+      "contextFile": "stimuli/KV94XV_p1.context.prompt.md",
+      "labelFile1": "stimuli/KV94XV_p1.label_1.prompt.md",
+      "labelFile2": "stimuli/KV94XV_p1.label_2.prompt.md",
+      "labelFile3": "stimuli/KV94XV_p1.label_3.prompt.md",
+      "labelFile4": "stimuli/KV94XV_p1.label_4.prompt.md",
+      "labelFile5": "stimuli/KV94XV_p1.label_5.prompt.md",
+      "labelFile6": "stimuli/KV94XV_p1.label_6.prompt.md",
+      "labelFile7": "stimuli/KV94XV_p1.label_7.prompt.md",
+      "labelFile8": "stimuli/KV94XV_p1.label_8.prompt.md"
+    },
+    "exportPath": "KV94XV_p1",
+    "targetReplications": 4
+  },
+  {
+    "treatment": "r4_label_coding",
+    "fields": {
+      "contextFile": "stimuli/WE63A7_p1.context.prompt.md",
+      "labelFile1": "stimuli/WE63A7_p1.label_1.prompt.md",
+      "labelFile2": "stimuli/WE63A7_p1.label_2.prompt.md",
+      "labelFile3": "stimuli/WE63A7_p1.label_3.prompt.md",
+      "labelFile4": "stimuli/WE63A7_p1.label_4.prompt.md",
+      "labelFile5": "stimuli/WE63A7_p1.label_5.prompt.md",
+      "labelFile6": "stimuli/WE63A7_p1.label_6.prompt.md",
+      "labelFile7": "stimuli/WE63A7_p1.label_7.prompt.md",
+      "labelFile8": "stimuli/WE63A7_p1.label_8.prompt.md"
+    },
+    "exportPath": "WE63A7_p1",
+    "targetReplications": 4
+  },
+  {
+    "treatment": "r4_label_coding",
+    "fields": {
+      "contextFile": "stimuli/XR6T3T_p0.context.prompt.md",
+      "labelFile1": "stimuli/XR6T3T_p0.label_1.prompt.md",
+      "labelFile2": "stimuli/XR6T3T_p0.label_2.prompt.md",
+      "labelFile3": "stimuli/XR6T3T_p0.label_3.prompt.md",
+      "labelFile4": "stimuli/XR6T3T_p0.label_4.prompt.md",
+      "labelFile5": "stimuli/XR6T3T_p0.label_5.prompt.md",
+      "labelFile6": "stimuli/XR6T3T_p0.label_6.prompt.md",
+      "labelFile7": "stimuli/XR6T3T_p0.label_7.prompt.md",
+      "labelFile8": "stimuli/XR6T3T_p0.label_8.prompt.md"
+    },
+    "exportPath": "XR6T3T_p0",
+    "targetReplications": 4
+  },
+  {
+    "treatment": "r4_label_coding",
+    "fields": {
+      "contextFile": "stimuli/YVBY96_p0.context.prompt.md",
+      "labelFile1": "stimuli/YVBY96_p0.label_1.prompt.md",
+      "labelFile2": "stimuli/YVBY96_p0.label_2.prompt.md",
+      "labelFile3": "stimuli/YVBY96_p0.label_3.prompt.md",
+      "labelFile4": "stimuli/YVBY96_p0.label_4.prompt.md",
+      "labelFile5": "stimuli/YVBY96_p0.label_5.prompt.md",
+      "labelFile6": "stimuli/YVBY96_p0.label_6.prompt.md",
+      "labelFile7": "stimuli/YVBY96_p0.label_7.prompt.md",
+      "labelFile8": "stimuli/YVBY96_p0.label_8.prompt.md"
+    },
+    "exportPath": "YVBY96_p0",
+    "targetReplications": 4
+  }
+]
