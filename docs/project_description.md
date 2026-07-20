@@ -345,26 +345,3 @@ The candidates that survive Study 1 are the cognitive and coordination mechanism
 The logic is always: "this mechanism is not necessary for the trap to occur" or "this mechanism is operative in this setting." Never: "this mechanism is THE cause." The competency trap in the real world is almost certainly multiply determined. Our contribution is showing which ingredients are sufficient on their own, which are not necessary, and which are operative when isolated.
 
 This framing also addresses the "toy example" criticism. The simplicity of our paradigm is not a limitation — it is the identification strategy. If the trap only appeared in complex organizational settings, you could never know which of the many co-occurring factors produced it. By showing that it occurs in a 30-minute dyadic labeling task with none of the organizational complexity, we establish that the cognitive and coordination dynamics alone are sufficient. The organizational factors are amplifiers, not causes.
-
-## Current status and next steps
-
-1. **Study 1 data is collected and analyzed.** The main effect is robust. The exploratory failure-mode analysis (Hagay's coding) is complete for Study 1 schema groups.
-
-2. **Study 2 design is converging on the intervention study** (strategic vs tactical prompt). Exact wording of prompts needs to be finalized and piloted. The tangrams 2x2 has been piloted but has confound issues (practice differential in the non-schema control) that make it less clean as a mechanism test. The tangrams data remains useful as a manipulation check and descriptive reference.
-
-3. **The paper outline exists** (see `docs/paper_outline.md`) with a clear arc: introduction (phenomenon + identification problem + desiderata), Study 1 (existence proof), exploratory analysis (failure modes), Study 2 (intervention), discussion (what's ruled out, what survives, implications for practice).
-
-4. **The alternative-explanations table** (Table S1 for the supplement) is drafted with 44 entries organized into 8 families, each with a description and an assessment of how we address it.
-
-5. **A literature review is needed** covering the organizational strategy, cognitive psychology, and social/coordination literatures that bear on competency traps. A detailed handoff document for this review exists separately.
-
-6. **Pre-registration for Study 2** needs to be written once the design is finalized, including: exact prompt wording, primary DV, manipulation check, exclusion criteria, sample size justification, and the three-outcome interpretation framework.
-
-7. **Target venue:** PNAS or similar. The paper should be empirically driven (not theory-heavy), with the theoretical contribution emerging from the systematic elimination of alternatives and the identification of the dominant failure mode. The format is space-limited, which means the argument needs to be tight and the supplement does heavy lifting.
-
-## Key collaborators
-
-- **James Houghton** — experimental design, data analysis, paradigm development, codebase
-- **Hagay Volvovsky** — qualitative coding of failure modes, video spot-checks, connection to org theory literature
-- **Ezra Zuckerman Sivan** — senior collaborator, strategic guidance on framing and publication
-- **Trini Feng** — collaborator (role to be clarified in handoff)

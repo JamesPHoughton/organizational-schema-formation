@@ -1,5 +1,5 @@
 treatment,sampleId,gameId,gameId_full,position,country,timezone,isKnownVpn,isLikelyVpn,effectiveType,saveData,downlink,rtt,screenWidth,screenHeight,width,height,language,device,participateAgain,adequateCompensation,adequateTime,clearInstructions,videoQuality,joiningProblems,technicalProblems,technicalDetail,textExpansion,joiningDetail,num_reports,time_labeling_1a,time_labeling_1b,time_labeling_1c,time_labeling_2,time_labeling_3,time_labeling_4,labeling_1a,labeling_1b,labeling_1c,labeling_2,labeling_3,labeling_4,recall_1a_0,recall_1a_1,recall_1b_0,recall_1b_1,recall_1b_2,recall_1b_3,recall_1c_0,recall_1c_1,recall_1c_2,recall_1c_3,recall_1c_4,recall_1c_5,recall_1c_6,recall_1c_7,recall_2_0,recall_2_1,recall_2_2,recall_2_3,recall_2_4,recall_2_5,recall_2_6,recall_2_7,recall_3_0,recall_3_1,recall_3_2,recall_3_3,recall_3_4,recall_3_5,recall_3_6,recall_3_7,recall_4_0,recall_4_1,recall_4_2,recall_4_3,recall_4_4,recall_4_5,recall_4_6,recall_4_7,accuracy_1a,accuracy_1b,accuracy_1c,accuracy_2,accuracy_3,accuracy_4,empty_recall_counts
-nonschema,c6ba046b-6675-4357-b6f3-3d3a89b1ef39,NPT449,01KGJRHBQ8TBRN9J0TAFNPT449,1,US,America/Los_Angeles,False,False,4g,False,4.55,150.0,1536,816,1536,730,en-US,Windows desktop / Chrome,yes,fairly_paid,adequate,5.0,1.0,no,no,,,,0,68.393,40.565,84.24,185.332,170.679,145.14,"Image 1: owl
+nonschema,c6ba046b-6675-4357-b6f3-3d3a89b1ef39,NPT449,01KGJRHBQ8TBRN9J0TAFNPT449,1,US,America/Los_Angeles,False,False,4g,False,4.55,150.0,1536,816,1536,730,en-US,Windows desktop / Chrome,yes,fairly_paid,adequate,5.0,1,no,no,,,,0,68.393,40.565,84.24,185.332,170.679,145.14,"Image 1: owl
 Image 2: cookie","Image 1: owl
 Image 2: cookie
 Image 3: bug
@@ -32,7 +32,7 @@ Image 5: white
 Image 6: black
 Image 7:tall
 Image 8: long",cookie,owl,cookie,ant,owl,bug,tail,scorpion,hat,cookie,ant,owl,belly,bug,peacock,robot,chef,mechanic,plant,bug,server,cook,tall,wheel,red,bird,block,mail,fat,bartender,tall,small,orange,long,dish,black,white,mouth,2.0,4.0,8.0,8.0,8.0,8.0,0
-schema,a3f28974-cb42-4f72-a917-fc7ff3135ff8,4C45AQ,01KGJRQVMKFQ5MFXWWYS4C45AQ,1,US,America/New_York,False,False,,,,,2560,1440,2048,990,en-US,Windows desktop / Chrome,yes,underpaid,adequate,4.0,5.0,no,no,,,,0,56.752,72.988,69.118,80.039,68.136,176.845,"Image 1: orange lego bot
+schema,a3f28974-cb42-4f72-a917-fc7ff3135ff8,4C45AQ,01KGJRQVMKFQ5MFXWWYS4C45AQ,1,US,America/New_York,False,False,,,,,2560,1440,2048,990,en-US,Windows desktop / Chrome,yes,underpaid,adequate,4.0,5,no,no,,,,0,56.752,72.988,69.118,80.039,68.136,176.845,"Image 1: orange lego bot
 Image 2: purple lego bot","Image 1: orange black lego bot
 Image 2: purple black lego bot
 Image 3: orange red lego bot
@@ -65,7 +65,7 @@ Image 5: white square
 Image 6: black rectangle
 Image 7: pink rectangle
 Image 8: brown rectangle",purple lego bot,orange lego bot,purple black lego bot,orange red lego bot,orange black lego bot,purple red lego bot,purple black brown,orange black brown,purple red brown,purple black yellow,orange red yellow,orange black yellow,orange red brown,purple red yellow,purple red brown,orange red yellow,orange red brown,orange black brown,purple black yellow,purple red yellow,purple black brown,orange black yellow,orange black yellow,orange red brown,orange red yellow,purple red yellow,orange black brown,purple black brown,purple black yellow,purple red brown,pink rectangle,yellow rectangle,orange rectangle,brown rectangle,blue circle,black rectangle,white square,white rectangle,2.0,4.0,8.0,8.0,8.0,7.0,0
-schema,e48ac503-161e-4165-ba4c-666004c01705,4C45AQ,01KGJRQVMKFQ5MFXWWYS4C45AQ,0,GB,Europe/London,False,False,4g,False,10.0,50.0,1396,737,1397,650,en-GB,Linux desktop / Chrome,yes,fairly_paid,adequate,5.0,5.0,no,yes,There was a glitch each time I would answer it would tell me my answer wasnt a match and would show an answer I didnt write for a second or two and then would show my correct answer and tell me I had matched.,,,0,58.157,71.489,70.596,79.507,68.596,202.342,"Image 1: orange lego bot
+schema,e48ac503-161e-4165-ba4c-666004c01705,4C45AQ,01KGJRQVMKFQ5MFXWWYS4C45AQ,0,GB,Europe/London,False,False,4g,False,10.0,50.0,1396,737,1397,650,en-GB,Linux desktop / Chrome,yes,fairly_paid,adequate,5.0,5,no,yes,There was a glitch each time I would answer it would tell me my answer wasnt a match and would show an answer I didnt write for a second or two and then would show my correct answer and tell me I had matched.,,,0,58.157,71.489,70.596,79.507,68.596,202.342,"Image 1: orange lego bot
 Image 2: purple lego bot","Image 1: orange black lego bot
 Image 2: purple black lego bot
 Image 3: orange red lego bot
@@ -98,7 +98,7 @@ Image 5: white square
 Image 6: black rectangle
 Image 7: pink rectangle
 Image 8: brown rectangle",purple lego bot,orange lego bot,purple black lego bot,orange red lego bot,orange black lego bot,purple red lego bot,purple black brown,orange black brown,purple red brown,purple black yellow,orange red yellow,orange black yellow,orange red brown,purple red yellow,purple red brown,orange red yellow,orange red brown,orange black brown,purple black yellow,purple red yellow,purple black brown,orange black yellow,orange black yellow,orange red brown,orange red yellow,purple red yellow,orange black brown,purple black brown,purple black yellow,purple red brown,pink rectangle,yellow rectangle,orange rectangle,brown square,blue circle,black rectangle,white square,white rectangle,2.0,4.0,8.0,8.0,8.0,7.0,0
-nonschema,5c139f31-56c8-4cfa-8529-98fc50178462,NPT449,01KGJRHBQ8TBRN9J0TAFNPT449,0,US,America/New_York,False,False,4g,False,8.1,50.0,3840,2112,3840,2021,en-US,Windows desktop / Chrome,yes,fairly_paid,too_much,5.0,2.0,no,yes,Video kept lagging,,,0,69.807,38.963,90.673,149.568,171.206,95.252,"Image 1: owl
+nonschema,5c139f31-56c8-4cfa-8529-98fc50178462,NPT449,01KGJRHBQ8TBRN9J0TAFNPT449,0,US,America/New_York,False,False,4g,False,8.1,50.0,3840,2112,3840,2021,en-US,Windows desktop / Chrome,yes,fairly_paid,too_much,5.0,2,no,yes,Video kept lagging,,,0,69.807,38.963,90.673,149.568,171.206,95.252,"Image 1: owl
 Image 2: cookie","Image 1: owl
 Image 2: cookie
 Image 3: bug
@@ -131,7 +131,7 @@ Image 5: white
 Image 6: black
 Image 7:tall
 Image 8: long",cookie,owl,cookie,ant,owl,bug,tail,scorpion,hat,cookie,ant,owl,belly,bug,peacock,robot,chef,mechanic,plant,bug,server,cook,tall,wheel,red,bird,block,mail,fat,bartender,tall,small,orange,long,dish,black,white,mouth,2.0,4.0,8.0,8.0,8.0,8.0,0
-schema,c312aa0b-31cb-437f-bb53-9a3cca8582d4,F5TT2F,01KGJRJY1CWP8XY1KZBMF5TT2F,0,GB,Europe/London,False,False,4g,False,10.0,50.0,1366,728,1366,607,en-GB,Windows desktop / Chrome,yes,fairly_paid,adequate,4.0,5.0,no,no,,,,0,76.176,106.041,185.727,132.873,107.235,265.836,"Image 1: red hat
+schema,c312aa0b-31cb-437f-bb53-9a3cca8582d4,F5TT2F,01KGJRJY1CWP8XY1KZBMF5TT2F,0,GB,Europe/London,False,False,4g,False,10.0,50.0,1366,728,1366,607,en-GB,Windows desktop / Chrome,yes,fairly_paid,adequate,4.0,5,no,no,,,,0,76.176,106.041,185.727,132.873,107.235,265.836,"Image 1: red hat
 Image 2: purple hat","Image 1: orange hat
 Image 2: purple hat
 Image 3: orange red
@@ -164,7 +164,7 @@ Image 5: purple white yellow
 Image 6: orange black brown
 Image 7:purple pink yellow
 Image 8: orange brown brown",purple hat,red hat,purple hat,orange red,orange hat,purple red,purple black two,orange black two,purple red two,purple black one,orange red two,orange black one,orange red two,purple red one,purple red brown,orange red yellow,orange red brown,orange black brown,purple black yellow,purple red yellow,purple black brown,orange black yellow,orange black yellow,orange red brown,orange red yellow,purple red yellow,orange black brown,purple black brown,purple black yellow,purple red brown,purple pink yellow,purple yellow yellow,orange orange brown,orange brown brown,orange blue brown,orange black brown,purple white yellow,purple red yellow,2.0,4.0,7.0,8.0,8.0,8.0,0
-schema,94ea2373-69ec-4d3c-9d43-a666401e135a,F5TT2F,01KGJRJY1CWP8XY1KZBMF5TT2F,1,GB,Europe/London,False,False,4g,False,10.0,50.0,1536,816,1536,730,en-GB,Windows desktop / Chrome,yes,fairly_paid,adequate,5.0,5.0,no,no,,,,0,74.5,99.323,184.06,134.153,107.616,265.162,"Image 1: red hat
+schema,94ea2373-69ec-4d3c-9d43-a666401e135a,F5TT2F,01KGJRJY1CWP8XY1KZBMF5TT2F,1,GB,Europe/London,False,False,4g,False,10.0,50.0,1536,816,1536,730,en-GB,Windows desktop / Chrome,yes,fairly_paid,adequate,5.0,5,no,no,,n/a,,0,74.5,99.323,184.06,134.153,107.616,265.162,"Image 1: red hat
 Image 2: purple hat","Image 1: orange hat
 Image 2: purple hat
 Image 3: orange red
@@ -197,7 +197,7 @@ Image 5: purple white yellow
 Image 6: orange black brown
 Image 7:purple pink yellow
 Image 8: orange brown brown",purple hat,red hat,purple hat,orange red,orange hat,purple red,purple black two,orange black two,purple red two,purple black one,orange red one,orange black one,orange red two,purple red one,purple red brown,orange red yellow,orange red brown,orange black brown,purple black yellow,purple red yellow,purple black brown,orange black yellow,orange black yellow,orange red brown,orange red yellow,purple red yellow,orange black brown,purple black brown,purple black yellow,purple red brown,purple pink yellow,purple yellow yellow,orange orange brown,orange brown brown,orange blue brown,orange black brown,purple white yellow,purple red yellow,2.0,4.0,7.0,8.0,8.0,8.0,0
-nonschema,064c3f74-9758-4bbb-9fb4-5c7fb51b21a9,4GBFHG,01KGJRXDM9BRW8Q7HRJP4GBFHG,0,CA,America/Toronto,False,False,4g,False,10.0,50.0,1280,672,1707,735,en-US,Windows desktop / Chrome,yes,fairly_paid,adequate,4.0,5.0,no,no,,,,0,93.503,138.262,149.607,300.0,211.6,300.0,"Image 1:owl
+nonschema,064c3f74-9758-4bbb-9fb4-5c7fb51b21a9,4GBFHG,01KGJRXDM9BRW8Q7HRJP4GBFHG,0,CA,America/Toronto,False,False,4g,False,10.0,50.0,1280,672,1707,735,en-US,Windows desktop / Chrome,yes,fairly_paid,adequate,4.0,5,no,no,,,,0,93.503,138.262,149.607,300.0,211.6,300.0,"Image 1:owl
 Image 2:clock","Image 1:owl
 Image 2:clock
 Image 3:no face
@@ -230,7 +230,7 @@ Image 5:white
 Image 6:black
 Image 7:purple
 Image 8:chocolate",clock,owl,clock,pig,owl,no face,robot,scorpion,girl,clock,pig,owl,monkey,no face,leave,chocolate,yellow,rectangle,cactus,short,waiter,square,grey,green,red,bird,white,yellow,multi,robot,purple,robot,square,chocolate,blue circle,black,white,rectangle,2.0,4.0,6.0,5.0,8.0,8.0,0
-nonschema,6602c511-6e98-4305-b2e4-45c45c259c50,4GBFHG,01KGJRXDM9BRW8Q7HRJP4GBFHG,1,CA,America/Toronto,False,False,4g,False,1.9,100.0,1920,1032,1920,911,fr-FR,Windows desktop / Chrome,yes,,adequate,4.0,4.0,no,no,,nothing,,0,94.728,139.123,149.304,300.0,213.229,300.0,"Image 1:owl
+nonschema,6602c511-6e98-4305-b2e4-45c45c259c50,4GBFHG,01KGJRXDM9BRW8Q7HRJP4GBFHG,1,CA,America/Toronto,False,False,4g,False,1.9,100.0,1920,1032,1920,911,fr-FR,Windows desktop / Chrome,yes,N/A,adequate,4.0,4,no,no,,nothing,,0,94.728,139.123,149.304,300.0,213.229,300.0,"Image 1:owl
 Image 2:clock","Image 1:owl
 Image 2:clock
 Image 3:no face
@@ -263,7 +263,7 @@ Image 5:white
 Image 6:black
 Image 7:purple
 Image 8:chocolate",clock,owl,clock,pig,owl,no face,robot,scorpion,girl,clock,no face,owl,monkey,little,cactus,chocolate,yellow,rectangle,cactus,robot,square,square,grey,green,red,bird,white,yellow,multi,robot,purple,robot,square,chocolate,blue circle,black,white,rectangle,2.0,4.0,6.0,5.0,8.0,8.0,0
-schema,c162dedf-a1ad-41cc-a70c-e6eb592d05c8,ES0E4B,01KGJSD1XDNBF16NK8NEES0E4B,0,CA,America/Edmonton,False,True,4g,False,9.4,150.0,1366,728,1366,607,en-US,Windows desktop / Chrome,yes,fairly_paid,adequate,3.0,4.0,no,no,,none,,0,15.621,243.117,293.196,262.407,300.0,300.0,"Image 1: Orange Pop
+schema,c162dedf-a1ad-41cc-a70c-e6eb592d05c8,ES0E4B,01KGJSD1XDNBF16NK8NEES0E4B,0,CA,America/Edmonton,False,True,4g,False,9.4,150.0,1366,728,1366,607,en-US,Windows desktop / Chrome,yes,fairly_paid,adequate,3.0,4,no,no,,none,,0,15.621,243.117,293.196,262.407,300.0,300.0,"Image 1: Orange Pop
 Image 2: Purful","Image 1: orange pop
 Image 2: red
 Image 3: eye
@@ -296,7 +296,7 @@ Image 5: ybpw
 Image 6: bro
 Image 7:
 Image 8:",purple hat,orange hat,orange pop,orange pop,orange pop,blue,prb,orb,plb,pry,oly,ory,olb,ply,prb,ory,orb,obb,pry,pry,pbb,oby,bbo,bro,yro,yrp,bbo,bbp,ybp,brp,ybp,ybp,bro,bro,brob,bro,ybpw,ybp,0.0,2.0,7.0,7.0,7.0,3.0,0
-schema,bc6023ef-7cd9-44d5-97c6-aeb1bac46675,ES0E4B,01KGJSD1XDNBF16NK8NEES0E4B,1,US,America/New_York,False,False,4g,False,10.0,50.0,1670,898,1670,777,en-US,Windows desktop / Chrome,yes,fairly_paid,adequate,4.0,5.0,no,yes,After instructions page did not forward I refreshed and was able to continue. This was reported in bugs and to researcher prior to the refresh! Also my partner was delayed and was not on camera and I was.,Partner only was audio not video. Some communication barrier with language with my partner.,,0,145.937,244.543,294.629,262.912,300.0,300.0,"Image 1: Orange Pop
+schema,bc6023ef-7cd9-44d5-97c6-aeb1bac46675,ES0E4B,01KGJSD1XDNBF16NK8NEES0E4B,1,US,America/New_York,False,False,4g,False,10.0,50.0,1670,898,1670,777,en-US,Windows desktop / Chrome,yes,fairly_paid,adequate,4.0,5,no,yes,After instructions page did not forward I refreshed and was able to continue. This was reported in bugs and to researcher prior to the refresh! Also my partner was delayed and was not on camera and I was.,Partner only was audio not video. Some communication barrier with language with my partner.,,0,145.937,244.543,294.629,262.912,300.0,300.0,"Image 1: Orange Pop
 Image 2: Purful","Image 1: orange pop
 Image 2: red
 Image 3: eye
@@ -329,7 +329,7 @@ Image 5: ybpw
 Image 6: bro
 Image 7:
 Image 8:",purful,orange pop,red,eye,orange pop,blue,prb,orb,plb,pry,,ory,olb,ply,prb,ory,orb,obb,pby,pry,pbb,oby,ybo,bro,yro,yrp,bbo,bbp,ybp,brp,ybp,ybpw,bro,brob,brob,brp,ybp,ybpw,0.0,2.0,7.0,7.0,7.0,3.0,1
-schema,12a46296-cdf7-47dc-91a3-6b54412967b9,ZD373X,01KH9DJ3EP6VHEJPP8REZD373X,0,,,,True,4g,False,10.0,100.0,1920,1032,1530,758,en-US,Windows desktop / Edge,yes,fairly_paid,adequate,4.0,5.0,no,no,,no,,0,35.246,42.198,54.524,26.186,13.16,132.015,"Image 1: Orange
+schema,12a46296-cdf7-47dc-91a3-6b54412967b9,ZD373X,01KH9DJ3EP6VHEJPP8REZD373X,0,,,,True,4g,False,10.0,100.0,1920,1032,1530,758,en-US,Windows desktop / Edge,yes,fairly_paid,adequate,4.0,5,no,no,,no,,0,35.246,42.198,54.524,26.186,13.16,132.015,"Image 1: Orange
 Image 2: Purple","Image 1: orange black
 Image 2: purple black
 Image 3: orange red
@@ -362,7 +362,7 @@ Image 5:
 Image 6:
 Image 7:
 Image 8:",purple,orange,purple black,orange red,orange black,purple red,purple black brown,orange black brown,purple red brown,purple black yellow,orange red yellow,orange black yellow,orange red brown,purple red yellow,purple red brown,orange red yellow,orange red brown,orange black brown,purple black yellow,purple red yellow,purple black brown,orange black yellow,orange black yellow,orange red brown,orange red yellow,purple red yellow,orange black brown,purple black brown,purple black yellow,purple red brown,purple black yellow,yellow black yellow,orange orange brown,orange brown brown,orange red brown,orange red brown,purple black yellow,purple black yellow,2.0,4.0,8.0,8.0,8.0,5.0,0
-schema,85e01ac8-5851-4259-a0ed-f1362716755a,ZD373X,01KH9DJ3EP6VHEJPP8REZD373X,1,,,,True,4g,False,10.0,50.0,1680,1020,1680,962,en-US,macOS desktop / Chrome,yes,underpaid,too_much,5.0,5.0,no,no,,,,0,35.988,48.018,58.308,25.889,13.902,132.761,"Image 1: Orange
+schema,85e01ac8-5851-4259-a0ed-f1362716755a,ZD373X,01KH9DJ3EP6VHEJPP8REZD373X,1,,,,True,4g,False,10.0,50.0,1680,1020,1680,962,en-US,macOS desktop / Chrome,yes,underpaid,too_much,5.0,5,no,no,,,,0,35.988,48.018,58.308,25.889,13.902,132.761,"Image 1: Orange
 Image 2: Purple","Image 1: orange black
 Image 2: purple black
 Image 3: orange red
@@ -428,7 +428,7 @@ Image 5: orange black yellow
 Image 6: orange red brown
 Image 7: purple black yellow
 Image 8: orange red brown",purple top,orange top,purple top,orange top red hands,orange top,purple top red hands,purple black brown,orange black brown,purple red brown,purple black yellow,orange red yellow,orange black yellow,orange red brown,purple red yellow,purple red brown,orange red yellow,orange red brown,orange black brown,purple black yellow,purple red yellow,purple black brown,orange black yellow,orange black yellow,orange red brown,orange red yellow,purple red yellow,orange black brown,purple black orange,purple black yellow,purple,purple black yellow,purple black yellow,orange red brown,orange red brown,orange red brown,orange red brown,purple black yellow,purple black yellow,2.0,4.0,7.0,8.0,6.0,2.0,0
-nonschema,cc04d783-a533-4c8a-88fc-96dbcd22266f,MARST6,01KH9DGCYB10YRF5EVA2MARST6,1,,,,True,4g,False,10.0,100.0,1680,1050,1680,962,en-GB,macOS desktop / Chrome,yes,fairly_paid,adequate,5.0,5.0,no,no,,,,0,40.037,43.014,89.57,188.017,150.103,170.469,"Image 1:owl
+nonschema,cc04d783-a533-4c8a-88fc-96dbcd22266f,MARST6,01KH9DGCYB10YRF5EVA2MARST6,1,,,,True,4g,False,10.0,100.0,1680,1050,1680,962,en-GB,macOS desktop / Chrome,yes,fairly_paid,adequate,5.0,5,no,no,,,,0,40.037,43.014,89.57,188.017,150.103,170.469,"Image 1:owl
 Image 2:polo","Image 1:owl
 Image 2:polo
 Image 3:frog
@@ -461,7 +461,7 @@ Image 5:white
 Image 6:spider
 Image 7:purple
 Image 8:brown",polo,owl,polo,bot,owl,frog,fish,scorpion,girl,polo,bot,owl,dog,frog,bird,bug,fat,lego,tree,bot,dog,duck,grey,wheel,bot,parrot,fish,duck,rainbow,lamb,purple,,lego,brown,polo,spider,white,boy,2.0,4.0,8.0,8.0,8.0,7.0,1
-schema,774532ca-7086-4b29-bf5a-5da82b0e131d,6Y1ZWP,01KH9DQ5W3CYPWNCNFF06Y1ZWP,1,,,,True,4g,False,3.5,50.0,1536,816,1488,708,en-US,Windows desktop / Edge,yes,fairly_paid,too_much,5.0,5.0,no,no,,,,0,31.263,71.227,35.178,13.725,22.924,9.728,"Image 1: orange
+schema,774532ca-7086-4b29-bf5a-5da82b0e131d,6Y1ZWP,01KH9DQ5W3CYPWNCNFF06Y1ZWP,1,,,,True,4g,False,3.5,50.0,1536,816,1488,708,en-US,Windows desktop / Edge,yes,fairly_paid,too_much,5.0,5,no,no,,,,0,31.263,71.227,35.178,13.725,22.924,9.728,"Image 1: orange
 Image 2: purple","Image 1: orangeb
 Image 2: orangeb
 Image 3: oranger
@@ -494,7 +494,7 @@ Image 5:
 Image 6:
 Image 7:
 Image 8:",purple,orange,purpleb,oranger,orangeb,purpler,purpleb,orangebb,purplerb,purpleby,orangery,orangeby,orangerb,purplery,purplerb,orangery,orangerb,orangebb,purple,purplery,purplebb,orangeby,orangeby,orangerb,orangery,purplery,orangebb,purplebb,purpleby,purplerb,purpleby,purpleby,orangerb,orangerb,orangerb,orangerb,purpleby,purpleby,2.0,3.0,8.0,7.0,8.0,2.0,0
-nonschema,08292e0e-d292-455d-bb3f-ff8a1882ec62,MARST6,01KH9DGCYB10YRF5EVA2MARST6,0,,,,True,4g,False,10.0,50.0,1920,1040,1768,934,en-US,Windows desktop / Edge,yes,underpaid,adequate,5.0,5.0,no,no,,It is fun (but for the time should be paid more as this is far below minimum wage and people's time and work should be respected). It is a fun activity and exciting to even briefly meet others on Prolific. I wish there were more like this.,,0,41.456,42.384,90.903,188.455,150.468,172.264,"Image 1:owl
+nonschema,08292e0e-d292-455d-bb3f-ff8a1882ec62,MARST6,01KH9DGCYB10YRF5EVA2MARST6,0,,,,True,4g,False,10.0,50.0,1920,1040,1768,934,en-US,Windows desktop / Edge,yes,underpaid,adequate,5.0,5,no,no,,It is fun (but for the time should be paid more as this is far below minimum wage and people's time and work should be respected). It is a fun activity and exciting to even briefly meet others on Prolific. I wish there were more like this.,,0,41.456,42.384,90.903,188.455,150.468,172.264,"Image 1:owl
 Image 2:polo","Image 1:owl
 Image 2:polo
 Image 3:frog
@@ -527,7 +527,7 @@ Image 5:white
 Image 6:spider
 Image 7:purple
 Image 8:brown",polo,owl,polo,bot,owl,frog,fish,scorpion,girl,polo,bot,owl,dog,frog,bird,bug,fat,lego,tree,bot,dog,duck,grey,wheel,bot,parrot,fish,duck,rainbow,lamb,purple,pink,lego,brown,polo,spider,white,boy,2.0,4.0,8.0,8.0,8.0,7.0,0
-schema,5fcd10d3-d618-44a6-93d4-9cc9843612a1,6NJQAK,01KH9DFGEPME3J33KM546NJQAK,0,,,,True,4g,False,10.0,100.0,1920,1032,1920,945,en-US,Linux desktop / Chrome,maybe,fairly_paid,adequate,4.0,5.0,no,no,,,,0,51.058,39.193,93.683,52.164,63.388,48.904,"Image 1: Orange Top
+schema,5fcd10d3-d618-44a6-93d4-9cc9843612a1,6NJQAK,01KH9DFGEPME3J33KM546NJQAK,0,,,,True,4g,False,10.0,100.0,1920,1032,1920,945,en-US,Linux desktop / Chrome,maybe,fairly_paid,adequate,4.0,5,no,no,,,,0,51.058,39.193,93.683,52.164,63.388,48.904,"Image 1: Orange Top
 Image 2: Purple Top","Image 1: Orange Top
 Image 2: Purple Top
 Image 3: Orange Top Red Hands
@@ -560,7 +560,7 @@ Image 5: orange black yellow
 Image 6: orange red brown
 Image 7: purple black yellow
 Image 8: orange red brown",purple top,orange top,purple top,orange top red hands,orange top,purple top red hands,purple black brown,orange black brown,purple orange brown,purple black yellow,orange red yellow,orange black yellow,orange red brown,purple red yellow,purple red brown,orange red yellow,orange red brown,orange black brown,purple black yellow,purple red yellow,purple black brown,orange black yellow,orange black yellow,orange red brown,orange red yellow,purple red yellow,orange black brown,purple black brown,purple black yellow,yellow red brown,purple black yellow,purple black yellow,orange red purple,orange red brown,orange red brown,orange red brown,purple black yellow,purple black yellow,2.0,4.0,7.0,8.0,6.0,2.0,0
-nonschema,1c280faa-0bb2-4fa5-8b31-21ecab39c361,YSC5HR,01KH9DMH7JVXQKDKVB92YSC5HR,1,,,,True,4g,False,2.8,100.0,1280,752,1280,631,en-US,Windows desktop / Chrome,yes,fairly_paid,too_much,5.0,5.0,no,no,,,,0,23.899,27.28,47.141,133.203,94.749,106.595,"Image 1: owl
+nonschema,1c280faa-0bb2-4fa5-8b31-21ecab39c361,YSC5HR,01KH9DMH7JVXQKDKVB92YSC5HR,1,,,,True,4g,False,2.8,100.0,1280,752,1280,631,en-US,Windows desktop / Chrome,yes,fairly_paid,too_much,5.0,5,no,no,,,,0,23.899,27.28,47.141,133.203,94.749,106.595,"Image 1: owl
 Image 2: moon","Image 1:owl
 Image 2: moon
 Image 3: alien
@@ -593,7 +593,7 @@ Image 5:tap
 Image 6:spider
 Image 7:woman
 Image 8:man",moon,owl,moon,shoe,owl,alien,mop,scorpion,sheep,moon,shoe,owl,sheep,alien,tukey,alien,chicken,sloth,frog,bug,sloth,sloth,alien,wheel,hersey's kiss,parrot,cube,mailbox,tetris,alien,woman,eraser,firehose,man,disk,spider,bug,tower,2.0,4.0,5.0,2.0,6.0,3.0,0
-schema,67f74b3b-0975-475a-b830-d9d3578e2ef0,E22RRE,01KH9DKSEMQB93KD7Q3BE22RRE,0,,,,True,4g,False,5.2,0.0,1470,924,1470,831,en-US,macOS desktop / Chrome,yes,fairly_paid,adequate,4.0,5.0,no,no,,no,,0,31.606,46.314,66.986,73.052,97.781,135.936,"Image 1: orange
+schema,67f74b3b-0975-475a-b830-d9d3578e2ef0,E22RRE,01KH9DKSEMQB93KD7Q3BE22RRE,0,,,,True,4g,False,5.2,0.0,1470,924,1470,831,en-US,macOS desktop / Chrome,yes,fairly_paid,adequate,4.0,5,no,no,,no,,0,31.606,46.314,66.986,73.052,97.781,135.936,"Image 1: orange
 Image 2: purple","Image 1: orange black
 Image 2: purple black
 Image 3: orange red
@@ -626,7 +626,7 @@ Image 5: white short
 Image 6: small black
 Image 7: burgundy
 Image 8: long legs",purple,orange,purple black,orange red,orange black,purple red,purple black brown,orange black brown,purple red brown,"purple, black yellow",orange red yellow,orange black yellow,orange red brown,purple red yellow,purple red brown,orange red yellow,orange red brown,orange black brown,purple black yellow,purple red yellow,purple black brown,orange black yellow,orange black yellow,orange red brown,orange red yellow,purple red yellow,orange black brown,purple black,rainbow,purple red brown,burgundy,small,orange lego,long legs,blue,small black,small white,tall white,2.0,4.0,7.0,8.0,7.0,7.0,0
-nonschema,556fa9d2-e9fd-4acc-9b44-8dd7f645088b,KPV70Z,01KH9DRJPPYQYKT6REYHKPV70Z,0,,,,True,4g,False,10.0,0.0,1536,976,1536,855,en-CA,Windows desktop / Chrome,yes,fairly_paid,adequate,5.0,5.0,no,no,,,,0,52.307,63.811,73.602,137.271,165.198,171.363,"Image 1:owl
+nonschema,556fa9d2-e9fd-4acc-9b44-8dd7f645088b,KPV70Z,01KH9DRJPPYQYKT6REYHKPV70Z,0,,,,True,4g,False,10.0,0.0,1536,976,1536,855,en-CA,Windows desktop / Chrome,yes,fairly_paid,adequate,5.0,5,no,no,,,,0,52.307,63.811,73.602,137.271,165.198,171.363,"Image 1:owl
 Image 2:donut","Image 1:owl
 Image 2:donut
 Image 3:frog
@@ -659,7 +659,7 @@ Image 5:dove
 Image 6:beetle
 Image 7:gumby
 Image 8:branch",donut,owl,donut,cartoon,owl,frog,fish,scorpion,mushroom,donut,cartoon,owl,dog,frog,peacock,spider,duck,lizard,tree,arnold,lizard,octopus,trash can,wheel,bee,tucan,bug,cheese,apple,eyes,gumby,catepillar,matchstick,branch,robot,beetle,dove,worm,2.0,4.0,8.0,6.0,6.0,6.0,0
-schema,e20440b1-f6e8-4c69-adba-f1d228ccc947,E22RRE,01KH9DKSEMQB93KD7Q3BE22RRE,1,,,,True,4g,False,2.85,50.0,2048,1112,2048,991,en-US,Windows desktop / Chrome,yes,fairly_paid,adequate,4.0,5.0,no,no,,,,0,27.601,46.301,66.941,72.007,97.715,137.905,"Image 1: orange
+schema,e20440b1-f6e8-4c69-adba-f1d228ccc947,E22RRE,01KH9DKSEMQB93KD7Q3BE22RRE,1,,,,True,4g,False,2.85,50.0,2048,1112,2048,991,en-US,Windows desktop / Chrome,yes,fairly_paid,adequate,4.0,5,no,no,,N/A,,0,27.601,46.301,66.941,72.007,97.715,137.905,"Image 1: orange
 Image 2: purple","Image 1: orange black
 Image 2: purple black
 Image 3: orange red
@@ -692,7 +692,7 @@ Image 5: white short
 Image 6: small black
 Image 7: burgundy
 Image 8: long legs",purple,orange,purple black,orange red,orange black,purple red,purple black brown,orange black brown,purple red brown,purple black yellow,orange red yellow,orange black yellow,orange red brown,purple red yellow,purple red brown,orange red yellow,orange red brown,orange black brown,purple black yellow,purple red yellow,purple black brown,orange black yellow,orange black yellow,orange red brown,orange red yellow,purple red yellow,orange black brown,purple black brown,rainbow,purple red brown,burgundy,small,orange lego,long legs,blue,small black,short white,tall white,2.0,4.0,7.0,8.0,7.0,7.0,0
-nonschema,252f0481-65fc-45fb-aacc-3672aea41d55,MBQ84F,01KH9DF6NBJDQJDRQV6FMBQ84F,0,,,,True,4g,False,10.0,100.0,1366,768,1366,646,en-US,macOS desktop / Chrome,yes,,adequate,4.0,5.0,no,no,,,,0,59.949,99.085,154.557,182.058,156.222,211.376,"Image 1: owl
+nonschema,252f0481-65fc-45fb-aacc-3672aea41d55,MBQ84F,01KH9DF6NBJDQJDRQV6FMBQ84F,0,,,,True,4g,False,10.0,100.0,1366,768,1366,646,en-US,macOS desktop / Chrome,yes,N/A,adequate,4.0,5,no,no,,,,0,59.949,99.085,154.557,182.058,156.222,211.376,"Image 1: owl
 Image 2: cookie","Image 1: bird
 Image 2: oreo
 Image 3: camera
@@ -725,7 +725,7 @@ Image 5: robot
 Image 6:mouse
 Image 7: dolphin
 Image 8: bird",cookie,owl,oreo,frog,bird,camera,fly,scorpion,girl,round,soldier,olly,sheep,bug,tree,mario,turkey,clown,christmas,gismo,dog,hen,police,wheel,elf,parrot,square,car,clown,robot,dolphin,caterpillar,mailman,bird,hen,mouse,robot,owl,2.0,4.0,7.0,4.0,7.0,7.0,0
-schema,c6922220-a745-4e63-b166-0f6a87921aa7,6Y1ZWP,01KH9DQ5W3CYPWNCNFF06Y1ZWP,0,,,,True,4g,False,10.0,50.0,1223,658,1226,602,en-US,Windows desktop / Chrome,yes,fairly_paid,adequate,4.0,5.0,no,no,,,,0,36.265,84.203,36.201,13.674,24.999,10.727,"Image 1: orange
+schema,c6922220-a745-4e63-b166-0f6a87921aa7,6Y1ZWP,01KH9DQ5W3CYPWNCNFF06Y1ZWP,0,,,,True,4g,False,10.0,50.0,1223,658,1226,602,en-US,Windows desktop / Chrome,yes,fairly_paid,adequate,4.0,5,no,no,,,,0,36.265,84.203,36.201,13.674,24.999,10.727,"Image 1: orange
 Image 2: purple","Image 1: orangeb
 Image 2: orangeb
 Image 3: oranger
@@ -758,7 +758,7 @@ Image 5:
 Image 6:
 Image 7:
 Image 8:",purple,orange,purpleb,oranger,orangep,purpler,purpleb,orangebb,purplerb,purpleby,orangery,orangeby,orangerb,purplery,purplerb,orangery,orangerb,orangebb,purpleby,purplery,purplebb,orangeby,orangeby,orangerb,orangery,purplery,orangebb,purplebb,purpleby,purplerb,purpleby,purpleby,orangerb,orangerb,orangerb,orangerb,purpleby,purpleby,2.0,3.0,8.0,7.0,8.0,2.0,0
-nonschema,32e3bcfd-eed6-4e0d-897f-88673f34bdfb,MBQ84F,01KH9DF6NBJDQJDRQV6FMBQ84F,1,,,,True,4g,False,10.0,50.0,2240,1135,2240,1009,en-US,macOS desktop / Chrome,yes,fairly_paid,adequate,4.0,5.0,no,no,,no it all was very good,,0,61.745,96.9,153.334,180.863,153.839,212.161,"Image 1: owl
+nonschema,32e3bcfd-eed6-4e0d-897f-88673f34bdfb,MBQ84F,01KH9DF6NBJDQJDRQV6FMBQ84F,1,,,,True,4g,False,10.0,50.0,2240,1135,2240,1009,en-US,macOS desktop / Chrome,yes,fairly_paid,adequate,4.0,5,no,no,,no it all was very good,,0,61.745,96.9,153.334,180.863,153.839,212.161,"Image 1: owl
 Image 2: cookie","Image 1: bird
 Image 2: oreo
 Image 3: camera
@@ -857,7 +857,7 @@ Image 5:tap
 Image 6:spider
 Image 7:woman
 Image 8:man",moon,owl,moon,shoe,owl,alien,mop,scorpion,girl,moon,girl,owl,sheep,shoe,turkey,bug,sloth,rabbit,frog,bug,rabbit,chicken,minion,wheel,hersey's kiss,parrot,cube,mailbox,tetris,sloth,tower,eraser,firehose,?,bowl,spider,frog,?,2.0,4.0,5.0,2.0,6.0,3.0,0
-schema,c02d9006-5256-4bfb-9fb3-06c6c9f98f63,QHTZ3N,01KH9DNMQPDGRWEFM6PBQHTZ3N,1,,,,True,4g,False,10.0,100.0,1067,574,1334,609,en-GB,Windows desktop / Chrome,yes,underpaid,adequate,4.0,3.0,no,no,,,,0,86.766,43.048,120.284,126.916,89.239,138.831,"Orange hair
+schema,c02d9006-5256-4bfb-9fb3-06c6c9f98f63,QHTZ3N,01KH9DNMQPDGRWEFM6PBQHTZ3N,1,,,,True,4g,False,10.0,100.0,1067,574,1334,609,en-GB,Windows desktop / Chrome,yes,underpaid,adequate,4.0,3,no,no,,,,0,86.766,43.048,120.284,126.916,89.239,138.831,"Orange hair
 Purple hair","orange
 purple:
 orange2:
@@ -890,7 +890,7 @@ white
 black
 pink
 brown",purple,orange,purple,orange,orange,purple2,purpleblackbrown,orangeblackbrown,purpleredbrown,purpleblackyellow,orangeredyellow,orangeblackyellow,orangeredbrown,purpleredyellow,purpleredbrown,orangeredyellow,orangeredbrown,orangeblackbrown,purpleblackyellow,purpleredyellow,purpleblackbrown,orangeblackyellow,grey,anchor,orangeredyellow,purplegreennose,cube,purpleyellowmain,purplemulti,purple,,,orangebody,brown,orangecircle,black,white,purplewhite,2.0,2.0,5.0,7.0,4.0,4.0,2
-nonschema,899c23ce-ee8c-473f-9e71-006eabb6dfe5,E8T5Z5,01KH9DN6HPNP57QYBBXCE8T5Z5,1,,,,True,4g,False,10.0,0.0,1536,816,1488,738,en-GB,Windows desktop / Edge,yes,fairly_paid,adequate,4.0,3.0,no,yes,sometimes the other person couldn't hear me,,,0,45.588,68.306,146.829,233.078,181.037,229.43,"Image 1: owl
+nonschema,899c23ce-ee8c-473f-9e71-006eabb6dfe5,E8T5Z5,01KH9DN6HPNP57QYBBXCE8T5Z5,1,,,,True,4g,False,10.0,0.0,1536,816,1488,738,en-GB,Windows desktop / Edge,yes,fairly_paid,adequate,4.0,3,no,yes,sometimes the other person couldn't hear me,,,0,45.588,68.306,146.829,233.078,181.037,229.43,"Image 1: owl
 Image 2: circle","Image 1: owl
 Image 2: circle
 Image 3: eyes
@@ -923,7 +923,7 @@ Image 5: white
 Image 6: black
 Image 7: pink
 Image 8: brown",circle,owl,circle,square,owl,eyes,shark,scorpion,lady,circle,square,owl,dog,eyes,headdress,orange quiff,chicken,rectangle,cactus,spectacles,clown,four feet,grey guy,web,bee,bird,cube,yellow,colours,red hands,pink,pink & yellow,orange,brown,circle,black,white,red belly button,2.0,4.0,8.0,7.0,8.0,8.0,0
-schema,d1fc7245-233b-408d-aa14-d6336fe1b88c,QHTZ3N,01KH9DNMQPDGRWEFM6PBQHTZ3N,0,,,,True,4g,False,10.0,50.0,1280,752,1280,665,en-GB,Windows desktop / Chrome,no,fairly_paid,adequate,3.0,4.0,no,no,,,,0,114.721,47.13,123.368,133.826,129.25,149.114,"Orange hair
+schema,d1fc7245-233b-408d-aa14-d6336fe1b88c,QHTZ3N,01KH9DNMQPDGRWEFM6PBQHTZ3N,0,,,,True,4g,False,10.0,50.0,1280,752,1280,665,en-GB,Windows desktop / Chrome,no,fairly_paid,adequate,3.0,4,no,no,,,,0,114.721,47.13,123.368,133.826,129.25,149.114,"Orange hair
 Purple hair","orange
 purple:
 orange2:
@@ -956,7 +956,7 @@ white
 black
 pink
 brown",purple,orange,purple,orange 2,orange,purple 2,orangeblackbrown,orangeblackbrown,purpleorangebrown,purpleblackyellow,orangeredyellow,orangeblackyellow,orangeredbrown,purple,purpleredspacebrown,orangeredyellow,orangeredbrown,orangeblackbrown,purpleblackyellow,purpleredyellow,purpleblackbrown,orangeblackyellow,orangegreyyellow,anchor,orangeredyellow,purplegreennose,orangecube,purpleyellow,purplemulti,purpleredbrown,red,purpleyellowback,orangebody,brown,circlebody,black,white,purplewhitebody,2.0,2.0,5.0,7.0,4.0,4.0,0
-nonschema,6597a96d-40a8-402d-8e24-302f55dec068,E8T5Z5,01KH9DN6HPNP57QYBBXCE8T5Z5,0,,,,True,,,,,1627,1025,1188,937,en-CA,macOS desktop / Safari,yes,fairly_paid,adequate,5.0,5.0,no,no,,This was a fantastically fun study! I'd love to participate in a similar one again in the future. Thank you very much for this opportunity!,,0,43.809,68.569,148.092,236.513,185.454,227.677,"Image 1: owl
+nonschema,6597a96d-40a8-402d-8e24-302f55dec068,E8T5Z5,01KH9DN6HPNP57QYBBXCE8T5Z5,0,,,,True,,,,,1627,1025,1188,937,en-CA,macOS desktop / Safari,yes,fairly_paid,adequate,5.0,5,no,no,,This was a fantastically fun study! I'd love to participate in a similar one again in the future. Thank you very much for this opportunity!,,0,43.809,68.569,148.092,236.513,185.454,227.677,"Image 1: owl
 Image 2: circle","Image 1: owl
 Image 2: circle
 Image 3: eyes
@@ -989,7 +989,7 @@ Image 5: white
 Image 6: black
 Image 7: pink
 Image 8: brown",circle,owl,circle,square,owl,eyes,shark,scorpion,lady,circle,square,owl,dog,eyes,headdress,orange quiff,four feet,rectangle,cactus,spectacles,clown,four feet,grey guy,web,bee,bird,cube,yellow,colours,red hands,pink,pink & yellow,orange,brown,circle,black,white,red belly button,2.0,4.0,8.0,7.0,8.0,8.0,0
-nonschema,8cc80499-51f9-4444-b549-4320fbbfd562,V85HRK,01KH9DFTWW952YEMC9P6V85HRK,1,,,,True,4g,False,10.0,50.0,2560,1440,2199,1096,en-GB,Windows desktop / Chrome,yes,underpaid,adequate,5.0,4.0,no,no,,Nothing comes to mind.,,0,58.155,71.878,163.678,300.0,271.611,194.812,"Image 1: Alex
+nonschema,8cc80499-51f9-4444-b549-4320fbbfd562,V85HRK,01KH9DFTWW952YEMC9P6V85HRK,1,,,,True,4g,False,10.0,50.0,2560,1440,2199,1096,en-GB,Windows desktop / Chrome,yes,underpaid,adequate,5.0,4,no,no,,Nothing comes to mind.,,0,58.155,71.878,163.678,300.0,271.611,194.812,"Image 1: Alex
 Image 2: Brian","Image 1: Alex
 Image 2: Brian
 Image 3: Chris
@@ -1022,7 +1022,7 @@ Image 5: robot
 Image 6: crab
 Image 7: gum
 Image 8: legs",alex,alex,brian,dick,alex,chris,helen,brian,helen,eric,dick,alex,fr,helen,alex,gordon,helen,brian,dick,eric,fran,gordon,robot,wheel,whistle,pinocio,box,pos,fat,bridge,gum,filo,pez,legs,wheel,crab,robot,tall,1.0,4.0,4.0,5.0,8.0,8.0,0
-nonschema,4908c328-04e3-4da1-aa6b-9893bbafbafb,57ZQA5,01KH9E4056VM7DXEZ35G57ZQA5,0,,,,True,4g,False,10.0,50.0,1440,900,1440,778,en-GB,macOS desktop / Chrome,yes,fairly_paid,adequate,5.0,5.0,no,no,,,,0,45.03,45.576,90.119,125.094,118.718,120.93,"Image 1: Owl
+nonschema,4908c328-04e3-4da1-aa6b-9893bbafbafb,57ZQA5,01KH9E4056VM7DXEZ35G57ZQA5,0,,,,True,4g,False,10.0,50.0,1440,900,1440,778,en-GB,macOS desktop / Chrome,yes,fairly_paid,adequate,5.0,5,no,no,,,,0,45.03,45.576,90.119,125.094,118.718,120.93,"Image 1: Owl
 Image 2: Lifesaver","Image 1: Owl
 Image 2: Lifesaver
 Image 3: Wally
@@ -1055,7 +1055,7 @@ Image 5: toilet paper
 Image 6: shoe
 Image 7: aubergine
 Image 8: stick",lifesaver,owl,lifesaver,droid,owl,wally,woody,scorpion,sofia,lifesaver,droid,owl,elephant,,flower,root,burger,sink,plant,bench,minion,sink,chair,steering wheel,hotdog,pole,cube,holder,rainbow,tea,aubergine,worm,butter,stick,seat,shoe,toilet paper,pencil,2.0,4.0,7.0,5.0,8.0,8.0,1
-schema,981ab338-9083-424d-b074-1d5a88cbd8c9,9NVFJX,01KH9E1376QP3A6MAERK9NVFJX,1,,,,True,4g,False,2.6,100.0,1536,912,1536,791,en-US,Windows desktop / Chrome,yes,underpaid,adequate,3.0,3.0,no,no,,,,0,69.451,101.902,125.793,93.407,159.406,224.243,"Image 1: Orange Lego 
+schema,981ab338-9083-424d-b074-1d5a88cbd8c9,9NVFJX,01KH9E1376QP3A6MAERK9NVFJX,1,,,,True,4g,False,2.6,100.0,1536,912,1536,791,en-US,Windows desktop / Chrome,yes,underpaid,adequate,3.0,3,no,no,,,,0,69.451,101.902,125.793,93.407,159.406,224.243,"Image 1: Orange Lego 
 Image 2: Purple Lego","Image 1: Black hand orange hair lego
 Image 2: Black hand purple hair lego
 Image 3: Red hand orange hair lego
@@ -1088,7 +1088,7 @@ Image 5:Medium White
 Image 6:Small Black
 Image 7:Tall Pink
 Image 8:Tall Brown",purple lego,orange lego,black hands purple hair lego,red hand orange hair lego,black hand orange hair lego,red hands purple hair lego,purple black brown,orange black brown,purple red brown,purple black yellow,orange red yellow,orange black yellow,orange red brown,purple red yellow,purple red brown,orange red yellow,orange red brown,orange black brown,purple black yellow,purple red yellow,purple black brown,orange black yellow,orange grey,orange green,orange red,purple green,orange white,purple yellow,purple yellow,purple yellow,tall pink,small yellow,tall orange,tall brown,medium blue,small black,medium white,tall white,2.0,1.0,8.0,7.0,6.0,7.0,0
-schema,7f17e908-5387-4558-a225-b659ccbd77ac,9NVFJX,01KH9E1376QP3A6MAERK9NVFJX,0,,,,True,4g,False,10.0,50.0,1280,680,1280,593,en-US,Windows desktop / Chrome,yes,fairly_paid,adequate,5.0,5.0,no,no,,,,0,68.762,101.181,125.137,92.67,159.847,221.525,"Image 1: Orange Lego 
+schema,7f17e908-5387-4558-a225-b659ccbd77ac,9NVFJX,01KH9E1376QP3A6MAERK9NVFJX,0,,,,True,4g,False,10.0,50.0,1280,680,1280,593,en-US,Windows desktop / Chrome,yes,fairly_paid,adequate,5.0,5,no,no,,,,0,68.762,101.181,125.137,92.67,159.847,221.525,"Image 1: Orange Lego 
 Image 2: Purple Lego","Image 1: Black hand orange hair lego
 Image 2: Black hand purple hair lego
 Image 3: Red hand orange hair lego
@@ -1121,7 +1121,7 @@ Image 5:Medium White
 Image 6:Small Black
 Image 7:Tall Pink
 Image 8:Tall Brown",purple lego,orange lego,black hand purple hair lego,red hands orange hair lego,black hand orange hair lego,red hand purple hair lego,purple black brown,orange black brown,purple red brown,purple black yellow,orange red yellow,orange black yellow,orange red brown,purple red yellow,purple,orange red yellow,orange red brown,orange black brown,purple black yellow,purple red yellow,purple black brown,orange black yellow,orange grey,orange green,orange red,purple green,orange white,purple yellow,purple red,purple orange,tall pink,small yellow,tall yellow,tall brown,medium blue,small black,medium white,tall white,2.0,1.0,8.0,7.0,6.0,7.0,0
-schema,91f11c5f-5f21-4680-b395-4e664a63b391,SFQ0P4,01KH9E99MXY9B3S5HTN9SFQ0P4,1,,,,True,4g,False,7.15,50.0,1920,1032,1920,945,en-CA,Linux desktop / Chrome,yes,fairly_paid,adequate,5.0,5.0,no,no,,,,0,27.872,43.737,79.852,63.159,226.047,173.109,"Image 1:orange
+schema,91f11c5f-5f21-4680-b395-4e664a63b391,SFQ0P4,01KH9E99MXY9B3S5HTN9SFQ0P4,1,,,,True,4g,False,7.15,50.0,1920,1032,1920,945,en-CA,Linux desktop / Chrome,yes,fairly_paid,adequate,5.0,5,no,no,,,,0,27.872,43.737,79.852,63.159,226.047,173.109,"Image 1:orange
 Image 2:purple","Image 1:orange right
 Image 2:purple right
 Image 3:orange left
@@ -1154,7 +1154,7 @@ Image 5:white small
 Image 6:black
 Image 7:purple big
 Image 8:brown",purple,orange,purple right,orange left,orange,purple left,purple black brown,orange black brown,purple red brown,purple black yellow,orange red yellow,orange black yellow,orange red brown,purple red yellow,purple red brown,orange red yellow,orange red brown,orange black brown,purple black yellow,purple red yellow,purple black brown,orange black yellow,four,octagon,red,five,cube,yellow,multi,four,purple big,purple small,yellow,brown,multi,black,white small,white big,2.0,3.0,8.0,8.0,5.0,8.0,0
-nonschema,b3ff2c52-fd79-4d91-bb1d-a79c67158061,V85HRK,01KH9DFTWW952YEMC9P6V85HRK,0,,,,True,4g,False,7.85,100.0,1920,1080,1920,991,en-GB,Windows desktop / Chrome,yes,underpaid,adequate,4.0,5.0,no,no,,"great study, good luck with your results.  ",,0,59.54,70.977,162.002,300.0,274.679,195.871,"Image 1: Alex
+nonschema,b3ff2c52-fd79-4d91-bb1d-a79c67158061,V85HRK,01KH9DFTWW952YEMC9P6V85HRK,0,,,,True,4g,False,7.85,100.0,1920,1080,1920,991,en-GB,Windows desktop / Chrome,yes,underpaid,adequate,4.0,5,no,no,,"great study, good luck with your results.  ",,0,59.54,70.977,162.002,300.0,274.679,195.871,"Image 1: Alex
 Image 2: Brian","Image 1: Alex
 Image 2: Brian
 Image 3: Chris
@@ -1187,7 +1187,7 @@ Image 5: robot
 Image 6: crab
 Image 7: gum
 Image 8: legs",brian,alex,brian,dick,alex,chris,gordon,brian,gordon,erik,dick,alex,fran,helen,alex,chris,helen,dick,dick,eric,fran,chris,robot,wheel,whistle,pinocio,box,pos,fat,bridge,gum,filo,pez,legs,wheel,crab,robot,tall,1.0,4.0,4.0,5.0,8.0,8.0,0
-schema,35fb5e60-7660-4ab9-a8ef-89a86eac9ba4,SFQ0P4,01KH9E99MXY9B3S5HTN9SFQ0P4,0,,,,True,4g,False,1.65,100.0,1366,738,1366,617,en-GB,Windows desktop / Chrome,yes,fairly_paid,adequate,4.0,5.0,no,no,,It was a good experience.,,0,29.76,38.804,78.911,63.272,221.993,174.153,"Image 1:orange
+schema,35fb5e60-7660-4ab9-a8ef-89a86eac9ba4,SFQ0P4,01KH9E99MXY9B3S5HTN9SFQ0P4,0,,,,True,4g,False,1.65,100.0,1366,738,1366,617,en-GB,Windows desktop / Chrome,yes,fairly_paid,adequate,4.0,5,no,no,,It was a good experience.,,0,29.76,38.804,78.911,63.272,221.993,174.153,"Image 1:orange
 Image 2:purple","Image 1:orange right
 Image 2:purple right
 Image 3:orange left
@@ -1220,7 +1220,7 @@ Image 5:white small
 Image 6:black
 Image 7:purple big
 Image 8:brown",purple,orange,purple right,orange left,orange right,purple left,purple black brown,orange black brown,purple red brown,purple black yellow,orange red yellow,orange black yellow,orange red brown,purple red yellow,purple red brown,orange red yellow,orange red brown,orange black brown,purple black yellow,purple red yellow,purple black brown,orange black yellow,three,octogon,red,four,cube,yellow,multi,four,purple big,purple small,yellow,brown,multi,black,white small,white big,2.0,3.0,8.0,8.0,5.0,8.0,0
-nonschema,bf3781c4-57eb-40f2-b5e1-2970dc6c51fe,57ZQA5,01KH9E4056VM7DXEZ35G57ZQA5,1,,,,True,4g,False,10.0,50.0,1368,864,1368,777,fr-CA,Windows desktop / Chrome,yes,underpaid,adequate,4.0,4.0,no,no,,,,0,46.921,48.524,94.056,127.987,121.58,121.808,"Image 1: Owl
+nonschema,bf3781c4-57eb-40f2-b5e1-2970dc6c51fe,57ZQA5,01KH9E4056VM7DXEZ35G57ZQA5,1,,,,True,4g,False,10.0,50.0,1368,864,1368,777,fr-CA,Windows desktop / Chrome,yes,underpaid,adequate,4.0,4,no,no,,,,0,46.921,48.524,94.056,127.987,121.58,121.808,"Image 1: Owl
 Image 2: Lifesaver","Image 1: Owl
 Image 2: Lifesaver
 Image 3: Wally
@@ -1253,7 +1253,7 @@ Image 5: toilet paper
 Image 6: shoe
 Image 7: aubergine
 Image 8: stick",lifesaver,owl,lifesaver,droid,owl,wally,woody,scorpion,sofia,lifesaver,droid,owl,elephant,wally,flower,root,burger,paper,plant,sink,minion,bench,chair,steering wheel,hotdog,pole,cube,holder,rainbow,tea,aubergine,worm,butter,stick,seat,shoe,toilet paper,pencil,2.0,4.0,7.0,5.0,8.0,8.0,0
-nonschema,1c31a0f1-0f09-45f9-95c9-89b0653f2636,0NJX16,01KH9DP47XYN6CH25ZAS0NJX16,1,,,,True,4g,False,9.8,100.0,1680,949,1643,823,en-US,macOS desktop / Chrome,yes,fairly_paid,too_little,4.0,3.0,no,yes,other person did noit show up for round 3 or 4 which meant i goty every one wroing,why would i be penalized bonus wise because he did not show up for rounds 3 and 4,,0,91.637,132.118,292.057,174.003,300.0,210.833,"Image 1:kada
+nonschema,1c31a0f1-0f09-45f9-95c9-89b0653f2636,0NJX16,01KH9DP47XYN6CH25ZAS0NJX16,1,,,,True,4g,False,9.8,100.0,1680,949,1643,823,en-US,macOS desktop / Chrome,yes,fairly_paid,too_little,4.0,3,no,yes,other person did noit show up for round 3 or 4 which meant i goty every one wroing,why would i be penalized bonus wise because he did not show up for rounds 3 and 4,,0,91.637,132.118,292.057,174.003,300.0,210.833,"Image 1:kada
 Image 2:kuda","Image 1:ele
 Image 2:elo
 Image 3:eli
@@ -1286,7 +1286,7 @@ Image 5:ec
 Image 6:eb
 Image 7:eg
 Image 8:ef",kuda,kada,elo,ede,eli,eli,gg,cc,hh,ee,cc,aa,gg,hh,ch,c b,cd,ce,cc,ca,,ca,df,dc,db,dh,da,dd,df,da,eh,ea,ef,ed,ec,ea,ef,eg,2.0,3.0,2.0,0.0,0.0,0.0,1
-nonschema,c64ac876-5379-4077-b9a0-19302e18b15d,QQKA1C,01KH9F6SJVPWNGT8PFERQQKA1C,1,,,,True,4g,False,10.0,100.0,1920,1032,1920,945,en-CA,Windows desktop / Chrome,yes,underpaid,too_much,5.0,5.0,no,no,,,,0,50.809,81.207,97.983,118.947,168.513,116.089,"Image 1: owl
+nonschema,c64ac876-5379-4077-b9a0-19302e18b15d,QQKA1C,01KH9F6SJVPWNGT8PFERQQKA1C,1,,,,True,4g,False,10.0,100.0,1920,1032,1920,945,en-CA,Windows desktop / Chrome,yes,underpaid,too_much,5.0,5,no,no,,,,0,50.809,81.207,97.983,118.947,168.513,116.089,"Image 1: owl
 Image 2: waffle","Image 1: owl
 Image 2:waffle
 Image 3:goggles
@@ -1319,7 +1319,7 @@ Image 5:fosset
 Image 6:pebble
 Image 7:jerky
 Image 8:stilts",waffle,owl,waffle,car,owl,googles,mower,scorp,helm,waffle,car,owl,monkey,goggles,totem,robot,burger,fridge,weed,seesaw,clown,butter,darlec,wheel,radical,chicken,rubix,taco,rainbow,split,jerky,file,bar,stilts,toilet,pebble,fosset,domino,2.0,3.0,7.0,7.0,8.0,7.0,0
-schema,59e783d7-1212-49b5-99d0-6e191c3fd72e,TY9XBR,01KH9DV4HMM8DBXZ1WHDTY9XBR,1,,,,True,4g,False,5.95,50.0,1600,860,1600,739,en-US,Windows desktop / Chrome,yes,fairly_paid,adequate,5.0,5.0,no,yes,One of the rounds of images did not appear clear,I enjoyed the experience,,0,176.005,151.243,265.412,294.016,294.584,300.0,"Orangina
+schema,59e783d7-1212-49b5-99d0-6e191c3fd72e,TY9XBR,01KH9DV4HMM8DBXZ1WHDTY9XBR,1,,,,True,4g,False,5.95,50.0,1600,860,1600,739,en-US,Windows desktop / Chrome,yes,fairly_paid,adequate,5.0,5,no,yes,One of the rounds of images did not appear clear,I enjoyed the experience,,0,176.005,151.243,265.412,294.016,294.584,300.0,"Orangina
 Purplicious","Image 1: Black Orangina
 Image 2: Black Purplicious
 Image 3: Red Orangina
@@ -1352,7 +1352,7 @@ Image 5: Waffle
 Image 6: Furbaby
 Image 7: Purple
 Image 8: Businessman",purplicious,orangina,black purplicious,red orangina,black orangina,red purplicious,black purplious b,black orangina b,,black purplicious y,red orangina y,black orangina y,red orangina b,red purplicious y,red purplicious b,red orangina y,red orangina b,black orangina b,black purplicious y,red purplicious y,black purplicious b,black orangina y,tall orangina,circle,santa clause,buggy,shorty,chesseburger,rainbow,shorty,purple,post-it,orange juice,robot businessman,waiter,furbaby,waffle,tall purplicious,2.0,4.0,6.0,8.0,4.0,6.0,1
-schema,909ba100-7496-480a-8289-d45f082bd0fa,TY9XBR,01KH9DV4HMM8DBXZ1WHDTY9XBR,0,,,,True,4g,False,10.0,100.0,1536,864,1536,776,en-US,Windows desktop / Chrome,yes,underpaid,adequate,4.0,3.0,no,yes,my partners photos were messed up,nope,,0,177.117,152.392,266.558,294.839,294.443,300.0,"Orangina
+schema,909ba100-7496-480a-8289-d45f082bd0fa,TY9XBR,01KH9DV4HMM8DBXZ1WHDTY9XBR,0,,,,True,4g,False,10.0,100.0,1536,864,1536,776,en-US,Windows desktop / Chrome,yes,underpaid,adequate,4.0,3,no,yes,my partners photos were messed up,nope,,0,177.117,152.392,266.558,294.839,294.443,300.0,"Orangina
 Purplicious","Image 1: Black Orangina
 Image 2: Black Purplicious
 Image 3: Red Orangina
@@ -1385,7 +1385,7 @@ Image 5: Waffle
 Image 6: Furbaby
 Image 7: Purple
 Image 8: Businessman",purplicious,orangina,black purplicious,red orangina,black orangina,red purplicious,black purplicious b,black orangina b,red purplicious b,black purplicious y,red orangina y,black orangina y,red orangina b,red purplicious y,red purplicious b,red orangina y,red orangina b,black orangina b,black purplicious y,red purplicious y,black purplicious b,black orangina y,tall orangina,circle,santa claus,buggy,square,cheeseburger,rainbow,short purplicious,purple,post-it,orange juice,businessman,waiter,furbaby,waffle,robot purplicious,2.0,4.0,6.0,8.0,4.0,6.0,0
-nonschema,7b029bec-7436-4a92-bcf4-b2a67b642bee,QQKA1C,01KH9F6SJVPWNGT8PFERQQKA1C,0,,,,True,4g,False,10.0,50.0,1366,720,1366,633,en-US,Windows desktop / Chrome,yes,underpaid,adequate,5.0,5.0,no,no,,,,0,53.148,81.776,97.551,113.517,159.1,110.415,"Image 1: owl
+nonschema,7b029bec-7436-4a92-bcf4-b2a67b642bee,QQKA1C,01KH9F6SJVPWNGT8PFERQQKA1C,0,,,,True,4g,False,10.0,50.0,1366,720,1366,633,en-US,Windows desktop / Chrome,yes,underpaid,adequate,5.0,5,no,no,,,,0,53.148,81.776,97.551,113.517,159.1,110.415,"Image 1: owl
 Image 2: waffle","Image 1: owl
 Image 2:waffle
 Image 3:goggles
@@ -1418,7 +1418,7 @@ Image 5:fosset
 Image 6:pebble
 Image 7:jerky
 Image 8:stilts",waffle,owl,waffle,car,owl,goggles,mower,scorp,helm,waffle,car,owl,orangatan,goggles,totem,bot,burger,fridge,weed,seesaw,clown,butter,darlec,wheel,radical,chicken,rubix,taco,rainbow,split,jerky,file,bar,stilts,toilet,pebble,fosset,bar,2.0,3.0,7.0,7.0,8.0,7.0,0
-nonschema,16a2c53d-759c-4b4f-aed7-0c36f07ec5ae,GYV382,01KH9GGGDGP94CQE5X1NGYV382,0,,,,True,4g,False,2.75,100.0,1366,720,1366,599,en-US,Windows desktop / Chrome,yes,fairly_paid,adequate,5.0,5.0,no,no,,was fun thanks,,0,72.143,47.562,53.245,128.609,79.847,104.191,"Image 1:owl
+nonschema,16a2c53d-759c-4b4f-aed7-0c36f07ec5ae,GYV382,01KH9GGGDGP94CQE5X1NGYV382,0,,,,True,4g,False,2.75,100.0,1366,720,1366,599,en-US,Windows desktop / Chrome,yes,fairly_paid,adequate,5.0,5,no,no,,was fun thanks,,0,72.143,47.562,53.245,128.609,79.847,104.191,"Image 1:owl
 Image 2:cookie","Image 1:
 Image 2:
 Image 3:
@@ -1451,7 +1451,7 @@ Image 5:
 Image 6:
 Image 7:
 Image 8:",cookie,owl,cookie,kid,owl,glasses,shark,scorpion,girl,cookie,kid,owl,dog,glasses,flower,kid,girl,snowman,tree,glasses,owl,octapuss,owl,cookie,kid,bird,dice,duck,flower,glasses,purple,dice,orange,brown,cookie,baby,kid,owl,1.0,4.0,8.0,5.0,8.0,8.0,0
-nonschema,79706ade-fcd5-4fad-91bf-d00ad09f08f7,GYV382,01KH9GGGDGP94CQE5X1NGYV382,1,,,,True,4g,False,10.0,50.0,1366,720,1366,599,en-US,Linux desktop / Chrome,yes,underpaid,adequate,5.0,5.0,no,no,,,,0,72.339,47.703,52.415,127.737,81.02,103.33,"Image 1:owl
+nonschema,79706ade-fcd5-4fad-91bf-d00ad09f08f7,GYV382,01KH9GGGDGP94CQE5X1NGYV382,1,,,,True,4g,False,10.0,50.0,1366,720,1366,599,en-US,Linux desktop / Chrome,yes,underpaid,adequate,5.0,5,no,no,,,,0,72.339,47.703,52.415,127.737,81.02,103.33,"Image 1:owl
 Image 2:cookie","Image 1:
 Image 2:
 Image 3:
@@ -1517,7 +1517,7 @@ Image 5:ec
 Image 6:eb
 Image 7:eg
 Image 8:ef",kuda,kada,elo,ede,ele,eli,ff,bb,dd,ee,dd,aa,cc,gg,,,,,,,,,,,,,,,,,,,,,,,,,2.0,3.0,2.0,0.0,0.0,0.0,24
-schema,fe197950-5953-4330-ad46-57839cd78366,0HQTBM,01KHYJDQPV0FTH6Y1W4X0HQTBM,0,,,,True,4g,False,10.0,100.0,1536,816,1528,738,en-US,Windows desktop / Edge,yes,underpaid,adequate,4.0,4.0,no,no,,,,0,36.976,26.502,140.242,61.393,77.667,109.366,"Image 1:red hat
+schema,fe197950-5953-4330-ad46-57839cd78366,0HQTBM,01KHYJDQPV0FTH6Y1W4X0HQTBM,0,,,,True,4g,False,10.0,100.0,1536,816,1528,738,en-US,Windows desktop / Edge,yes,underpaid,adequate,4.0,4,no,no,,NA,,0,36.976,26.502,140.242,61.393,77.667,109.366,"Image 1:red hat
 Image 2:blue hat","Image 1:red right
 Image 2:blue right
 Image 3:red left
@@ -1550,7 +1550,7 @@ Image 5:blue black yellow short
 Image 6:orange red brown short
 Image 7:blue black yellow tall
 Image 8:orange red brown tall",blue hat,red hat,blue right,red left,red right,blue right,blue black brown,orange black brown,blue red brown,blue black yellow,orange red yellow,orange black yellow,orange red brown,blue red yellow,blue red brown,orange red yellow,orange red brown,orange black brown,blue black yellow,blue red yellow,red black brown,orange black yellow,orange black yellow,orange red brown,orange red yellow,blue red yellow,orange black brown,blue black brown,blue black yellow,blue red brown,blue black yellow tall,blue black yellow short,orange red brown tall,orange red brown tall,orange red brown short,orange red brown short,blue black yellow tall,blue black yellow tall,2.0,3.0,8.0,6.0,8.0,4.0,0
-schema,4f26251b-fa71-43d7-9f3a-e6b05472883a,0HQTBM,01KHYJDQPV0FTH6Y1W4X0HQTBM,1,,,,True,4g,False,10.0,50.0,1440,818,1440,729,en-US,macOS desktop / Chrome,yes,fairly_paid,adequate,5.0,5.0,no,yes,I had one answer counted as incorrect and my text deleted,,,0,37.978,26.527,140.233,61.416,79.729,106.427,"Image 1:red hat
+schema,4f26251b-fa71-43d7-9f3a-e6b05472883a,0HQTBM,01KHYJDQPV0FTH6Y1W4X0HQTBM,1,,,,True,4g,False,10.0,50.0,1440,818,1440,729,en-US,macOS desktop / Chrome,yes,fairly_paid,adequate,5.0,5,no,yes,I had one answer counted as incorrect and my text deleted,,,0,37.978,26.527,140.233,61.416,79.729,106.427,"Image 1:red hat
 Image 2:blue hat","Image 1:red right
 Image 2:blue right
 Image 3:red left
@@ -1583,7 +1583,7 @@ Image 5:blue black yellow short
 Image 6:orange red brown short
 Image 7:blue black yellow tall
 Image 8:orange red brown tall",blue hat,red hat,blue right,red left,red right,blue left,blue black brown,orange black brown,blue red brown,blue black yellow,orange red yellow,orange black yellow,orange red brown,blue red yellow,blue red brown,orange red yellow,orange red brown,orange,blue black yellow,blue red yellow,blue black brown,orange black yellow,orange black yellow,orange red brown,orange red yellow,blue red yellow,orange black brown,blue black brown,blue black yellow,blue red brown,blue black yellow tall,blue black yellow short,orange red brown tall,orange red brown tall,orange red brown short,orange red brown short,blue black yellow short,blue black yellow tall,2.0,3.0,8.0,6.0,8.0,4.0,0
-schema,59f36823-7983-4274-b63f-ef3ae50386fa,82WGW1,01KHYJTJRE7K346W15RZ82WGW1,0,,,,True,,,,,1440,783,1440,693,en-CA,macOS desktop / Safari,yes,underpaid,adequate,5.0,5.0,no,no,,,,0,48.083,34.871,79.439,68.936,73.324,264.694,"Image 1: Orange Hat
+schema,59f36823-7983-4274-b63f-ef3ae50386fa,82WGW1,01KHYJTJRE7K346W15RZ82WGW1,0,,,,True,,,,,1440,783,1440,693,en-CA,macOS desktop / Safari,yes,underpaid,adequate,5.0,5,no,no,,,,0,48.083,34.871,79.439,68.936,73.324,264.694,"Image 1: Orange Hat
 Image 2: Purple Hat","Image 1: Right Orange Hat
 Image 2: Right Purple Hat
 Image 3: Left Orange Hat
@@ -1714,7 +1714,7 @@ Image 5:ghost
 Image 6:bug
 Image 7:body
 Image 8:legs",pizza,owl,pizza,standing,owl,stepping,fish,scorpion,helmet,pizza,standing,owl,dog,stepping,peacock,table,turtle,block,plant,eyebrows,tongue,feet,soldier,wheel,flame,parrot,nest,cheese,rainbow,crane,body,caterpillar,orange,legs,bib,bug,ghost,tower,2.0,4.0,8.0,8.0,8.0,8.0,0
-nonschema,dcee507e-0bad-4639-b329-45f1f3544d94,MD8EBA,01KHYJETXAA34GRFZG37MD8EBA,0,,,,True,4g,False,1.4,150.0,1300,682,1300,596,en-CA,Linux desktop / Chrome,yes,fairly_paid,adequate,4.0,5.0,no,no,,thank you for the opportunity ,,0,147.23,93.23,78.128,300.0,276.153,194.121,"Image 1:owl
+nonschema,dcee507e-0bad-4639-b329-45f1f3544d94,MD8EBA,01KHYJETXAA34GRFZG37MD8EBA,0,,,,True,4g,False,1.4,150.0,1300,682,1300,596,en-CA,Linux desktop / Chrome,yes,fairly_paid,adequate,4.0,5,no,no,,thank you for the opportunity ,,0,147.23,93.23,78.128,300.0,276.153,194.121,"Image 1:owl
 Image 2: pizza","Image 1:owl
 Image 2:pizza
 Image 3:stepping
@@ -1747,7 +1747,7 @@ Image 5:ghost
 Image 6:bug
 Image 7:body
 Image 8:legs",pizza,owl,pizza,standing,owl,stepping,fish,scorpion,helmet,pizza,standing,owl,dog,stepping,peacock,table,turtle,block,plant,eyebrows,tongue,feet,soldier,wheel,flame,parrot,nest,cheese,rainbow,crane,body,caterpillar,orange,legs,bib,bug,ghost,tower,2.0,4.0,8.0,8.0,8.0,8.0,0
-schema,7fa21263-b051-4770-88a3-a387d7c89119,PP2GEH,01KHYJHMXW6T3DM1EWCYPP2GEH,1,,,,True,4g,False,8.5,50.0,1366,728,1366,607,en-US,Windows desktop / Chrome,yes,fairly_paid,adequate,4.0,5.0,no,no,,Great study!,,0,76.213,70.104,244.393,105.112,54.048,291.712,"Orange 
+schema,7fa21263-b051-4770-88a3-a387d7c89119,PP2GEH,01KHYJHMXW6T3DM1EWCYPP2GEH,1,,,,True,4g,False,8.5,50.0,1366,728,1366,607,en-US,Windows desktop / Chrome,yes,fairly_paid,adequate,4.0,5,no,no,,Great study!,,0,76.213,70.104,244.393,105.112,54.048,291.712,"Orange 
 Purple","Image 2:
 Image 3:
 Image 4:","Image 1:
@@ -1779,7 +1779,7 @@ Image 5:
 Image 6:
 Image 7:
 Image 8:",purple,orange,rpurple,lorange,rorange,lpurple,rpurpleb,rorangeb,lpurpleb,rpurpley,lorangey,rorangey,lorangeb,lpurpley,lpurpleb,lorangey,lorangeb,rorangeb,rpurpley,lpurpley,rpurpleb,rorangey,rorangey,lorangeb,lorangey,lpurpley,rorangeb,rpurpleb,rpurpley,lpurpleb,lpurpleyi,rpurpleyi,lorangebo,lorangebo,lorangebo,lorangebo,rpurpleyi,rpurpleyi,2.0,4.0,8.0,8.0,8.0,2.0,0
-schema,4efdf354-3446-40e1-b2e2-b328166cf947,3MTPC9,01KHYK8X8QGDWFHGSGRQ3MTPC9,0,,,,True,4g,False,10.0,50.0,1536,816,1536,730,en-GB,Windows desktop / Chrome,yes,fairly_paid,adequate,4.0,5.0,no,no,,,,0,43.855,70.913,132.341,62.165,64.596,227.217,"Image 1: red
+schema,4efdf354-3446-40e1-b2e2-b328166cf947,3MTPC9,01KHYK8X8QGDWFHGSGRQ3MTPC9,0,,,,True,4g,False,10.0,50.0,1536,816,1536,730,en-GB,Windows desktop / Chrome,yes,fairly_paid,adequate,4.0,5,no,no,,,,0,43.855,70.913,132.341,62.165,64.596,227.217,"Image 1: red
 Image 2: purple","Image 1: red black
 Image 2: purple black
 Image 3: red red
@@ -1812,7 +1812,7 @@ Image 5: pwy
 Image 6: rbb
 Image 7: ppy
 Image 8: rrb",purple,red,purple black,red red,orange black,purple red,pbb,rbb,prb,pby,rry,rby,rrb,pry,prb,rry,rrb,rbb,pby,pry,pbb,rby,rby,rrb,rry,pry,rbb,pbb,pby,prb,ppy,pyy,ryb,rrb,ryb,rbb,pwy,pgy,2.0,3.0,8.0,8.0,8.0,7.0,0
-schema,3fa4bded-88a2-4b24-b08b-76f9efd06cbe,3MTPC9,01KHYK8X8QGDWFHGSGRQ3MTPC9,1,,,,True,4g,False,1.65,50.0,1366,728,1366,641,zh-CN,Windows desktop / Chrome,,fairly_paid,adequate,4.0,5.0,no,no,,,,0,43.519,71.517,132.953,62.673,64.208,226.709,"Image 1: red
+schema,3fa4bded-88a2-4b24-b08b-76f9efd06cbe,3MTPC9,01KHYK8X8QGDWFHGSGRQ3MTPC9,1,,,,True,4g,False,1.65,50.0,1366,728,1366,641,zh-CN,Windows desktop / Chrome,,fairly_paid,adequate,4.0,5,no,no,,,,0,43.519,71.517,132.953,62.673,64.208,226.709,"Image 1: red
 Image 2: purple","Image 1: red black
 Image 2: purple black
 Image 3: red red
@@ -1878,7 +1878,7 @@ Image 5:baby
 Image 6:sausage 
 Image 7:gum
 Image 8:chocolate",cookie,owl,waffle,train,batman,et,crab,scorpion,telephone,cookie,train,owl,dog,et,rainbow,telescope,oven,paper,tree,seesaw,clown,waiter,trash can,rodder,lobster,parrot,crab,spongebob,rainbow,waiter,gum,bee,cheese,chocolate,grill,sausage,baby,milkman,2.0,4.0,8.0,8.0,6.0,7.0,0
-nonschema,78ec7007-407f-485c-af4f-ff4e7adcd31e,14RBNC,01KHYJZFWEGZTW9KG50W14RBNC,0,,,,True,4g,False,1.75,100.0,1280,752,1280,665,en-US,Windows desktop / Chrome,yes,fairly_paid,adequate,4.0,3.0,no,no,,no,,0,94.766,128.718,141.509,192.327,236.068,191.411,"Image 1: owl 
+nonschema,78ec7007-407f-485c-af4f-ff4e7adcd31e,14RBNC,01KHYJZFWEGZTW9KG50W14RBNC,0,,,,True,4g,False,1.75,100.0,1280,752,1280,665,en-US,Windows desktop / Chrome,yes,fairly_paid,adequate,4.0,3,no,no,,no,,0,94.766,128.718,141.509,192.327,236.068,191.411,"Image 1: owl 
 Image 2: cookie","Image 1: batman
 Image 2:waffle
 Image 3:et
@@ -1911,7 +1911,7 @@ Image 5:baby
 Image 6:sausage 
 Image 7:gum
 Image 8:chocolate",cookie,owl,waffle,train,batman,et,crab,scorpion,telephone,cookie,train,owl,dog,et,rainbow,telescope,oven,paper,tree,seesaw,clown,waiter,trashcan,rotor,lobster,parrot,crab,spongebob,rainbow,waiter,gum,bee,cheese,chocolate,grill,sausage,baby,milk man,2.0,4.0,8.0,8.0,6.0,7.0,0
-nonschema,8944690e-f35e-4c9c-8ba3-1328d5c84f9a,W8KCV6,01KHYJMFD4PV1TNVJYRMW8KCV6,0,,,,True,4g,False,10.0,50.0,1410,892,1410,771,en-GB,Linux desktop / Chrome,yes,underpaid,adequate,4.0,4.0,no,no,,,,0,133.468,247.197,292.501,275.367,230.837,269.514,"Image 1: owly
+nonschema,8944690e-f35e-4c9c-8ba3-1328d5c84f9a,W8KCV6,01KHYJMFD4PV1TNVJYRMW8KCV6,0,,,,True,4g,False,10.0,50.0,1410,892,1410,771,en-GB,Linux desktop / Chrome,yes,underpaid,adequate,4.0,4,no,no,,,,0,133.468,247.197,292.501,275.367,230.837,269.514,"Image 1: owly
 Image 2: patty","Image 1: owly
 Image 2: patty
 Image 3: doggy
@@ -2010,7 +2010,7 @@ Image 5: white yellow
 Image 6: black brown
 Image 7: pink yellow
 Image 8: brown brown",purple,orange,purple right,orange left,orange right,purple left,purple black brown,orange black brown,purple red brown,purple black yellow,orange red yellow,orange black yellow,orange red brown,purple red yellow,purple red brown,orange red yellow,orange red brown,orange black brown,purple black yellow,purple red yellow,purple black brown,orange black yellow,orange black yellow,orange red brown,orange red yellow,purple red yellow,orange black brown,purple black brown,purple black yellow,purple red brown,pink yellow,yellow yellow,yellow brown,brown brown,blue brown,black brown,white yellow,grey yellow,2.0,4.0,8.0,7.0,8.0,7.0,0
-nonschema,ec6febcc-9b03-4b9e-b3e0-2eb0c91197e4,R2C7TK,01KHYDFCK6M3FVQV6DK0R2C7TK,0,,,,True,,,,,1920,1080,1707,938,en-GB,Windows desktop / Chrome,yes,fairly_paid,adequate,5.0,5.0,no,no,,,,0,29.724,29.504,42.0,104.272,121.117,107.957,"Image 1: Owl
+nonschema,ec6febcc-9b03-4b9e-b3e0-2eb0c91197e4,R2C7TK,01KHYDFCK6M3FVQV6DK0R2C7TK,0,,,,True,,,,,1920,1080,1707,938,en-GB,Windows desktop / Chrome,yes,fairly_paid,adequate,5.0,5,no,no,,,,0,29.724,29.504,42.0,104.272,121.117,107.957,"Image 1: Owl
 Image 2: Cookie","Image 1: Owl
 Image 2: Cookies
 Image 3: Binoculars
@@ -2043,7 +2043,7 @@ Image 5:  Short Snowman
 Image 6: Crab
 Image 7: French
 Image 8: Legs",cookie,owl,cookie,robot,owl,binoculars,fish,scorpion,edna,cookie,robot,owl,dog,binoculars,aztec,spider,burger,paper,plant,eyebrows,goat,cheese,robot,wheel,thing,bird,snowman,postbox,quilt,crab,french,ice cream,chip,legs,toilet,crab,short snowman,tall snowman,2.0,4.0,8.0,8.0,8.0,7.0,0
-schema,c9708758-e1ee-43fe-ac0f-a68e8c2840a8,C16QEP,01KHYDCPGZ2E9HKHDGZNC16QEP,1,,,,True,4g,False,10.0,100.0,1536,816,1528,698,en-US,Windows desktop / Edge,yes,fairly_paid,too_much,5.0,5.0,no,no,,,,0,60.496,46.706,101.218,63.431,88.767,174.541,"Image 1:Orange
+schema,c9708758-e1ee-43fe-ac0f-a68e8c2840a8,C16QEP,01KHYDCPGZ2E9HKHDGZNC16QEP,1,,,,True,4g,False,10.0,100.0,1536,816,1528,698,en-US,Windows desktop / Edge,yes,fairly_paid,too_much,5.0,5,no,no,,,,0,60.496,46.706,101.218,63.431,88.767,174.541,"Image 1:Orange
 Image 2:Purple","Image 1: orange right
 Image 2: purple right
 Image 3: orange left
@@ -2109,7 +2109,7 @@ Image 5:  Short Snowman
 Image 6: Crab
 Image 7: French
 Image 8: Legs",cookie,owl,cookie,robot,owl,binoculars,fish,scorpion,edna,cookie,robot,owl,dog,binoculars,aztec,spider,burger,paper,plant,eyebrows,goat,cheese,robot,wheel,thing,bird,snowman,postbox,quilt,crab,french,icecream,chip,legs,toilet,crab,short snowman,tall snowman,2.0,4.0,8.0,8.0,8.0,7.0,0
-nonschema,034ef656-87f1-43f2-9054-9761833fab35,SJME17,01KHYDHRXQ7GFXX5YHV9SJME17,0,,,,True,4g,False,10.0,50.0,1280,752,1280,665,en-US,Windows desktop / Chrome,yes,underpaid,adequate,4.0,5.0,no,no,,nothing,,0,41.734,64.618,114.384,244.098,158.6,120.81,"Image 1:owl 
+nonschema,034ef656-87f1-43f2-9054-9761833fab35,SJME17,01KHYDHRXQ7GFXX5YHV9SJME17,0,,,,True,4g,False,10.0,50.0,1280,752,1280,665,en-US,Windows desktop / Chrome,yes,underpaid,adequate,4.0,5,no,no,,nothing,,0,41.734,64.618,114.384,244.098,158.6,120.81,"Image 1:owl 
 Image 2: donut","Image 1:owl
 Image 2:donut
 Image 3: big
@@ -2142,7 +2142,7 @@ Image 5:short
 Image 6:black
 Image 7:purple
 Image 8:brown",donut,owl,donut,small,owl,big,fly,scorpion,hair,donut,small,owl,monkey,big,leaf,brown,oven,white,green,eyes,waiter,yellow,grey,donut,red,green,white,yellow,rainbow,purple,purple,pink,yellow,brown,blue,black,short,long,2.0,4.0,8.0,8.0,8.0,8.0,0
-nonschema,edb1aeb0-2cd9-40a3-8da6-138b3dd70be9,SJME17,01KHYDHRXQ7GFXX5YHV9SJME17,1,,,,True,4g,False,10.0,50.0,1470,862,1470,775,en-GB,macOS desktop / Chrome,maybe,fairly_paid,adequate,5.0,4.0,no,no,,,,0,45.005,65.848,113.575,243.349,144.849,112.022,"Image 1:owl 
+nonschema,edb1aeb0-2cd9-40a3-8da6-138b3dd70be9,SJME17,01KHYDHRXQ7GFXX5YHV9SJME17,1,,,,True,4g,False,10.0,50.0,1470,862,1470,775,en-GB,macOS desktop / Chrome,maybe,fairly_paid,adequate,5.0,4,no,no,,,,0,45.005,65.848,113.575,243.349,144.849,112.022,"Image 1:owl 
 Image 2: donut","Image 1:owl
 Image 2:donut
 Image 3: big
@@ -2175,7 +2175,7 @@ Image 5:short
 Image 6:black
 Image 7:purple
 Image 8:brown",donut,owl,donut,small,owl,big,fly,scorpion,hair,donut,small,owl,monkey,big,leaf,brown,oven,white,green,eyes,waiter,yellow,grey,donut,red,green,white,yellow,rainbow,purple,purple,pink,yellow,brown,blue,black,short,long,2.0,4.0,8.0,8.0,8.0,8.0,0
-nonschema,f1861d48-9e17-4265-8965-0d4af313d852,KHQ8YT,01KHYDJWDF400QJFJ1DBKHQ8YT,1,,,,True,4g,False,9.65,50.0,1536,864,1920,970,en,Windows desktop / Chrome,yes,fairly_paid,adequate,5.0,5.0,no,no,,,,0,37.84,64.852,56.47,227.911,148.766,136.915,"Image 1:cat
+nonschema,f1861d48-9e17-4265-8965-0d4af313d852,KHQ8YT,01KHYDJWDF400QJFJ1DBKHQ8YT,1,,,,True,4g,False,9.65,50.0,1536,864,1920,970,en,Windows desktop / Chrome,yes,fairly_paid,adequate,5.0,5,no,no,,,,0,37.84,64.852,56.47,227.911,148.766,136.915,"Image 1:cat
 Image 2: donut","Image 1: cat
 Image 2: donut
 Image 3: bug
@@ -2241,7 +2241,7 @@ Image 5: pbymed
 Image 6:orbsmall rect
 Image 7: pbyred
 Image 8:orbbig",purple robot,orange robot,purple black,orange red,orange black,purple red,purple black brown,orange black brown,purple red brown,purple black yellow,orange red yellow,orange black yellow,orange red brown,purple red yellow,prb,ory,orb,obb,pby,pry,pbb,oby,oby,orb,ory,pry,obb,pbb,pby,prb,pbyred,pbysmall,orbr,orbsmall,orbc,orbr,pbymedium,pbytall,2.0,4.0,7.0,8.0,7.0,2.0,0
-nonschema,3501f6cc-e91f-4189-aa5d-f747c42243dd,KHQ8YT,01KHYDJWDF400QJFJ1DBKHQ8YT,0,,,,True,4g,False,5.4,50.0,1366,720,1366,599,en-US,Linux desktop / Chrome,yes,fairly_paid,adequate,5.0,5.0,no,no,,"That was something new and unique, and fun! Thanks!",,0,36.095,64.122,55.711,227.116,148.038,135.206,"Image 1:cat
+nonschema,3501f6cc-e91f-4189-aa5d-f747c42243dd,KHQ8YT,01KHYDJWDF400QJFJ1DBKHQ8YT,0,,,,True,4g,False,5.4,50.0,1366,720,1366,599,en-US,Linux desktop / Chrome,yes,fairly_paid,adequate,5.0,5,no,no,,"That was something new and unique, and fun! Thanks!",,0,36.095,64.122,55.711,227.116,148.038,135.206,"Image 1:cat
 Image 2: donut","Image 1: cat
 Image 2: donut
 Image 3: bug
@@ -2307,7 +2307,7 @@ Image 5: pbymed
 Image 6:orbsmall rect
 Image 7: pbyred
 Image 8:orbbig",purple robot,orange robot,purple black,orange red,orange black,purple red,purple black brown,orange black brown,purple red brown,purple black yellow,orange red yellow,orange blac,orange red brown,purple red yellow,prb,ory,orb,obb,pby,pry,pbb,oby,oby,orb,ory,p,obb,pbb,pby,prb,pbytall,pbysmall,orbrect,orb,orbb,orbsmall,pby,pbytall,2.0,4.0,7.0,8.0,7.0,2.0,0
-schema,b75a11df-c9fa-40e0-88c8-1497cfc5191f,YTYFXS,01KHYDTSCQ2PT70EJ79TYTYFXS,0,,,,True,4g,False,10.0,50.0,1536,816,1536,695,en-US,Windows desktop / Chrome,yes,fairly_paid,adequate,4.0,4.0,no,no,,,,0,51.299,66.695,86.707,74.845,104.777,225.539,"Image 1: red 
+schema,b75a11df-c9fa-40e0-88c8-1497cfc5191f,YTYFXS,01KHYDTSCQ2PT70EJ79TYTYFXS,0,,,,True,4g,False,10.0,50.0,1536,816,1536,695,en-US,Windows desktop / Chrome,yes,fairly_paid,adequate,4.0,4,no,no,,,,0,51.299,66.695,86.707,74.845,104.777,225.539,"Image 1: red 
 Image 2:purple","Image 1: red
 Image 2: purple
 Image 3: redred
@@ -2373,7 +2373,7 @@ Image 5:robot
 Image 6:little green man
 Image 7:red body
 Image 8: crooked hat",lego face,standing owl,lego face,crooked hat,standing owl,frog,fly,scorpian,hair,lego face,crooked hat,standing owl,moose,frog,peacock,crooked hat,yellow duck,alfalfa,greenhopper,orange ears,gray ears,yellow feet,sunglasses,green face,crooked hat,parrot,square lego,yellow hamburger,apple,tree,red body,backpack,cheese robot,robot,blue robot,little green man,robot,big mouth,2.0,4.0,7.0,4.0,8.0,6.0,0
-nonschema,33d7b7d6-e37c-4428-a33b-80aebe72daae,GQR2MR,01KHYDDARBH74Z04X8CNGQR2MR,1,,,,True,4g,False,10.0,100.0,1280,752,1280,665,en-US,Windows desktop / Chrome,yes,fairly_paid,adequate,3.0,4.0,no,no,,,,0,69.308,67.094,110.888,248.389,153.884,181.191,"Image 1: Standing owl
+nonschema,33d7b7d6-e37c-4428-a33b-80aebe72daae,GQR2MR,01KHYDDARBH74Z04X8CNGQR2MR,1,,,,True,4g,False,10.0,100.0,1280,752,1280,665,en-US,Windows desktop / Chrome,yes,fairly_paid,adequate,3.0,4,no,no,,None,,0,69.308,67.094,110.888,248.389,153.884,181.191,"Image 1: Standing owl
 Image 2: lego face","Image 1:standing owl
 Image 2:lego face
 Image 3:frog
@@ -2406,7 +2406,7 @@ Image 5:robot
 Image 6:little green man
 Image 7:red body
 Image 8: crooked hat",lego face,standing owl,lego face,crooked hat,standing owl,frog,fly,scorpian,hair,lego face,frog,standing owl,moose,frog,peacock,alfalfa,yellow duck,alfalfa,grasshopper,orange ears,gre,yellow feat,sunglasses,green face,crooked hat,parrot,square lego,yellow hamburger,apple,tree,red body,backpack,cheese robot,crooked hat,blue robot,little green man,robot,bog mouth,2.0,4.0,7.0,4.0,8.0,6.0,0
-schema,750f4c3d-ec1b-42a0-9c25-084521fbfa2f,YTYFXS,01KHYDTSCQ2PT70EJ79TYTYFXS,1,,,,True,4g,False,10.0,100.0,1680,1025,1680,938,en-US,macOS desktop / Chrome,yes,fairly_paid,adequate,5.0,5.0,no,no,,The only time I played a similar version to this game was when my partners left so I could even finish the study so this still was like my first time.,,0,66.131,68.543,86.498,75.656,104.516,224.339,"Image 1: red 
+schema,750f4c3d-ec1b-42a0-9c25-084521fbfa2f,YTYFXS,01KHYDTSCQ2PT70EJ79TYTYFXS,1,,,,True,4g,False,10.0,100.0,1680,1025,1680,938,en-US,macOS desktop / Chrome,yes,fairly_paid,adequate,5.0,5,no,no,,The only time I played a similar version to this game was when my partners left so I could even finish the study so this still was like my first time.,,0,66.131,68.543,86.498,75.656,104.516,224.339,"Image 1: red 
 Image 2:purple","Image 1: red
 Image 2: purple
 Image 3: redred
@@ -2439,7 +2439,7 @@ Image 5:wby
 Image 6:brb
 Image 7:fby
 Image 8:brown",purple,red,purple,redred,red,purplered,pbb,rbb,prb,pby,rry,rby,rrb,pry,prb,rry,rrb,rbb,pby,pry,pbb,rby,rby,rrb,rry,pry,rbb,pbb,multi,prb,fby,yby,yrb,brown,trb,brb,wby,bby,2.0,4.0,8.0,8.0,8.0,8.0,0
-schema,5e1031a3-4b26-4039-8e65-47b5e5cd6633,PYZZRG,01KHYDG22YQFE2D3B4KVPYZZRG,0,,,,True,4g,False,10.0,50.0,1920,1055,1920,934,en-GB,macOS desktop / Chrome,yes,fairly_paid,adequate,5.0,5.0,no,no,,,,0,87.687,109.349,149.507,155.044,80.856,300.0,"Image 1: Orange Lego
+schema,5e1031a3-4b26-4039-8e65-47b5e5cd6633,PYZZRG,01KHYDG22YQFE2D3B4KVPYZZRG,0,,,,True,4g,False,10.0,50.0,1920,1055,1920,934,en-GB,macOS desktop / Chrome,yes,fairly_paid,adequate,5.0,5,no,no,,,,0,87.687,109.349,149.507,155.044,80.856,300.0,"Image 1: Orange Lego
 Image 2: Purple Lego","Image 1: Right facing orange hat
 Image 2: Right facing purple hat
 Image 3: Left facing orange hat
@@ -2473,7 +2473,7 @@ Image 5: right facing purple hat flat yellow feet
 Image 6: left facing orange hat flat wide body
 Image 7: right facing purple hat lean yellow feet
 Image 8: left facing orange hat long brown feet",purple lego,orange lego,right facing purple hat,left facing orange hat,right facing orange hat,left facing purple hat,right facing purple hat brown feet,right facing orange hat brown feet,left facing purple hat brown feet,right facing purple hat yellow feet,left facing orange hat yellow feet,right facing orange hat yellow feet,left facing orange hat brown feet,left facing purple hat yellow feet,left facing purple hat brown feet,left facing orange hat yellow feet,left facing orange hat brown feet,right facing orange hat brown feet,right facing purple hat yellow feet,left facing purple hat yellow feet,right facing purple hat brown feet,right facing orange hat yellow feet,right facing orange hat yellow feet,left facing orange hat brown feet,left facing orange hat yellow feet,left facing purple hat yellow feet,right facing orange hat brown feet,right facing purple hat brown feet,right facing purple hat yellow feet,left facing purple hat brown feet,right facing purple hat lean yellow feet,right facing purple hat long yellow feet,left facing orange hat 2 brown feet,left facing orange hat long brown legs,left facing orange hat 4 brown feet,left facing orange hat flat wide body,right facing purple hat yellow feet,right facing purple hat tall body,2.0,4.0,8.0,8.0,8.0,3.0,0
-schema,0a54943c-3dc2-421c-a9db-aca3a9bc9bb8,1PHMY2,01KHYDJMRN02AKR0817J1PHMY2,0,,,,True,4g,False,10.0,100.0,1280,680,1280,559,en-US,Windows desktop / Chrome,yes,fairly_paid,adequate,5.0,5.0,no,no,,study is interesting and the game is good to play.,,0,62.383,56.186,103.07,107.991,122.015,238.936,"Image 1: Orange
+schema,0a54943c-3dc2-421c-a9db-aca3a9bc9bb8,1PHMY2,01KHYDJMRN02AKR0817J1PHMY2,0,,,,True,4g,False,10.0,100.0,1280,680,1280,559,en-US,Windows desktop / Chrome,yes,fairly_paid,adequate,5.0,5,no,no,,study is interesting and the game is good to play.,,0,62.383,56.186,103.07,107.991,122.015,238.936,"Image 1: Orange
 Image 2: Purple","Image 1: Orange 
 Image 2: Purple
 Image 3: Orange Left
@@ -2506,7 +2506,7 @@ Image 5:purple right yellow
 Image 6:orange left brown
 Image 7:purple right yellow long 
 Image 8:orange left brown long",purple,orange,purple,orange left,orange,purple left,purple right brown,orange right brown,purple left brown,purple right yellow,orange left yellow,orange right yellow,orange left brown,purple left yellow,purple left brown,orange left yellow,orange left brown,orange right brown,purple right yellow,purple left yellow,purple right brown,orange right yellow,orange right yellow,orange left brown,orange left yellow,purple left yellow,orange right brown,purple right brown,purple right yellow,purple left brown,purple right yellow long,purple right yellow,orange left brown long,orange left brown long,orange left brown,orange left brown,purple right yellow,purple right yellow long,2.0,4.0,8.0,8.0,8.0,4.0,0
-schema,3359c317-1997-44c0-8165-2aa85cea081d,1PHMY2,01KHYDJMRN02AKR0817J1PHMY2,1,,,,True,,,,,1680,1010,1680,925,en-CA,Windows desktop / Firefox,yes,fairly_paid,adequate,4.0,5.0,no,no,,,,0,39.72,52.491,101.372,108.005,121.972,237.22,"Image 1: Orange
+schema,3359c317-1997-44c0-8165-2aa85cea081d,1PHMY2,01KHYDJMRN02AKR0817J1PHMY2,1,,,,True,,,,,1680,1010,1680,925,en-CA,Windows desktop / Firefox,yes,fairly_paid,adequate,4.0,5,no,no,,,,0,39.72,52.491,101.372,108.005,121.972,237.22,"Image 1: Orange
 Image 2: Purple","Image 1: Orange 
 Image 2: Purple
 Image 3: Orange Left
@@ -2573,7 +2573,7 @@ Image 5: right facing purple hat flat yellow feet
 Image 6: left facing orange hat flat wide body
 Image 7: right facing purple hat lean yellow feet
 Image 8: left facing orange hat long brown feet",purple lego,orange lego,right facing purple hat,left facing orange hat,right facing orange hat,left facing purple hat,right facing purple hat brown feet,right facing orange hat brown feet,left facing purple hat brown feet,right facing purple hat yellow feet,left facing orange hat yellow feet,right facing orange hat yellow feet,left facing orange hat brown feet,left facing purple hat yellow feet,left facing purple hat brown feet,left facing orange hat yellow feet,left facing orange hat brown feet,right facing orange hat brown feet,right facing purple hat yellow feet,left facing purple hat yellow feet,right facing purple hat brown feet,right facing orange hat yellow feet,right facing orange hat yellow feet,left facing orange hat brown feet,left facing orange hat yellow feet,left facing purple hat yellow feet,right facing orange hat brown feet,right facing purple hat brown feet,right facing purple hat yellow feet,left facing purple hat brown feet,right facing purple hat slim yellow feet,right facing purple hat long yellow feet,left facing orange hat 2 brown feet,left facing orange hat long brown feet,left facing orange hat 4 brown feet,left facing orange hat wide brown feet,right facing purple hat flat yellow feet,right facing purple hat tall yellow feet,2.0,4.0,8.0,8.0,8.0,3.0,0
-schema,2b686b67-d670-459c-b346-5332860c0cb4,K1JA24,01KHYDSW6BFEXXBY7YN1K1JA24,1,,,,True,4g,False,10.0,0.0,1920,1032,1920,945,en-US,Windows desktop / Chrome,yes,fairly_paid,adequate,4.0,5.0,no,no,,,,0,55.986,124.113,100.055,170.791,96.356,257.844,"Image 1: Orange
+schema,2b686b67-d670-459c-b346-5332860c0cb4,K1JA24,01KHYDSW6BFEXXBY7YN1K1JA24,1,,,,True,4g,False,10.0,0.0,1920,1032,1920,945,en-US,Windows desktop / Chrome,yes,fairly_paid,adequate,4.0,5,no,no,,,,0,55.986,124.113,100.055,170.791,96.356,257.844,"Image 1: Orange
 Image 2:  Grey","Image 1: orange B
 Image 2: grey B
 Image 3: orange R
@@ -2639,7 +2639,7 @@ Image 5:shampoo
 Image 6:cockroach
 Image 7:skinny
 Image 8:student",toy,owl,toy,policeman,owl,eyes,parrot,crab,helmet,toy,policeman,owl,pregnant,eyes,floral,robot,duck,scared,cactus,swing,dog,fat,security,wheel,tnt,woodpecker,lighthouse,security,rubic,child,skinny,file,worried,student,chicken,cockroach,shampoo,policeman,2.0,4.0,4.0,7.0,7.0,6.0,0
-nonschema,4f00b103-c01d-44a8-b095-dfc18d837ef8,A5SQN4,01KHYDQR4VCC7Q1M714QA5SQN4,0,,,,True,4g,False,10.0,100.0,1536,816,1536,730,en-US,Linux desktop / Chrome,yes,fairly_paid,adequate,4.0,4.0,no,no,,Thank you.,,0,78.509,37.636,246.322,135.489,163.896,168.582,"Image 1:owl
+nonschema,4f00b103-c01d-44a8-b095-dfc18d837ef8,A5SQN4,01KHYDQR4VCC7Q1M714QA5SQN4,0,,,,True,4g,False,10.0,100.0,1536,816,1536,730,en-US,Linux desktop / Chrome,yes,fairly_paid,adequate,4.0,4,no,no,,Thank you.,,0,78.509,37.636,246.322,135.489,163.896,168.582,"Image 1:owl
 Image 2:toy","Image 1:owl
 Image 2:toy
 Image 3:eyes
@@ -2705,7 +2705,7 @@ Image 5: gr b y s
 Image 6: ol r b s
 Image 7: gr b y r
 Image 8: ol r b l",grey,orange,grey b,orange r,orange b,grey r,g b b,o b b,g r b,g b y,o r y,o b y,o r b,g r y,gl r b,ol r y,ol r b,or b b,gr b y,gl r y,gr b b,or b y,or b y,ol r b,ol r y,gl r y,or b b,gr b b,gr b y,gl r b,gr b y r,gr b y s,ol r b,ol r b l,ol r b s,ol r b s,gr b y,gr b y,2.0,4.0,8.0,8.0,8.0,5.0,0
-schema,100e99d4-87d7-4de5-864b-be69df40444d,QVB21B,01KHYE43NP7DPK66NRYNQVB21B,0,,,,True,4g,False,10.0,50.0,1536,816,1536,730,en-US,Windows desktop / Chrome,yes,fairly_paid,adequate,4.0,5.0,no,no,,,,0,79.527,72.848,186.815,191.992,170.195,300.0,"Image 1:orange
+schema,100e99d4-87d7-4de5-864b-be69df40444d,QVB21B,01KHYE43NP7DPK66NRYNQVB21B,0,,,,True,4g,False,10.0,50.0,1536,816,1536,730,en-US,Windows desktop / Chrome,yes,fairly_paid,adequate,4.0,5,no,no,,,,0,79.527,72.848,186.815,191.992,170.195,300.0,"Image 1:orange
 Image 2:purple","Image 1: right orange
 Image 2: right purple
 Image 3: left orange
@@ -2738,7 +2738,7 @@ Image 5: rpwby
 Image 6: lobrb
 Image 7: rppby
 Image 8: lobrb",purple,orange,right purple,left orange,right orange,left purple,rpb,rob,lpb,rpy,loy,roy,lob,lpy,lprb,lory,lorb,robb,rpby,lpry,rpbb,roby,roby,lorb,lory,lpry,robb,rpbb,rpby,lprb,rppby,rpyby,loyrb,lobrb,lobrwb,lobrb,rpwby,rpwbry,2.0,4.0,8.0,8.0,8.0,7.0,0
-nonschema,72398c57-94ef-4788-bc6b-db4ab98fe79a,QE3M01,01KHYEDY74AZ7ZKRJRVEQE3M01,0,,,,True,4g,False,10.0,50.0,1470,924,1470,797,en-US,macOS desktop / Chrome,yes,fairly_paid,adequate,4.0,5.0,no,no,,,,0,53.859,57.103,102.06,190.034,179.649,248.895,"Image 1: owl
+nonschema,72398c57-94ef-4788-bc6b-db4ab98fe79a,QE3M01,01KHYEDY74AZ7ZKRJRVEQE3M01,0,,,,True,4g,False,10.0,50.0,1470,924,1470,797,en-US,macOS desktop / Chrome,yes,fairly_paid,adequate,4.0,5,no,no,,,,0,53.859,57.103,102.06,190.034,179.649,248.895,"Image 1: owl
 Image 2: donut","Image 1: owl
 Image 2: donut
 Image 3: shell
@@ -2771,7 +2771,7 @@ Image 5: student
 Image 6: cockroach
 Image 7: jerky
 Image 8: wood",donut,owl,donut,elvis,owl,shell,tadpole,scorpion,minion,donut,elvis,owl,dog,shell,bouquet,legs,macaroni,brick,tree,eyebrows,tongue,toes,mi,wheel,pepper,bird,icecube,chomp,ella,pig,jerky,notes,cheese,wood,pancake,cockroach,student,professor,2.0,4.0,8.0,8.0,7.0,8.0,0
-schema,77274be1-f251-4135-ab30-69c2fa7cdebe,Q15A59,01KHYDR5A4JEP55SC312Q15A59,0,,,,True,4g,False,8.85,50.0,1680,975,1664,872,es,macOS desktop / Chrome,yes,fairly_paid,adequate,4.0,5.0,no,no,,thanks,,0,119.056,57.189,243.794,174.075,112.448,300.0,"Image 1:eyes out  
+schema,77274be1-f251-4135-ab30-69c2fa7cdebe,Q15A59,01KHYDR5A4JEP55SC312Q15A59,0,,,,True,4g,False,8.85,50.0,1680,975,1664,872,es,macOS desktop / Chrome,yes,fairly_paid,adequate,4.0,5,no,no,,thanks,,0,119.056,57.189,243.794,174.075,112.448,300.0,"Image 1:eyes out  
 Image 2:eyes in","Image 1:eyes out 
 Image 2:eyes in 
 Image 3:eyes left 
@@ -2804,7 +2804,7 @@ Image 5:pbyt
 Image 6:orbs
 Image 7:pby
 Image 8:",eyes in,eyes out,eyes in,eyes left,eyes in,eyes down,purple hat,eyes right,brown shoes,eyes in,eyes left,eyes out,red hands,eyes down,prb,ory,orb,obb,pby,pry,pbb,oby,oby,orb,ory,pry,obb,pbb,pby,prb,pbyp,pbys,orbr,orb,orbc,orbb,pbyt,pbyr,1.0,3.0,6.0,8.0,8.0,5.0,0
-schema,9aea173a-5fc1-476f-8413-d82d560bc1c0,Q15A59,01KHYDR5A4JEP55SC312Q15A59,1,,,,True,4g,False,10.0,50.0,1920,1032,1920,911,en-CA,Windows desktop / Chrome,yes,fairly_paid,adequate,5.0,5.0,no,no,,,,0,83.436,54.559,241.944,187.446,110.662,300.0,"Image 1:eyes out  
+schema,9aea173a-5fc1-476f-8413-d82d560bc1c0,Q15A59,01KHYDR5A4JEP55SC312Q15A59,1,,,,True,4g,False,10.0,50.0,1920,1032,1920,911,en-CA,Windows desktop / Chrome,yes,fairly_paid,adequate,5.0,5,no,no,,,,0,83.436,54.559,241.944,187.446,110.662,300.0,"Image 1:eyes out  
 Image 2:eyes in","Image 1:eyes out 
 Image 2:eyes in 
 Image 3:eyes left 
@@ -2837,7 +2837,7 @@ Image 5:pbyt
 Image 6:orbs
 Image 7:pby
 Image 8:",eys in,eyes out,eyes in,eyes left,eyes out,eyes down,purple hat,brown shoes,red hands,eyes in,eyes left,eyes out,red hands,eyes down,prb,ory,orb,obb,pby,pry,pbb,oby,oby,orb,ory,pry,obb,pbb,pby,prb,pbyt,pbys,orbr,orbt,orbc,orbs,pbyt,pbyr,1.0,3.0,6.0,8.0,8.0,5.0,0
-nonschema,defbf648-a1a3-455a-b4cc-1d11418bc86f,QE3M01,01KHYEDY74AZ7ZKRJRVEQE3M01,1,,,,True,4g,False,10.0,50.0,1536,864,1536,695,en-GB,Linux desktop / Chrome,yes,fairly_paid,too_much,5.0,5.0,no,no,,,,0,54.996,57.327,103.246,191.253,179.822,250.098,"Image 1: owl
+nonschema,defbf648-a1a3-455a-b4cc-1d11418bc86f,QE3M01,01KHYEDY74AZ7ZKRJRVEQE3M01,1,,,,True,4g,False,10.0,50.0,1536,864,1536,695,en-GB,Linux desktop / Chrome,yes,fairly_paid,too_much,5.0,5,no,no,,,,0,54.996,57.327,103.246,191.253,179.822,250.098,"Image 1: owl
 Image 2: donut","Image 1: owl
 Image 2: donut
 Image 3: shell
@@ -2870,7 +2870,7 @@ Image 5: student
 Image 6: cockroach
 Image 7: jerky
 Image 8: wood",donut,owl,donut,elvis,owl,shell,tadpole,scorpion,minion,donut,elvis,owl,dog,shell,bouquet,legs,macaroni,brick,tree,eyebrows,tongue,toes,microscope,wheel,pepper,bird,icecube,chomp,ella,pig,jerky,notes,cheese,wood,pancake,cockroach,student,professor,2.0,4.0,8.0,8.0,7.0,8.0,0
-schema,5958ff2f-1438-4231-a3b3-248b55516b10,QVB21B,01KHYE43NP7DPK66NRYNQVB21B,1,,,,True,4g,False,10.0,100.0,1920,1032,1920,945,en-US,Linux desktop / Chrome,yes,fairly_paid,adequate,5.0,5.0,no,no,,so thankful for a great partner to work with ,,0,75.513,73.854,186.841,191.991,171.107,300.0,"Image 1:orange
+schema,5958ff2f-1438-4231-a3b3-248b55516b10,QVB21B,01KHYE43NP7DPK66NRYNQVB21B,1,,,,True,4g,False,10.0,100.0,1920,1032,1920,945,en-US,Linux desktop / Chrome,yes,fairly_paid,adequate,5.0,5,no,no,,so thankful for a great partner to work with ,,0,75.513,73.854,186.841,191.991,171.107,300.0,"Image 1:orange
 Image 2:purple","Image 1: right orange
 Image 2: right purple
 Image 3: left orange
@@ -2936,7 +2936,7 @@ Image 5: white guy
 Image 6: crab
 Image 7: purple guy
 Image 8: tall guy",circle,owl,circle,shoes,owl,frog,fish,scorpion,girl,circle,shoes,owl,dog,frog,peacock,glasses,duck,refridgerator,plant,glasses,monster,cake,chair,wheel,red guy,bird,white guy,yellow guy,rainbow,pig,purple guy,caterpillar,yellow guy,tall guy,circle,crab,white guy,wall clock,2.0,4.0,4.0,0.0,3.0,7.0,0
-nonschema,b61ecea8-075e-4286-bf9f-95e094e6f908,9TJB6Q,01KHYDVT5EZ3R0ZKC76R9TJB6Q,1,,,,True,4g,False,1.2,100.0,1536,816,1536,730,en-US,Windows desktop / Chrome,maybe,fairly_paid,adequate,3.0,2.0,yes,yes,video call going in and out,,bad video call,0,150.385,119.431,180.157,300.0,300.0,300.0,"Image 1:owl
+nonschema,b61ecea8-075e-4286-bf9f-95e094e6f908,9TJB6Q,01KHYDVT5EZ3R0ZKC76R9TJB6Q,1,,,,True,4g,False,1.2,100.0,1536,816,1536,730,en-US,Windows desktop / Chrome,maybe,fairly_paid,adequate,3.0,2,yes,yes,video call going in and out,,bad video call,0,150.385,119.431,180.157,300.0,300.0,300.0,"Image 1:owl
 Image 2:Man hole cover","Image 1:owl
 Image 2:manhole cover
 Image 3:r2d2
@@ -3002,7 +3002,7 @@ Image 5:soap
 Image 6:pot
 Image 7:red
 Image 8:thing",manhole cover,owl,manhole cover,bug,owl,r2d2,sward,scorpion,girl,manhole cover,bug,owl,dog,r2d2,leaves,monster,?,eyes,bush,eyes,monster,foot,,,eyes,nose,cube,,rainbow,leg,red,bug,gold,pipe,toilet,pot,soap,thing,1.0,4.0,7.0,4.0,0.0,0.0,3
-nonschema,4e341e28-00b8-4bb4-9cd0-337d39ae687d,KX2FC8,01KHYDSYZB3V0E9NYFZWKX2FC8,1,,,,True,4g,False,3.9,150.0,1366,728,1366,641,en-US,Windows desktop / Chrome,yes,fairly_paid,too_little,5.0,1.0,no,yes,"It kept taking me out,at the beginning,my partner had that issue,her audio wasnt working . Then it kept logging me out and by the time i am back into the game,it moves to another session","Its an interesting game,just need to be modified to be more accessible and steady for both partners to play successfully",,0,300.0,134.914,300.0,300.0,300.0,181.164,"1. owl
+nonschema,4e341e28-00b8-4bb4-9cd0-337d39ae687d,KX2FC8,01KHYDSYZB3V0E9NYFZWKX2FC8,1,,,,True,4g,False,3.9,150.0,1366,728,1366,641,en-US,Windows desktop / Chrome,yes,fairly_paid,too_little,5.0,1,no,yes,"It kept taking me out,at the beginning,my partner had that issue,her audio wasnt working . Then it kept logging me out and by the time i am back into the game,it moves to another session","Its an interesting game,just need to be modified to be more accessible and steady for both partners to play successfully",,0,300.0,134.914,300.0,300.0,300.0,181.164,"1. owl
 2. circle","Image 1: owl
 Image 2: circle
 Image 3: frog
@@ -3035,7 +3035,7 @@ Image 5: white guy
 Image 6: crab
 Image 7: purple guy
 Image 8: tall guy",circle,owl,circle,shoes,owl,frog,fish,scorpion,girl,circle,,,,,,,,man,,,,,,,red guy,,,,rainbow,pig,purple guy,caterpillar,yellow guy,tall guy,circle,bug,white guy,wall clock,2.0,4.0,4.0,0.0,3.0,7.0,16
-nonschema,c7edc7c7-ba40-4ea6-a4d1-088c09a3576b,3NZWFJ,01KH6PXCQXZQHZ7FC9E43NZWFJ,1,US,America/New_York,False,False,,,,,1920,1080,1869,1055,en-GB,macOS desktop / Chrome,yes,fairly_paid,adequate,5.0,5.0,no,no,,,,0,33.756,31.702,71.608,110.058,67.165,74.667,"Image 1: Bird
+nonschema,c7edc7c7-ba40-4ea6-a4d1-088c09a3576b,3NZWFJ,01KH6PXCQXZQHZ7FC9E43NZWFJ,1,US,America/New_York,False,False,,,,,1920,1080,1869,1055,en-GB,macOS desktop / Chrome,yes,fairly_paid,adequate,5.0,5,no,no,,,,0,33.756,31.702,71.608,110.058,67.165,74.667,"Image 1: Bird
 Image 2: Biscuit","Image 1: bird
 Image 2: biscuit
 Image 3: binoculars
@@ -3068,7 +3068,7 @@ Image 5: cream
 Image 6: black
 Image 7: purple
 Image 8: brown",biscuit,bird,biscuit,gascan,bird,binoculars,mower,scorpion,mushroom,biscuit,gascan,bird,pig,binoculars,peacock,switch,yellow,can,tree,binoculars,can,foot,grey,wheel,red,bird,white,yellow,rainbow,binoculars,purple,gum,yellow,brown,blue,black,cream,white,2.0,4.0,8.0,7.0,8.0,8.0,0
-nonschema,c3d67230-e545-4064-848d-21795294e346,3NZWFJ,01KH6PXCQXZQHZ7FC9E43NZWFJ,0,GB,Europe/London,False,False,4g,False,10.0,150.0,2048,1105,2048,983,en-GB,Windows desktop / Chrome,yes,fairly_paid,adequate,5.0,5.0,no,,,,,0,34.187,31.096,71.012,110.455,67.555,74.092,"Image 1: Bird
+nonschema,c3d67230-e545-4064-848d-21795294e346,3NZWFJ,01KH6PXCQXZQHZ7FC9E43NZWFJ,0,GB,Europe/London,False,False,4g,False,10.0,150.0,2048,1105,2048,983,en-GB,Windows desktop / Chrome,yes,fairly_paid,adequate,5.0,5,no,,,,,0,34.187,31.096,71.012,110.455,67.555,74.092,"Image 1: Bird
 Image 2: Biscuit","Image 1: bird
 Image 2: biscuit
 Image 3: binoculars
@@ -3101,7 +3101,7 @@ Image 5: cream
 Image 6: black
 Image 7: purple
 Image 8: brown",biscuit,bird,biscuit,gascan,bird,binoculars,mower,scorpion,mushroom,biscuit,gascan,bird,pig,binoculars,peacock,switch,yellow,tofu,tree,binoculars,can,foot,grey,wheel,red,bird,white,yellow,rainbow,binoculars,purple,gum,yellow,brown,blue,black,cream,white,2.0,4.0,8.0,7.0,8.0,8.0,0
-nonschema,6c74f0c7-da11-400b-bf19-ce7f590906e7,Z6FG46,01KH6Q348P48M64M9D8KZ6FG46,1,GB,Europe/London,False,False,4g,False,10.0,0.0,1280,672,1280,551,en-GB,Windows desktop / Chrome,yes,fairly_paid,adequate,4.0,5.0,,no,,Good partner!,,0,43.878,52.094,94.506,200.845,201.162,174.99,"Image 1: furby
+nonschema,6c74f0c7-da11-400b-bf19-ce7f590906e7,Z6FG46,01KH6Q348P48M64M9D8KZ6FG46,1,GB,Europe/London,False,False,4g,False,10.0,0.0,1280,672,1280,551,en-GB,Windows desktop / Chrome,yes,fairly_paid,adequate,4.0,5,,no,,Good partner!,,0,43.878,52.094,94.506,200.845,201.162,174.99,"Image 1: furby
 Image 2: donut","Image 1: furby
 Image 2: donut
 Image 3: pig
@@ -3134,7 +3134,7 @@ Image 5: white
 Image 6: spider
 Image 7: purple
 Image 8: brown",donut,furby,donut,robot,furby,pig,shark,scorpion,girl,donut,robot,furby,dog,pig,peacock,octopus,duck,bird,fern,eyebrow,waiter,four,robot,wheel,red,beak,cube,yellow,rainbow,pole,purple,post,cheese,brown,ring,spider,white,penguin,2.0,4.0,8.0,8.0,8.0,8.0,0
-nonschema,7b92edd4-9907-4aba-9bfc-6ae8b4d6474c,NFEW6M,01KH6Q0QMDTTYKXC22BFNFEW6M,1,US,America/Los_Angeles,False,False,,,,,1536,824,1536,711,en-US,Windows desktop / Firefox,yes,fairly_paid,adequate,5.0,5.0,no,no,,no,,0,44.167,63.907,59.124,165.152,138.812,136.929,"owl
+nonschema,7b92edd4-9907-4aba-9bfc-6ae8b4d6474c,NFEW6M,01KH6Q0QMDTTYKXC22BFNFEW6M,1,US,America/Los_Angeles,False,False,,,,,1536,824,1536,711,en-US,Windows desktop / Firefox,yes,fairly_paid,adequate,5.0,5,no,no,,no,,0,44.167,63.907,59.124,165.152,138.812,136.929,"owl
     
     
     
@@ -3170,7 +3170,7 @@ Image 5:feet
 Image 6:short
 Image 7:pink
 Image 8:legs",waffle,owl,waffle,bob,owl,bug,fish,scorpion,lego,waffle,bob,owl,balloon,bug,peacock,google,chicken,slug,green,alien,pink,quad,robot,disc,half,bird,cube,yellow,multi,google,pink,feet,yellow,legs,blue,short,feet,robot,2.0,4.0,8.0,7.0,7.0,6.0,0
-schema,1fddd949-922c-4edc-b9f6-4fd921d7c245,31GC47,01KH6Q040SA4NT7H9JFW31GC47,1,GB,Europe/London,False,True,4g,False,1.0,150.0,1707,1019,1699,935,zh-CN,Windows desktop / Edge,maybe,fairly_paid,adequate,3.0,3.0,no,no,,,,0,66.23,57.44,101.351,97.904,108.272,300.0,"Image 1: Orange
+schema,1fddd949-922c-4edc-b9f6-4fd921d7c245,31GC47,01KH6Q040SA4NT7H9JFW31GC47,1,GB,Europe/London,False,True,4g,False,1.0,150.0,1707,1019,1699,935,zh-CN,Windows desktop / Edge,maybe,fairly_paid,adequate,3.0,3,no,no,,,,0,66.23,57.44,101.351,97.904,108.272,300.0,"Image 1: Orange
 Image 2: Purple","Image 1: orange-black
 Image 2: purple-black
 Image 3: orange-red
@@ -3203,7 +3203,7 @@ Image 5: purple-black-yellow-white
 Image 6: orange-red-brown-black
 Image 7: purple-black-yellow-purple
 Image 8: orange-red-brown-brown",purple,orange,purple-black,orange-red,orange-black,purple-red,purple-black-brown,orange-black-brown,purple-red-brown,purple-black-yellow,orange-red-yellow,orange-black-yellow,orange-red-brown,purple-red-yellow,purple-red-brown,orange-red-yellow,orange-red-brown,orange-black-brown,purple-black-yellow,purple-red-yellow,purple-black-brown,orange-black-yellow,orange-black-yellow,orange-red-brown,orange-red-yellow,purple-red-yellow,orange-black-brown,purple-black-brown,purple-black-yellow,purple-red-brown,purple-black-yellow-purple,purple-black-yellow-pink,orange-red-brown-yellow,orange-red-brown-brown,orange-red-brown-blue,orange-red-brown-black,orange-black-yellow-white,purple-black-yellow-red,2.0,4.0,8.0,8.0,8.0,6.0,0
-schema,648306eb-7457-4605-9769-5e1b8de8cf68,31GC47,01KH6Q040SA4NT7H9JFW31GC47,0,GB,Europe/London,False,False,4g,False,10.0,50.0,1920,1032,1920,945,en-GB,Windows desktop / Chrome,yes,fairly_paid,adequate,4.0,5.0,no,no,,Really enjoyed taking part. Thank you!,,0,67.122,57.339,103.229,97.811,108.168,300.0,"Image 1: Orange
+schema,648306eb-7457-4605-9769-5e1b8de8cf68,31GC47,01KH6Q040SA4NT7H9JFW31GC47,0,GB,Europe/London,False,False,4g,False,10.0,50.0,1920,1032,1920,945,en-GB,Windows desktop / Chrome,yes,fairly_paid,adequate,4.0,5,no,no,,Really enjoyed taking part. Thank you!,,0,67.122,57.339,103.229,97.811,108.168,300.0,"Image 1: Orange
 Image 2: Purple","Image 1: orange-black
 Image 2: purple-black
 Image 3: orange-red
@@ -3236,7 +3236,7 @@ Image 5: purple-black-yellow-white
 Image 6: orange-red-brown-black
 Image 7: purple-black-yellow-purple
 Image 8: orange-red-brown-brown",purple,orange,purple-black,orange-red,orange-black,purple-red,purple-black-brown,orange-black-brown,purple-red-brown,purple-black-yellow,orange-red-yellow,orange-black-yellow,orange-red-brown,purple-red-yellow,purple-red-brown,orange-red-yellow,orange-red-brown,orange-black-brown,purple-black-yellow,purple-red-yellow,purple-black-brown,orange-black-yellow,orange-black-yellow,orange-red-brown,orange-red-yellow,purple-red-yellow,orange-black-brown,purple-black-brown,purple-black-yellow,purple-red-brown,purple-black-yellow-purple,purple-black-yellow-pink,orange-red-brown-yellow,orange-red-brown-brown,orange-red-brown-blue,purple-red-brown-black,purple-black-yellow-white,purple-black-yellow-red,2.0,4.0,8.0,8.0,8.0,6.0,0
-nonschema,87a25933-50f4-4a51-be56-3347d783e3ae,NFEW6M,01KH6Q0QMDTTYKXC22BFNFEW6M,0,GB,Europe/London,False,False,4g,False,7.0,200.0,1920,1040,1920,953,en-GB,Windows desktop / Chrome,yes,fairly_paid,adequate,4.0,5.0,no,no,,no,,0,63.87,65.47,103.882,175.923,158.548,149.718,"owl
+nonschema,87a25933-50f4-4a51-be56-3347d783e3ae,NFEW6M,01KH6Q0QMDTTYKXC22BFNFEW6M,0,GB,Europe/London,False,False,4g,False,7.0,200.0,1920,1040,1920,953,en-GB,Windows desktop / Chrome,yes,fairly_paid,adequate,4.0,5,no,no,,no,,0,63.87,65.47,103.882,175.923,158.548,149.718,"owl
     
     
     
@@ -3272,7 +3272,7 @@ Image 5:feet
 Image 6:short
 Image 7:pink
 Image 8:legs",waffle,owl,waffle,bob,owl,bug,fish,scorpion,lego,waffle,bob,owl,balloon,bug,peacock,google,chicken,slug,green,alien,pink,,robot,disc,half,bird,tiny,yellow,multi,google,pink,short,yellow,legs,chicken,short,feet,robot,2.0,4.0,8.0,7.0,7.0,6.0,1
-nonschema,a3288d19-4c4a-41cd-a1d6-f2d5b468a2ea,868SK9,01KH6Q4G0H4S76YNF9EX868SK9,1,US,America/Chicago,False,False,4g,False,10.0,0.0,1710,995,1710,908,en-US,macOS desktop / Chrome,yes,fairly_paid,adequate,5.0,5.0,no,no,,,,0,115.863,136.309,123.781,187.601,217.375,152.201,"1:Owl
+nonschema,a3288d19-4c4a-41cd-a1d6-f2d5b468a2ea,868SK9,01KH6Q4G0H4S76YNF9EX868SK9,1,US,America/Chicago,False,False,4g,False,10.0,0.0,1710,995,1710,908,en-US,macOS desktop / Chrome,yes,fairly_paid,adequate,5.0,5,no,no,,,,0,115.863,136.309,123.781,187.601,217.375,152.201,"1:Owl
 Image 2:moon man","Image 1:owl
 Image 2:moon man
 Image 3: frog
@@ -3305,7 +3305,7 @@ Image 5: small
 Image 6: squat
 Image 7:purple
 Image 8:legs",moon man,owl,moon man,comb over,owl,frog,fish,sting,pigtails,moon man,comb over,owl,dog,frog,flower,spider,van man,man,plant,alive,puppy,four feet,robot,wheel,comb over,bird,can,mouth,colorful,boy,purple,girl,yellow,legs,woman,squat,small,white,2.0,4.0,8.0,7.0,8.0,7.0,0
-nonschema,9db45dc3-45c1-47b0-bb9d-11db81be39d9,Z6FG46,01KH6Q348P48M64M9D8KZ6FG46,0,CA,America/Toronto,False,False,4g,False,10.0,50.0,1536,816,1536,730,en-US,Windows desktop / Chrome,yes,underpaid,adequate,4.0,5.0,no,no,,thank you !,,0,44.018,51.245,95.685,199.973,201.615,174.908,"Image 1: furby
+nonschema,9db45dc3-45c1-47b0-bb9d-11db81be39d9,Z6FG46,01KH6Q348P48M64M9D8KZ6FG46,0,CA,America/Toronto,False,False,4g,False,10.0,50.0,1536,816,1536,730,en-US,Windows desktop / Chrome,yes,underpaid,adequate,4.0,5,no,no,,thank you !,,0,44.018,51.245,95.685,199.973,201.615,174.908,"Image 1: furby
 Image 2: donut","Image 1: furby
 Image 2: donut
 Image 3: pig
@@ -3338,7 +3338,7 @@ Image 5: white
 Image 6: spider
 Image 7: purple
 Image 8: brown",donut,furby,donut,robot,furby,pig,shark,scorpion,girl,donut,robot,furby,dog,pig,peacock,octopus,duck,bird,fern,eyebrow,waiter,four,robot,wheel,red,beak,cube,yellow,rainbow,pole,purple,post,cheese,brown,ring,spider,white,penguin,2.0,4.0,8.0,8.0,8.0,8.0,0
-schema,0d9cb3ba-3f45-4b0e-ad3d-9ab0d373d60d,TBM35H,01KH6PZAK1FAYGYVGV66TBM35H,1,GB,Europe/London,False,False,4g,False,10.0,0.0,1710,1072,1710,951,en-US,macOS desktop / Chrome,yes,fairly_paid,adequate,5.0,5.0,no,no,,it was one of the best studies i have ever joind. thank you! ,,0,43.496,63.124,214.91,76.448,40.888,145.989,"Image 1: red 
+schema,0d9cb3ba-3f45-4b0e-ad3d-9ab0d373d60d,TBM35H,01KH6PZAK1FAYGYVGV66TBM35H,1,GB,Europe/London,False,False,4g,False,10.0,0.0,1710,1072,1710,951,en-US,macOS desktop / Chrome,yes,fairly_paid,adequate,5.0,5,no,no,,it was one of the best studies i have ever joind. thank you! ,,0,43.496,63.124,214.91,76.448,40.888,145.989,"Image 1: red 
 Image 2: gray","reImage 2:
 Image 3:
 Image 4:","Image 1:
@@ -3370,7 +3370,7 @@ Image 5:
 Image 6:
 Image 7:
 Image 8:",gray hair,red hair,gray right,red left,red right,gery left,grey right black brown,red right black brown,grey left red brown,grey right black yallow,red left red yellow,red right black yellow,red left red brown,grey left red yellow,grey left red brown,red right red yellow,red left red brown,red right black brown,grey right black yellow,grey left red yellow,grey right black brown,red right black yellow,red right black yellow,red left red brown,red left red yellow,grey left red yellow,red right black brown,grey right black brown,grey right black,grey left red brown,grey right red yellow,grey right yellow yellow,red left yellow brown,red left brown brown,red left blue brown,red left black brown,grey right white yellow,grey right white red yellow,1.0,2.0,7.0,6.0,7.0,7.0,0
-schema,3a04b5be-766d-4377-bce2-a20620e3dfbf,3TBNWP,01KH6Q15WK4EEH2ZZD713TBNWP,0,GB,Europe/London,False,False,4g,False,3.0,100.0,1536,816,1536,695,en-GB,Windows desktop / Chrome,yes,fairly_paid,adequate,4.0,5.0,no,no,,"thank you, it was fun",,0,70.123,117.146,300.0,97.943,248.468,100.698,"Image 1:robot  with orange hat
+schema,3a04b5be-766d-4377-bce2-a20620e3dfbf,3TBNWP,01KH6Q15WK4EEH2ZZD713TBNWP,0,GB,Europe/London,False,False,4g,False,3.0,100.0,1536,816,1536,695,en-GB,Windows desktop / Chrome,yes,fairly_paid,adequate,4.0,5,no,no,,"thank you, it was fun",,0,70.123,117.146,300.0,97.943,248.468,100.698,"Image 1:robot  with orange hat
 Image 2:robot with purple hat","Image 1:robot orange hat right
 Image 2:robot purple hat right
 Image 3:robot orange hat left
@@ -3403,7 +3403,7 @@ Image 5:purple black yellow
 Image 6:orange red brown
 Image 7:purple black yellow
 Image 8:orange red brown",robot with purple hat,robot with orange hat,robot purple hat right,robot orange hat left,robot orange hat right,robot purple hat right,"purple hat, right black hands brown boots",orange hat right black hands brown boots,purple hat left red hands brown boots,purple hat right black hands yellow boots,orange hat left red hands yellow boots,orange hat right black hands yellow boots,orange hat left red hands brown boots,purple hat left red hands yellow boots,purple red brown,orange red yellow,orange red brown,orange black brown,purple black yellow,purple red yellow,purple black brown,orange black yellow,orange black yellow,orange red brown,orange red yellow,purple red yellow,orange black brown,purple black brown,multi,purple red brown,purple black yellow,purple black yellow,orange red brown,orange red brown,orange red brown,orange red brown,purple black yellow,purple black yellow,2.0,2.0,7.0,8.0,8.0,2.0,0
-schema,86389228-309c-4705-a49a-591b7624dee5,TBM35H,01KH6PZAK1FAYGYVGV66TBM35H,0,GB,Europe/London,False,False,4g,False,7.0,50.0,1536,816,1536,695,en-US,Windows desktop / Chrome,yes,underpaid,adequate,5.0,4.0,no,no,,,,0,36.004,79.636,214.488,75.601,40.309,145.39,"Image 1: red 
+schema,86389228-309c-4705-a49a-591b7624dee5,TBM35H,01KH6PZAK1FAYGYVGV66TBM35H,0,GB,Europe/London,False,False,4g,False,7.0,50.0,1536,816,1536,695,en-US,Windows desktop / Chrome,yes,underpaid,adequate,5.0,4,no,no,,,,0,36.004,79.636,214.488,75.601,40.309,145.39,"Image 1: red 
 Image 2: gray","reImage 2:
 Image 3:
 Image 4:","Image 1:
@@ -3435,7 +3435,7 @@ Image 5:
 Image 6:
 Image 7:
 Image 8:",gray,red hair,grey right,red left,red right,gray left,grey right black brown,red right black brown,grey left red brown,grey right black yellow,red left red yellow,red right black yellow,red left red brown,grey left red yellow,grey left red brown,red left red yellow,red right red brown,red right black brown,grey right black yellow,grey left red yellow,grey right black brown,red right black yellow,red right black yellow,red left red brown,red left red yellow,grey left red yellow,red right black brown,grey right black brown,grey right black yellow,grey left red brown,grey right pink yellow,grey right yellow yellow,red left yellow brown,red left brown brown,red left blue brown,red left black brown,grey right white yellow,grey right white red yellow,1.0,2.0,7.0,6.0,7.0,7.0,0
-schema,3ac04d29-1352-4f0d-b2a3-e82de32439b6,3TBNWP,01KH6Q15WK4EEH2ZZD713TBNWP,1,CA,America/Toronto,False,False,4g,False,10.0,50.0,2560,1392,2327,1155,en-US,Windows desktop / Chrome,yes,fairly_paid,adequate,4.0,4.0,no,no,,,,0,70.243,116.262,300.0,97.053,249.546,99.797,"Image 1:robot  with orange hat
+schema,3ac04d29-1352-4f0d-b2a3-e82de32439b6,3TBNWP,01KH6Q15WK4EEH2ZZD713TBNWP,1,CA,America/Toronto,False,False,4g,False,10.0,50.0,2560,1392,2327,1155,en-US,Windows desktop / Chrome,yes,fairly_paid,adequate,4.0,4,no,no,,,,0,70.243,116.262,300.0,97.053,249.546,99.797,"Image 1:robot  with orange hat
 Image 2:robot with purple hat","Image 1:robot orange hat right
 Image 2:robot purple hat right
 Image 3:robot orange hat left
@@ -3468,7 +3468,7 @@ Image 5:purple black yellow
 Image 6:orange red brown
 Image 7:purple black yellow
 Image 8:orange red brown",robot with purple hat,robot with orange hat,robot orange hat right,robot orange hat left,robot orange hat right,robot purple hat left,purple hat righ black hands brown boots,orange hat right black hands brown boots,purple hat left red hands brown boots,purple hat right black hands yellow boots,orange hat left red hands yellow boots,orange hat right black hands yellow boots,orange hat left red hands brown boots,purple hat left red hands yellow boots,purple red brown,orange red yellow,orange red brown,orange black brown,purple black yellow,purple red yellow,purple black brown,orange black yellow,orange black yellow,orange red brown,orange red yellow,purple red yellow,orange black brown,purple black brown,multi,purple red brown,purple black yellow,purple black yellow,orange red brown,orange red brown,orange red brown,orange red brown,purple black yellow,purple black yellow,2.0,2.0,7.0,8.0,8.0,2.0,0
-schema,54912a51-daab-4d76-bcda-baa68636c238,VF2XR4,01KH6QQ54D8BXY06RRPXVF2XR4,0,GB,Europe/London,False,False,4g,False,7.3,50.0,1920,1080,1920,991,en-US,Windows desktop / Chrome,yes,fairly_paid,adequate,5.0,5.0,no,no,,none,,0,52.788,34.594,106.622,132.727,99.814,247.919,"Image 1: Orange hat
+schema,54912a51-daab-4d76-bcda-baa68636c238,VF2XR4,01KH6QQ54D8BXY06RRPXVF2XR4,0,GB,Europe/London,False,False,4g,False,7.3,50.0,1920,1080,1920,991,en-US,Windows desktop / Chrome,yes,fairly_paid,adequate,5.0,5,no,no,,none,,0,52.788,34.594,106.622,132.727,99.814,247.919,"Image 1: Orange hat
 Image 2: Purple hat","Image 1:orange hat right
 Image 2:purple hat right
 Image 3: orange hat left
@@ -3501,7 +3501,7 @@ Image 5: purple medium
 Image 6: orange short
 Image 7: purple pink
 Image 8: orange long legs",purple hat,orange hat,purple hat right,orange hat left,orange hat right,purple hat left,purple hat right black brown,orange hat right black brown,purple hat left red brown,purple hat right black yellow,orange hat left red yellow,orange hat right black yellow,orange hat left red brown,purple hat left red yellow,purple hat left red brown,orange hat left red yellow,orange hat left red brown,orange hat right black brown,purple hat right black yellow,purple hat left red yellow,purple hat right black brown,orange hat right black yellow,orange hat right black yellow,orange hat left red brown,orange hat left red yellow,purple hat left red yellow,orange hat right black brown,purple hat right black brown,purple hat right black yellow,purple hat left red brown,purple pink,purple short,orange lego,orange long legs,orange toilet,orange short,purple medium,purple tall,2.0,4.0,7.0,8.0,8.0,8.0,0
-schema,205e06d5-26db-4204-8bc6-5d79983260ad,VF2XR4,01KH6QQ54D8BXY06RRPXVF2XR4,1,US,America/New_York,False,False,4g,False,8.75,50.0,1536,816,1536,730,en-US,Windows desktop / Chrome,yes,underpaid,adequate,5.0,5.0,no,no,,,,0,51.719,33.497,106.491,132.931,98.673,248.798,"Image 1: Orange hat
+schema,205e06d5-26db-4204-8bc6-5d79983260ad,VF2XR4,01KH6QQ54D8BXY06RRPXVF2XR4,1,US,America/New_York,False,False,4g,False,8.75,50.0,1536,816,1536,730,en-US,Windows desktop / Chrome,yes,underpaid,adequate,5.0,5,no,no,,,,0,51.719,33.497,106.491,132.931,98.673,248.798,"Image 1: Orange hat
 Image 2: Purple hat","Image 1:orange hat right
 Image 2:purple hat right
 Image 3: orange hat left
@@ -3534,7 +3534,7 @@ Image 5: purple medium
 Image 6: orange short
 Image 7: purple pink
 Image 8: orange long legs",purple hat,orange hat,purple hat right,orange hat left,orange hat right,purple hat left,purple hat right black brown,orange hat right black brown,purple hat left red brown,purple hat right black yellow,orange hat left red yellow,orange hat right black yellow,orange hat left red brown,purple hair left red yellow,purple hat left red brown,orange hat left red yellow,orange hat left red brown,orange hat right black brown,purple hat right black yellow,purple hat left red yellow,purple hat right black brown,orange hat right black yellow,orange hat right black yellow,orange hat left red brown,orange hat left red yellow,purple hat left red yellow,orange hat right black brown,purple hat right black brown,purple hat right black yellow,purple hat left red brown,purple pink,purple short,orange lego,orange long legs,orange toilet,orange short,purple medium,purple tall,2.0,4.0,7.0,8.0,8.0,8.0,0
-nonschema,5e23445d-4ef5-4996-a5cd-c938805a40d9,868SK9,01KH6Q4G0H4S76YNF9EX868SK9,0,GB,Europe/London,False,False,4g,False,10.0,50.0,1456,864,1456,758,en-US,Windows desktop / Edge,yes,fairly_paid,adequate,4.0,5.0,no,no,,No I don't think so,,0,114.923,136.387,124.53,187.216,217.036,151.273,"1:Owl
+nonschema,5e23445d-4ef5-4996-a5cd-c938805a40d9,868SK9,01KH6Q4G0H4S76YNF9EX868SK9,0,GB,Europe/London,False,False,4g,False,10.0,50.0,1456,864,1456,758,en-US,Windows desktop / Edge,yes,fairly_paid,adequate,4.0,5,no,no,,No I don't think so,,0,114.923,136.387,124.53,187.216,217.036,151.273,"1:Owl
 Image 2:moon man","Image 1:owl
 Image 2:moon man
 Image 3: frog
@@ -3567,7 +3567,7 @@ Image 5: small
 Image 6: squat
 Image 7:purple
 Image 8:legs",moon man,owl,moon man,comb over,owl,frog,fish,sting,pigtails,moon man,comb over,owl,dog,frog,flower,spider,van man,man,four feet,alive,puppy,four feet,robot,wheel,comb over,bird,can,mouth,colorful,boy,purple,girl,yellow,leggs,woman,squat,small,white,2.0,4.0,8.0,7.0,8.0,7.0,0
-nonschema,f29a603d-9254-45f5-9d38-fafcd19dfaae,3XTW7A,01KH6QD1M2AP5TJYJ41G3XTW7A,0,US,America/Chicago,False,False,4g,False,0.7,100.0,1470,851,1470,761,en-US,macOS desktop / Chrome,yes,underpaid,adequate,5.0,4.0,no,no,,It stinks to be punished when you partner doesn't participate.,,2,67.471,95.141,62.046,129.721,300.0,90.264,"Image 1: owl
+nonschema,f29a603d-9254-45f5-9d38-fafcd19dfaae,3XTW7A,01KH6QD1M2AP5TJYJ41G3XTW7A,0,US,America/Chicago,False,False,4g,False,0.7,100.0,1470,851,1470,761,en-US,macOS desktop / Chrome,yes,underpaid,adequate,5.0,4,no,no,,It stinks to be punished when you partner doesn't participate.,,2,67.471,95.141,62.046,129.721,300.0,90.264,"Image 1: owl
 Image 2: donut","Image 1: owl
 Image 2: donut
 Image 3: robot
@@ -3600,7 +3600,7 @@ Image 5: pig
 Image 6: coal
 Image 7: stripe
 Image 8: tall",donut,owl,donut,bird,owl,robot,fish,scorpion,girl,donut,bird,owl,dog,robot,peacock,monkey,banana,wall,tree,funny,present,toes,gray,wheel,fire,parrot,dice,cheese,colors,pig,stripe,bug,block,tall,tube,coal,pig,guy,2.0,4.0,8.0,4.0,0.0,0.0,0
-schema,ada3f668-e05b-4225-beb9-73c3a7883f62,CA1VF5,01KH6Q58RR8EYEFJE46ACA1VF5,0,GB,Europe/London,False,False,4g,False,10.0,50.0,2560,1392,1587,883,en-US,Windows desktop / Chrome,yes,fairly_paid,adequate,4.0,5.0,no,no,,,,0,86.1,132.551,239.502,236.555,168.565,169.82,"Image 1: orange hat
+schema,ada3f668-e05b-4225-beb9-73c3a7883f62,CA1VF5,01KH6Q58RR8EYEFJE46ACA1VF5,0,GB,Europe/London,False,False,4g,False,10.0,50.0,2560,1392,1587,883,en-US,Windows desktop / Chrome,yes,fairly_paid,adequate,4.0,5,no,no,,,,0,86.1,132.551,239.502,236.555,168.565,169.82,"Image 1: orange hat
 Image 2: purple hat","Image 1: orange hat
 Image 2: purple hat
 Image 3: orange red hands
@@ -3633,7 +3633,7 @@ Image 5:train
 Image 6:crab
 Image 7:egg plant
 Image 8:poo",purple hat,orange hat,purple hat,orange red hands,orange hat,purple red hands,mini,rudi,maxi,ruby,orange red hands,orange hat,ruby,purple red hands,hinge body,shorty,tube legs,small head,owl,long legs,round belly,old,robot,wheel,red,nose,cube,big mouth,rainbow,shorty,egg plant,post it,lego,poo,cycle,crab,train,transformer,2.0,4.0,2.0,4.0,8.0,7.0,0
-schema,9d33fd03-6ff3-42fe-a38d-a892b9954a75,CA1VF5,01KH6Q58RR8EYEFJE46ACA1VF5,1,GB,Europe/London,False,False,4g,False,9.75,50.0,1280,672,1280,585,en-GB,Windows desktop / Chrome,yes,fairly_paid,adequate,5.0,5.0,no,no,,none,,0,85.54,130.096,242.0,236.041,169.808,171.053,"Image 1: orange hat
+schema,9d33fd03-6ff3-42fe-a38d-a892b9954a75,CA1VF5,01KH6Q58RR8EYEFJE46ACA1VF5,1,GB,Europe/London,False,False,4g,False,9.75,50.0,1280,672,1280,585,en-GB,Windows desktop / Chrome,yes,fairly_paid,adequate,5.0,5,no,no,,none,,0,85.54,130.096,242.0,236.041,169.808,171.053,"Image 1: orange hat
 Image 2: purple hat","Image 1: orange hat
 Image 2: purple hat
 Image 3: orange red hands
@@ -3666,7 +3666,7 @@ Image 5:train
 Image 6:crab
 Image 7:egg plant
 Image 8:poo",purple hat,orange hat,purple hat,orange red hands,orange hat,purple red hands,mini,ruddy,maxi,purple hat,rubby,rudi,rubi,maxi,hinge body,shorty,tube leg,small head,long legs,owl,small head,old,robot,wheel,red,nose,cube,big mouth,rainbow,shorty,egg plant,post,lego,poo,cycle,crab,train,transformer,2.0,4.0,2.0,4.0,8.0,7.0,0
-schema,d60a4658-874e-46bd-9acb-c377934d9491,30BS7N,01KH6QXN3EGYHX6G276M30BS7N,0,CA,America/Toronto,False,False,4g,False,10.0,150.0,1280,752,1272,674,en-US,Windows desktop / Edge,yes,underpaid,adequate,5.0,5.0,no,no,,,,0,29.729,104.454,131.947,164.662,83.149,300.0,"Image 1: orange
+schema,d60a4658-874e-46bd-9acb-c377934d9491,30BS7N,01KH6QXN3EGYHX6G276M30BS7N,0,CA,America/Toronto,False,False,4g,False,10.0,150.0,1280,752,1272,674,en-US,Windows desktop / Edge,yes,underpaid,adequate,5.0,5,no,no,,,,0,29.729,104.454,131.947,164.662,83.149,300.0,"Image 1: orange
 Image 2: purple","Image 1: orange right
 Image 2: purple right
 Image 3: orange left
@@ -3699,7 +3699,7 @@ Image 5: purple right square white
 Image 6: orange right square
 Image 7:purple right square magenta 
 Image 8:orange left square brown",purple,orange,purple right,orange left,orange right,purple left,purple right black brown,orange right black brown,purple left red brown,purple right black yellow,orange left red yellow,orange right black yellow,orange left red brown,purple left red yellow,purple left red brown,orange left red yellow,orange left red brown,orange right black brown,purple right black yellow,purple left red yellow,purple right black brown,orange right black yellow,orange right black yellow,orange left red brown,orange left red yellow,purple left red yellow,orange right black brown,purple right black brown,purple right black yellow,purple left red brown,purple right square magenta,purple right square,orange left square,orange left square brown,orange left circle,orange left square,purple right square white,purple right square,2.0,4.0,8.0,8.0,8.0,4.0,0
-schema,130cc062-b69f-4dfa-9302-7f837356da32,30BS7N,01KH6QXN3EGYHX6G276M30BS7N,1,CA,America/Toronto,False,False,4g,False,10.0,0.0,1920,1080,1920,957,en-US,Windows desktop / Chrome,yes,fairly_paid,adequate,5.0,5.0,no,no,,,,0,29.958,105.696,132.259,164.95,83.376,300.0,"Image 1: orange
+schema,130cc062-b69f-4dfa-9302-7f837356da32,30BS7N,01KH6QXN3EGYHX6G276M30BS7N,1,CA,America/Toronto,False,False,4g,False,10.0,0.0,1920,1080,1920,957,en-US,Windows desktop / Chrome,yes,fairly_paid,adequate,5.0,5,no,no,,,,0,29.958,105.696,132.259,164.95,83.376,300.0,"Image 1: orange
 Image 2: purple","Image 1: orange right
 Image 2: purple right
 Image 3: orange left
@@ -3732,7 +3732,7 @@ Image 5: purple right square white
 Image 6: orange right square
 Image 7:purple right square magenta 
 Image 8:orange left square brown",purple,orange,purple right,orange left,orange right,purple left,purple right black brown,orange right black brown,purple left red brown,purple right black yellow,orange left red yellow,orange right black yellow,orange left red brown,purple left red yellow,purple left red brown,orange left red yellow,orange left red brown,orange right black brown,purple right black yellow,purple left red yellow,purple right black brown,orange right black yellow,orange right black yellow,orange left red brown,orange left red yellow,purple left red yellow,orange right black brown,purple right black brown,purple right black yellow,purple left red brown,purple left square magenta,purple right square,orange left square,orange left square brown,orange left square,orange left square,purple right square white,purple right square,2.0,4.0,8.0,8.0,8.0,4.0,0
-nonschema,67035696-2785-42ec-8c7d-80ffe8ab23a0,HCMSNR,01KH6QJEQE5NKC81W8CJHCMSNR,0,US,America/Indiana/Indianapolis,False,True,4g,False,4.45,100.0,1920,1032,1920,945,en-US,Windows desktop / Chrome,yes,fairly_paid,too_much,4.0,3.0,no,no,,,,1,23.523,86.445,59.597,73.792,53.662,53.132,"Image 1:owl
+nonschema,67035696-2785-42ec-8c7d-80ffe8ab23a0,HCMSNR,01KH6QJEQE5NKC81W8CJHCMSNR,0,US,America/Indiana/Indianapolis,False,True,4g,False,4.45,100.0,1920,1032,1920,945,en-US,Windows desktop / Chrome,yes,fairly_paid,too_much,4.0,3,no,no,,,,1,23.523,86.445,59.597,73.792,53.662,53.132,"Image 1:owl
 Image 2:cookie","Image 1:owl 
 Image 2:COOKIE
 Image 3: TURTLE
@@ -3765,7 +3765,7 @@ Image 5:hair
 Image 6:spider
 Image 7:candy
 Image 8:tLegs",cookie,owl,cookie,frog,owl,turtle,skunk,scorpion,person,cookie,frog,owl,elephant,turtle,flower,eyebrow,man,block,tree,eyebrow,present,cups,robot,lid,child,bird,square,box,artist,eyebrows,candy,file,hair,hair,pizza,spider,hair,robot,0.0,4.0,7.0,6.0,7.0,6.0,0
-schema,49c18a2b-9127-45cb-b490-2a7ba9d9bfa1,VT5G2M,01KH6Q9PT4X9RRC4K9CDVT5G2M,0,GB,Europe/London,False,False,4g,False,10.0,0.0,2560,1392,2560,1305,en-GB,Windows desktop / Chrome,yes,fairly_paid,adequate,5.0,5.0,no,no,,,,0,52.896,87.758,137.908,269.875,211.076,242.419,"Image 1: orange
+schema,49c18a2b-9127-45cb-b490-2a7ba9d9bfa1,VT5G2M,01KH6Q9PT4X9RRC4K9CDVT5G2M,0,GB,Europe/London,False,False,4g,False,10.0,0.0,2560,1392,2560,1305,en-GB,Windows desktop / Chrome,yes,fairly_paid,adequate,5.0,5,no,no,,,,0,52.896,87.758,137.908,269.875,211.076,242.419,"Image 1: orange
 Image 2: purple","Image 1: orange with black hands
 Image 2:purple with black hands
 Image 3: orange with red hands
@@ -3799,7 +3799,7 @@ Image 6:orange hair, red arms, brown feet, black body
 Image 7:purple hair, black arms, yellow feet, pink body
 Image 8:orange hair, red arms, brown legs and feet",purple,orange,purple with black hands,orange with red hands,orange with black hands,purple with red hands,"purple with black hands, brown feet","orange with black hands, brown feet","purple with red hands, brown fee","purple with black hands, yellow feet","orange with red hands,
  yellow feet","orange with black hands, yellow feet","orange with red hands, brown feet","purple with red hands, yellow feet","purple hair, red arms, brown feet","orange hair, red arms, yellow feet","orange hair, red arms, brown feet","orange hair, black arms, brown feet","purple hair, black arms, yellow feet","purple hair, red arms, yellow feet","purple hair, black arms,  brown feet","orange hair, black arms, yellow feet","orange hair, chair, yellow feet","orange hair, red arms, brown feet","orange hair, red arms, yellow feet","purple hair, red arms, yellow feet","orange hair, black arms, brown feet","purple hair, black arms, brown feet","colored body, black arms, yellow feet","purple hair, red arms, brown feet","purple hair, black arms, yellow feet, pink body","purple hair, black arms, yellow feet","orange hair, red arms, brown feet, yellow body","orange hair, red a, brown legs and feet","orange hair, red arms, brown feet","orange hair, red arms, brown feet, black body","purple hair, black arms, yellow feet","purple hair, black arms, red and yellow feet",2.0,4.0,6.0,7.0,6.0,4.0,0
-schema,75019074-f987-47ca-b73e-0e1b9a36b2a4,VT5G2M,01KH6Q9PT4X9RRC4K9CDVT5G2M,1,GB,Europe/London,False,False,4g,False,10.0,50.0,3440,1440,3432,1322,en-US,Windows desktop / Edge,yes,fairly_paid,adequate,5.0,5.0,no,no,,,,0,52.353,91.192,139.369,271.335,214.516,250.883,"Image 1: orange
+schema,75019074-f987-47ca-b73e-0e1b9a36b2a4,VT5G2M,01KH6Q9PT4X9RRC4K9CDVT5G2M,1,GB,Europe/London,False,False,4g,False,10.0,50.0,3440,1440,3432,1322,en-US,Windows desktop / Edge,yes,fairly_paid,adequate,5.0,5,no,no,,,,0,52.353,91.192,139.369,271.335,214.516,250.883,"Image 1: orange
 Image 2: purple","Image 1: orange with black hands
 Image 2:purple with black hands
 Image 3: orange with red hands
@@ -3832,7 +3832,7 @@ Image 5:purple hair, black arms, yellow feet, white body
 Image 6:orange hair, red arms, brown feet, black body
 Image 7:purple hair, black arms, yellow feet, pink body
 Image 8:orange hair, red arms, brown legs and feet",purple,orange,purple with black hands,orange with red hands,orange with black hands,purple with red hands,"purple with black hands, brown feet","orange with black hands, brown feet","purple with red hands, brown feet","purple with black hands, yellow feet","orange with red hands, yellow feet","orange with black hands, yellow feet","orange with red hands, brown feet","purple with red hands, yellow feet","purple hair, red arms, brown feet","orange hair, red arms, yellow feet","orange hair, red arms, brown feet","orange hair, black arms, brown feet","purple hair, black arms, yellow feet","purple hair, red arms, yellow feet","purple hair, black arms, brown feet","orange hair, black arms, yellow feet","orange hair, chair, yellow feet","orange hair, red arms, brown feet","orange hair, red arms, yellow feet","purple hair, lime body, yellow feet","orange hair, black arms, brown feet","purple hair, black arms, brown feet","purple hair, colorful body","purple hair, red arms, brown feet","purple hair, black arms, yellow feet, pink body","purple hair, black arms, yellow feet","orange hair, red arms, brown feet, yellow body","orange hair, red arms, brown feet, brown body","orange hair, red arm, brown feet","orange hair, red arms, brown feet","purple hair, black arms, yellow feet, white body","purple hair, black arms, red and yellow feet",2.0,4.0,6.0,7.0,6.0,4.0,0
-nonschema,eac300d1-6997-4903-84ff-9a37e057513e,HCMSNR,01KH6QJEQE5NKC81W8CJHCMSNR,1,GB,Europe/London,False,False,4g,False,4.75,100.0,1366,687,1366,600,en-GB,Windows desktop / Chrome,yes,fairly_paid,adequate,5.0,5.0,no,no,,,,0,300.0,88.726,83.702,109.782,125.142,145.321,"Image 1:owl
+nonschema,eac300d1-6997-4903-84ff-9a37e057513e,HCMSNR,01KH6QJEQE5NKC81W8CJHCMSNR,1,GB,Europe/London,False,False,4g,False,4.75,100.0,1366,687,1366,600,en-GB,Windows desktop / Chrome,yes,fairly_paid,adequate,5.0,5,no,no,,,,0,300.0,88.726,83.702,109.782,125.142,145.321,"Image 1:owl
 Image 2:cookie","Image 1:owl 
 Image 2:COOKIE
 Image 3: TURTLE
@@ -3898,7 +3898,7 @@ Image 5: pig
 Image 6: coal
 Image 7: stripe
 Image 8: tall",donut,owl,donut,bird,owl,robot,fish,scorpion,girl,donut,bird,owl,dog,robot,peacock,funny,bananas,wall,;tree,funny,,toes,,,,,,banana,,,,,,,,,,,2.0,4.0,8.0,4.0,0.0,0.0,16
-schema,34e25190-7e8a-444f-bd5c-bcc3b712bde8,RHNS8Z,01KGQFACXVPMTHEGVDR0RHNS8Z,1,GB,Europe/London,False,False,,,,,1499,891,1499,891,en-GB,macOS desktop / Safari,yes,,adequate,3.0,3.0,no,no,,,,0,25.232,49.934,62.985,83.211,75.229,89.238,"Image 1: Orange
+schema,34e25190-7e8a-444f-bd5c-bcc3b712bde8,RHNS8Z,01KGQFACXVPMTHEGVDR0RHNS8Z,1,GB,Europe/London,False,False,,,,,1499,891,1499,891,en-GB,macOS desktop / Safari,yes,N/A,adequate,3.0,3,no,no,,n/a,,0,25.232,49.934,62.985,83.211,75.229,89.238,"Image 1: Orange
 Image 2: Purple","Image 1: orange right
 Image 2: purple right
 Image 3:orange left
@@ -3931,7 +3931,7 @@ Image 5:bob
 Image 6:black
 Image 7:magenta
 Image 8:brown",purple,orange,purple right,orange left,orange right,purple left,purple brown right,orange brown right,purple brown left,purple right,orange left,orange right,orange brown left,purple left,purple brown left,orange short left,orange brown left,orange tall right,purple right,purple short left,purple brown right,orange right,grey,green,short,parrot,square,yellow,multi,short,magenta,pink,yellow,brown,blue,black,bob,white,2.0,4.0,8.0,6.0,7.0,8.0,0
-schema,52cef16d-19ce-4628-9a54-edc79c3d5e24,RHNS8Z,01KGQFACXVPMTHEGVDR0RHNS8Z,0,US,America/Los_Angeles,False,False,4g,False,10.0,100.0,1536,816,1920,869,en-US,Windows desktop / Chrome,yes,fairly_paid,too_much,5.0,5.0,no,yes,"Even though my mic was working, the other player couldn't hear me.","Despite him not being able to hear me after the first round, we communicated well through gestures and facial expressions.",,0,26.924,48.995,64.059,85.009,75.59,89.629,"Image 1: Orange
+schema,52cef16d-19ce-4628-9a54-edc79c3d5e24,RHNS8Z,01KGQFACXVPMTHEGVDR0RHNS8Z,0,US,America/Los_Angeles,False,False,4g,False,10.0,100.0,1536,816,1920,869,en-US,Windows desktop / Chrome,yes,fairly_paid,too_much,5.0,5,no,yes,"Even though my mic was working, the other player couldn't hear me.","Despite him not being able to hear me after the first round, we communicated well through gestures and facial expressions.",,0,26.924,48.995,64.059,85.009,75.59,89.629,"Image 1: Orange
 Image 2: Purple","Image 1: orange right
 Image 2: purple right
 Image 3:orange left
@@ -3964,7 +3964,7 @@ Image 5:bob
 Image 6:black
 Image 7:magenta
 Image 8:brown",purple,orange,purple right,orange left,orange right,purple left,purple brown right,orange brown right,purple brown left,purple right,orange left,orange right,orange brown left,purple left,purple brown left,orange short left,orange brown left,orange tall right,purple right,purple left,purple tall right,orange right,grey,green,short,parrot,square,yellow,multi,bob,magenta,pink,yellow,brown,blue,black,bob,white,2.0,4.0,8.0,6.0,7.0,8.0,0
-nonschema,e57bb354-fea7-4efd-8b8d-2870e98ecdb5,987DM5,01KGQFRAFRPS2J1HZJ4G987DM5,0,CA,America/Toronto,False,False,4g,False,10.0,50.0,1280,672,1280,551,en-US,Windows desktop / Chrome,yes,fairly_paid,adequate,4.0,5.0,no,yes,"The first trial was a little glitchy. Also in the page just before this one, I had issues typing in what year i was born and had to play around with it before I could continue ",,,0,41.528,38.989,57.586,102.371,139.079,131.244,"Image 1: owl
+nonschema,e57bb354-fea7-4efd-8b8d-2870e98ecdb5,987DM5,01KGQFRAFRPS2J1HZJ4G987DM5,0,CA,America/Toronto,False,False,4g,False,10.0,50.0,1280,672,1280,551,en-US,Windows desktop / Chrome,yes,fairly_paid,adequate,4.0,5,no,yes,"The first trial was a little glitchy. Also in the page just before this one, I had issues typing in what year i was born and had to play around with it before I could continue ",,,0,41.528,38.989,57.586,102.371,139.079,131.244,"Image 1: owl
 Image 2: pizza","Image 1: owl
 Image 2: pizza
 Image 3: binoculars
@@ -3997,7 +3997,7 @@ Image 5: boat
 Image 6: crab
 Image 7: fruit
 Image 8: tall",owl,owl,pizza,robot,owl,binocular,fish,scorpion,helmet,pizza,robot,owl,dog,binoculars,peacock,legs,duck,paper,tree,binoculars,mailbox,piano,robot,ship,anger,bird,fish,mouth,colours,skinny,fruit,snail,cheese,tall,circle,crab,boat,awkward,1.0,3.0,8.0,7.0,8.0,8.0,0
-nonschema,103e66ac-209a-4182-89ea-ce64bcf7ee0b,987DM5,01KGQFRAFRPS2J1HZJ4G987DM5,1,CA,America/Toronto,False,False,4g,False,10.0,50.0,1440,900,1440,812,en-US,macOS desktop / Chrome,yes,fairly_paid,adequate,4.0,4.0,no,yes,"when submitting a response in round 2 or 3, it erased half of my word",,,0,41.12,37.543,57.117,102.897,138.569,130.806,"Image 1: owl
+nonschema,103e66ac-209a-4182-89ea-ce64bcf7ee0b,987DM5,01KGQFRAFRPS2J1HZJ4G987DM5,1,CA,America/Toronto,False,False,4g,False,10.0,50.0,1440,900,1440,812,en-US,macOS desktop / Chrome,yes,fairly_paid,adequate,4.0,4,no,yes,"when submitting a response in round 2 or 3, it erased half of my word",N/A,,0,41.12,37.543,57.117,102.897,138.569,130.806,"Image 1: owl
 Image 2: pizza","Image 1: owl
 Image 2: pizza
 Image 3: binoculars
@@ -4030,7 +4030,7 @@ Image 5: boat
 Image 6: crab
 Image 7: fruit
 Image 8: tall",pizza,owl,pizza,robot,owl,binoculars,fish,scorpion,helmet,pizza,robot,owl,dog,binoculars,peacock,legs,duck,paper,tree,bin,mailbox,piano,robot,ship,anger,bird,fish,mouth,colours,skinny,fruit,snail,cheese,tall,circle,crab,boat,awkward,1.0,3.0,8.0,7.0,8.0,8.0,0
-schema,dcd77f4a-8a88-4614-997e-7d0125aca302,GQK8HG,01KGQG2FZVDM6QWWQASVGQK8HG,0,GB,Europe/London,False,False,4g,False,10.0,50.0,1470,924,1470,831,en-GB,macOS desktop / Chrome,yes,,adequate,5.0,5.0,no,no,,,,0,72.944,196.894,227.995,96.761,119.837,300.0,"orange head
+schema,dcd77f4a-8a88-4614-997e-7d0125aca302,GQK8HG,01KGQG2FZVDM6QWWQASVGQK8HG,0,GB,Europe/London,False,False,4g,False,10.0,50.0,1470,924,1470,831,en-GB,macOS desktop / Chrome,yes,N/A,adequate,5.0,5,no,no,,,,0,72.944,196.894,227.995,96.761,119.837,300.0,"orange head
 purple head","image 1: orange black head
 image 2: purple black head
 Image 3: orange red head
@@ -4063,7 +4063,7 @@ Image 5:pbyt
 Image 6:orbrblackrectangle
 Image 7:pbypurplerectangle
 Image 8:orbrbrownrectangle",purple head,orange head,purple black head,orange red head,orange black head,purple red head,pbbr,obbr,prbr,pby,ory,oby,orbr,pry,prbr,ory,orbr,rbbr,pby,pry,pbbr,oby,oby,orbr,ory,pry,obbr,pbbr,pby,prbr,pbypinkrectangle,pbypinksquare,orbrrectangle,orbrrectangle,orbrbluecircle,orbrblackrectangle,pbyt,pbywhiterectangle,2.0,4.0,8.0,7.0,8.0,1.0,0
-nonschema,4fb5a436-b8b8-4f29-95bd-bd502e706079,HQ8J1N,01KGQGEARKX6WT5CDFV7HQ8J1N,0,GB,Europe/London,False,False,4g,False,10.0,50.0,1440,900,1440,778,en-GB,macOS desktop / Chrome,yes,fairly_paid,adequate,5.0,5.0,no,no,,all good ,,0,65.239,59.1,102.908,290.212,186.14,165.725,"Image 1: owl
+nonschema,4fb5a436-b8b8-4f29-95bd-bd502e706079,HQ8J1N,01KGQGEARKX6WT5CDFV7HQ8J1N,0,GB,Europe/London,False,False,4g,False,10.0,50.0,1440,900,1440,778,en-GB,macOS desktop / Chrome,yes,fairly_paid,adequate,5.0,5,no,no,,all good ,,0,65.239,59.1,102.908,290.212,186.14,165.725,"Image 1: owl
 Image 2: doughnut","Image 1: owl
 Image 2: doughut
 Image 3: frog
@@ -4096,7 +4096,7 @@ Image 5: white
 Image 6: spider
 Image 7: ski
 Image 8: man",doughnut,owl,doughnut,square,owl,frog,crab,scorpion,hair,doughnut,square,owl,cow,frog,flower,lemur,alien,penguin,tree,dog,meerkat,crab,robot,spider,bee,bird,square,big bird,cake,human,ski,dog,yellow,man,swim,spider,white,woman,2.0,4.0,7.0,8.0,7.0,8.0,0
-nonschema,0176089f-1290-4015-b3f2-94cb7e76615a,HQ8J1N,01KGQGEARKX6WT5CDFV7HQ8J1N,1,GB,Europe/London,False,False,4g,False,5.5,50.0,1366,728,1366,641,en-GB,Windows desktop / Chrome,yes,fairly_paid,adequate,5.0,4.0,no,no,,no all good thanks,,0,66.155,60.035,103.742,288.01,185.905,165.596,"Image 1: owl
+nonschema,0176089f-1290-4015-b3f2-94cb7e76615a,HQ8J1N,01KGQGEARKX6WT5CDFV7HQ8J1N,1,GB,Europe/London,False,False,4g,False,5.5,50.0,1366,728,1366,641,en-GB,Windows desktop / Chrome,yes,fairly_paid,adequate,5.0,4,no,no,,no all good thanks,,0,66.155,60.035,103.742,288.01,185.905,165.596,"Image 1: owl
 Image 2: doughnut","Image 1: owl
 Image 2: doughut
 Image 3: frog
@@ -4129,7 +4129,7 @@ Image 5: white
 Image 6: spider
 Image 7: ski
 Image 8: man",doughnut,owl,doughnut,square,owl,frog,crab,scorpian,hair,doughnut,square,owl,cow,frog,flower,lemur,alien,penguin,tree,dog,meerkat,crab,robot,spider,bee,bird,square,bigbird,cake,human,ski,dog,yellow,man,swim,spider,white,woman,2.0,4.0,7.0,8.0,7.0,8.0,0
-schema,37382f22-34c3-4a37-83ad-5ccc4bb4ee5b,GQK8HG,01KGQG2FZVDM6QWWQASVGQK8HG,1,GB,Europe/London,False,False,4g,False,10.0,0.0,1600,852,1600,765,en-US,Windows desktop / Chrome,maybe,underpaid,adequate,4.0,3.0,no,yes,The game crashed when submitting in the final round,,,0,73.981,197.953,228.018,96.833,119.893,300.0,"orange head
+schema,37382f22-34c3-4a37-83ad-5ccc4bb4ee5b,GQK8HG,01KGQG2FZVDM6QWWQASVGQK8HG,1,GB,Europe/London,False,False,4g,False,10.0,0.0,1600,852,1600,765,en-US,Windows desktop / Chrome,maybe,underpaid,adequate,4.0,3,no,yes,The game crashed when submitting in the final round,,,0,73.981,197.953,228.018,96.833,119.893,300.0,"orange head
 purple head","image 1: orange black head
 image 2: purple black head
 Image 3: orange red head
@@ -4162,7 +4162,7 @@ Image 5:pbyt
 Image 6:orbrblackrectangle
 Image 7:pbypurplerectangle
 Image 8:orbrbrownrectangle",purple head,orange head,purple black head,orange red head,orange black head,purple red head,pbbr,obbr,prbr,pby,ory,oby,orbr,pry,prbr,ory,orbr,obbr,pby,pry,pbbr,oby,oby,orbr,ory,pry,obbr,pbbr,pby,prbr,pbypurplerectangle,pbypinksquare,orbryellowrectangle,orbrbrownrectangle,orbrbl uecircle,,,,2.0,4.0,8.0,7.0,8.0,1.0,3
-schema,a718f6ee-da4f-4619-8fca-3665278ca266,KHZJM5,01KGQGN6TTN51JP3GY67KHZJM5,1,US,America/New_York,False,False,4g,False,10.0,100.0,1600,900,1600,811,en-US,Windows desktop / Chrome,yes,fairly_paid,adequate,5.0,5.0,no,no,,,,0,139.154,89.865,99.26,126.431,123.283,300.0,"Image 1: orange
+schema,a718f6ee-da4f-4619-8fca-3665278ca266,KHZJM5,01KGQGN6TTN51JP3GY67KHZJM5,1,US,America/New_York,False,False,4g,False,10.0,100.0,1600,900,1600,811,en-US,Windows desktop / Chrome,yes,fairly_paid,adequate,5.0,5,no,no,,,,0,139.154,89.865,99.26,126.431,123.283,300.0,"Image 1: orange
 Image 2: purple","Image 1: orange black
 Image 2: purple black
 Image 3: orange red
@@ -4195,7 +4195,7 @@ Image 5: purple black yellow white
 Image 6: orange red brown black
 Image 7: purple black yellow pink
 Image 8: orange red brown brown",purple,orange,purple black,orange red,orange black,purple red,purple black brown,orange black brown,purple red brown,purple black yellow,orange red yellow,orange black yellow,orange red brown,purple red yellow,purple red brown,orange red yellow,orange red brown,orange black brown,purple black yellow,purple red yellow,purple black brown,orange black yellow,orange black yellow,orange red brown,orange red yellow,purple red yellow,orange black brown,purple black brown,purple black yellow,purple red brown,purple black yellow pink,purple black yellow yellow,orange red brown yellow,orange red brown brown,orange red brown blue,orange red brown black,purple black yellow white,purple black yellow brown,2.0,4.0,8.0,8.0,8.0,8.0,0
-schema,28351493-9b62-4d0d-bf75-8c4a9b1c1e8b,KHZJM5,01KGQGN6TTN51JP3GY67KHZJM5,0,GB,Europe/London,False,False,4g,False,10.0,0.0,1920,1032,1920,911,en-GB,Windows desktop / Chrome,yes,underpaid,adequate,4.0,4.0,no,no,,Great study.,,0,140.2,85.766,99.857,124.24,118.887,300.0,"Image 1: orange
+schema,28351493-9b62-4d0d-bf75-8c4a9b1c1e8b,KHZJM5,01KGQGN6TTN51JP3GY67KHZJM5,0,GB,Europe/London,False,False,4g,False,10.0,0.0,1920,1032,1920,911,en-GB,Windows desktop / Chrome,yes,underpaid,adequate,4.0,4,no,no,,Great study.,,0,140.2,85.766,99.857,124.24,118.887,300.0,"Image 1: orange
 Image 2: purple","Image 1: orange black
 Image 2: purple black
 Image 3: orange red
@@ -4228,7 +4228,7 @@ Image 5: purple black yellow white
 Image 6: orange red brown black
 Image 7: purple black yellow pink
 Image 8: orange red brown brown",purple,orange,purple black,orange red,orange black,purple red,purple black brown,orange black brown,purple red brown,purple black yellow,orange red yellow,orange black yellow,orange red brown,purple red yellow,purple red brown,orange red yellow,orange red brown,orange black brown,purple black yellow,purple red yellow,purple black brown,orange black yellow,orange black yellow,orange red brown,orange red yellow,purple red yellow,orange black brown,purple black brown,purple black yellow,purple red brown,purple black yellow pink,purple black yellow yellow,orange red brown yellow,orange red brown brown,orange red brown blue,orange red brown black,purple black yellow white,purple black yellow brown,2.0,4.0,8.0,8.0,8.0,8.0,0
-schema,6954370a-0257-4b4d-9054-d604c6a3087c,7123Y2,01KGQGW6EGP6KMXYTFX47123Y2,0,US,America/New_York,False,False,4g,False,10.0,50.0,1366,720,1358,636,en-US,Windows desktop / Edge,yes,fairly_paid,adequate,5.0,5.0,no,no,,no,,0,66.134,146.661,106.633,97.714,129.837,300.0,"Image 1:Orange
+schema,6954370a-0257-4b4d-9054-d604c6a3087c,7123Y2,01KGQGW6EGP6KMXYTFX47123Y2,0,US,America/New_York,False,False,4g,False,10.0,50.0,1366,720,1358,636,en-US,Windows desktop / Edge,yes,fairly_paid,adequate,5.0,5,no,no,,no,,0,66.134,146.661,106.633,97.714,129.837,300.0,"Image 1:Orange
 Image 2:Purple","Image 1:ol
 Image 2:pl
 Image 3:or
@@ -4261,7 +4261,7 @@ Image 5:
 Image 6:
 Image 7:
 Image 8:",purple,orange,pl,or,ol,pr,plb,olb,prb,ply,ory,oly,orb,pry,prb,ory,orb,olb,ply,pry,plb,oly,oly,orb,ory,pry,olb,plb,ply,prb,ply0,ply2,orb6,orb0,orb7,orb,ply2,ply4,2.0,4.0,8.0,8.0,8.0,1.0,0
-schema,067ab462-7f48-4eb4-ab4f-8beea15f4dc6,7123Y2,01KGQGW6EGP6KMXYTFX47123Y2,1,GB,Europe/London,False,False,4g,False,10.0,50.0,1536,816,1536,730,en-GB,Windows desktop / Chrome,yes,fairly_paid,adequate,5.0,5.0,no,no,,,,0,67.702,148.265,105.204,97.322,129.41,300.0,"Image 1:Orange
+schema,067ab462-7f48-4eb4-ab4f-8beea15f4dc6,7123Y2,01KGQGW6EGP6KMXYTFX47123Y2,1,GB,Europe/London,False,False,4g,False,10.0,50.0,1536,816,1536,730,en-GB,Windows desktop / Chrome,yes,fairly_paid,adequate,5.0,5,no,no,,,,0,67.702,148.265,105.204,97.322,129.41,300.0,"Image 1:Orange
 Image 2:Purple","Image 1:ol
 Image 2:pl
 Image 3:or
@@ -4294,7 +4294,7 @@ Image 5:
 Image 6:
 Image 7:
 Image 8:",purple,orange,pl,or,ol,pr,plb,olb,prb,ply,ory,oly,orb,pry,prb,ory,orb,olb,ply,pry,plb,oly,oly,orb,ory,pry,olb,plb,ply,prb,plyp,ply0,orb,orb,orb,orb4,ply2,ply1,2.0,4.0,8.0,8.0,8.0,1.0,0
-schema,4f5525fc-177e-4f86-8a5f-9df21c77b277,WMJTSY,01KGJEXCTE9VYR3WM8GAWMJTSY,0,US,America/New_York,False,False,4g,False,10.0,150.0,360,780,980,1767,en-US,Linux desktop / Chrome,yes,fairly_paid,adequate,5.0,5.0,no,no,,None ,,0,73.729,61.376,145.848,42.495,48.407,11.373,"Image 1:orange 
+schema,4f5525fc-177e-4f86-8a5f-9df21c77b277,WMJTSY,01KGJEXCTE9VYR3WM8GAWMJTSY,0,US,America/New_York,False,False,4g,False,10.0,150.0,360,780,980,1767,en-US,Linux desktop / Chrome,yes,fairly_paid,adequate,5.0,5,no,no,,None ,,0,73.729,61.376,145.848,42.495,48.407,11.373,"Image 1:orange 
 Image 2:purple","Image 1: orange right
 Image 2: purple right
 Image 3: orange left
@@ -4327,7 +4327,7 @@ Image 5:
 Image 6:
 Image 7:
 Image 8:",purple,orange,purple right,orange left,orange right,purple left,purple right brown,orange right brown,purple left,purple right yellow,orange left yellow,orange right yellow,orange left brown,purple left yellow,1,seven,eight,three,sorry i messed up! lol,five,five,five,one,two,three,four,five,six,seven,eight,one,two,three,four,five,six,seven,eight,2.0,3.0,7.0,0.0,8.0,8.0,0
-schema,396d9fb9-1e07-421f-9f60-1a10b77a70c5,WMJTSY,01KGJEXCTE9VYR3WM8GAWMJTSY,1,US,America/Chicago,False,False,4g,False,10.0,50.0,1536,816,1528,738,en-US,Windows desktop / Edge,yes,fairly_paid,too_much,4.0,5.0,no,no,,,,0,72.807,69.916,140.621,29.307,48.22,11.339,"Image 1:orange 
+schema,396d9fb9-1e07-421f-9f60-1a10b77a70c5,WMJTSY,01KGJEXCTE9VYR3WM8GAWMJTSY,1,US,America/Chicago,False,False,4g,False,10.0,50.0,1536,816,1528,738,en-US,Windows desktop / Edge,yes,fairly_paid,too_much,4.0,5,no,no,,,,0,72.807,69.916,140.621,29.307,48.22,11.339,"Image 1:orange 
 Image 2:purple","Image 1: orange right
 Image 2: purple right
 Image 3: orange left
@@ -4360,7 +4360,7 @@ Image 5:
 Image 6:
 Image 7:
 Image 8:",purple,orange,purple right,orange left,orange right,purple right,purple right brown,orange right brown,purple left brown,purple right yellow,orange left yellow,orange right yellow,orange left brown,purple left yellow,one,two,three,four,five,six,seven,eight,one,two,three,four,five,six,seven,eight,one,two,three,four,five,six,seven,eight,2.0,3.0,7.0,0.0,8.0,8.0,0
-schema,e81e1ab2-ce65-45a2-b500-0827dac3be5d,GSRN5T,01KGJF601E30EFN6H1NZGSRN5T,1,CA,America/Toronto,False,True,4g,False,3.2,100.0,1536,816,1920,912,en-CA,Windows desktop / Chrome,yes,fairly_paid,adequate,5.0,4.0,no,no,,,,0,62.329,113.822,208.077,94.93,108.524,300.0,"Image 1:orange man 
+schema,e81e1ab2-ce65-45a2-b500-0827dac3be5d,GSRN5T,01KGJF601E30EFN6H1NZGSRN5T,1,CA,America/Toronto,False,True,4g,False,3.2,100.0,1536,816,1920,912,en-CA,Windows desktop / Chrome,yes,fairly_paid,adequate,5.0,4,no,no,,,,0,62.329,113.822,208.077,94.93,108.524,300.0,"Image 1:orange man 
 
 Image 2:purple man","Image 1: orange man
 Image 2:purple man
@@ -4394,7 +4394,7 @@ Image 5:pwbys
 Image 6:obrb
 Image 7:prby
 Image 8:obrbb",purple man,orange man,purple man,rorange man,orange man,rpurple man,pbb,obb,prb,pby,ory,oby,orb,pry,prb,ory,orb,obb,pby,pry,pbb,oby,oby,orb,ory,pry,obb,pbb,pby,prb,prby,pyby,oyrb,obrbb,obrb,obrb,pwbys,pwby,2.0,4.0,8.0,8.0,8.0,6.0,0
-schema,dd86c16b-ad4b-47c9-9636-573c518b9d44,GSRN5T,01KGJF601E30EFN6H1NZGSRN5T,0,GB,Europe/London,False,False,4g,False,4.05,50.0,1920,1032,1920,945,en-GB,Windows desktop / Chrome,yes,fairly_paid,adequate,5.0,5.0,no,no,,,,0,57.705,113.148,207.399,93.24,104.747,300.0,"Image 1:orange man 
+schema,dd86c16b-ad4b-47c9-9636-573c518b9d44,GSRN5T,01KGJF601E30EFN6H1NZGSRN5T,0,GB,Europe/London,False,False,4g,False,4.05,50.0,1920,1032,1920,945,en-GB,Windows desktop / Chrome,yes,fairly_paid,adequate,5.0,5,no,no,,,,0,57.705,113.148,207.399,93.24,104.747,300.0,"Image 1:orange man 
 
 Image 2:purple man","Image 1: orange man
 Image 2:purple man
@@ -4428,7 +4428,7 @@ Image 5:pwbys
 Image 6:obrb
 Image 7:prby
 Image 8:obrbb",purple man,orange man,purple man,rorange man,orange man,rpurple man,pbb,obb,prb,pby,ory,oby,orb,pry,prb,ory,orb,obb,pby,pry,pbb,oby,oby,orb,ory,pry,obb,pbb,pby,prb,prby,pyby,oyrb,obrbt,obrb,obrbs,pwbys,pwby,2.0,4.0,8.0,8.0,8.0,6.0,0
-nonschema,ad2c24ae-26ed-4b79-bcf2-ed9253ac3bbc,407XTD,01KGJFD6Y682XFVFY7GE407XTD,1,CA,America/Vancouver,False,False,4g,False,10.0,50.0,3440,1392,1718,1270,en-US,Windows desktop / Chrome,yes,underpaid,too_much,5.0,4.0,no,no,,none,,0,41.175,62.396,86.06,158.668,159.675,143.527,"Image 1: owl 
+nonschema,ad2c24ae-26ed-4b79-bcf2-ed9253ac3bbc,407XTD,01KGJFD6Y682XFVFY7GE407XTD,1,CA,America/Vancouver,False,False,4g,False,10.0,50.0,3440,1392,1718,1270,en-US,Windows desktop / Chrome,yes,underpaid,too_much,5.0,4,no,no,,none,,0,41.175,62.396,86.06,158.668,159.675,143.527,"Image 1: owl 
 Image 2: pancake","Image 1:owl
 Image 2:pancake
 Image 3:binoculars
@@ -4461,7 +4461,7 @@ Image 5:robot
 Image 6:licorice
 Image 7:taffy
 Image 8:rolo",pancake,pancake,pancake,robot,owl,binoculars,shark,scorpion,girl,pancake,robot,owl,dog,binoculars,peacock,monkey,oven,tablet,tree,robot,platypus,foot,clippy,wheel,tomato,witch,cube,toaster,apple,robot,taffy,note,cheese,rolo,phone,licorice,robot,oreo,0.0,4.0,8.0,8.0,8.0,8.0,0
-nonschema,568eca8c-2f09-4566-ac07-fc606d96c6bd,DA5DS8,01KGJEZCN9PQJ9AA8FH8DA5DS8,0,GB,Europe/London,False,False,4g,False,10.0,50.0,2240,1235,2236,1147,en-GB,macOS desktop / Chrome,yes,fairly_paid,adequate,4.0,3.0,no,no,,well my partner mention her mic wasnt working,,0,123.728,93.699,260.421,300.0,271.036,288.775,"Image 1: owl
+nonschema,568eca8c-2f09-4566-ac07-fc606d96c6bd,DA5DS8,01KGJEZCN9PQJ9AA8FH8DA5DS8,0,GB,Europe/London,False,False,4g,False,10.0,50.0,2240,1235,2236,1147,en-GB,macOS desktop / Chrome,yes,fairly_paid,adequate,4.0,3,no,no,,well my partner mention her mic wasnt working,,0,123.728,93.699,260.421,300.0,271.036,288.775,"Image 1: owl
 Image 2: donut
 
 
@@ -4611,7 +4611,7 @@ Image 8: chicken
     idk abt number 8, mb chicken
     yeah lets go with it cause of colour
     ok",donut,owl,donut,bot,owl,frog,fish,scorpion,mushroom,donut,bot,owl,baboon,frog,peacock,gadget,burger,t,plant,gizmo,telephone,stand,chair,wheel,red,pickle,tofu,happy meal,apple,scale,bottle,cake,cheese,chicken,toilet,spider,sink,remote,2.0,4.0,8.0,6.0,8.0,8.0,0
-nonschema,5463ec60-639b-45c7-a8ec-5cdac655250f,407XTD,01KGJFD6Y682XFVFY7GE407XTD,0,GB,Europe/London,False,False,4g,False,7.65,50.0,1920,1032,1920,911,en-US,Windows desktop / Chrome,yes,fairly_paid,adequate,4.0,5.0,no,no,,,,0,56.009,64.227,86.899,163.5,164.452,144.395,"Image 1: owl 
+nonschema,5463ec60-639b-45c7-a8ec-5cdac655250f,407XTD,01KGJFD6Y682XFVFY7GE407XTD,0,GB,Europe/London,False,False,4g,False,7.65,50.0,1920,1032,1920,911,en-US,Windows desktop / Chrome,yes,fairly_paid,adequate,4.0,5,no,no,,,,0,56.009,64.227,86.899,163.5,164.452,144.395,"Image 1: owl 
 Image 2: pancake","Image 1:owl
 Image 2:pancake
 Image 3:binoculars
@@ -4644,7 +4644,7 @@ Image 5:robot
 Image 6:licorice
 Image 7:taffy
 Image 8:rolo",owl,owl,pancake,robot,owl,binoculars,shark,scorpion,girl,pancake,robot,owl,dog,binoculars,peacock,monkey,oven,tablet,tree,robot,platypus,foot,clippy,wheel,tomato,witch,cube,toaster,apple,robot,taffy,note,cheese,rolo,phone,licorice,robot,oreo,0.0,4.0,8.0,8.0,8.0,8.0,0
-nonschema,027e15fb-3d78-42d6-8759-afc8fea1b2d6,DA5DS8,01KGJEZCN9PQJ9AA8FH8DA5DS8,1,CA,America/Toronto,False,False,4g,False,10.0,50.0,1536,824,1536,703,en-US,Windows desktop / Chrome,yes,fairly_paid,adequate,4.0,5.0,no,no,,,,0,122.545,95.344,260.241,300.0,273.886,288.591,"Image 1: owl
+nonschema,027e15fb-3d78-42d6-8759-afc8fea1b2d6,DA5DS8,01KGJEZCN9PQJ9AA8FH8DA5DS8,1,CA,America/Toronto,False,False,4g,False,10.0,50.0,1536,824,1536,703,en-US,Windows desktop / Chrome,yes,fairly_paid,adequate,4.0,5,no,no,,N/A,,0,122.545,95.344,260.241,300.0,273.886,288.591,"Image 1: owl
 Image 2: donut
 
 
@@ -4794,7 +4794,7 @@ Image 8: chicken
     idk abt number 8, mb chicken
     yeah lets go with it cause of colour
     ok",donut,owl,donut,bot,owl,frog,fish,scorpion,mushroom,donut,bot,owl,baboon,frog,peacock,gadget,burger,tablet,tree,gizmo,telephone,stand,chair,wheel,red,pickle,tofu,happy meal,apple,scale,bottle,cake,cheese,chicken,toilet,spider,sink,remote,2.0,4.0,8.0,6.0,8.0,8.0,0
-nonschema,58aca2f3-3c7d-445c-9ba9-f2429211f506,R54G96,01KGJGE7RRR2K0J5EJDXR54G96,0,US,America/New_York,False,False,4g,False,10.0,50.0,1920,1080,1920,959,en-US,Linux desktop / Chrome,yes,fairly_paid,adequate,5.0,4.0,no,no,,,,0,37.939,29.107,67.764,120.059,123.096,78.874,"Image 1: rectangle
+nonschema,58aca2f3-3c7d-445c-9ba9-f2429211f506,R54G96,01KGJGE7RRR2K0J5EJDXR54G96,0,US,America/New_York,False,False,4g,False,10.0,50.0,1920,1080,1920,959,en-US,Linux desktop / Chrome,yes,fairly_paid,adequate,5.0,4,no,no,,,,0,37.939,29.107,67.764,120.059,123.096,78.874,"Image 1: rectangle
 Image 2: circle","Image 1: rectangle
 Image 2: circle
 	Image 3: small
@@ -4827,7 +4827,7 @@ Image 5: white
 Image 6: black
 Image 7: pink
 Image 8: legs",circle,rectangle,circle,square,rectangle,small,shark,scorpion,hair,circle,square,rectangle,fat,small,headdress,quad,hole,white,green,eyebrows,bib,feet,soldier,octagon,mushroom,wizard,cube,mouth,blocks,small,pink,small,yellow,legs,blue,black,white,tall,2.0,4.0,8.0,8.0,8.0,8.0,0
-nonschema,5bf9c810-548e-4376-8d90-78d47cf28481,R54G96,01KGJGE7RRR2K0J5EJDXR54G96,1,GB,Europe/London,False,False,4g,False,6.8,50.0,3840,2160,3840,2073,en-GB,Windows desktop / Chrome,yes,fairly_paid,too_much,5.0,4.0,no,no,,no,,0,34.555,28.756,67.409,113.702,117.683,72.426,"Image 1: rectangle
+nonschema,5bf9c810-548e-4376-8d90-78d47cf28481,R54G96,01KGJGE7RRR2K0J5EJDXR54G96,1,GB,Europe/London,False,False,4g,False,6.8,50.0,3840,2160,3840,2073,en-GB,Windows desktop / Chrome,yes,fairly_paid,too_much,5.0,4,no,no,,no,,0,34.555,28.756,67.409,113.702,117.683,72.426,"Image 1: rectangle
 Image 2: circle","Image 1: rectangle
 Image 2: circle
 	Image 3: small
