@@ -6,9 +6,9 @@ organizational adaptation.**
 This repository holds the experiment definitions, anonymized data, and analysis
 code behind the paper *"Seeing Like an Organization: An Experimental Paradigm for
 Analyzing how Shared Cognitive Schemas Enable and Trap"* (Volvovsky, Houghton &
-Zuckerman Sivan, 2026). The manuscript and cover letter are in
-[`docs/submission/`](docs/submission); both studies were preregistered on
-AsPredicted ([Study 1: #269965](https://aspredicted.org/8zp4hx.pdf),
+Zuckerman Sivan, 2026). A preprint is available on
+[SocArXiv](https://osf.io/preprints/socarxiv/4ysrj); both studies were
+preregistered on AsPredicted ([Study 1: #269965](https://aspredicted.org/8zp4hx.pdf),
 [Study 2: #286030](https://aspredicted.org/p6ie4u.pdf)).
 
 The write-up below is the full project description — paradigm, both completed
@@ -589,7 +589,7 @@ maladaptive persistence. The organizational factors are amplifiers, not the caus
 | [`stagebook/`](stagebook)   | Experiment definitions for the [Stagebook](https://github.com/watts-lab/stagebook)/Empirica-based platform: the [`study/baseline`](stagebook/study/baseline) task flow and stimuli participants played, plus [`annotation/`](stagebook/annotation) task templates used to collect human coding (R4 label coding, cheating review). |
 | [`data/`](data)             | Raw, anonymized session exports (JSONL), one subfolder per study: [`study_1_schema_nonschema/`](data/study_1_schema_nonschema), [`study_2/`](data/study_2). Each batch has a `scienceData` file (the game data) and a preregistration/config file.                    |
 | [`annotation/`](annotation) | Human coding of round-4 labels (per-participant JSON), classifying each label as schema-based, one-off, or ambiguous. Feeds both the Study 1 exploratory adaptation analysis and the Study 2 H3 test.                                                                 |
-| [`docs/`](docs)             | The manuscript and cover letter under [`submission/`](docs/submission), plus supporting documents. Preregistrations: [Study 1 #269965](https://aspredicted.org/8zp4hx.pdf), [Study 2 #286030](https://aspredicted.org/p6ie4u.pdf).                                    |
+| [`docs/`](docs)             | Paper design-figure sources (`Figure_1_design` = Fig 1, `Figure_3_tangrams` = Fig 3) and the two preregistration PDFs ([Study 1 #269965](https://aspredicted.org/8zp4hx.pdf), [Study 2 #286030](https://aspredicted.org/p6ie4u.pdf)).                                    |
 | [`pilot/`](pilot)           | Pilot rounds (`revision_2024xx`–`revision_2025xx`) run while the paradigm and manipulations were refined, plus [`study_2_pilots_analysis.ipynb`](pilot/study_2_pilots_analysis.ipynb). Not part of the released studies — useful for design history and power calculations. |
 
 ### `analysis/` in detail
@@ -662,7 +662,9 @@ the author to arrange separate permission.
 
 ## Citation
 
-When reusing these materials, please cite this work and link back to this
+When reusing these materials, please cite the paper and link back to this
 repository:
 
-> Volvovsky, H., Houghton, J., & Zuckerman Sivan, E. (2026). _Seeing Like an Organization: An Experimental Paradigm for Analyzing how Shared Cognitive Schemas Enable and Trap._ https://github.com/JamesPHoughton/organizational-schema-formation
+> Volvovsky, H., Houghton, J., & Zuckerman Sivan, E. (2026). _Seeing Like an Organization: An Experimental Paradigm for Analyzing how Shared Cognitive Schemas Enable and Trap._ SocArXiv preprint. https://osf.io/preprints/socarxiv/4ysrj
+
+Data and replication materials: <https://github.com/JamesPHoughton/organizational-schema-formation>
