@@ -211,16 +211,16 @@ Schema or Non-Schema condition and evaluated performance in the two shared round
 Preregistered tests focus on rounds 3 and 4. Full pipeline:
 [`analysis/study_1_analysis.ipynb`](analysis/study_1_analysis.ipynb).
 
-![Study 1: labeling time and accuracy across rounds, Schema vs. Non-Schema](analysis/figures/figure1.png)
+![Study 1: labeling time and accuracy across rounds, Schema vs. Non-Schema](analysis/figures/figure2.png)
 
 > **Study 1 — performance across rounds (paper Fig. 2).** Labeling time (A) and
 > recall accuracy (B) across all rounds for
 > Schema (red) and Non-Schema (blue) groups. The schema helps in round 3
 > (compatible change) and hurts in round 4 (incompatible change). Points are
 > groups; error bars are 95% bootstrap CIs of the mean.
-> ([PDF](analysis/figures/figure1.pdf) · slide variants:
-> [`figure1_slide`](analysis/figures/figure1_slide.pdf),
-> [`figure1_r34_bar`](analysis/figures/figure1_r34_bar.pdf))
+> ([PDF](analysis/figures/figure2.pdf) · slide variants:
+> [`figure2_slide`](analysis/figures/figure2_slide.pdf),
+> [`figure2_r34_bar`](analysis/figures/figure2_r34_bar.pdf))
 
 **Manipulation check.** Coding whether groups used a schema-based representation
 for the round-3 stimuli: 29 of 33 Schema groups used a schema for at least half
@@ -241,7 +241,7 @@ in the between-condition gap from R3 to R4. And the extra time did not buy
 adaptation: Schema groups recalled *fewer* correct labels (5.21 vs. 6.55;
 Hodges–Lehmann Δ = −1, 95% CI [−3, 0]; Cliff's δ = −0.381; Mann–Whitney U = 337,
 *p* = .0027). The two focal contrasts are also shown as violin plots
-([`figure2`](analysis/figures/figure2.png), [PDF](analysis/figures/figure2.pdf)).
+([`study1_contrasts`](analysis/figures/study1_contrasts.png), [PDF](analysis/figures/study1_contrasts.pdf)).
 
 This is the existence proof: prior shared schema formation is a real causal cause
 of impaired adaptation, not an artifact of selection, environment, motivation, or
@@ -337,14 +337,14 @@ result was robust to bootstrap coder resampling and to alternate voting rules
 (plurality / definite-majority / unanimity) and thresholds (≥3, ≥4, ≥5
 schema-based labels), *p* < .004 across all combinations.
 
-![Study 2: round-4 labeling time and accuracy by change type](analysis/figures/figure3.png)
+![Study 2: round-4 labeling time and accuracy by change type](analysis/figures/study2_round4_outcomes.png)
 
 > **Study 2 — round-4 outcomes by change type.** Round-4 labeling time (A) and
 > accuracy (B) for Schema (red) and
 > Non-Schema (blue) groups, split by change type. The schema penalty is clear
 > under ambiguous change; under obvious change the labeling-time penalty persists
-> while the accuracy gap narrows. ([PDF](analysis/figures/figure3.pdf); the
-> all-rounds version is paper [Fig. S1](analysis/figures/figureS1.png).)
+> while the accuracy gap narrows. ([PDF](analysis/figures/study2_round4_outcomes.pdf);
+> the all-rounds version is paper [Fig. S1](analysis/figures/figureS1.png).)
 
 **Replication of the Study 1 performance pattern.** In the ambiguous arm (which
 reproduces Study 1's round 4), the Study 1 effect replicated: Schema groups were
@@ -601,27 +601,29 @@ maladaptive persistence. The organizational factors are amplifiers, not the caus
   helpers: a reusable CONSORT-diagram generator, and an interactive Study 1 +
   Study 2 results dashboard ([`dashboard.html`](analysis/dashboard.html)).
 - [`figures/`](analysis/figures) — output figures, each rendered as PDF (vector,
-  for the paper) and PNG (preview). The repo file names are an internal convention
-  and do **not** all line up with the paper's figure numbers — the "Paper fig."
-  column is the source of truth for the mapping:
+  for the paper) and PNG (preview). Figures that appear in the paper are named to
+  match its numbering (`figure2` = paper Fig 2; `figureS1`–`figureS5` = Fig S1–S5);
+  two additional analysis figures that are *not* in the paper use descriptive
+  names. (Paper Fig 1 is the design composite in [`docs/`](docs); paper Fig 3, the
+  Study 2 stimuli, isn't generated here — see the note below the table.)
 
   | Repo file | Content | Paper fig. | Notebook |
   | --- | --- | --- | --- |
   | [`Figure_1_design`](docs/Figure_1_design.jpg) (in `docs/`) | Study 1 stimuli & design overview | **Fig 1** | — (composed by hand) |
-  | [`figure1`](analysis/figures/figure1.png) | Study 1 — labeling time & accuracy across all rounds | **Fig 2** | study 1 |
-  | [`figure2`](analysis/figures/figure2.png) | Study 1 — focal contrasts (R3 labeling time, R4 accuracy) | — (alt view) | study 1 |
-  | [`figure3`](analysis/figures/figure3.png) | Study 2 — round-4 outcomes by change type (2×2) | cf. Fig S1 | study 2 |
+  | [`figure2`](analysis/figures/figure2.png) | Study 1 — labeling time & accuracy across all rounds | **Fig 2** | study 1 |
   | [`figureS1`](analysis/figures/figureS1.png) | Study 2 — all-rounds labeling time & accuracy by change type | **Fig S1** | study 2 |
   | [`figureS2`](analysis/figures/figureS2.png) | Recall confidence by round & condition (calibration) | **Fig S2** | study 2 |
   | [`figureS3`](analysis/figures/figureS3.png) | Self-reported discussion quality by condition | **Fig S3** | study 2 |
   | [`figureS4`](analysis/figures/figureS4.png) | Study 1 — participant flow (CONSORT) | **Fig S4** | study 1 |
   | [`figureS5`](analysis/figures/figureS5.png) | Study 2 — participant flow (CONSORT) | **Fig S5** | study 2 |
+  | [`study1_contrasts`](analysis/figures/study1_contrasts.png) | Study 1 — focal contrasts (R3 labeling time, R4 accuracy), violins | — (not in paper) | study 1 |
+  | [`study2_round4_outcomes`](analysis/figures/study2_round4_outcomes.png) | Study 2 — round-4 outcomes by change type (2×2) | — (cf. Fig S1) | study 2 |
 
   The paper's **Fig 3** (Study 2 tangram/silhouette stimuli) is not generated by
   the analysis; those panels live in the stagebook
   ([`round_4_panel_T.jpg`](stagebook/study/baseline/stimuli/round_4_panel_T.jpg)).
-  Slide-deck variants of the Study 1 performance plot (`figure1_slide`,
-  `figure1_r34_bar`, `figure1_r34_slide`) are also in the folder.
+  Slide-deck variants of the Study 1 performance plot (`figure2_slide`,
+  `figure2_r34_bar`, `figure2_r34_slide`) are also in the folder.
 
 ## Reproducing the analysis
 
