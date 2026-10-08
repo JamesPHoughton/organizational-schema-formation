@@ -1,0 +1,240 @@
+# Local prompt-module replacement for the retired host-rendered surveys.
+# Source: Watts-Lab/surveys, surveys/{discussionGeneral,demographics}/*.json
+# These exact survey hashes occur in pilot/revision_202509 scienceData exports:
+# DiscussionGeneral: 305f142faacb6d13653346f1920fd1dc69467389
+# Demographics: ab5ec9b81cd0d9538651e275eb1082ae8813bf98
+# Wording, option order, required items, and conditional pages use the original
+# English instruments. All responses are now self.prompt.${prefix}_<item>.
+# Numeric choices and birth_year now store numbers, not numeric strings.
+# Gender stores Female/Male/Other instead of female/male/other; language_primary
+# and country_reside store Other instead of item1. All other text choices retain
+# their values. Birth year's original 1900..2022 bounds are intentionally kept;
+# its placeholder is body text because numericResponse has no placeholder.
+# Rating questions keep SurveyJS's 1..5 scale and endpoint descriptions, now as
+# horizontal radio buttons. Submit gates preserve SurveyJS required behavior.
+# DiscussionGeneral's former result.discussionOverall is an analysis score:
+# mean(discussionEnjoy, discussionDepth, 1-discussionTension, selfLearned,
+#      selfSpeakUp, selfVoice, 1-selfAnxious, 1-selfJudged, selfInsight), rounded
+# to three decimals; discussionDisagreement is excluded as in the old scorer.
+# The separate host-owned survey/result envelope is no longer produced.
+stagebook: "0.35"
+templates:
+  - name: discussion_general_questions
+    contentType: elements
+    content:
+      - type: prompt
+        name: ${prefix}_discussionEnjoy
+        file: discussion_general/discussionEnjoy.prompt.md
+      - type: prompt
+        name: ${prefix}_selfLearned
+        file: discussion_general/selfLearned.prompt.md
+      - type: prompt
+        name: ${prefix}_discussionDepth
+        file: discussion_general/discussionDepth.prompt.md
+      - type: prompt
+        name: ${prefix}_discussionDisagreement
+        file: discussion_general/discussionDisagreement.prompt.md
+      - type: prompt
+        name: ${prefix}_discussionTension
+        file: discussion_general/discussionTension.prompt.md
+      - type: prompt
+        name: ${prefix}_selfSpeakUp
+        file: discussion_general/selfSpeakUp.prompt.md
+      - type: prompt
+        name: ${prefix}_selfVoice
+        file: discussion_general/selfVoice.prompt.md
+      - type: prompt
+        name: ${prefix}_selfAnxious
+        file: discussion_general/selfAnxious.prompt.md
+      - type: prompt
+        name: ${prefix}_selfJudged
+        file: discussion_general/selfJudged.prompt.md
+      - type: prompt
+        name: ${prefix}_selfInsight
+        file: discussion_general/selfInsight.prompt.md
+      - type: submitButton
+        buttonText: Complete
+        conditions:
+          all:
+            - reference: self.prompt.${prefix}_discussionEnjoy.isValid
+              comparator: equals
+              value: true
+            - reference: self.prompt.${prefix}_selfLearned.isValid
+              comparator: equals
+              value: true
+            - reference: self.prompt.${prefix}_discussionDepth.isValid
+              comparator: equals
+              value: true
+            - reference: self.prompt.${prefix}_discussionDisagreement.isValid
+              comparator: equals
+              value: true
+            - reference: self.prompt.${prefix}_discussionTension.isValid
+              comparator: equals
+              value: true
+            - reference: self.prompt.${prefix}_selfSpeakUp.isValid
+              comparator: equals
+              value: true
+            - reference: self.prompt.${prefix}_selfVoice.isValid
+              comparator: equals
+              value: true
+            - reference: self.prompt.${prefix}_selfAnxious.isValid
+              comparator: equals
+              value: true
+            - reference: self.prompt.${prefix}_selfJudged.isValid
+              comparator: equals
+              value: true
+            - reference: self.prompt.${prefix}_selfInsight.isValid
+              comparator: equals
+              value: true
+  - name: demographics_exit
+    contentType: exitSteps
+    content:
+      - name: Demographics
+        elements:
+          - type: prompt
+            file: demographics_title.prompt.md
+          - type: prompt
+            name: ${prefix}_birth_year
+            file: demographics/birth_year.prompt.md
+          - type: prompt
+            name: ${prefix}_gender
+            file: demographics/gender.prompt.md
+          - type: prompt
+            name: ${prefix}_gender_other
+            file: demographics/gender_other.prompt.md
+            conditions:
+              reference: self.prompt.${prefix}_gender
+              comparator: equals
+              value: Other
+          - type: prompt
+            name: ${prefix}_marital_status
+            file: demographics/marital_status.prompt.md
+          - type: prompt
+            name: ${prefix}_language_primary
+            file: demographics/language_primary.prompt.md
+          - type: prompt
+            name: ${prefix}_language_primary_expansion
+            file: demographics/language_primary_expansion.prompt.md
+            conditions:
+              reference: self.prompt.${prefix}_language_primary
+              comparator: equals
+              value: Other
+          - type: prompt
+            name: ${prefix}_english_written
+            file: demographics/english_written.prompt.md
+          - type: prompt
+            name: ${prefix}_english_spoken
+            file: demographics/english_spoken.prompt.md
+          - type: prompt
+            name: ${prefix}_employment_status
+            file: demographics/employment_status.prompt.md
+          - type: prompt
+            name: ${prefix}_country_reside
+            file: demographics/country_reside.prompt.md
+          - type: submitButton
+            buttonText: Next
+            conditions:
+              all:
+                - reference: self.prompt.${prefix}_birth_year.isValid
+                  comparator: equals
+                  value: true
+                - reference: self.prompt.${prefix}_gender.isValid
+                  comparator: equals
+                  value: true
+                - reference: self.prompt.${prefix}_language_primary.isValid
+                  comparator: equals
+                  value: true
+                - reference: self.prompt.${prefix}_english_written.isValid
+                  comparator: equals
+                  value: true
+                - reference: self.prompt.${prefix}_english_spoken.isValid
+                  comparator: equals
+                  value: true
+                - reference: self.prompt.${prefix}_country_reside.isValid
+                  comparator: equals
+                  value: true
+                - any:
+                    - reference: self.prompt.${prefix}_country_reside
+                      comparator: equals
+                      value: United States
+                    - reference: self.prompt.${prefix}_country_reside
+                      comparator: equals
+                      value: United Kingdom
+          - type: submitButton
+            buttonText: Complete
+            conditions:
+              all:
+                - reference: self.prompt.${prefix}_birth_year.isValid
+                  comparator: equals
+                  value: true
+                - reference: self.prompt.${prefix}_gender.isValid
+                  comparator: equals
+                  value: true
+                - reference: self.prompt.${prefix}_language_primary.isValid
+                  comparator: equals
+                  value: true
+                - reference: self.prompt.${prefix}_english_written.isValid
+                  comparator: equals
+                  value: true
+                - reference: self.prompt.${prefix}_english_spoken.isValid
+                  comparator: equals
+                  value: true
+                - reference: self.prompt.${prefix}_country_reside.isValid
+                  comparator: equals
+                  value: true
+                - none:
+                    - reference: self.prompt.${prefix}_country_reside
+                      comparator: equals
+                      value: United States
+                    - reference: self.prompt.${prefix}_country_reside
+                      comparator: equals
+                      value: United Kingdom
+      - name: United States Residents
+        elements:
+          - type: prompt
+            file: demographics_us_title.prompt.md
+          - type: prompt
+            name: ${prefix}_education_US
+            file: demographics/education_US.prompt.md
+          - type: prompt
+            name: ${prefix}_latin_US
+            file: demographics/latin_US.prompt.md
+          - type: prompt
+            name: ${prefix}_race_US
+            file: demographics/race_US.prompt.md
+          - type: prompt
+            name: ${prefix}_income_US
+            file: demographics/income_US.prompt.md
+          - type: submitButton
+            buttonText: Complete
+            conditions:
+              all:
+                - reference: self.prompt.${prefix}_education_US.isValid
+                  comparator: equals
+                  value: true
+                - reference: self.prompt.${prefix}_race_US.isValid
+                  comparator: equals
+                  value: true
+        conditions:
+          reference: self.prompt.${prefix}_country_reside
+          comparator: equals
+          value: United States
+      - name: United Kingdom Residents
+        elements:
+          - type: prompt
+            file: demographics_uk_title.prompt.md
+          - type: prompt
+            name: ${prefix}_education_UK
+            file: demographics/education_UK.prompt.md
+          - type: prompt
+            name: ${prefix}_ethnicity_UK
+            file: demographics/ethnicity_UK.prompt.md
+          - type: prompt
+            name: ${prefix}_income_UK
+            file: demographics/income_UK.prompt.md
+          - type: submitButton
+            buttonText: Complete
+        conditions:
+          reference: self.prompt.${prefix}_country_reside
+          comparator: equals
+          value: United Kingdom
