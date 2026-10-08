@@ -1,3 +1,10 @@
+# Migrated from projects/exaptation/revision_202509/baseline.treatments.yaml,
+# the treatment file recorded in the Study 1 and Study 2 preregistrations.
+stagebook: "0.35"
+
+imports:
+  - ./exit/surveys/surveys.stagebook.yaml
+
 templates:
   - name: recallTask
     contentType: stages
@@ -22,43 +29,18 @@ templates:
             file: ${imageFilepath}
           - type: prompt
             file: game/labels_correct.prompt.md
-            # TODO migrate percentAgreement: no auto-migration. Original
-            # intent: show "all correct" when 100% of players entered the
-            # same label AND every player entered something at least 1 char
-            # long. The boolean tree can't express "two refs are equal to
-            # each other" without a counting stage. Decide:
-            #   (a) re-express via a separate counting stage, or
-            #   (b) drop the gating and always show both prompts.
+            # Every player must supply the same nonblank label. Stagebook
+            # trims surrounding whitespace and ignores case for agreement.
             conditions:
-              # - reference: "prompt.recall_${roundIndex}_${recallIndex}"
-              #   position: percentAgreement
-              #   comparator: equals
-              #   value: 100
-              - all:
-                  - reference: 0.prompt.recall_${roundIndex}_${recallIndex}
-                    comparator: hasLengthAtLeast
-                    value: 1
-                  - reference: 1.prompt.recall_${roundIndex}_${recallIndex}
-                    comparator: hasLengthAtLeast
-                    value: 1
+              allEqual:
+                reference: everyone.prompt.recall_${roundIndex}_${recallIndex}
           - type: prompt
             file: game/labels_incorrect.prompt.md
-            # TODO migrate percentAgreement: no auto-migration. Original
-            # intent: show "incorrect" when <100% of players entered the
-            # same label. Same caveat as labels_correct above.
-            # conditions:
-            #   - reference: "prompt.recall_${roundIndex}_${recallIndex}"
-            #     # position: percentAgreement
-            #     comparator: isBelow
-            #     value: 100
-          - type: prompt # when nobody enters anything, agreement is not defined
-            file: game/labels_incorrect.prompt.md
+            # Includes mismatches, one missing answer, and both answers blank.
             conditions:
-              all:
-                - reference: 0.prompt.recall_${roundIndex}_${recallIndex}
-                  comparator: doesNotExist
-                - reference: 1.prompt.recall_${roundIndex}_${recallIndex}
-                  comparator: doesNotExist
+              none:
+                - allEqual:
+                    reference: everyone.prompt.recall_${roundIndex}_${recallIndex}
 
           - type: display
             reference: 0.prompt.recall_${roundIndex}_${recallIndex}
@@ -113,14 +95,231 @@ templates:
         broadcast:
           d0: ${recallImages}
 
+  - name: schemaTraining
+    contentType: stages
+    # Schema training: rounds 1a, 1b, 1c, and 2.
+    content:
+      - template: round
+        fields:
+          roundIndex: "1a"
+          duration: 300
+          panelFilepath: stimuli/round_1a_panel_S.jpg
+          numImages: "2"
+          recallImages: # 2 images to recall: PBY, OBY
+            - imageFilepath: stimuli/round_1_SPBY.jpg
+            - imageFilepath: stimuli/round_1_SOBY.jpg
+
+      - template: round
+        fields:
+          roundIndex: "1b"
+          duration: 300
+          panelFilepath: stimuli/round_1b_panel_S.jpg
+          numImages: "4"
+          recallImages: # 4 images to recall: PBY, ORY, OBY, PRY
+            - imageFilepath: stimuli/round_1_SPBY.jpg
+            - imageFilepath: stimuli/round_1_SORY.jpg
+            - imageFilepath: stimuli/round_1_SOBY.jpg
+            - imageFilepath: stimuli/round_1_SPRY.jpg
+
+      - template: round
+        fields:
+          roundIndex: "1c"
+          duration: 300
+          panelFilepath: stimuli/round_1c_panel_S.jpg
+          numImages: "8"
+          recallImages:
+            - imageFilepath: stimuli/round_1_SPBB.jpg
+            - imageFilepath: stimuli/round_1_SOBB.jpg
+            - imageFilepath: stimuli/round_1_SPRB.jpg
+            - imageFilepath: stimuli/round_1_SPBY.jpg
+            - imageFilepath: stimuli/round_1_SORY.jpg
+            - imageFilepath: stimuli/round_1_SOBY.jpg
+            - imageFilepath: stimuli/round_1_SORB.jpg
+            - imageFilepath: stimuli/round_1_SPRY.jpg
+
+      - template: round
+        fields:
+          roundIndex: "2"
+          duration: 300
+          panelFilepath: stimuli/round_2_panel_S.jpg
+          numImages: "8"
+          recallImages:
+            - imageFilepath: stimuli/round_2_SPRB.jpg
+            - imageFilepath: stimuli/round_2_SORY.jpg
+            - imageFilepath: stimuli/round_2_SORB.jpg
+            - imageFilepath: stimuli/round_2_SOBB.jpg
+            - imageFilepath: stimuli/round_2_SPBY.jpg
+            - imageFilepath: stimuli/round_2_SPRY.jpg
+            - imageFilepath: stimuli/round_2_SPBB.jpg
+            - imageFilepath: stimuli/round_2_SOBY.jpg
+
+  - name: nonschemaTraining
+    contentType: stages
+    # Nonschema training: rounds 1a, 1b, 1c, and 2.
+    content:
+      - template: round
+        fields:
+          roundIndex: "1a"
+          duration: 300
+          panelFilepath: stimuli/round_1a_panel_N.jpg # 2-image panel
+          numImages: "2"
+          recallImages: # 2 image filepaths: N5, N1
+            - imageFilepath: stimuli/round_1_N5.jpg # matches the locations in the panel of the schema condition
+            - imageFilepath: stimuli/round_1_N1.jpg
+
+      - template: round
+        fields:
+          roundIndex: "1b"
+          duration: 300
+          panelFilepath: stimuli/round_1b_panel_N.jpg # 4-image panel
+          numImages: "4"
+          recallImages: # 4 image filepaths: N5, N4, N1, N8
+            - imageFilepath: stimuli/round_1_N5.jpg # matches the locations in the panel of the schema condition
+            - imageFilepath: stimuli/round_1_N4.jpg
+            - imageFilepath: stimuli/round_1_N1.jpg
+            - imageFilepath: stimuli/round_1_N8.jpg
+
+      - template: round
+        fields:
+          roundIndex: "1c"
+          duration: 300
+          panelFilepath: stimuli/round_1c_panel_N.jpg
+          numImages: "8"
+          recallImages:
+            - imageFilepath: stimuli/round_1_N6.jpg # matches the locations in the panel of the schema condition
+            - imageFilepath: stimuli/round_1_N2.jpg
+            - imageFilepath: stimuli/round_1_N7.jpg
+            - imageFilepath: stimuli/round_1_N5.jpg
+            - imageFilepath: stimuli/round_1_N4.jpg
+            - imageFilepath: stimuli/round_1_N1.jpg
+            - imageFilepath: stimuli/round_1_N3.jpg
+            - imageFilepath: stimuli/round_1_N8.jpg
+
+      - template: round
+        fields:
+          roundIndex: "2"
+          duration: 300
+          panelFilepath: stimuli/round_2_panel_N.jpg
+          numImages: "8"
+          recallImages:
+            - imageFilepath: stimuli/round_2_N1.jpg
+            - imageFilepath: stimuli/round_2_N7.jpg
+            - imageFilepath: stimuli/round_2_N8.jpg
+            - imageFilepath: stimuli/round_2_N2.jpg
+            - imageFilepath: stimuli/round_2_N4.jpg
+            - imageFilepath: stimuli/round_2_N5.jpg
+            - imageFilepath: stimuli/round_2_N6.jpg
+            - imageFilepath: stimuli/round_2_N3.jpg
+
+  - name: commonRound3
+    contentType: stages
+    # Round 3 uses the same stimuli in every treatment.
+    content:
+      - template: round
+        fields:
+          roundIndex: "3"
+          duration: 300
+          panelFilepath: stimuli/round_3_panel.jpg
+          numImages: "8"
+          recallImages:
+            - imageFilepath: stimuli/round_3_SOBY.jpg
+            - imageFilepath: stimuli/round_3_SORB.jpg
+            - imageFilepath: stimuli/round_3_SORY.jpg
+            - imageFilepath: stimuli/round_3_SPRY.jpg
+            - imageFilepath: stimuli/round_3_SOBB.jpg
+            - imageFilepath: stimuli/round_3_SPBB.jpg
+            - imageFilepath: stimuli/round_3_SPBY.jpg
+            - imageFilepath: stimuli/round_3_SPRB.jpg
+
+  - name: standardRound4
+    contentType: stages
+    # Standard round-4 images.
+    content:
+      - template: round
+        fields:
+          roundIndex: "4"
+          duration: 300 # consistent between 3 and 4 means that the rounds are comparable
+          panelFilepath: stimuli/round_4_panel_A.jpg
+          numImages: "8"
+          recallImages:
+            - imageFilepath: stimuli/round_4_SPBY4.jpg
+            - imageFilepath: stimuli/round_4_SPBY1.jpg
+            - imageFilepath: stimuli/round_4_SORB2.jpg
+            - imageFilepath: stimuli/round_4_SORB4.jpg
+            - imageFilepath: stimuli/round_4_SORB1.jpg
+            - imageFilepath: stimuli/round_4_SORB3.jpg
+            - imageFilepath: stimuli/round_4_SPBY3.jpg
+            - imageFilepath: stimuli/round_4_SPBY2.jpg
+
+  - name: blackAndWhiteRound4
+    contentType: stages
+    # Black-and-white round-4 images.
+    content:
+      - template: round
+        fields:
+          roundIndex: "4"
+          duration: 300
+          panelFilepath: stimuli/round_4_panel_A_BW.jpg
+          numImages: "8"
+          recallImages:
+            - imageFilepath: stimuli/round_4_SPBY4_BW.jpg
+            - imageFilepath: stimuli/round_4_SPBY1_BW.jpg
+            - imageFilepath: stimuli/round_4_SORB2_BW.jpg
+            - imageFilepath: stimuli/round_4_SORB4_BW.jpg
+            - imageFilepath: stimuli/round_4_SORB1_BW.jpg
+            - imageFilepath: stimuli/round_4_SORB3_BW.jpg
+            - imageFilepath: stimuli/round_4_SPBY3_BW.jpg
+            - imageFilepath: stimuli/round_4_SPBY2_BW.jpg
+
+  - name: tangramRound4
+    contentType: stages
+    # Tangram round-4 images.
+    content:
+      - template: round
+        fields:
+          roundIndex: "4"
+          duration: 300
+          panelFilepath: stimuli/round_4_panel_T.jpg
+          numImages: "8"
+          recallImages:
+            - imageFilepath: stimuli/round_4_T7.jpg
+            - imageFilepath: stimuli/round_4_T2.jpg
+            - imageFilepath: stimuli/round_4_T3.jpg
+            - imageFilepath: stimuli/round_4_T8.jpg
+            - imageFilepath: stimuli/round_4_T1.jpg
+            - imageFilepath: stimuli/round_4_T6.jpg
+            - imageFilepath: stimuli/round_4_T5.jpg
+            - imageFilepath: stimuli/round_4_T4.jpg
+
+  - name: nonschemaRound4
+    contentType: stages
+    # Round 4 reuses round-2 nonschema assets in its own recall order.
+    content:
+      - template: round
+        fields:
+          roundIndex: "4"
+          duration: 300
+          panelFilepath: stimuli/round_2_panel_N.jpg
+          numImages: "8"
+          recallImages:
+            - imageFilepath: stimuli/round_2_N7.jpg
+            - imageFilepath: stimuli/round_2_N2.jpg
+            - imageFilepath: stimuli/round_2_N3.jpg
+            - imageFilepath: stimuli/round_2_N8.jpg
+            - imageFilepath: stimuli/round_2_N1.jpg
+            - imageFilepath: stimuli/round_2_N6.jpg
+            - imageFilepath: stimuli/round_2_N5.jpg
+            - imageFilepath: stimuli/round_2_N4.jpg
+
   - name: exitSequence
     contentType: exitSteps
     # exit-survey sequence shared across all treatments
     content:
       - name: Discussion General
         elements:
-          - type: survey
-            surveyName: DiscussionGeneral
+          - template: discussion_general_questions
+            fields:
+              prefix: DiscussionGeneral
       - name: strategy
         elements:
           - type: prompt
@@ -149,10 +348,9 @@ templates:
           - type: submitButton
             buttonText: Submit
             name: "exit_played_before"
-      - name: Demographics
-        elements:
-          - type: survey
-            surveyName: Demographics
+      - template: demographics_exit
+        fields:
+          prefix: Demographics
 
 introSequences:
   - name: Default
@@ -201,647 +399,82 @@ introSequences:
                 value: "No"
 
 treatments:
+  # used in study 1 and study 2
   - name: schema
     playerCount: 2
+    compatibleIntroSequences: [Default]
     gameStages:
-      - template: round
-        fields:
-          roundIndex: "1a"
-          duration: 300
-          panelFilepath: stimuli/round_1a_panel_S.jpg
-          numImages: "2"
-          recallImages: # 2 images to recall: PBY, OBY
-            - imageFilepath: stimuli/round_1_SPBY.jpg
-            - imageFilepath: stimuli/round_1_SOBY.jpg
-
-      - template: round
-        fields:
-          roundIndex: "1b"
-          duration: 300
-          panelFilepath: stimuli/round_1b_panel_S.jpg
-          numImages: "4"
-          recallImages: # 4 images to recall: PBY, ORY, OBY, PRY
-            - imageFilepath: stimuli/round_1_SPBY.jpg
-            - imageFilepath: stimuli/round_1_SORY.jpg
-            - imageFilepath: stimuli/round_1_SOBY.jpg
-            - imageFilepath: stimuli/round_1_SPRY.jpg
-
-      - template: round
-        fields:
-          roundIndex: "1c"
-          duration: 300
-          panelFilepath: stimuli/round_1c_panel_S.jpg
-          numImages: "8"
-          recallImages:
-            - imageFilepath: stimuli/round_1_SPBB.jpg
-            - imageFilepath: stimuli/round_1_SOBB.jpg
-            - imageFilepath: stimuli/round_1_SPRB.jpg
-            - imageFilepath: stimuli/round_1_SPBY.jpg
-            - imageFilepath: stimuli/round_1_SORY.jpg
-            - imageFilepath: stimuli/round_1_SOBY.jpg
-            - imageFilepath: stimuli/round_1_SORB.jpg
-            - imageFilepath: stimuli/round_1_SPRY.jpg
-
-      - template: round
-        fields:
-          roundIndex: "2"
-          duration: 300
-          panelFilepath: stimuli/round_2_panel_S.jpg
-          numImages: "8"
-          recallImages:
-            - imageFilepath: stimuli/round_2_SPRB.jpg
-            - imageFilepath: stimuli/round_2_SORY.jpg
-            - imageFilepath: stimuli/round_2_SORB.jpg
-            - imageFilepath: stimuli/round_2_SOBB.jpg
-            - imageFilepath: stimuli/round_2_SPBY.jpg
-            - imageFilepath: stimuli/round_2_SPRY.jpg
-            - imageFilepath: stimuli/round_2_SPBB.jpg
-            - imageFilepath: stimuli/round_2_SOBY.jpg
-
-      - template: round
-        fields:
-          roundIndex: "3"
-          duration: 300
-          panelFilepath: stimuli/round_3_panel.jpg
-          numImages: "8"
-          recallImages:
-            - imageFilepath: stimuli/round_3_SOBY.jpg
-            - imageFilepath: stimuli/round_3_SORB.jpg
-            - imageFilepath: stimuli/round_3_SORY.jpg
-            - imageFilepath: stimuli/round_3_SPRY.jpg
-            - imageFilepath: stimuli/round_3_SOBB.jpg
-            - imageFilepath: stimuli/round_3_SPBB.jpg
-            - imageFilepath: stimuli/round_3_SPBY.jpg
-            - imageFilepath: stimuli/round_3_SPRB.jpg
-
-      - template: round
-        fields:
-          roundIndex: "4"
-          duration: 300
-          panelFilepath: stimuli/round_4_panel_A.jpg
-          numImages: "8"
-          recallImages:
-            - imageFilepath: stimuli/round_4_SPBY4.jpg
-            - imageFilepath: stimuli/round_4_SPBY1.jpg
-            - imageFilepath: stimuli/round_4_SORB2.jpg
-            - imageFilepath: stimuli/round_4_SORB4.jpg
-            - imageFilepath: stimuli/round_4_SORB1.jpg
-            - imageFilepath: stimuli/round_4_SORB3.jpg
-            - imageFilepath: stimuli/round_4_SPBY3.jpg
-            - imageFilepath: stimuli/round_4_SPBY2.jpg
+      - template: schemaTraining
+      - template: commonRound3
+      - template: standardRound4
 
     exitSequence:
       - template: exitSequence
 
   - name: nonschema
     playerCount: 2
+    compatibleIntroSequences: [Default]
     gameStages:
-      - template: round
-        fields:
-          roundIndex: "1a"
-          duration: 300
-          panelFilepath: stimuli/round_1a_panel_N.jpg # 2-image panel
-          numImages: "2"
-          recallImages: # 2 image filepaths: N5, N1
-            - imageFilepath: stimuli/round_1_N5.jpg # matches the locations in the panel of the schema condition
-            - imageFilepath: stimuli/round_1_N1.jpg
-
-      - template: round
-        fields:
-          roundIndex: "1b"
-          duration: 300
-          panelFilepath: stimuli/round_1b_panel_N.jpg # 4-image panel
-          numImages: "4"
-          recallImages: # 4 image filepaths: N5, N4, N1, N8
-            - imageFilepath: stimuli/round_1_N5.jpg # matches the locations in the panel of the schema condition
-            - imageFilepath: stimuli/round_1_N4.jpg
-            - imageFilepath: stimuli/round_1_N1.jpg
-            - imageFilepath: stimuli/round_1_N8.jpg
-
-      - template: round
-        fields:
-          roundIndex: "1c"
-          duration: 300
-          panelFilepath: stimuli/round_1c_panel_N.jpg
-          numImages: "8"
-          recallImages:
-            - imageFilepath: stimuli/round_1_N6.jpg # matches the locations in the panel of the schema condition
-            - imageFilepath: stimuli/round_1_N2.jpg
-            - imageFilepath: stimuli/round_1_N7.jpg
-            - imageFilepath: stimuli/round_1_N5.jpg
-            - imageFilepath: stimuli/round_1_N4.jpg
-            - imageFilepath: stimuli/round_1_N1.jpg
-            - imageFilepath: stimuli/round_1_N3.jpg
-            - imageFilepath: stimuli/round_1_N8.jpg
-
-      - template: round
-        fields:
-          roundIndex: "2"
-          duration: 300
-          panelFilepath: stimuli/round_2_panel_N.jpg
-          numImages: "8"
-          recallImages:
-            - imageFilepath: stimuli/round_2_N1.jpg
-            - imageFilepath: stimuli/round_2_N7.jpg
-            - imageFilepath: stimuli/round_2_N8.jpg
-            - imageFilepath: stimuli/round_2_N2.jpg
-            - imageFilepath: stimuli/round_2_N4.jpg
-            - imageFilepath: stimuli/round_2_N5.jpg
-            - imageFilepath: stimuli/round_2_N6.jpg
-            - imageFilepath: stimuli/round_2_N3.jpg
-
-      - template: round
-        fields:
-          roundIndex: "3"
-          duration: 300
-          panelFilepath: stimuli/round_3_panel.jpg
-          numImages: "8"
-          recallImages:
-            - imageFilepath: stimuli/round_3_SOBY.jpg
-            - imageFilepath: stimuli/round_3_SORB.jpg
-            - imageFilepath: stimuli/round_3_SORY.jpg
-            - imageFilepath: stimuli/round_3_SPRY.jpg
-            - imageFilepath: stimuli/round_3_SOBB.jpg
-            - imageFilepath: stimuli/round_3_SPBB.jpg
-            - imageFilepath: stimuli/round_3_SPBY.jpg
-            - imageFilepath: stimuli/round_3_SPRB.jpg
-
-      - template: round
-        fields:
-          roundIndex: "4"
-          duration: 300 # consistent between 3 and 4 means that the rounds are comparable
-          panelFilepath: stimuli/round_4_panel_A.jpg
-          numImages: "8"
-          recallImages:
-            - imageFilepath: stimuli/round_4_SPBY4.jpg
-            - imageFilepath: stimuli/round_4_SPBY1.jpg
-            - imageFilepath: stimuli/round_4_SORB2.jpg
-            - imageFilepath: stimuli/round_4_SORB4.jpg
-            - imageFilepath: stimuli/round_4_SORB1.jpg
-            - imageFilepath: stimuli/round_4_SORB3.jpg
-            - imageFilepath: stimuli/round_4_SPBY3.jpg
-            - imageFilepath: stimuli/round_4_SPBY2.jpg
+      - template: nonschemaTraining
+      - template: commonRound3
+      - template: standardRound4
 
     exitSequence:
       - template: exitSequence
 
-  # Could add a template for the first 3 rounds of these treatments since the first 3 rounds are the same
+  # unused prototype
   - name: schema_black_and_white
     playerCount: 2
+    compatibleIntroSequences: [Default]
     gameStages:
-      - template: round
-        fields:
-          roundIndex: "1a"
-          duration: 300
-          panelFilepath: stimuli/round_1a_panel_S.jpg
-          numImages: "2"
-          recallImages: # 2 images to recall: PBY, OBY
-            - imageFilepath: stimuli/round_1_SPBY.jpg
-            - imageFilepath: stimuli/round_1_SOBY.jpg
-
-      - template: round
-        fields:
-          roundIndex: "1b"
-          duration: 300
-          panelFilepath: stimuli/round_1b_panel_S.jpg
-          numImages: "4"
-          recallImages: # 4 images to recall: PBY, ORY, OBY, PRY
-            - imageFilepath: stimuli/round_1_SPBY.jpg
-            - imageFilepath: stimuli/round_1_SORY.jpg
-            - imageFilepath: stimuli/round_1_SOBY.jpg
-            - imageFilepath: stimuli/round_1_SPRY.jpg
-
-      - template: round
-        fields:
-          roundIndex: "1c"
-          duration: 300
-          panelFilepath: stimuli/round_1c_panel_S.jpg
-          numImages: "8"
-          recallImages:
-            - imageFilepath: stimuli/round_1_SPBB.jpg
-            - imageFilepath: stimuli/round_1_SOBB.jpg
-            - imageFilepath: stimuli/round_1_SPRB.jpg
-            - imageFilepath: stimuli/round_1_SPBY.jpg
-            - imageFilepath: stimuli/round_1_SORY.jpg
-            - imageFilepath: stimuli/round_1_SOBY.jpg
-            - imageFilepath: stimuli/round_1_SORB.jpg
-            - imageFilepath: stimuli/round_1_SPRY.jpg
-
-      - template: round
-        fields:
-          roundIndex: "2"
-          duration: 300
-          panelFilepath: stimuli/round_2_panel_S.jpg
-          numImages: "8"
-          recallImages:
-            - imageFilepath: stimuli/round_2_SPRB.jpg
-            - imageFilepath: stimuli/round_2_SORY.jpg
-            - imageFilepath: stimuli/round_2_SORB.jpg
-            - imageFilepath: stimuli/round_2_SOBB.jpg
-            - imageFilepath: stimuli/round_2_SPBY.jpg
-            - imageFilepath: stimuli/round_2_SPRY.jpg
-            - imageFilepath: stimuli/round_2_SPBB.jpg
-            - imageFilepath: stimuli/round_2_SOBY.jpg
-
-      - template: round
-        fields:
-          roundIndex: "3"
-          duration: 300
-          panelFilepath: stimuli/round_3_panel.jpg
-          numImages: "8"
-          recallImages:
-            - imageFilepath: stimuli/round_3_SOBY.jpg
-            - imageFilepath: stimuli/round_3_SORB.jpg
-            - imageFilepath: stimuli/round_3_SORY.jpg
-            - imageFilepath: stimuli/round_3_SPRY.jpg
-            - imageFilepath: stimuli/round_3_SOBB.jpg
-            - imageFilepath: stimuli/round_3_SPBB.jpg
-            - imageFilepath: stimuli/round_3_SPBY.jpg
-            - imageFilepath: stimuli/round_3_SPRB.jpg
-
-      - template: round
-        fields:
-          roundIndex: "4"
-          duration: 300
-          panelFilepath: stimuli/round_4_panel_A_BW.jpg
-          numImages: "8"
-          recallImages:
-            - imageFilepath: stimuli/round_4_SPBY4_BW.jpg
-            - imageFilepath: stimuli/round_4_SPBY1_BW.jpg
-            - imageFilepath: stimuli/round_4_SORB2_BW.jpg
-            - imageFilepath: stimuli/round_4_SORB4_BW.jpg
-            - imageFilepath: stimuli/round_4_SORB1_BW.jpg
-            - imageFilepath: stimuli/round_4_SORB3_BW.jpg
-            - imageFilepath: stimuli/round_4_SPBY3_BW.jpg
-            - imageFilepath: stimuli/round_4_SPBY2_BW.jpg
+      - template: schemaTraining
+      - template: commonRound3
+      - template: blackAndWhiteRound4
 
     exitSequence:
       - template: exitSequence
 
   - name: schema_tangrams
     playerCount: 2
+    compatibleIntroSequences: [Default]
     gameStages:
-      - template: round
-        fields:
-          roundIndex: "1a"
-          duration: 300
-          panelFilepath: stimuli/round_1a_panel_S.jpg
-          numImages: "2"
-          recallImages: # 2 images to recall: PBY, OBY
-            - imageFilepath: stimuli/round_1_SPBY.jpg
-            - imageFilepath: stimuli/round_1_SOBY.jpg
-
-      - template: round
-        fields:
-          roundIndex: "1b"
-          duration: 300
-          panelFilepath: stimuli/round_1b_panel_S.jpg
-          numImages: "4"
-          recallImages: # 4 images to recall: PBY, ORY, OBY, PRY
-            - imageFilepath: stimuli/round_1_SPBY.jpg
-            - imageFilepath: stimuli/round_1_SORY.jpg
-            - imageFilepath: stimuli/round_1_SOBY.jpg
-            - imageFilepath: stimuli/round_1_SPRY.jpg
-
-      - template: round
-        fields:
-          roundIndex: "1c"
-          duration: 300
-          panelFilepath: stimuli/round_1c_panel_S.jpg
-          numImages: "8"
-          recallImages:
-            - imageFilepath: stimuli/round_1_SPBB.jpg
-            - imageFilepath: stimuli/round_1_SOBB.jpg
-            - imageFilepath: stimuli/round_1_SPRB.jpg
-            - imageFilepath: stimuli/round_1_SPBY.jpg
-            - imageFilepath: stimuli/round_1_SORY.jpg
-            - imageFilepath: stimuli/round_1_SOBY.jpg
-            - imageFilepath: stimuli/round_1_SORB.jpg
-            - imageFilepath: stimuli/round_1_SPRY.jpg
-
-      - template: round
-        fields:
-          roundIndex: "2"
-          duration: 300
-          panelFilepath: stimuli/round_2_panel_S.jpg
-          numImages: "8"
-          recallImages:
-            - imageFilepath: stimuli/round_2_SPRB.jpg
-            - imageFilepath: stimuli/round_2_SORY.jpg
-            - imageFilepath: stimuli/round_2_SORB.jpg
-            - imageFilepath: stimuli/round_2_SOBB.jpg
-            - imageFilepath: stimuli/round_2_SPBY.jpg
-            - imageFilepath: stimuli/round_2_SPRY.jpg
-            - imageFilepath: stimuli/round_2_SPBB.jpg
-            - imageFilepath: stimuli/round_2_SOBY.jpg
-
-      - template: round
-        fields:
-          roundIndex: "3"
-          duration: 300
-          panelFilepath: stimuli/round_3_panel.jpg
-          numImages: "8"
-          recallImages:
-            - imageFilepath: stimuli/round_3_SOBY.jpg
-            - imageFilepath: stimuli/round_3_SORB.jpg
-            - imageFilepath: stimuli/round_3_SORY.jpg
-            - imageFilepath: stimuli/round_3_SPRY.jpg
-            - imageFilepath: stimuli/round_3_SOBB.jpg
-            - imageFilepath: stimuli/round_3_SPBB.jpg
-            - imageFilepath: stimuli/round_3_SPBY.jpg
-            - imageFilepath: stimuli/round_3_SPRB.jpg
-
-      - template: round
-        fields:
-          roundIndex: "4"
-          duration: 300
-          panelFilepath: stimuli/round_4_panel_T.jpg
-          numImages: "8"
-          recallImages:
-            - imageFilepath: stimuli/round_4_T7.jpg
-            - imageFilepath: stimuli/round_4_T2.jpg
-            - imageFilepath: stimuli/round_4_T3.jpg
-            - imageFilepath: stimuli/round_4_T8.jpg
-            - imageFilepath: stimuli/round_4_T1.jpg
-            - imageFilepath: stimuli/round_4_T6.jpg
-            - imageFilepath: stimuli/round_4_T5.jpg
-            - imageFilepath: stimuli/round_4_T4.jpg
+      - template: schemaTraining
+      - template: commonRound3
+      - template: tangramRound4
 
     exitSequence:
       - template: exitSequence
 
   - name: schema_nonschema
     playerCount: 2
+    compatibleIntroSequences: [Default]
     gameStages:
-      - template: round
-        fields:
-          roundIndex: "1a"
-          duration: 300
-          panelFilepath: stimuli/round_1a_panel_S.jpg
-          numImages: "2"
-          recallImages: # 2 images to recall: PBY, OBY
-            - imageFilepath: stimuli/round_1_SPBY.jpg
-            - imageFilepath: stimuli/round_1_SOBY.jpg
-
-      - template: round
-        fields:
-          roundIndex: "1b"
-          duration: 300
-          panelFilepath: stimuli/round_1b_panel_S.jpg
-          numImages: "4"
-          recallImages: # 4 images to recall: PBY, ORY, OBY, PRY
-            - imageFilepath: stimuli/round_1_SPBY.jpg
-            - imageFilepath: stimuli/round_1_SORY.jpg
-            - imageFilepath: stimuli/round_1_SOBY.jpg
-            - imageFilepath: stimuli/round_1_SPRY.jpg
-
-      - template: round
-        fields:
-          roundIndex: "1c"
-          duration: 300
-          panelFilepath: stimuli/round_1c_panel_S.jpg
-          numImages: "8"
-          recallImages:
-            - imageFilepath: stimuli/round_1_SPBB.jpg
-            - imageFilepath: stimuli/round_1_SOBB.jpg
-            - imageFilepath: stimuli/round_1_SPRB.jpg
-            - imageFilepath: stimuli/round_1_SPBY.jpg
-            - imageFilepath: stimuli/round_1_SORY.jpg
-            - imageFilepath: stimuli/round_1_SOBY.jpg
-            - imageFilepath: stimuli/round_1_SORB.jpg
-            - imageFilepath: stimuli/round_1_SPRY.jpg
-
-      - template: round
-        fields:
-          roundIndex: "2"
-          duration: 300
-          panelFilepath: stimuli/round_2_panel_S.jpg
-          numImages: "8"
-          recallImages:
-            - imageFilepath: stimuli/round_2_SPRB.jpg
-            - imageFilepath: stimuli/round_2_SORY.jpg
-            - imageFilepath: stimuli/round_2_SORB.jpg
-            - imageFilepath: stimuli/round_2_SOBB.jpg
-            - imageFilepath: stimuli/round_2_SPBY.jpg
-            - imageFilepath: stimuli/round_2_SPRY.jpg
-            - imageFilepath: stimuli/round_2_SPBB.jpg
-            - imageFilepath: stimuli/round_2_SOBY.jpg
-
-      - template: round
-        fields:
-          roundIndex: "3"
-          duration: 300
-          panelFilepath: stimuli/round_3_panel.jpg
-          numImages: "8"
-          recallImages:
-            - imageFilepath: stimuli/round_3_SOBY.jpg
-            - imageFilepath: stimuli/round_3_SORB.jpg
-            - imageFilepath: stimuli/round_3_SORY.jpg
-            - imageFilepath: stimuli/round_3_SPRY.jpg
-            - imageFilepath: stimuli/round_3_SOBB.jpg
-            - imageFilepath: stimuli/round_3_SPBB.jpg
-            - imageFilepath: stimuli/round_3_SPBY.jpg
-            - imageFilepath: stimuli/round_3_SPRB.jpg
-
-      - template: round
-        fields:
-          roundIndex: "4"
-          duration: 300
-          panelFilepath: stimuli/round_2_panel_N.jpg
-          numImages: "8"
-          recallImages:
-            - imageFilepath: stimuli/round_2_N7.jpg
-            - imageFilepath: stimuli/round_2_N2.jpg
-            - imageFilepath: stimuli/round_2_N3.jpg
-            - imageFilepath: stimuli/round_2_N8.jpg
-            - imageFilepath: stimuli/round_2_N1.jpg
-            - imageFilepath: stimuli/round_2_N6.jpg
-            - imageFilepath: stimuli/round_2_N5.jpg
-            - imageFilepath: stimuli/round_2_N4.jpg
+      - template: schemaTraining
+      - template: commonRound3
+      - template: nonschemaRound4
 
     exitSequence:
       - template: exitSequence
 
   - name: nonschema_black_and_white
     playerCount: 2
+    compatibleIntroSequences: [Default]
     gameStages:
-      - template: round
-        fields:
-          roundIndex: "1a"
-          duration: 300
-          panelFilepath: stimuli/round_1a_panel_N.jpg # 2-image panel
-          numImages: "2"
-          recallImages: # 2 image filepaths: N5, N1
-            - imageFilepath: stimuli/round_1_N5.jpg # matches the locations in the panel of the schema condition
-            - imageFilepath: stimuli/round_1_N1.jpg
-
-      - template: round
-        fields:
-          roundIndex: "1b"
-          duration: 300
-          panelFilepath: stimuli/round_1b_panel_N.jpg # 4-image panel
-          numImages: "4"
-          recallImages: # 4 image filepaths: N5, N4, N1, N8
-            - imageFilepath: stimuli/round_1_N5.jpg # matches the locations in the panel of the schema condition
-            - imageFilepath: stimuli/round_1_N4.jpg
-            - imageFilepath: stimuli/round_1_N1.jpg
-            - imageFilepath: stimuli/round_1_N8.jpg
-
-      - template: round
-        fields:
-          roundIndex: "1c"
-          duration: 300
-          panelFilepath: stimuli/round_1c_panel_N.jpg
-          numImages: "8"
-          recallImages:
-            - imageFilepath: stimuli/round_1_N6.jpg # matches the locations in the panel of the schema condition
-            - imageFilepath: stimuli/round_1_N2.jpg
-            - imageFilepath: stimuli/round_1_N7.jpg
-            - imageFilepath: stimuli/round_1_N5.jpg
-            - imageFilepath: stimuli/round_1_N4.jpg
-            - imageFilepath: stimuli/round_1_N1.jpg
-            - imageFilepath: stimuli/round_1_N3.jpg
-            - imageFilepath: stimuli/round_1_N8.jpg
-
-      - template: round
-        fields:
-          roundIndex: "2"
-          duration: 300
-          panelFilepath: stimuli/round_2_panel_N.jpg
-          numImages: "8"
-          recallImages:
-            - imageFilepath: stimuli/round_2_N1.jpg
-            - imageFilepath: stimuli/round_2_N7.jpg
-            - imageFilepath: stimuli/round_2_N8.jpg
-            - imageFilepath: stimuli/round_2_N2.jpg
-            - imageFilepath: stimuli/round_2_N4.jpg
-            - imageFilepath: stimuli/round_2_N5.jpg
-            - imageFilepath: stimuli/round_2_N6.jpg
-            - imageFilepath: stimuli/round_2_N3.jpg
-
-      - template: round
-        fields:
-          roundIndex: "3"
-          duration: 300
-          panelFilepath: stimuli/round_3_panel.jpg
-          numImages: "8"
-          recallImages:
-            - imageFilepath: stimuli/round_3_SOBY.jpg
-            - imageFilepath: stimuli/round_3_SORB.jpg
-            - imageFilepath: stimuli/round_3_SORY.jpg
-            - imageFilepath: stimuli/round_3_SPRY.jpg
-            - imageFilepath: stimuli/round_3_SOBB.jpg
-            - imageFilepath: stimuli/round_3_SPBB.jpg
-            - imageFilepath: stimuli/round_3_SPBY.jpg
-            - imageFilepath: stimuli/round_3_SPRB.jpg
-
-      - template: round
-        fields:
-          roundIndex: "4"
-          duration: 300
-          panelFilepath: stimuli/round_4_panel_A_BW.jpg
-          numImages: "8"
-          recallImages:
-            - imageFilepath: stimuli/round_4_SPBY4_BW.jpg
-            - imageFilepath: stimuli/round_4_SPBY1_BW.jpg
-            - imageFilepath: stimuli/round_4_SORB2_BW.jpg
-            - imageFilepath: stimuli/round_4_SORB4_BW.jpg
-            - imageFilepath: stimuli/round_4_SORB1_BW.jpg
-            - imageFilepath: stimuli/round_4_SORB3_BW.jpg
-            - imageFilepath: stimuli/round_4_SPBY3_BW.jpg
-            - imageFilepath: stimuli/round_4_SPBY2_BW.jpg
+      - template: nonschemaTraining
+      - template: commonRound3
+      - template: blackAndWhiteRound4
 
     exitSequence:
       - template: exitSequence
 
+  # used in study 2
   - name: nonschema_tangrams
     playerCount: 2
+    compatibleIntroSequences: [Default]
     gameStages:
-      - template: round
-        fields:
-          roundIndex: "1a"
-          duration: 300
-          panelFilepath: stimuli/round_1a_panel_N.jpg # 2-image panel
-          numImages: "2"
-          recallImages: # 2 image filepaths: N5, N1
-            - imageFilepath: stimuli/round_1_N5.jpg # matches the locations in the panel of the schema condition
-            - imageFilepath: stimuli/round_1_N1.jpg
-
-      - template: round
-        fields:
-          roundIndex: "1b"
-          duration: 300
-          panelFilepath: stimuli/round_1b_panel_N.jpg # 4-image panel
-          numImages: "4"
-          recallImages: # 4 image filepaths: N5, N4, N1, N8
-            - imageFilepath: stimuli/round_1_N5.jpg # matches the locations in the panel of the schema condition
-            - imageFilepath: stimuli/round_1_N4.jpg
-            - imageFilepath: stimuli/round_1_N1.jpg
-            - imageFilepath: stimuli/round_1_N8.jpg
-
-      - template: round
-        fields:
-          roundIndex: "1c"
-          duration: 300
-          panelFilepath: stimuli/round_1c_panel_N.jpg
-          numImages: "8"
-          recallImages:
-            - imageFilepath: stimuli/round_1_N6.jpg # matches the locations in the panel of the schema condition
-            - imageFilepath: stimuli/round_1_N2.jpg
-            - imageFilepath: stimuli/round_1_N7.jpg
-            - imageFilepath: stimuli/round_1_N5.jpg
-            - imageFilepath: stimuli/round_1_N4.jpg
-            - imageFilepath: stimuli/round_1_N1.jpg
-            - imageFilepath: stimuli/round_1_N3.jpg
-            - imageFilepath: stimuli/round_1_N8.jpg
-
-      - template: round
-        fields:
-          roundIndex: "2"
-          duration: 300
-          panelFilepath: stimuli/round_2_panel_N.jpg
-          numImages: "8"
-          recallImages:
-            - imageFilepath: stimuli/round_2_N1.jpg
-            - imageFilepath: stimuli/round_2_N7.jpg
-            - imageFilepath: stimuli/round_2_N8.jpg
-            - imageFilepath: stimuli/round_2_N2.jpg
-            - imageFilepath: stimuli/round_2_N4.jpg
-            - imageFilepath: stimuli/round_2_N5.jpg
-            - imageFilepath: stimuli/round_2_N6.jpg
-            - imageFilepath: stimuli/round_2_N3.jpg
-
-      - template: round
-        fields:
-          roundIndex: "3"
-          duration: 300
-          panelFilepath: stimuli/round_3_panel.jpg
-          numImages: "8"
-          recallImages:
-            - imageFilepath: stimuli/round_3_SOBY.jpg
-            - imageFilepath: stimuli/round_3_SORB.jpg
-            - imageFilepath: stimuli/round_3_SORY.jpg
-            - imageFilepath: stimuli/round_3_SPRY.jpg
-            - imageFilepath: stimuli/round_3_SOBB.jpg
-            - imageFilepath: stimuli/round_3_SPBB.jpg
-            - imageFilepath: stimuli/round_3_SPBY.jpg
-            - imageFilepath: stimuli/round_3_SPRB.jpg
-
-      - template: round
-        fields:
-          roundIndex: "4"
-          duration: 300
-          panelFilepath: stimuli/round_4_panel_T.jpg
-          numImages: "8"
-          recallImages:
-            - imageFilepath: stimuli/round_4_T7.jpg
-            - imageFilepath: stimuli/round_4_T2.jpg
-            - imageFilepath: stimuli/round_4_T3.jpg
-            - imageFilepath: stimuli/round_4_T8.jpg
-            - imageFilepath: stimuli/round_4_T1.jpg
-            - imageFilepath: stimuli/round_4_T6.jpg
-            - imageFilepath: stimuli/round_4_T5.jpg
-            - imageFilepath: stimuli/round_4_T4.jpg
+      - template: nonschemaTraining
+      - template: commonRound3
+      - template: tangramRound4
 
     exitSequence:
       - template: exitSequence

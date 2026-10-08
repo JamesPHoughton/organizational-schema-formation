@@ -3,7 +3,7 @@ stagebook: "0.35"
 type: multipleChoice
 ---
 
-# Can you use a label for multiple images in the same round?
+# Are you of Hispanic, Latino, or Spanish origin?
 
 ---
 

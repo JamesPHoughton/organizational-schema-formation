@@ -1,4 +1,5 @@
 ---
+stagebook: "0.35"
 type: openResponse
 rows: 6
 ---
