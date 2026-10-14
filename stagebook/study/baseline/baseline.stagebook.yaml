@@ -251,26 +251,6 @@ templates:
             - imageFilepath: stimuli/round_4_SPBY3.jpg
             - imageFilepath: stimuli/round_4_SPBY2.jpg
 
-  - name: blackAndWhiteRound4
-    contentType: stages
-    # Black-and-white round-4 images.
-    content:
-      - template: round
-        fields:
-          roundIndex: "4"
-          duration: 300
-          panelFilepath: stimuli/round_4_panel_A_BW.jpg
-          numImages: "8"
-          recallImages:
-            - imageFilepath: stimuli/round_4_SPBY4_BW.jpg
-            - imageFilepath: stimuli/round_4_SPBY1_BW.jpg
-            - imageFilepath: stimuli/round_4_SORB2_BW.jpg
-            - imageFilepath: stimuli/round_4_SORB4_BW.jpg
-            - imageFilepath: stimuli/round_4_SORB1_BW.jpg
-            - imageFilepath: stimuli/round_4_SORB3_BW.jpg
-            - imageFilepath: stimuli/round_4_SPBY3_BW.jpg
-            - imageFilepath: stimuli/round_4_SPBY2_BW.jpg
-
   - name: tangramRound4
     contentType: stages
     # Tangram round-4 images.
@@ -290,26 +270,6 @@ templates:
             - imageFilepath: stimuli/round_4_T6.jpg
             - imageFilepath: stimuli/round_4_T5.jpg
             - imageFilepath: stimuli/round_4_T4.jpg
-
-  - name: nonschemaRound4
-    contentType: stages
-    # Round 4 reuses round-2 nonschema assets in its own recall order.
-    content:
-      - template: round
-        fields:
-          roundIndex: "4"
-          duration: 300
-          panelFilepath: stimuli/round_2_panel_N.jpg
-          numImages: "8"
-          recallImages:
-            - imageFilepath: stimuli/round_2_N7.jpg
-            - imageFilepath: stimuli/round_2_N2.jpg
-            - imageFilepath: stimuli/round_2_N3.jpg
-            - imageFilepath: stimuli/round_2_N8.jpg
-            - imageFilepath: stimuli/round_2_N1.jpg
-            - imageFilepath: stimuli/round_2_N6.jpg
-            - imageFilepath: stimuli/round_2_N5.jpg
-            - imageFilepath: stimuli/round_2_N4.jpg
 
   - name: exitSequence
     contentType: exitSteps
@@ -422,14 +382,14 @@ treatments:
     exitSequence:
       - template: exitSequence
 
-  # unused prototype
-  - name: schema_black_and_white
+  # used in study 2 only
+  - name: nonschema_tangrams
     playerCount: 2
     compatibleIntroSequences: [Default]
     gameStages:
-      - template: schemaTraining
+      - template: nonschemaTraining
       - template: commonRound3
-      - template: blackAndWhiteRound4
+      - template: tangramRound4
 
     exitSequence:
       - template: exitSequence
@@ -439,40 +399,6 @@ treatments:
     compatibleIntroSequences: [Default]
     gameStages:
       - template: schemaTraining
-      - template: commonRound3
-      - template: tangramRound4
-
-    exitSequence:
-      - template: exitSequence
-
-  - name: schema_nonschema
-    playerCount: 2
-    compatibleIntroSequences: [Default]
-    gameStages:
-      - template: schemaTraining
-      - template: commonRound3
-      - template: nonschemaRound4
-
-    exitSequence:
-      - template: exitSequence
-
-  - name: nonschema_black_and_white
-    playerCount: 2
-    compatibleIntroSequences: [Default]
-    gameStages:
-      - template: nonschemaTraining
-      - template: commonRound3
-      - template: blackAndWhiteRound4
-
-    exitSequence:
-      - template: exitSequence
-
-  # used in study 2
-  - name: nonschema_tangrams
-    playerCount: 2
-    compatibleIntroSequences: [Default]
-    gameStages:
-      - template: nonschemaTraining
       - template: commonRound3
       - template: tangramRound4
 
