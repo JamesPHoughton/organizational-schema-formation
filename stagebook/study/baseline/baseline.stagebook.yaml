@@ -12,6 +12,10 @@ templates:
     content:
       - name: recall_${roundIndex}_${recallIndex}
         duration: 30
+        notes: >-
+          Participants answer independently, without the shared labeling editor
+          or video discussion. Successful recall requires both participants to
+          retain the same image–label associations.
         elements:
           - type: image
             file: ${imageFilepath}
@@ -64,6 +68,7 @@ templates:
 
       - name: "Discussion ${roundIndex}"
         duration: ${duration}
+        notes: ${discussionNotes}
         discussion:
           chatType: video
           showNickname: true
@@ -82,6 +87,9 @@ templates:
 
       - name: "confidence_${roundIndex}"
         duration: 30
+        notes: >-
+          Asked after labeling but before recall and feedback, to capture
+          expected recall success.
         elements:
           - type: prompt
             file: game/confidence.prompt.md
@@ -103,6 +111,13 @@ templates:
         fields:
           roundIndex: "1a"
           duration: 300
+          discussionNotes: |-
+            Round 1 introduces the task progressively: first 2 images, then 4,
+            then 8. Both training conditions follow this progression.
+
+            Recurring hat, arm, and foot colors support compact labels built
+            from a consistent rule. Groups can carry that rule into subsequent
+            rounds.
           panelFilepath: stimuli/round_1a_panel_S.jpg
           numImages: "2"
           recallImages: # 2 images to recall: PBY, OBY
@@ -113,6 +128,10 @@ templates:
         fields:
           roundIndex: "1b"
           duration: 300
+          discussionNotes: >-
+            Recurring hat, arm, and foot colors support compact labels built
+            from a consistent rule. Groups can carry that rule into subsequent
+            rounds.
           panelFilepath: stimuli/round_1b_panel_S.jpg
           numImages: "4"
           recallImages: # 4 images to recall: PBY, ORY, OBY, PRY
@@ -125,6 +144,10 @@ templates:
         fields:
           roundIndex: "1c"
           duration: 300
+          discussionNotes: >-
+            Recurring hat, arm, and foot colors support compact labels built
+            from a consistent rule. Groups can carry that rule into subsequent
+            rounds.
           panelFilepath: stimuli/round_1c_panel_S.jpg
           numImages: "8"
           recallImages:
@@ -141,6 +164,10 @@ templates:
         fields:
           roundIndex: "2"
           duration: 300
+          discussionNotes: >-
+            Recurring hat, arm, and foot colors support compact labels built
+            from a consistent rule. Groups can carry that rule into subsequent
+            rounds.
           panelFilepath: stimuli/round_2_panel_S.jpg
           numImages: "8"
           recallImages:
@@ -161,6 +188,12 @@ templates:
         fields:
           roundIndex: "1a"
           duration: 300
+          discussionNotes: |-
+            Round 1 introduces the task progressively: first 2 images, then 4,
+            then 8. Both training conditions follow this progression.
+
+            Varied figures encourage individual descriptive names, with less
+            opportunity to reuse one consistent naming rule.
           panelFilepath: stimuli/round_1a_panel_N.jpg # 2-image panel
           numImages: "2"
           recallImages: # 2 image filepaths: N5, N1
@@ -171,6 +204,9 @@ templates:
         fields:
           roundIndex: "1b"
           duration: 300
+          discussionNotes: >-
+            Varied figures encourage individual descriptive names, with less
+            opportunity to reuse one consistent naming rule.
           panelFilepath: stimuli/round_1b_panel_N.jpg # 4-image panel
           numImages: "4"
           recallImages: # 4 image filepaths: N5, N4, N1, N8
@@ -183,6 +219,9 @@ templates:
         fields:
           roundIndex: "1c"
           duration: 300
+          discussionNotes: >-
+            Varied figures encourage individual descriptive names, with less
+            opportunity to reuse one consistent naming rule.
           panelFilepath: stimuli/round_1c_panel_N.jpg
           numImages: "8"
           recallImages:
@@ -199,6 +238,9 @@ templates:
         fields:
           roundIndex: "2"
           duration: 300
+          discussionNotes: >-
+            Varied figures encourage individual descriptive names, with less
+            opportunity to reuse one consistent naming rule.
           panelFilepath: stimuli/round_2_panel_N.jpg
           numImages: "8"
           recallImages:
@@ -219,6 +261,10 @@ templates:
         fields:
           roundIndex: "3"
           duration: 300
+          discussionNotes: >-
+            Every condition encounters the same images here. The earlier
+            color-based schema remains useful, allowing us to compare groups
+            with different training histories on an identical task.
           panelFilepath: stimuli/round_3_panel.jpg
           numImages: "8"
           recallImages:
@@ -239,6 +285,10 @@ templates:
         fields:
           roundIndex: "4"
           duration: 300 # consistent between 3 and 4 means that the rounds are comparable
+          discussionNotes: >-
+            Notice that familiar color combinations now repeat across different
+            figures. The old naming rule still looks applicable but cannot
+            uniquely distinguish all the images.
           panelFilepath: stimuli/round_4_panel_A.jpg
           numImages: "8"
           recallImages:
@@ -259,6 +309,10 @@ templates:
         fields:
           roundIndex: "4"
           duration: 300
+          discussionNotes: >-
+            Removing color makes the earlier color-based rule visibly
+            inapplicable. Groups can still develop a new schema using other
+            features. This is the additional comparison introduced in Study 2.
           panelFilepath: stimuli/round_4_panel_T.jpg
           numImages: "8"
           recallImages:
@@ -281,6 +335,9 @@ templates:
             fields:
               prefix: DiscussionGeneral
       - name: strategy
+        notes: >-
+          Collects participants' retrospective accounts of how they chose and
+          changed their naming strategy.
         elements:
           - type: prompt
             file: exit/strategy_describe.prompt.md
@@ -316,6 +373,10 @@ introSequences:
   - name: Default
     introSteps:
       - name: Instructions Page
+        notes: >-
+          All conditions receive the same instructions. Participants are not
+          taught a naming strategy; the manipulation is in the images they
+          encounter.
         elements:
           - type: prompt
             file: intro/instructions.prompt.md
