@@ -28,11 +28,6 @@ templates:
 
       - name: "feedback_${roundIndex}_${recallIndex}"
         duration: 15
-        notes: >-
-          This screen checks whether both participants supplied matching,
-          nonblank labels. It does not compare answers with the shared notepad
-          or check reuse across images. The analysis separately counts distinct
-          matched labels within each round.
         elements:
           - type: image
             file: ${imageFilepath}
