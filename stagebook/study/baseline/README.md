@@ -5,20 +5,16 @@ Study 1 and Study 2 into **Stagebook 0.35 syntax**, to make the studies easier t
 replicate on the current platform. The aim is an exact translation of the
 implemented manipulation: the original two-person conditions, stimuli and their
 order, configured timing, instructions, comprehension flow, and recall-feedback
-rules are preserved. Future changes to the study design belong in a separate
-project.
+rules are preserved.
 
 The entry point is [baseline.stagebook.yaml](baseline.stagebook.yaml). Keep its
 relative prompt and image files alongside it, use the `Default` intro sequence,
 and select the treatments used by the study being replicated:
 
-| Study | Treatment names | Players per group |
-| --- | --- | --- |
-| Study 1 | `schema`, `nonschema` | 2 |
-| Study 2 | `schema`, `nonschema`, `schema_tangrams`, `nonschema_tangrams` | 2 |
-
-The additional two-person treatments are retained from the original source;
-they were not selected for these two studies.
+| Study   | Treatment names                                                | Players per group |
+| ------- | -------------------------------------------------------------- | ----------------- |
+| Study 1 | `schema`, `nonschema`                                          | 2                 |
+| Study 2 | `schema`, `nonschema`, `schema_tangrams`, `nonschema_tangrams` | 2                 |
 
 The original studies ran from the following files in
 **Watts-Lab/deliberation-assets**. These source links are pinned to commit

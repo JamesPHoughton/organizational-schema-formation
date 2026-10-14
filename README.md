@@ -95,6 +95,12 @@ across four rounds. In each round:
 The exact task flow (stages, timing, instructions, comprehension checks, recall
 and feedback screens, exit surveys) is defined in
 [`stagebook/study/baseline/baseline.stagebook.yaml`](stagebook/study/baseline/baseline.stagebook.yaml).
+
+You can [walk through the study in the Stagebook Viewer](https://talkbench.github.io/stagebook/viewer/?url=https%3A%2F%2Fgithub.com%2FJamesPHoughton%2Forganizational-schema-formation%2Fblob%2Fmain%2Fstagebook%2Fstudy%2Fbaseline%2Fbaseline.stagebook.yaml).
+Select a treatment and click **View**, then use the arrows or stage menu to browse
+the participant screens. The top-left menu also lets you preview the **Default**
+introduction. Live video and shared editing are represented by placeholders.
+
 The game proceeds through four rounds, with round 1 revealed progressively (2,
 then 4, then 8 images) to acclimate participants to the interface:
 
