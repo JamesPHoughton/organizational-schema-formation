@@ -128,7 +128,7 @@ templates:
         fields:
           roundIndex: "1b"
           duration: 300
-          discussionNotes: &schemaTrainingNotes >-
+          discussionNotes: >-
             Recurring hat, arm, and foot colors support compact labels built
             from a consistent rule. Groups can carry that rule into subsequent
             rounds.
@@ -144,7 +144,10 @@ templates:
         fields:
           roundIndex: "1c"
           duration: 300
-          discussionNotes: *schemaTrainingNotes
+          discussionNotes: >-
+            Recurring hat, arm, and foot colors support compact labels built
+            from a consistent rule. Groups can carry that rule into subsequent
+            rounds.
           panelFilepath: stimuli/round_1c_panel_S.jpg
           numImages: "8"
           recallImages:
@@ -161,7 +164,10 @@ templates:
         fields:
           roundIndex: "2"
           duration: 300
-          discussionNotes: *schemaTrainingNotes
+          discussionNotes: >-
+            Recurring hat, arm, and foot colors support compact labels built
+            from a consistent rule. Groups can carry that rule into subsequent
+            rounds.
           panelFilepath: stimuli/round_2_panel_S.jpg
           numImages: "8"
           recallImages:
@@ -198,7 +204,7 @@ templates:
         fields:
           roundIndex: "1b"
           duration: 300
-          discussionNotes: &nonschemaTrainingNotes >-
+          discussionNotes: >-
             Varied figures encourage individual descriptive names, with less
             opportunity to reuse one consistent naming rule.
           panelFilepath: stimuli/round_1b_panel_N.jpg # 4-image panel
@@ -213,7 +219,9 @@ templates:
         fields:
           roundIndex: "1c"
           duration: 300
-          discussionNotes: *nonschemaTrainingNotes
+          discussionNotes: >-
+            Varied figures encourage individual descriptive names, with less
+            opportunity to reuse one consistent naming rule.
           panelFilepath: stimuli/round_1c_panel_N.jpg
           numImages: "8"
           recallImages:
@@ -230,7 +238,9 @@ templates:
         fields:
           roundIndex: "2"
           duration: 300
-          discussionNotes: *nonschemaTrainingNotes
+          discussionNotes: >-
+            Varied figures encourage individual descriptive names, with less
+            opportunity to reuse one consistent naming rule.
           panelFilepath: stimuli/round_2_panel_N.jpg
           numImages: "8"
           recallImages:
